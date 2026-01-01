@@ -1,1 +1,190 @@
-
+{
+  "modules": [
+    {
+      "id": "verkehrsverhalten",
+      "name": "Verkehrsverhalten",
+      "icon": "🚗",
+      "lektionen": [
+        {
+          "id": "verkehrsverhalten_1767199888825",
+          "titel": "",
+          "dauer": 90,
+          "pruefungsrelevant": false,
+          "status_justin": false,
+          "status_dozent": false,
+          "lernziele": [
+            ""
+          ],
+          "inhalt_anwaerter": "",
+          "beispiele": [
+            ""
+          ],
+          "inhalt_dozent": "",
+          "unterrichtsentwurf": "",
+          "didaktik": "",
+          "pruefungsfragen": [
+            {
+              "frage": "",
+              "antwort": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recht",
+      "name": "Recht",
+      "icon": "⚖️",
+      "lektionen": [
+        {
+          "id": "recht_1767307461037",
+          "titel": "",
+          "dauer": 90,
+          "pruefungsrelevant": false,
+          "status_justin": false,
+          "status_dozent": false,
+          "lernziele": [
+            ""
+          ],
+          "inhalt_anwaerter": "",
+          "beispiele": [
+            ""
+          ],
+          "inhalt_dozent": "",
+          "unterrichtsentwurf": "",
+          "didaktik": "",
+          "pruefungsfragen": [
+            {
+              "frage": "",
+              "antwort": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technik",
+      "name": "Technik",
+      "icon": "🔧",
+      "lektionen": [
+        {
+          "id": "technik_1767307464909",
+          "titel": "",
+          "dauer": 90,
+          "pruefungsrelevant": false,
+          "status_justin": false,
+          "status_dozent": false,
+          "lernziele": [
+            ""
+          ],
+          "inhalt_anwaerter": "",
+          "beispiele": [
+            ""
+          ],
+          "inhalt_dozent": "",
+          "unterrichtsentwurf": "",
+          "didaktik": "",
+          "pruefungsfragen": [
+            {
+              "frage": "",
+              "antwort": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ausbilden",
+      "name": "Didaktik & Methodik",
+      "icon": "👨‍🏫",
+      "lektionen": [
+        {
+          "id": "ausbilden_1767307466380",
+          "titel": "",
+          "dauer": 90,
+          "pruefungsrelevant": false,
+          "status_justin": false,
+          "status_dozent": false,
+          "lernziele": [
+            ""
+          ],
+          "inhalt_anwaerter": "",
+          "beispiele": [
+            ""
+          ],
+          "inhalt_dozent": "",
+          "unterrichtsentwurf": "",
+          "didaktik": "",
+          "pruefungsfragen": [
+            {
+              "frage": "",
+              "antwort": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "erziehen",
+      "name": "Pädagogische Psychologie",
+      "icon": "🌱",
+      "lektionen": [
+        {
+          "id": "erziehen_1767307467336",
+          "titel": "",
+          "dauer": 90,
+          "pruefungsrelevant": false,
+          "status_justin": false,
+          "status_dozent": false,
+          "lernziele": [
+            ""
+          ],
+          "inhalt_anwaerter": "",
+          "beispiele": [
+            ""
+          ],
+          "inhalt_dozent": "",
+          "unterrichtsentwurf": "",
+          "didaktik": "",
+          "pruefungsfragen": [
+            {
+              "frage": "",
+              "antwort": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beurteilen",
+      "name": "Leistungsbeurteilung",
+      "icon": "📊",
+      "lektionen": [
+        {
+          "id": "beurteilen_1767307468314",
+          "titel": "",
+          "dauer": 90,
+          "pruefungsrelevant": false,
+          "status_justin": false,
+          "status_dozent": false,
+          "lernziele": [
+            ""
+          ],
+          "inhalt_anwaerter": "",
+          "beispiele": [
+            ""
+          ],
+          "inhalt_dozent": "",
+          "unterrichtsentwurf": "",
+          "didaktik": "",
+          "pruefungsfragen": [
+            {
+              "frage": "",
+              "antwort": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
