@@ -1040,16 +1040,16 @@ module.forEach(modul => {
 - **GitHub Personal Tokens:** https://github.com/settings/tokens
 - **GitHub Docs:** https://docs.github.com
 - **HTML Validator:** https://validator.w3.org/
-- **FL Mastery App:** [URL zur App]
+- **FL Mastery App:** 
 
 ---
 
 ## 📞 SUPPORT
 
 Bei Fragen oder Problemen:
-- 📧 Email: justin@fl-mastery.app
+- 📧 Email:
 - 💬 Slack: #fl-academy-editor
-- 📱 WhatsApp: [Nummer]
+- 📱 WhatsApp: 
 
 ---
 
@@ -1073,7 +1073,6 @@ Bei Fragen oder Problemen:
 ## 👥 MITWIRKENDE
 
 - **Justin Lee** - Hauptentwickler & Content-Creator
-- **Verkehrsinstitut Schielein** - Dozenten-Team
 - **FL-BE_07/25** - Testgruppe & Feedback
 
 ---
