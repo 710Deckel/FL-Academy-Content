@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-02T11:29:09.238Z">
+    <meta name="last-updated" content="2026-01-02T11:29:19.939Z">
 </head>
 <body>
     <div id="academy-data">
@@ -324,6 +324,35 @@ Lösung: Ladung IMMER sichern! Zurrgurte, Netze, Antirutschmatten verwenden.</di
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Nennen Sie die 4 wichtigsten Kräfte beim Fahren und erklären Sie diese kurz.<br>Antwort: 1. Gewichtskraft: Wirkt senkrecht nach unten, bestimmt Achslasten. 2. Fliehkraft: Wirkt in Kurven nach außen, vervierfacht sich bei Geschwindigkeitsverdopplung. 3. Trägheit: Widerstand gegen Geschwindigkeitsänderung, verursacht Achslastverlagerung beim Bremsen/Beschleunigen. 4. Seitenführungskraft: Hält Fahrzeug in der Kurve, abhängig von Haftung.<br><br>Frage 2: Was besagt der Kammsche Kreis und welche praktische Konsequenz ergibt sich daraus?<br>Antwort: Der Kammsche Kreis zeigt, dass die Haftung zwischen Reifen und Fahrbahn begrenzt ist und sich auf Längs- und Querkräfte aufteilen muss. Konsequenz: In Kurven (Querkraft) kann nicht so stark gebremst werden (Längskraft) wie auf gerader Strecke, weil sonst die maximale Haftung überschritten wird und das Fahrzeug ausbricht.<br><br>Frage 3: Wie verhält sich die Fliehkraft bei Geschwindigkeitsverdopplung?<br>Antwort: Die Fliehkraft vervierfacht sich! Formel: F = (m × v²) / r. Da die Geschwindigkeit quadratisch eingeht, führt eine Verdopplung der Geschwindigkeit (2v)² = 4v² zu einer Vervierfachung der Fliehkraft. Beispiel: 50 km/h = 1000 N, 100 km/h = 4000 N.<br><br>Frage 4: Was ist Aquaplaning, woran erkennen Sie es und wie verhalten Sie sich richtig?<br>Antwort: Aquaplaning = Aufschwimmen des Reifens auf Wasser, Verlust des Bodenkontakts. Erkennen: Gischt an Rädern, lauteres Rauschen, schwächer werdendes Lenkrad, schwankende Drehzahl. Richtiges Verhalten: NICHT lenken, NICHT bremsen, NICHT beschleunigen. Auskuppeln, Lenkrad gerade halten, warten bis Reifen wieder greifen. Vorbeugung: Tempo unter 80 km/h bei Nässe, mind. 3,5 mm Profil.<br><br>Frage 5: Welche Mindeststützlast gilt für Anhänger und warum ist diese so wichtig?<br>Antwort: Mindeststützlast: 4% des tatsächlichen Gesamtgewichts (mindestens 25 kg). Wichtig: Zu geringe Stützlast führt zu Schlingern des Anhängers, weil der Schwerpunkt zu weit hinten liegt. Die Stützlast sollte zwischen 4% und 10% liegen - nicht zu wenig (Schlingern) und nicht zu viel (Zugfahrzeug wird überlastet).<br><br>Frage 6: Nennen Sie die 5 Voraussetzungen für Tempo 100 mit Anhänger.<br>Antwort: 1. Zugfahrzeug mit ABS ausgestattet, 2. Zul. Gesamtmasse Anhänger ≤ X × Leermasse Zugfahrzeug (X je nach Anhängertyp 0,3 bis 1,2), 3. Anhänger mit hydraulischen Schwingungsdämpfern, 4. Reifen des Anhängers jünger als 6 Jahre, 5. Mindestens Geschwindigkeitskategorie L (120 km/h).<br><br>Frage 7: Was besagt §22 StVO zur Ladungssicherung?<br>Antwort: "Die Ladung ist so zu verstauen und zu sichern, dass sie selbst bei Vollbremsung oder plötzlicher Ausweichbewegung nicht verrutschen, umfallen, hin- und herrollen, herabfallen oder vermeidbaren Lärm erzeugen kann." Praktisch: Ladung muss gegen alle Richtungen gesichert sein (Zurrgurte, Netze, Antirutschmatten). Bei Vollbremsung wirkt 10-fache Gewichtskraft!</div>
                     </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767353356573" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3></h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel"></div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt"></div>
+                    
+
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+
+
 
                 </div>
             </div>
