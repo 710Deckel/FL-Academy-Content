@@ -6,10 +6,69 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-02T05:47:56.657Z">
+    <meta name="last-updated" content="2026-01-02T05:54:19.974Z">
 </head>
 <body>
     <div id="academy-data">
+
+        <!-- ============================================ -->
+        <!-- MODUL: DIDAKTIK & METHODIK -->
+        <!-- ============================================ -->
+        <div class="modul" data-id="ausbilden" data-icon="👨‍🏫">
+            <h2>Didaktik & Methodik</h2>
+
+            <div class="lektion" 
+                 data-id="ausbilden_1767333187253" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Unterrichtsaufbau &amp; Didaktik in der Fahrlehrerausbildung</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Die Struktur einer Theoriestunde (HEL-Prinzip) erklären und anwenden können</div>
+                    <div class="lernziel">Die drei Phasen einer praktischen Fahrstunde (VOR-SCHULUNG-NACH) strukturiert durchführen können</div>
+                    <div class="lernziel">Konstruktives Feedback nach dem WWW-Prinzip (Wahrnehmung-Wirkung-Wunsch) geben können</div>
+                    <div class="lernziel">Die Bedeutung der Vorbesprechung für die Gefahrenvermeidung verstehen und umsetzen können</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">AUFBAU EINER THEORIESTUNDE<br>Das HEL-Prinzip:<br>H = Hinführung zum Thema<br>Du holst die Fahrschüler dort ab, wo sie stehen. Stelle eine Einstiegsfrage, zeige ein Bild oder erzähle eine kurze Geschichte aus dem Fahrschulalltag. Ziel: Interesse wecken und Vorwissen aktivieren.<br>E = Erschließung des Unterrichtsgegenstandes<br>Jetzt erarbeitest du gemeinsam mit den Fahrschülern das Thema. Nutze verschiedene Methoden: Gruppenarbeit, Diskussion, Beispiele. Die Fahrschüler sollen selbst denken und Zusammenhänge erkennen.<br>L = Lernzielkontrolle<br>Am Ende prüfst du, ob die Lernziele erreicht wurden. Das kann durch Fragen, kleine Übungen oder eine kurze Zusammenfassung geschehen.<br><br>AUFBAU EINER PRAKTISCHEN FAHRSTUNDE<br>Das VOR-SCHULUNG-NACH-Prinzip:<br><br>VORBESPRECHUNG (Die Begrüßung)<br><br>Warum so wichtig?<br>Nur wenn du weißt, wie es deinem Fahrschüler geht, kannst du die Fahrstunde sinnvoll planen. Ein gestresster oder müder Fahrschüler braucht andere Übungen als ein ausgeruhter.<br>Was gehört dazu?<br><br>Persönliches Befinden erfragen: "Wie geht's dir heute? Wie war dein Tag?" (Keine Floskel - wirklich interessieren!)<br>Ziel der Fahrstunde festlegen: "Heute üben wir Vorwärts-Einparken"<br>Weitere Punkte besprechen: Strecke, Zeit, Anknüpfung an letzte Stunde<br>ADK nutzen: Ausbildungsdiagrammkarte zur Dokumentation<br><br>Merke: Wer die Vorbesprechung überspringt, hat in der Prüfung kaum eine Chance!<br><br>SCHULUNGSFAHRT<br><br>Drei Phasen beim Üben:<br>Anschaulich erklären<br>Zeige und erkläre die neue Aufgabe deutlich. Der Fahrschüler soll verstehen, WARUM er etwas macht.<br>Genau anleiten<br>Gib vollständige und klare Anweisungen. Der Fahrschüler führt aus, was du sagst.<br>Mit abnehmender Hilfe üben<br>Reduziere schrittweise deine Hilfestellungen. Der Fahrschüler soll selbstständiger werden.<br><br>NACHBESPRECHUNG<br><br>Die richtige Reihenfolge:<br><br>Fahrschüler spricht zuerst: "Wie fandest du die Fahrstunde?"<br><br>Fördert Selbstreflexion<br>Zeigt dir, wie realistisch die Selbsteinschätzung ist<br><br><br>Fahrlehrer gibt Feedback: Nutze das WWW-Prinzip (siehe unten)<br>Ziele überprüfen: "Haben wir erreicht, was wir wollten?"<br>Ausblick geben: "Nächstes Mal üben wir..."<br>In ADK eintragen: Dokumentation nicht vergessen<br><br><br>FEEDBACK RICHTIG GEBEN - DAS WWW-PRINZIP<br>Wahrnehmung - Wirkung - Wunsch<br>Wahrnehmung (Positiver Beginn!)<br>Formulierungen:<br><br>"Ich habe wahrgenommen..."<br>"Mir ist positiv aufgefallen..."<br>"Ich habe bemerkt..."<br><br>Beispiel: "Ich habe wahrgenommen, dass du innerorts die 50 km/h gut eingehalten hast."<br>Wirkung (Kritik sachlich äußern)<br>Formulierungen:<br><br>"Auf mich hat es gewirkt..."<br>"Mir ist aufgefallen..."<br>"Ich habe den Eindruck..."<br><br>Beispiel: "Auf mich hat es gewirkt, als würde die Schaltung vom 1. in den 2. Gang noch nicht ganz ideal sein."<br>Wunsch (Konstruktive Verbesserung)<br>Formulierungen:<br><br>"Ich könnte mir vorstellen..."<br>"Ich hätte folgenden Tipp..."<br>"Versuche es mal so..."<br><br>Beispiel: "Ich könnte mir vorstellen, dass du die Kupplung komplett durchdrücken musst."<br><br>VIER FEEDBACK-STUFEN<br>✅ Bekräftigen - "Mir ist positiv aufgefallen..."<br>⚠️ Ermahnen - "Achte bitte darauf..."<br>❌ Kritisieren - "Es scheint mir..."<br>🔧 Korrigieren - "Ich schlage vor..."<br><br>FEEDBACK-GRUNDSÄTZE<br>⏱️ Zeitnah - Direkt nach dem Ereignis besprechen<br>🤝 Respektvoll - In Ich-Sätzen formulieren<br>📊 Sachlich - Keine Vorwürfe, sondern Beobachtungen<br>Ziel: Der Fahrschüler soll eine realistische Selbsteinschätzung entwickeln und psychomotorisch daran arbeiten können.</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">Beispiel 1: Vorbesprechung
+❌ Falsch: "Heute fahren wir. Steig ein."
+✅ Richtig: "Hallo Tim! Wie geht's dir? Wie war die Arbeit? Gut, dann lass uns heute das Rückwärts-Einparken üben. Letzte Woche haben wir ja schon Vorwärts-Einparken gemacht - daran knüpfen wir an."</div>
+                        <div class="beispiel">Beispiel 2: Feedback
+❌ Falsch: "Du kannst nicht schalten! Das war schlecht!"
+✅ Richtig: "Ich habe wahrgenommen, dass du die Kupplung beim Schalten nicht ganz durchgedrückt hast. Auf mich hat es gewirkt, als würdest du das Getriebe dadurch belasten. Ich hätte folgenden Tipp: Drücke die Kupplung immer vollständig durch, bevor du den Gang wechselst."</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br>Einstieg (15 Min):<br>Methode: Problemorientierter Einstieg mit Fallbeispiel<br>Ablauf: Video/Fallbeispiel zeigen: Fahrlehrer ohne Vorbesprechung, chaotische Fahrstunde. Impulsfrage: "Was ist hier schiefgelaufen?" Anwärter sammeln Probleme an Pinnwand.<br>Ziel: Notwendigkeit strukturierter Unterrichtsplanung erkennen<br>Hauptteil (60 Min):<br>Phase 1: HEL-Prinzip erarbeiten (15 Min) - Gruppenarbeit: Gruppen erarbeiten je einen Teil (H/E/L), Präsentation im Plenum, Dozent ergänzt und sichert<br>Phase 2: VOR-SCHULUNG-NACH praktisch üben (25 Min) - Rollenspiel in Tandems: Einer ist Fahrlehrer, einer Fahrschüler. Durchführung einer Mini-Vorbesprechung. Wechsel und Feedback.<br>Phase 3: WWW-Feedback-Methode (20 Min) - Dozent demonstriert Feedback-Beispiel. Anwärter formulieren eigene Feedback-Sätze zu Videoszenen. Gemeinsame Besprechung und Optimierung.<br>Schluss (15 Min):<br>Sicherung: Anwärter erstellen Merkkarte mit HEL, VOR-SCHULUNG-NACH, WWW. Blitzlicht-Runde: "Ein wichtigster Tipp, den ich mitnehme"<br>Ausblick: "Nächste Woche wenden wir das in der ersten Lehrprobe an". Hausaufgabe: Eigene Vorbesprechung schriftlich vorbereiten</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Anwärter unterschätzen oft die Vorbesprechung - immer wieder betonen: "Ohne Vorbesprechung keine Prüfung!"<br>Feedback-Formulierungen müssen geübt werden - Rollenspiele sind essentiell<br>ADK-Führung von Anfang an einfordern (später schwer nachzuholen)<br><br>Häufige Fehler der Anwärter:<br><br>Vorbesprechung als "Zeitverschwendung" sehen<br>Feedback zu allgemein ("War gut" / "War schlecht")<br>Kritik ohne konstruktiven Verbesserungsvorschlag<br>WWW-Prinzip nicht einhalten (erst kritisieren, dann loben)<br><br>Tipps &amp; Tricks:<br><br>Merksätze visualisieren: HEL-Plakat, WWW-Schema<br>Video-Feedback nutzen: Anwärter filmen und analysieren eigene Feedbacks<br>Positive Beispiele sammeln: "Best Practice" im Kurs teilen<br>Realitätscheck: Echte Fahrschüler in Übungsstunden einbinden</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Nennen Sie die drei Phasen einer Theoriestunde nach dem HEL-Prinzip und erklären Sie diese kurz.<br>Antwort: H = Hinführung: Einstieg ins Thema, Vorwissen aktivieren, Interesse wecken. E = Erschließung: Thema erarbeiten, Zusammenhänge herstellen, Inhalte vermitteln. L = Lernzielkontrolle: Überprüfen, ob Lernziele erreicht wurden.<br><br>Frage 2: Warum ist die Vorbesprechung in der praktischen Fahrstunde so wichtig? Nennen Sie mindestens zwei Gründe.<br>Antwort: 1. Gefahrenvermeidung: Erkennen, ob der Fahrschüler körperlich/geistig fit ist für die Fahrstunde. 2. Zielklarheit: Gemeinsame Festlegung, was heute geübt wird. 3. Anknüpfung: Bezug zur letzten Stunde herstellen für kontinuierliches Lernen. 4. Dokumentation: ADK-Eintragung vorbereiten.<br><br>Frage 3: Erklären Sie das WWW-Prinzip beim Feedback und geben Sie zu jedem W ein Beispiel.<br>Antwort: W = Wahrnehmung (was habe ich beobachtet?) Beispiel: "Ich habe wahrgenommen, dass du an der Ampel sanft angefahren bist." W = Wirkung (wie hat es auf mich gewirkt?) Beispiel: "Es hat auf mich gewirkt, als hättest du beim Abbiegen den Schulterblick vergessen." W = Wunsch (was wünsche ich mir / schlage vor?) Beispiel: "Ich hätte folgenden Tipp: Schaue vor jedem Abbiegen über die Schulter."<br><br>Frage 4: In welcher Reihenfolge sollte die Nachbesprechung einer Fahrstunde ablaufen?<br>Antwort: 1. Fahrschüler gibt zuerst seine Einschätzung ab (Selbstreflexion fördern). 2. Fahrlehrer gibt Feedback nach WWW-Prinzip. 3. Gemeinsame Überprüfung: Wurden die Ziele erreicht? 4. Ausblick auf nächste Fahrstunde. 5. Eintragung in die Ausbildungsdiagrammkarte (ADK).<br><br>Frage 5: Nennen Sie die drei Phasen beim Üben während der Schulungsfahrt.<br>Antwort: 1. Anschaulich erklären: Neue Aufgabe zeigen und erläutern. 2. Genau anleiten: Vollständige und klare Anweisungen geben. 3. Mit abnehmender Hilfe üben: Schrittweise Hilfestellungen reduzieren, Selbstständigkeit fördern.</div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>
