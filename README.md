@@ -704,9 +704,7 @@ Typische Prüfungsfragen:
 FOOTER (Auf jeder Seite):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 FL Mastery Pro - Academy | © 2026
-Verkehrsinstitut Schielein Nürnberg
-Fahrlehrerausbildung FL-BE_07/25
-www.fl-mastery.app
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
