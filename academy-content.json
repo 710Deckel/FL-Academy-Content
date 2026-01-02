@@ -6,10 +6,92 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-02T11:15:31.810Z">
+    <meta name="last-updated" content="2026-01-02T11:21:46.748Z">
 </head>
 <body>
     <div id="academy-data">
+
+        <!-- ============================================ -->
+        <!-- MODUL: VERKEHRSVERHALTEN -->
+        <!-- ============================================ -->
+        <div class="modul" data-id="verkehrsverhalten" data-icon="🚗">
+            <h2>Verkehrsverhalten</h2>
+
+            <div class="lektion" 
+                 data-id="verkehrsverhalten_1767352536374" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>§3 StVO - Geschwindigkeit und besondere Rücksicht auf schutzbedürftige Verkehrsteilnehmer</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">§3 Abs. 1 und Abs. 2a StVO erklären und anwenden können (PRÜFUNGSRELEVANT!)</div>
+                    <div class="lernziel">Die 6 Faktoren für angepasste Geschwindigkeit benennen und erläutern können</div>
+                    <div class="lernziel">Besondere Rücksicht auf Kinder, Ältere und Hilfsbedürftige verstehen und umsetzen</div>
+                    <div class="lernziel">Den Vertrauensgrundsatz und seine Grenzen kennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">§3 ABSATZ 1 STVO - DIE GRUNDREGEL ZUR GESCHWINDIGKEIT<br>Rechtsgrundlage (AUSWENDIG WISSEN!):<br>"Grundsätzlich darfst du nur so schnell fahren, dass du dein Fahrzeug ständig beherrschst und auch auf Unvorhersehbares reagieren kannst."<br>Was bedeutet das?<br>Es gibt KEINE feste Geschwindigkeitsbegrenzung! Die richtige Geschwindigkeit hängt IMMER von der Situation ab. Auch wenn 50 km/h erlaubt sind, kann es sein, dass 30 km/h zu schnell sind!<br><br>DIE 6 FAKTOREN FÜR ANGEPASSTE GESCHWINDIGKEIT (PRÜFUNGSWICHTIG!)<br>Merke dir diese 6 Faktoren - sie kommen zu 100% in der Prüfung!<br><br>STRASSENVERHÄLTNISSE<br>Wie ist die Fahrbahn beschaffen?<br><br>Beispiele:<br><br>Schlaglöcher, Spurrillen<br>Enge Straßen<br>Steigungen, Gefälle<br>Kurven, unübersichtliche Strecken<br><br>→ Bei schlechten Straßenverhältnissen: Geschwindigkeit reduzieren!<br><br><br>VERKEHRSVERHÄLTNISSE<br>Wie viel Verkehr ist unterwegs?<br><br>Beispiele:<br><br>Rush Hour, Berufsverkehr<br>Schulweg zur Schulzeit<br>Baustellen mit Engstellen<br>Viel Fußgängerverkehr<br><br>→ Bei dichtem Verkehr: Geschwindigkeit anpassen!<br><br><br>SICHTVERHÄLTNISSE<br>Wie weit kannst du sehen?<br><br>Beispiele:<br><br>Nebel, Dämmerung, Dunkelheit<br>Regen, Schneefall<br>Unübersichtliche Kurven<br>Sichtbehinderung durch parkende Autos<br><br>→ Grundregel: Nur so schnell fahren, dass du innerhalb der Sichtweite anhalten kannst!<br><br><br>WITTERUNGSVERHÄLTNISSE<br>Wie ist das Wetter?<br><br>Beispiele:<br><br>Regen (längerer Bremsweg!)<br>Schnee, Eis, Glätte<br>Starker Wind (Seitenwind!)<br>Hitze (Reifenhaftung kann leiden)<br><br>→ Bei schlechtem Wetter: Geschwindigkeit deutlich reduzieren!<br><br><br>PERSÖNLICHE FÄHIGKEITEN<br>Wie fit bist du?<br><br>Beispiele:<br><br>Müdigkeit, Erschöpfung<br>Stress, emotionale Belastung<br>Krankheit, Schmerzen<br>Fahranfänger vs. erfahrener Fahrer<br><br>→ Wenn du nicht fit bist: Langsamer fahren oder gar nicht fahren!<br><br><br>EIGENSCHAFTEN VON FAHRZEUGEN &amp; LADUNG<br>Wie ist dein Fahrzeug beschaffen?<br><br>Beispiele:<br><br>Schwere Ladung (längerer Bremsweg!)<br>Anhänger (schlechtere Wendigkeit)<br>Alte Bremsen (längerer Bremsweg!)<br>Kleine Reifen, schlechtes Profil<br><br>→ Mit schwerem Fahrzeug oder Anhänger: Geschwindigkeit anpassen!<br><br>§3 ABSATZ 2A STVO - BESONDERE RÜCKSICHT AUF SCHUTZBEDÜRFTIGE<br>Rechtsgrundlage (WICHTIG FÜR PRÜFUNG!):<br>"Wer ein Fahrzeug führt, muss sich gegenüber Kindern, Hilfsbedürftigen und älteren Menschen, insbesondere durch Verminderung der Fahrgeschwindigkeit und durch Bremsbereitschaft, so verhalten, dass eine Gefährdung dieser Verkehrsteilnehmer ausgeschlossen ist."<br>Was bedeutet das konkret?<br><br>KINDER<br>Merkmale:<br><br>Unberechenbar<br>Leichtsinnig<br>Langsam<br>Spielen oft am Straßenrand<br><br>Gefahren:<br><br>Plötzliches Rennen auf die Straße<br>Unaufmerksamkeit (Ball hinterherlaufen)<br>Können Geschwindigkeiten schlecht einschätzen<br><br>Dein Verhalten:<br><br>Geschwindigkeit stark reduzieren!<br>Bremsbereitschaft (Fuß über Bremse!)<br>Mit allem rechnen (defensives Fahren!)<br>Niemals hupen (Kinder erschrecken und rennen dann erst recht!)<br><br><br>ÄLTERE MENSCHEN<br>Merkmale:<br><br>Langsam<br>Eingeschränkte Beweglichkeit<br>Unaufmerksam (Seh- und Hörschwäche)<br><br>Gefahren:<br><br>Verkehr wird blockiert<br>Plötzliches Stehenbleiben<br>Langsames Überqueren der Straße<br><br>Dein Verhalten:<br><br>Geduld haben!<br>Geschwindigkeit anpassen<br>Rücksichtsnahme zeigen<br>Mehr Zeit einplanen<br><br><br>HILFSBEDÜRFTIGE<br>Merkmale:<br><br>Blinde (weißer Stock, Führhund)<br>Gehbehinderte (Rollstuhl, Gehhilfe)<br>Eingeschränkungen<br><br>Gefahren:<br><br>Verkehr blockieren<br>Können sich nicht schnell retten<br>Brauchen mehr Zeit<br><br>Dein Verhalten:<br><br>Gegenseitige Rücksicht!<br>Vorausschauendes Fahren<br>Bremsbereitschaft<br>Hilfe anbieten (wenn nötig)<br><br><br>DAS 4-A-TRAINING (MERKREGEL FÜR SCHUTZBEDÜRFTIGE)<br>A = ALTER<br>Ist die Person jung, alt oder hilfsbedürftig?<br>A = AUFMERKSAMKEIT<br>Ist die Person aufmerksam oder abgelenkt? (z.B. Kind spielt, Älterer schaut nicht)<br>A = ABSICHT<br>Was will die Person tun? (Straße überqueren? Stehenbleiben?)<br>A = ART DER VERKEHRSTEILNEHMER<br>Fußgänger, Radfahrer, Rollstuhlfahrer?<br>→ Immer alle 4 A's checken, bevor du an schutzbedürftigen Personen vorbeifährst!<br><br>DER VERTRAUENSGRUNDSATZ<br>Grundregel:<br>"Nur wer sich im Straßenverkehr selbst richtig verhält, darf darauf vertrauen, dass es die anderen auch tun."<br>Was bedeutet das?<br>Du darfst davon ausgehen, dass andere Verkehrsteilnehmer die Regeln befolgen - ABER NUR, wenn du selbst alles richtig machst!<br>WICHTIG:<br>Bei Kindern, Älteren und Hilfsbedürftigen gilt der Vertrauensgrundsatz NICHT!<br>K, Ä, HB = NO ❌<br>Bremsbereitschaft = YES ✅<br>Du darfst NICHT darauf vertrauen, dass Kinder, Ältere oder Hilfsbedürftige richtig reagieren. Du musst IMMER mit Fehlern rechnen und in Bremsbereitschaft sein!</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">Beispiel 1: Die 6 Faktoren in der Praxis
+Situation: Du fährst auf einer Landstraße (erlaubt 100 km/h). Es regnet stark, die Straße hat Schlaglöcher, du bist müde und dein Auto hat einen schweren Anhänger.
+Welche Faktoren spielen eine Rolle?
+
+Straßenverhältnisse: Schlaglöcher → langsamer fahren
+Verkehrsverhältnisse: (nicht erwähnt)
+Sichtverhältnisse: Regen = schlechte Sicht → langsamer fahren
+Witterungsverhältnisse: Regen = längerer Bremsweg → langsamer fahren
+Persönliche Fähigkeiten: Müdigkeit → langsamer fahren oder Pause machen!
+Eigenschaften Fahrzeug: Anhänger = längerer Bremsweg → langsamer fahren
+
+Richtige Geschwindigkeit: DEUTLICH unter 100 km/h! Eventuell nur 60-70 km/h sicher.</div>
+                        <div class="beispiel">Beispiel 2: Kind am Straßenrand
+Situation: Du fährst mit 50 km/h durch eine Wohnstraße. Am Straßenrand siehst du ein Kind mit einem Ball spielen.
+Falsche Reaktion: "50 km/h sind erlaubt, ich fahre weiter."
+Richtige Reaktion:
+
+Sofort Geschwindigkeit reduzieren (z.B. auf 30 km/h)!
+Fuß über Bremse (Bremsbereitschaft!)
+Mit dem Schlimmsten rechnen (Ball und Kind laufen auf Straße!)
+Vertrauensgrundsatz gilt NICHT bei Kindern!
+Erst weiterfahren, wenn Kind sicher am Straßenrand ist</div>
+                        <div class="beispiel">Beispiel 3: Vertrauensgrundsatz
+Situation: Du fährst an einer Kreuzung mit "Rechts vor Links"-Regel. Von rechts kommt ein Auto.
+Darfst du darauf vertrauen, dass das Auto anhält?
+JA - ABER nur, wenn du selbst alles richtig machst (z.B. Geschwindigkeit angepasst, bremsbereit).
+Situation: Du fährst an einer Kreuzung. Von rechts kommt ein Kind auf dem Fahrrad.
+Darfst du darauf vertrauen, dass das Kind anhält?
+NEIN! Vertrauensgrundsatz gilt NICHT bei Kindern. Du musst mit Fehlern rechnen und bremsbereit sein!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br>Einstieg (15 Min):<br>Methode: Schockierendes Video<br>Ablauf: Dashcam-Video zeigen von Unfall mit Kind, das auf Straße rennt. Fahrer fuhr zu schnell. Diskussion: "Woran lag der Unfall? Welche Faktoren spielten eine Rolle?"<br>Ziel: Emotionale Betroffenheit erzeugen, Bedeutung von angepasster Geschwindigkeit verdeutlichen<br>Hauptteil (60 Min):<br>Phase 1: 6 Faktoren erarbeiten (25 Min) - Gruppenarbeit: 6 Gruppen erarbeiten je einen Faktor (Straße, Verkehr, Sicht, Wetter, Person, Fahrzeug). Jede Gruppe erstellt Plakat mit Definition + 3 Beispielen. Präsentation im Plenum.<br>Phase 2: §3 Abs. 2a StVO - Schutzbedürftige (20 Min) - Dozent erklärt Paragraf. Anwärter erarbeiten in 3 Gruppen je eine Gruppe (Kinder / Ältere / Hilfsbedürftige): Merkmale, Gefahren, richtiges Verhalten. Präsentation mit Praxisbeispielen.<br>Phase 3: 4-A-Training und Vertrauensgrundsatz (15 Min) - Dozent erklärt 4-A-Training. Anwärter üben an Fallbeispielen (Bilder von Verkehrssituationen). Diskussion: Vertrauensgrundsatz - wann gilt er, wann nicht?<br>Schluss (15 Min):<br>Sicherung: Quiz - Dozent zeigt 6 Verkehrssituationen (Bilder). Anwärter müssen sagen: Welche Faktoren spielen eine Rolle? Welche Geschwindigkeit ist angemessen?<br>Ausblick: "Nächste Woche: Vorfahrtsregeln und ihre Anwendung"<br>Hausaufgabe: Beobachtungsauftrag - 3 Situationen im Verkehr finden, wo Geschwindigkeit nicht angepasst war. Dokumentieren und begründen.</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>6 Faktoren müssen sitzen - immer wieder abfragen!<br>Vertrauensgrundsatz wird oft falsch verstanden - klare Beispiele wichtig<br>Schutzbedürftige nicht nur theoretisch behandeln - Praxisbezug herstellen<br>4-A-Training ist eine gute Merkregel - visualisieren!<br><br>Häufige Fehler der Anwärter:<br><br>Denken, erlaubte Geschwindigkeit = richtige Geschwindigkeit<br>Vergessen, dass §3 Abs. 1 GRUNDLAGE ist (nicht nur Schilder!)<br>Vertrauensgrundsatz auch bei Kindern anwenden (FALSCH!)<br>6 Faktoren nur oberflächlich kennen (nicht in Praxis übertragen können)<br><br>Tipps &amp; Tricks:<br><br>6 Faktoren als Akronym merken: "STVWPF" (Straße, Verkehr, Wetter, Sicht, Person, Fahrzeug) - okay, zugegebenermaßen schwer zu merken, besser: Plakat mit Bildern!<br>Video-Beispiele aus echten Unfallanalysen zeigen<br>Rollenspiel: Anwärter müssen entscheiden "Wie schnell darf ich hier fahren?" bei verschiedenen Szenarien<br>4-A-Training als Checkliste ausdrucken und in Praxisstunden verwenden</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Nennen Sie die 6 Faktoren, die die angepasste Geschwindigkeit bestimmen.<br>Antwort: 1. Straßenverhältnisse, 2. Verkehrsverhältnisse, 3. Sichtverhältnisse, 4. Witterungsverhältnisse, 5. Persönliche Fähigkeiten, 6. Eigenschaften von Fahrzeugen und Ladung.<br><br>Frage 2: Erklären Sie §3 Abs. 2a StVO und nennen Sie die drei Gruppen schutzbedürftiger Verkehrsteilnehmer.<br>Antwort: §3 Abs. 2a StVO: Wer ein Fahrzeug führt, muss sich gegenüber Kindern, Hilfsbedürftigen und älteren Menschen durch Verminderung der Geschwindigkeit und Bremsbereitschaft so verhalten, dass eine Gefährdung ausgeschlossen ist. Die drei Gruppen sind: Kinder, Ältere Menschen, Hilfsbedürftige (Blinde, Gehbehinderte).<br><br>Frage 3: Was bedeutet das 4-A-Training im Zusammenhang mit schutzbedürftigen Verkehrsteilnehmern?<br>Antwort: Alter (jung, alt, hilfsbedürftig?), Aufmerksamkeit (aufmerksam oder abgelenkt?), Absicht (was will die Person tun?), Art der Verkehrsteilnehmer (Fußgänger, Radfahrer, Rollstuhl?). Diese 4 A's soll der Fahrer checken, bevor er an schutzbedürftigen Personen vorbeifährt.<br><br>Frage 4: Wann gilt der Vertrauensgrundsatz und wann NICHT?<br>Antwort: Vertrauensgrundsatz gilt: Wenn du selbst alles richtig machst, darfst du darauf vertrauen, dass andere Verkehrsteilnehmer die Regeln befolgen. NICHT bei: Kindern, Älteren, Hilfsbedürftigen - hier musst du IMMER mit Fehlern rechnen und bremsbereit sein!<br><br>Frage 5: Sie fahren mit 50 km/h durch eine Wohnstraße. Am Straßenrand spielen Kinder mit einem Ball. Was müssen Sie tun?<br>Antwort: Sofort Geschwindigkeit reduzieren (z.B. auf 30 km/h), Fuß über Bremse (Bremsbereitschaft!), mit dem Schlimmsten rechnen (Ball und Kind könnten auf Straße laufen), Vertrauensgrundsatz gilt NICHT, erst weiterfahren wenn Kinder sicher am Straßenrand sind. §3 Abs. 2a StVO: Gefährdung muss ausgeschlossen sein!</div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
 
         <!-- ============================================ -->
         <!-- MODUL: RECHT -->
