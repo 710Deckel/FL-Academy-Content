@@ -6,10 +6,82 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-02T11:13:54.150Z">
+    <meta name="last-updated" content="2026-01-02T11:15:31.810Z">
 </head>
 <body>
     <div id="academy-data">
+
+        <!-- ============================================ -->
+        <!-- MODUL: RECHT -->
+        <!-- ============================================ -->
+        <div class="modul" data-id="recht" data-icon="⚖️">
+            <h2>Recht</h2>
+
+            <div class="lektion" 
+                 data-id="recht_1767352439950" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>§1 StVO - Vorsicht, Rücksicht und richtiges Verhalten im Straßenverkehr</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">§1 Abs. 1 und Abs. 2 StVO auswendig wiedergeben können (PRÜFUNGSRELEVANT!)</div>
+                    <div class="lernziel">Ständige Vorsicht und gegenseitige Rücksicht erklären und im Verkehr umsetzen können</div>
+                    <div class="lernziel">Die Begriffe Schädigen, Gefährden, Behindern und Belästigen unterscheiden können</div>
+                    <div class="lernziel">Den Begriff "öffentlicher Straßenverkehr" definieren und Beispiele nennen können</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">§1 STVO - DIE WICHTIGSTEN PARAGRAPHEN DER STRASSENVERKEHRSORDNUNG<br>ACHTUNG: Diese Paragraphen musst du AUSWENDIG lernen! Sie kommen zu 100% in der Prüfung dran!<br><br>§1 ABSATZ 1 STVO (AUSWENDIG LERNEN!)<br>"Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksicht."<br>Was bedeutet das?<br>ÖFFENTLICHER STRASSENVERKEHR:<br>Alle Wege und Plätze, die jedem tatsächlich zugänglich sind (ohne Rücksicht auf Eigentumsverhältnisse oder Widmung).<br>Beispiele für öffentlichen Verkehrsraum:<br>✅ Supermarkt-Parkplatz (auch wenn privat - ist öffentlich zugänglich!)<br>✅ Tankstellengelände<br>✅ Bahnhofsvorplätze<br>✅ Öffentliche Straßen<br>Beispiele für NICHT-öffentlichen Verkehrsraum:<br>❌ Firmenparkplatz mit Schranke und Kontrolle<br>❌ Garagenzufahrten<br>❌ Gesperrte Baustellen<br>❌ Private Grundstücke<br>WICHTIG: Schilder alleine reichen NICHT! Eine Schranke muss geschlossen sein UND kontrolliert werden, sonst ist der Bereich öffentlich!<br>MERKE: DREI-B-REGEL: BESCHRÄNKUNG braucht WILLE + VORKEHRUNG + KONTROLLE<br><br>STÄNDIGE VORSICHT<br>Was heißt "ständig"?<br>Immer und überall mit Gefahren rechnen. Kein Moment der Unachtsamkeit!<br>Vorsicht zeigt sich durch:<br><br>Vorausschauendes Fahren: Fehler anderer erkennen, bevor sie passieren<br>Defensives Fahren: Immer mit dem Fehler anderer rechnen<br>Bremsbereitschaft: Fuß in der Nähe der Bremse bei Gefahr<br>Angepasste Geschwindigkeit: Langsamer bei Unsicherheit<br><br>Abhängig von:<br><br>Persönliche Verhältnisse (Müdigkeit, Stress, Krankheit)<br>Fahrbahnbeschaffenheit (Nässe, Eis, Schlaglöcher)<br>Fahrzeug (Bremsen, Reifen, Beladung)<br>Witterungsverhältnisse (Regen, Nebel, Schnee)<br>Verkehrsverhältnisse (Rush Hour, Baustelle, Schulweg)<br><br><br>GEGENSEITIGE RÜCKSICHT<br>Was bedeutet das?<br>Verzichtendes Verhalten, um anderen zu helfen.<br>Beispiele:<br><br>Der Starke hilft dem Schwachen (Auto lässt Fußgänger vor)<br>Der Ortskundige hilft dem Ortsfremden (Lücke lassen beim Einordnen)<br>Der Gesunde hilft dem Hilfsbedürftigen (Geduld mit langsamen Verkehrsteilnehmern)<br><br>Rücksicht heißt NICHT:<br><br>Anderen das Recht nehmen<br>Sich selbst gefährden<br>Verkehrsregeln ignorieren<br><br><br>§1 ABSATZ 2 STVO (AUSWENDIG LERNEN!)<br>"Jeder Verkehrsteilnehmer hat sich so zu verhalten, dass kein anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird."<br>Lass uns die wichtigsten Begriffe klären:<br><br>VERKEHRSTEILNEHMER<br>Wer ist das?<br>Alle Personen, die sich im Verkehrsraum befinden und auf das Verkehrsgeschehen einwirken können.<br>Beispiele:<br><br>Autofahrer, Radfahrer, Fußgänger<br>Skateboardfahrer, E-Scooter-Fahrer<br>Personen, die Türen öffnen<br>Kinder, die am Straßenrand spielen<br><br><br>KEIN ANDERER<br>Wer ist gemeint?<br>Alle Personen innerhalb UND außerhalb des Verkehrsbereichs.<br>Beispiel: Du darfst auch keine Anwohnerin durch Lärm belästigen, die in ihrem Haus sitzt!<br><br>SCHÄDIGEN<br>Was bedeutet das?<br>Personen-, Sach- und Vermögensschäden verursachen + Umweltschaden.<br>Beispiele:<br><br>Unfall mit Verletzten (Personenschaden)<br>Lackschaden am geparkten Auto (Sachschaden)<br>Entgangener Gewinn durch Lieferverzögerung (Vermögensschaden)<br>Verschmutzung durch Ölaustritt (Umweltschaden)<br><br><br>GEFÄHRDEN<br>Was bedeutet das?<br>Schaffen einer Gefahrensituation, wobei es nur durch besondere Umstände oder reaktionsschnelles Handeln eines anderen nicht zu einer Schädigung gekommen ist.<br>Beispiel: Du reißt plötzlich die Tür auf, ein Radfahrer muss stark bremsen und kommt gerade noch zum Stehen. Du hast ihn gefährdet (aber nicht geschädigt, weil er nicht stürzte).<br><br>BEHINDERN<br>Was bedeutet das?<br>Jemanden in seiner Fortbewegung einschränken, MEHR als nach den Umständen unvermeidbar.<br>Beispiel: In zweiter Reihe parken ist eine vermeidbare Behinderung. An einer engen Baustelle kurz anhalten ist unvermeidbar und daher erlaubt.<br><br>BELÄSTIGEN<br>Was bedeutet das?<br>Jemanden durch Lärm, Geruch oder andere Unannehmlichkeiten stören.<br>Beispiel: Unnötig lautes Hupen, absichtliches Aufheulen des Motors, starke Abgasentwicklung.<br><br>GEFÄHRDUNG ODER SCHÄDIGUNG ENTSTEHT DURCH:<br><br>Verkehrswidriges Verhalten<br>Nicht beachten von Verkehrsvorschriften (z.B. rote Ampel überfahren)<br>Mangelnde Eignung<br><br><br>Körperliche/geistige Eignung fehlt<br>Keine Brille trotz Sehschwäche<br>Kopfschmerzen, Müdigkeit<br>Falsche Kleidung oder Schuhe (z.B. Flip-Flops beim Autofahren)<br><br><br>Vernachlässigte Wartung des Fahrzeugs<br>Unterscheidung zwischen:<br><br>BETRIEBSSICHERHEIT:<br><br>Wasser, Öl, Luft, Kraftstoff<br>Elektrische Anlagen<br><br>VERKEHRSSICHERHEIT:<br><br>Mangelnde Reifenprofiltiefe<br>Eingeschränkte Sicht (schmutzige Scheiben)<br>Defekter Gurt<br><br></div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">Beispiel 1: Öffentlicher vs. nicht-öffentlicher Raum
+Situation: Supermarkt-Parkplatz mit Schild "Privatparkplatz - Nur für Kunden"
+Frage: Gilt hier die StVO?
+Antwort: JA! Das Schild allein macht den Parkplatz nicht "nicht-öffentlich". Er ist tatsächlich für jeden zugänglich (jeder kann Kunde sein). → StVO gilt!
+Situation: Firmenparkplatz mit geschlossener Schranke und Zutrittskontrolle
+Frage: Gilt hier die StVO?
+Antwort: NEIN! Schranke + Kontrolle = nicht-öffentlich. Nur Firmenangehörige haben Zugang. → StVO gilt nicht (aber Sorgfaltspflicht bleibt!).</div>
+                        <div class="beispiel">Beispiel 2: Gefährden vs. Schädigen
+Situation: Du öffnest die Autotür ohne zu schauen. Ein Radfahrer muss stark bremsen und kommt gerade noch zum Stehen.
+Was hast du getan?
+Du hast den Radfahrer GEFÄHRDET (aber nicht geschädigt, weil kein Unfall passiert ist).
+Situation: Du öffnest die Autotür ohne zu schauen. Ein Radfahrer knallt dagegen und stürzt.
+Was hast du getan?
+Du hast den Radfahrer GESCHÄDIGT (Personenschaden durch Sturz, Sachschaden am Fahrrad).</div>
+                        <div class="beispiel">Beispiel 3: Behindern - vermeidbar oder unvermeidbar?
+Situation 1: Du parkst in zweiter Reihe, um schnell Brötchen zu holen.
+→ VERMEIDBARE Behinderung! Du hättest einen Parkplatz suchen müssen. = Ordnungswidrigkeit!
+Situation 2: Du hältst an einer engen Baustelle, um Gegenverkehr durchzulassen.
+→ UNVERMEIDBARE Behinderung! Du musstest anhalten, um einen Unfall zu vermeiden. = Erlaubt!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br>Einstieg (15 Min):<br>Methode: Provokante Fallbeispiele<br>Ablauf: Dozent zeigt 3 Fotos: Supermarkt-Parkplatz, Firmengelände, Kaserne. Frage: "Wo gilt die StVO?" Anwärter diskutieren, schätzen. Auflösung mit Begründung.<br>Ziel: Sensibilisierung für "öffentlicher Verkehrsraum"<br>Hauptteil (60 Min):<br>Phase 1: §1 Abs. 1 StVO auswendig lernen (15 Min) - Anwärter lesen Paragraf mehrfach laut vor. Partner-Abfrage: Einer sagt den Paragraf auswendig auf, der andere korrigiert. Wiederholung bis alle sicher sind.<br>Phase 2: Begriffe erarbeiten (30 Min) - Gruppenarbeit: 4 Gruppen erarbeiten je einen Begriff (Schädigen / Gefährden / Behindern / Belästigen). Jede Gruppe erstellt 2 Praxisbeispiele. Präsentation im Plenum, Dozent ergänzt.<br>Phase 3: §1 Abs. 2 StVO auswendig lernen (15 Min) - Wie Phase 1: Laut vorlesen, Partner-Abfrage, Wiederholung.<br>Schluss (15 Min):<br>Sicherung: Blitzlicht-Abfrage: Jeder Anwärter sagt beide Paragrafen auswendig auf (Reihe durch). Dozent korrigiert sofort.<br>Ausblick: "Nächste Woche: §3 StVO - Geschwindigkeit. Dort brauchen wir §1 als Grundlage!"<br>Hausaufgabe: Beide Paragrafen täglich 5x aufsagen (bis sie im Schlaf sitzen!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>§1 muss WIRKLICH auswendig gelernt werden - nicht nur "ungefähr"!<br>Begriffe (Schädigen, Gefährden etc.) werden oft verwechselt - klare Abgrenzung wichtig<br>Öffentlicher Verkehrsraum wird unterschätzt - viele denken, Parkplätze seien privat<br>Praxisbezug herstellen: "Wo ist euch das schon mal passiert?"<br><br>Häufige Fehler der Anwärter:<br><br>§1 nur sinngemäß lernen (reicht nicht! Muss wörtlich sein!)<br>"Gefährden" und "Schädigen" verwechseln<br>Denken, Schilder machen Bereiche nicht-öffentlich<br>Vergessen, dass §1 die GRUNDLAGE für alle anderen Paragraphen ist<br><br>Tipps &amp; Tricks:<br><br>§1 als Poster im Schulungsraum aufhängen (täglich sichtbar)<br>Memory-Spiel mit Begriffen (Schädigen - Beispiel zuordnen)<br>Praxisbeispiele aus echten Unfallberichten zeigen<br>Eselsbrücken für die 4 Begriffe: "Schade, dass du Gefahr, Behinderung und Belästigung nicht kennst!" (S-G-B-B)<br><br></div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Sagen Sie §1 Abs. 1 StVO auswendig auf.<br>Antwort: "Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksicht."<br><br>Frage 2: Sagen Sie §1 Abs. 2 StVO auswendig auf.<br>Antwort: "Jeder Verkehrsteilnehmer hat sich so zu verhalten, dass kein anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird."<br><br>Frage 3: Was bedeutet "öffentlicher Straßenverkehr"? Nennen Sie zwei Beispiele für öffentlichen und zwei für nicht-öffentlichen Verkehrsraum.<br>Antwort: Öffentlicher Straßenverkehr = Alle Wege und Plätze, die jedem tatsächlich zugänglich sind (ohne Rücksicht auf Eigentum oder Widmung). Öffentlich: Supermarkt-Parkplatz, Tankstellengelände. Nicht-öffentlich: Geschlossenes Betriebsgelände mit Zutrittskontrolle, Kaserne.<br><br>Frage 4: Erklären Sie den Unterschied zwischen "Gefährden" und "Schädigen" und geben Sie jeweils ein Beispiel.<br>Antwort: Gefährden = Gefahrensituation schaffen, die nur durch Zufall oder schnelles Reagieren nicht zur Schädigung führt. Beispiel: Tür aufreißen, Radfahrer muss bremsen, kommt aber noch zum Stehen. Schädigen = Tatsächlicher Schaden entsteht (Personen-, Sach-, Vermögens- oder Umweltschaden). Beispiel: Tür aufreißen, Radfahrer stürzt und verletzt sich.<br><br>Frage 5: Wodurch kann eine Gefährdung oder Schädigung entstehen? Nennen Sie drei Faktoren.<br>Antwort: 1. Verkehrswidriges Verhalten (z.B. rote Ampel überfahren). 2. Mangelnde Eignung (körperlich/geistig, keine Brille, falsche Schuhe). 3. Vernachlässigte Wartung des Fahrzeugs (Betriebssicherheit: Wasser, Öl, Luft; Verkehrssicherheit: Reifen, Sicht, Gurt).</div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
 
         <!-- ============================================ -->
         <!-- MODUL: DIDAKTIK & METHODIK -->
