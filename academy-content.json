@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-03T19:28:41.804Z">
+    <meta name="last-updated" content="2026-01-03T19:39:12.140Z">
 </head>
 <body>
     <div id="academy-data">
@@ -1401,6 +1401,153 @@ Geschädigter bekommt Geld (von Versicherung), aber Nico zahlt am Ende selbst (R
 
             <div class="lektion" 
                  data-id="recht_1767468520267" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Theoretische Prüfung, Prüfungswertigkeit &amp; Fahrschüler-Ausbildungsordnung</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Bewertungssystem der theoretischen Prüfung verstehen (2-5 Punkte)</div>
+                    <div class="lernziel">Prüfungsanforderungen für Ersterwerb und Erweiterung kennen</div>
+                    <div class="lernziel">10-Fehlerpunkte-Regel + 2x Wertigkeit-5-Ausnahme beherrschen</div>
+                    <div class="lernziel">Rahmenplan vs. Ausbildungsplan unterscheiden</div>
+                    <div class="lernziel">Theoretischen Unterricht (Grundstoff + Zusatzstoff) planen können</div>
+                    <div class="lernziel">Besondere Ausbildungsfahrten (Überlandfahrten, Autobahn, Nachtfahrten) kennen</div>
+                    <div class="lernziel">Fahrerlaubnisklassen AM, A1 unterscheiden</div>
+                    <div class="lernziel">EU-Fahrzeugklassifizierung (L1e, L2e, L6e) verstehen</div>
+                    <div class="lernziel">Pedelec vs. Speed-Pedelec rechtlich abgrenzen</div>
+                    <div class="lernziel">Digitalen Unterricht rechtlich einordnen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. THEORETISCHE PRÜFUNG - BEWERTUNGSSYSTEM 🎯<br>RECHTSGRUNDLAGE<br>Anlage 7 FeV (Fahrerlaubnis-Verordnung)<br><br>BEWERTUNGSSYSTEM DER PRÜFUNGSFRAGEN<br>Die Fragen werden bewertet nach:<br><br>Inhalt<br>Bedeutung für Verkehrssicherheit<br>Umweltschutz<br>Energieeinsparung<br><br>WERTIGKEIT: 2 bis 5 Punkte pro Frage<br><br>VERTEILUNG DER WERTIGKEITEN<br>2 PUNKTE: Weniger wichtige Fragen<br>3 PUNKTE: Normale Wichtigkeit<br>4 PUNKTE: Wichtige Fragen<br>5 PUNKTE: Sehr wichtige Fragen (Verkehrssicherheit!)<br><br>ERSTERWERB - PRÜFUNGSANFORDERUNGEN 📊<br>KlasseAnzahl FragenSumme PunkteZulässige FehlerpunkteAM, A1, A2, A, B, L, T3011010*Mofa20697<br>* WICHTIG: Es sei denn, zwei Fragen mit Wertigkeit 5 wurden falsch beantwortet!<br><br>ERWEITERUNG - PRÜFUNGSANFORDERUNGEN 📊<br>KlasseAnzahl FragenSumme PunkteZulässige FehlerpunkteAM, A1, A2, A, B, L, T20726C3712810*C1, CE3010510*D4013810*D13512110*<br>* WICHTIG: Es sei denn, zwei Fragen mit Wertigkeit 5 wurden falsch beantwortet!<br><br>DIE WICHTIGSTE REGEL: 10-FEHLERPUNKTE-REGEL 🚨<br>GRUNDREGEL<br>Bei Ersterwerb (B, A, etc.):<br>→ 10 Fehlerpunkte sind erlaubt!<br>ABER: AUSNAHME!<br>→ Wenn zwei Fragen mit Wertigkeit 5 falsch beantwortet wurden:<br>→ DURCHGEFALLEN! ❌<br>→ Auch wenn nur 10 Fehlerpunkte insgesamt!<br><br>BEISPIELE<br>BEISPIEL 1: BESTANDEN ✅<br><br>1x Wertigkeit 5 falsch (5 Punkte)<br>1x Wertigkeit 3 falsch (3 Punkte)<br>1x Wertigkeit 2 falsch (2 Punkte)<br>Summe: 10 Fehlerpunkte<br>→ BESTANDEN! ✅ (Nur 1x Wertigkeit 5 falsch!)<br><br><br>BEISPIEL 2: DURCHGEFALLEN ❌<br><br>2x Wertigkeit 5 falsch (10 Punkte)<br>Summe: 10 Fehlerpunkte<br>→ DURCHGEFALLEN! ❌ (2x Wertigkeit 5 falsch!)<br><br><br>BEISPIEL 3: BESTANDEN ✅<br><br>1x Wertigkeit 5 falsch (5 Punkte)<br>1x Wertigkeit 4 falsch (4 Punkte)<br>Summe: 9 Fehlerpunkte<br>→ BESTANDEN! ✅<br><br><br>BEISPIEL 4: DURCHGEFALLEN ❌<br><br>1x Wertigkeit 5 falsch (5 Punkte)<br>2x Wertigkeit 3 falsch (6 Punkte)<br>Summe: 11 Fehlerpunkte<br>→ DURCHGEFALLEN! ❌ (Über 10 Fehlerpunkte!)<br><br><br>MERKSATZ<br>"10 Fehlerpunkte sind erlaubt - außer bei 2x Wertigkeit 5 falsch!"<br><br><br>2. FAHRSCHÜLER-AUSBILDUNGSORDNUNG (FahrschAusbO) 📖<br>§ 4 FahrschAusbO - THEORETISCHER UNTERRICHT<br><br>RAHMENPLAN vs. AUSBILDUNGSPLAN 🎓<br>RAHMENPLAN<br>Definition:<br>Gesetzliche Vorgabe mit festgelegten Inhalten und Mindestumfang<br>Wer macht ihn?<br>→ Gesetzgeber! (Bundesministerium für Verkehr)<br>Wo steht er?<br>→ Anlage 1 FahrschAusbO (Grundstoff)<br>→ Anlage 2 FahrschAusbO (Zusatzstoff)<br>Verbindlich?<br>→ JA! Muss eingehalten werden!<br><br>AUSBILDUNGSPLAN<br>Definition:<br>Individuelle Planung der Fahrschule, angepasst an Schüler und Klassen<br>Wer macht ihn?<br>→ Fahrschule! (Fahrlehrer)<br>Grundlage?<br>→ Muss sich am Rahmenplan orientieren!<br>Verbindlich?<br>→ Für die eigene Fahrschule ja, aber nicht gesetzlich vorgeschrieben wie Rahmenplan<br><br>VERGLEICHSTABELLE<br>MerkmalRahmenplanAusbildungsplanQuelleGesetzgeber (BMVI)FahrschuleVerbindlichkeitGesetzlich vorgeschriebenOrientierung am RahmenplanInhaltFestgelegte Themen + MindestumfangIndividuelle UmsetzungWo steht's?Anlage 1+2 FahrschAusbOIntern (Fahrschule)Anpassbar?NEIN (gesetzlich!)JA (an Schüler angepasst)<br><br>MERKSATZ<br>"Rahmenplan = Gesetz | Ausbildungsplan = Individuelle Umsetzung"<br><br><br>3. GRUNDSTOFF FÜR ALLE KLASSEN 📚<br>UMFANG<br>Grundstoff: Mindestens 12 Doppelstunden (à 90 Minuten)<br>Bei Vorbesitz: Mindestens 6 Doppelstunden<br><br>THEMA 1: PERSÖNLICHE VORAUSSETZUNGEN<br>A) KÖRPERLICHE FÄHIGKEITEN<br>Wichtig:<br><br>Sehfähigkeit - Sehtest erforderlich!<br>Bedeutung von Gesundheit und Fitness<br><br><br>B) EINSCHRÄNKUNGEN DER KÖRPERLICHEN FÄHIGKEITEN<br>Beeinträchtigungen durch:<br><br>Krankheiten und Gebrechen<br>Aufmerksamkeitsdefizite<br>Konzentrationsmängel<br>Alkohol, Drogen und Medikamente<br><br><br>C) PSYCHISCHE UND SOZIALE VORAUSSETZUNGEN<br>Wichtig:<br><br>Einstellung und Werthaltungen<br>Orientierung an Leitbildern des Verkehrsverhaltens<br><br><br>🧠 RISIKOFAKTOR MENSCH<br>BEEINFLUSSUNG DURCH EMOTIONEN<br>Emotionen im Verkehr:<br><br>Aggression (Wut, Ärger)<br>Angst (Unsicherheit, Panik)<br>Fahrfreude (Übermut, Leichtsinn)<br>Stress (Zeitdruck, Hektik)<br><br>WICHTIG:<br>→ Auffälliges Fahren kann verschiedene Gründe haben!<br>→ Aggression NICHT mit Gegenaggression beantworten!<br>→ Stresswahrnehmung und -bewältigung lernen!<br>→ Gefühle beherrschen und kontrollieren!<br><br>SELBSTBILDER<br>Realistische Einschätzung:<br><br>Über- und Unterschätzung vermeiden<br>Fahrideale und Fahrerrollen reflektieren<br><br>BEISPIELE:<br><br>"Ich bin der beste Fahrer!" (Überschätzung!)<br>"Ich bin total unsicher!" (Unterschätzung!)<br><br>→ Beide sind gefährlich!<br><br>⚖️ RECHTLICHE RAHMENBEDINGUNGEN<br>Inhalte:<br><br>Führen von Kraftfahrzeugen<br>Fahrerlaubnisklassen<br>Führerschein auf Probe<br>Zulassung von Fahrzeugen<br>Zulassungspflichtige und zulassungsfreie Fahrzeuge<br>Erlöschen der Betriebserlaubnis<br><br><br><br>4. UNTERRICHTSGESTALTUNG 🎯<br>METHODISCHE ANFORDERUNGEN<br>Theoretischer Unterricht muss:<br><br>Systematischer Aufbau nach Lektionen<br>Methodisch vielfältig gestaltet sein (nicht nur Frontalunterricht!)<br>Zielgerichteter Medieneinsatz (Videos, Bilder, Simulationen)<br>Lernkontrollen zur Ergebnissicherung (Verständnisprüfung!)<br><br><br>⚠️ WICHTIG: TESTBOGEN IM UNTERRICHT<br>VERBOTEN:<br>→ Ausfüllen von Testbogen nach Art der Prüfungsbogen darf NICHT Gegenstand des theoretischen Mindestunterrichts sein!<br>WAS BEDEUTET DAS?<br>→ Im Pflichtunterricht (12 DS Grundstoff + Zusatzstoff) dürfen KEINE Original-Prüfungsbogen ausgefüllt werden!<br>→ Lernkontrollen sind ok (z.B. Verständnisfragen, Diskussionen)<br>→ Aber KEIN "Testbogen-Training"!<br>WARUM?<br>→ Unterricht soll Verständnis vermitteln, nicht nur Testbogen trainieren!<br><br>MERKSATZ<br>"Testbogen ausfüllen gehört NICHT zum Mindestunterricht!"<br><br><br>5. DIGITALER UNTERRICHT 💻<br>GRUNDREGEL<br>Theoretischer Unterricht setzt grundsätzlich physische Präsenz voraus!<br>→ Präsenzunterricht ist die Regel!<br><br>AUSNAHME: DIGITALER UNTERRICHT<br>Wann erlaubt?<br>In begründeten Ausnahmefällen kann digitaler Unterricht stattfinden<br>Voraussetzungen:<br><br>Genehmigung der Landesbehörde erforderlich!<br>Synchrone Durchführung (zeitgleiche Beteiligung aller Teilnehmer!)<br>Erfüllung der Anforderungen nach Anlage 2a zur DV-FahrlG<br>Weitere Auflagen der Landesbehörde möglich<br><br><br>WAS BEDEUTET "SYNCHRONE DURCHFÜHRUNG"?<br>Synchron = Zeitgleich!<br>→ Alle Teilnehmer sind gleichzeitig online!<br>→ Live-Unterricht (nicht aufgezeichnet!)<br>→ Interaktion möglich (Fragen stellen, Diskussion)<br>NICHT erlaubt:<br>→ Aufgezeichnete Videos ansehen (asynchron!)<br>→ Selbstlernprogramme ohne Lehrer<br><br>MERKSATZ<br>"Digitaler Unterricht: Grundsätzlich Präsenzpflicht! Ausnahme nur mit Genehmigung + synchron!"<br><br><br>6. BESONDERE AUSBILDUNGSFAHRTEN 🛣️<br>Rechtsgrundlage: Anlage 4 FahrschAusbO<br><br>ÜBERLANDFAHRTEN 🛣️<br>Definition:<br>Fahrten außerhalb geschlossener Ortschaften (Landstraßen, Bundesstraßen)<br>Klasse/ErweiterungAnzahl Fahrstunden (à 45 Min.)A1, A2, A, B5A1 → A23A2 → A3B → BE3C1 (Solo)3C (Solo)5C1E (Zug) / CE (Zug)5<br>WICHTIG:<br>→ Davon mindestens eine Fahrt mit 2 Stunden (à 45 Min.) Dauer!<br><br>AUTOBAHNFAHRTEN 🛣️<br>Definition:<br>Fahrten auf Autobahnen oder Kraftfahrstraßen<br>Klasse/ErweiterungAnzahl Fahrstunden (à 45 Min.)A1, A2, A, B4A1 → A22A2 → A1B → BE1C1 (Solo)1C (Solo)2C1E (Zug) / CE (Zug)2<br>SCHULUNG AUF:<br>→ Autobahnen oder Kraftfahrstraßen mit:<br><br>Fahrbahnen für eine Richtung<br>Durch Mittelstreifen getrennt<br>Mindestens 2 Fahrstreifen je Richtung<br><br>WICHTIG:<br>→ Davon mindestens eine Fahrt mit 2 Stunden Dauer<br>→ Soweit möglich mindestens 1 Stunde auf den genannten Straßen<br><br>NACHTFAHRTEN / BELEUCHTUNGSFAHRTEN 🌙<br>Definition:<br>Fahrten bei Dunkelheit oder Dämmerung<br>Anzahl:<br>Variiert je nach Klasse (siehe Anlage 4 FahrschAusbO)<br>Für Klasse B:<br>→ 3 Fahrstunden (à 45 Min.) bei Dunkelheit<br><br>💡 WICHTIGE HINWEISE<br>Mindestvorgaben:<br>→ Die angegebenen Stundenzahlen sind Mindestvorgaben!<br>→ Zusätzliche Fahrstunden können nach Bedarf erforderlich sein!<br>Aufstieg innerhalb A-Klassen:<br>→ Bei Aufstieg (A1 → A2 → A) reduziert sich der Umfang!<br>Gemeinsame Ausbildungsgänge:<br>→ Z.B. C1 auf C haben eigene Regelungen!<br><br>MERKSATZ<br>"5-4-3: Klasse B braucht 5 Überlandfahrten, 4 Autobahnfahrten, 3 Nachtfahrten!"<br><br><br>7. FAHRERLAUBNISKLASSEN - A-KLASSEN SYSTEM 🏍️<br>KLASSE AM (LEICHTE KRAFTRÄDER) 🛵<br>Mindestalter: 15 Jahre<br>(Schlüsselzahl 194 - bis 16 nur im Inland!)<br>Geltungsdauer: Unbefristet<br>Vorbesitz erforderlich: Nein<br><br>THEORETISCHE AUSBILDUNG AM<br>Grundstoff:<br><br>12 Doppelstunden (ohne Vorbesitz)<br>6 Doppelstunden (mit Vorbesitz)<br><br>Klassenspezifischer Zusatzstoff:<br><br>2 Doppelstunden<br><br><br>PRAKTISCHE AUSBILDUNG AM<br>Grundausbildung:<br>→ Nach Bedarf (individuell!)<br>Besondere Ausbildungsfahrten:<br>→ Keine vorgeschrieben! (Keine Überlandfahrten, keine Autobahnfahrten, keine Nachtfahrten!)<br><br>PRÜFUNG AM<br>Theorie:<br>→ Ja (55 Minuten / 30 Fragen)<br>Praxis:<br>→ Ja<br><br>BESONDERHEITEN AM<br>Keine Probezeit!<br>(AM ist keine Probezeit-Klasse!)<br>Keine Automatikbeschränkung!<br>(Egal ob Automatik oder Schaltgetriebe geprüft!)<br>§ 24c StVG: Alkoholverbot für Fahranfänger!<br>(0,0 ‰ für unter 21-Jährige!)<br><br>EU-VERORDNUNG 168/2013 - FAHRZEUGKLASSIFIZIERUNG<br>Rechtsgrundlage: EU-Verordnung Nr. 168/2013<br><br>KLASSE AM UMFASST:<br>FahrzeugtypEU-KlasseTechnische DatenLeichte zweirädrige Kleinkrafträder (Mopeds)L1e-B• bbH ≤ 45 km/h• Hubraum ≤ 50 cm³ (Verbrennungsmotor)• Nenndauerleistung ≤ 4 kWDreirädrige KleinkrafträderL2e• bbH ≤ 45 km/h• Hubraum ≤ 50 cm³ (Fremdzündung) oder ≤ 500 cm³ (Selbstzündung)• Nenndauerleistung ≤ 4 kW• Masse ≤ 270 kg• Höchstens 2 SitzplätzeLeichte vierrädrige LeichtkraftfahrzeugeL6e• bbH ≤ 45 km/h• Hubraum ≤ 50 cm³ (Fremdzündung) oder ≤ 500 cm³ (Selbstzündung)• Nenndauerleistung ≤ 4 kW• Masse &lt; 425 kg• Höchstens 2 Sitzplätze<br><br>MERKSATZ KLASSE AM<br>"Bis 45 km/h, bis 50 cm³, bis 4 kW - das ist AM!"<br><br>KLASSE A1 (LEICHTKRAFTRÄDER) 🏍️<br>Mindestalter: 16 Jahre<br>Geltungsdauer: Unbefristet<br>Vorbesitz erforderlich: Nein<br><br>FAHRZEUGE KLASSE A1<br>KRAFTRÄDER:<br><br>Hubraum ≤ 125 cm³<br>Motorleistung ≤ 11 kW<br>Leistung/Gewicht max. 0,1 kW/kg<br>Auch mit Beiwagen<br><br>DREIRÄDRIGE KRAFTFAHRZEUGE:<br><br>Symmetrisch angeordnete Räder<br>Hubraum &gt; 50 cm³ (Verbrennungsmotor)<br>bbH &gt; 45 km/h<br>Leistung ≤ 15 kW<br><br><br><br>8. RADVERKEHR - VIELFALT IM STRASSENVERKEHR 🚴<br>KOMPETENZBEREICH BE-2<br>Der Radverkehr nimmt in den Städten immer mehr zu!<br>Gesetzgeber reagiert mit unterschiedlichsten Maßnahmen<br>Fundierte Ausbildung erfordert hohes Wissen über:<br><br>Regelungen für Radfahrer<br>Verhalten des übrigen Verkehrs gegenüber Radfahrern<br><br><br>UNTERSCHIEDLICHE FAHRZEUGTYPEN IM RADVERKEHR 🚲<br>FahrzeugtypMerkmaleRechtliche EinordnungFahrradKlassisches Fahrrad ohne MotorFahrzeug im Sinne der StVOPedelecTretunterstützung bis 25 km/h, max. 250WRechtlich = FahrradSpeed-PedelecTretunterstützung bis 45 km/hKleinkraftrad (Klasse AM)E-BikeMotor auch ohne TretenKraftfahrzeug (je nach Leistung)E-ScooterElektro-TretrollerKraftfahrzeug (eigene Regelung)<br><br>MERKSATZ<br>"Pedelec (25 km/h) = Fahrrad | Speed-Pedelec (45 km/h) = Kraftfahrzeug (AM)!"<br><br><br>9. EU-FAHRZEUGKLASSIFIZIERUNG (L-KLASSEN) 📐<br>GEMEINSAME EINSTUFUNGSKRITERIEN (L1e-L7e)<br>Alle Fahrzeuge der Klasse L müssen folgende Kriterien erfüllen:<br><br>1. LÄNGE<br><br>Standard: ≤ 4.000 mm<br>L6e-B-Fahrzeug: ≤ 3.000 mm<br>L7e-C-Fahrzeug: ≤ 3.700 mm<br><br><br>2. BREITE<br><br>Standard: ≤ 2.000 mm<br>L1e-Fahrzeug: ≤ 1.000 mm<br>L6e-B oder L7e-C: ≤ 1.500 mm<br><br><br>3. HÖHE<br><br>≤ 2.500 mm (für alle!)<br><br><br>KLASSE L1e - LEICHTES ZWEIRÄDRIGES KRAFTFAHRZEUG 🏍️<br>KriteriumWert/AnforderungRäderZwei RäderHubraum (PI-Verbrennungsmotor)≤ 50 cm³bbH≤ 45 km/hNenndauerleistung / Nutzleistung≤ 4.000 W (4 kW)<br>UNTERKLASSE:<br>→ L1e-B: Leichte zweirädrige Kleinkrafträder (Mopeds)<br>→ Dies ist die für Klasse AM relevante Unterklasse!<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>THEORETISCHE PRÜFUNG:<br>→ Bewertung: 2-5 Punkte je nach Wichtigkeit<br>→ Ersterwerb (B, A): 30 Fragen, 110 Punkte, max. 10 Fehlerpunkte<br>→ AUSNAHME: 2x Wertigkeit 5 falsch = Durchgefallen!<br>→ Merksatz: "10 Fehlerpunkte sind erlaubt - außer bei 2x Wertigkeit 5 falsch!"<br>RAHMENPLAN vs. AUSBILDUNGSPLAN:<br>→ Rahmenplan = Gesetzliche Vorgabe (Anlage 1+2 FahrschAusbO)<br>→ Ausbildungsplan = Individuelle Umsetzung (Fahrschule)<br>→ Merksatz: "Rahmenplan = Gesetz | Ausbildungsplan = Individuelle Umsetzung"<br>GRUNDSTOFF:<br>→ 12 Doppelstunden (ohne Vorbesitz), 6 Doppelstunden (mit Vorbesitz)<br>→ Themen: Persönliche Voraussetzungen, Risikofaktor Mensch, Rechtliche Rahmenbedingungen<br>TESTBOGEN IM UNTERRICHT:<br>→ NICHT Gegenstand des theoretischen Mindestunterrichts!<br>→ Merksatz: "Testbogen ausfüllen gehört NICHT zum Mindestunterricht!"<br>DIGITALER UNTERRICHT:<br>→ Grundsätzlich Präsenzpflicht!<br>→ Ausnahme nur mit Genehmigung + synchrone Durchführung!<br>BESONDERE AUSBILDUNGSFAHRTEN (Klasse B):<br>→ 5 Überlandfahrten, 4 Autobahnfahrten, 3 Nachtfahrten<br>→ Merksatz: "5-4-3 für Klasse B!"<br>KLASSE AM:<br>→ bbH ≤ 45 km/h, Hubraum ≤ 50 cm³, Nenndauerleistung ≤ 4 kW<br>→ Merksatz: "Bis 45 km/h, bis 50 cm³, bis 4 kW - das ist AM!"<br>→ Keine Probezeit, keine Automatikbeschränkung!<br>PEDELEC vs. SPEED-PEDELEC:<br>→ Pedelec (25 km/h, 250 W) = Rechtlich Fahrrad<br>→ Speed-Pedelec (45 km/h) = Kraftfahrzeug (Klasse AM)<br>EU-FAHRZEUGKLASSEN:<br>→ L1e-B = Leichte zweirädrige Kleinkrafträder (Mopeds) - Klasse AM<br>→ L2e = Dreirädrige Kleinkrafträder - Klasse AM<br>→ L6e = Leichte vierrädrige Leichtkraftfahrzeuge - Klasse AM</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: THEORETISCHE PRÜFUNG - BESTANDEN ODER DURCHGEFALLEN?
+SITUATION:
+Fahrschüler Justin macht Theorieprüfung (Klasse B, Ersterwerb).
+ERGEBNIS:
+
+2x Wertigkeit 5 falsch (2 × 5 = 10 Fehlerpunkte)
+Sonst alles richtig
+
+FRAGE: Bestanden oder durchgefallen?
+
+RECHTLICHE ANALYSE:
+REGEL:
+→ Max. 10 Fehlerpunkte erlaubt
+→ ABER: 2x Wertigkeit 5 falsch = Durchgefallen!
+JUSTIN HAT:
+→ 10 Fehlerpunkte (unter Grenze!)
+→ ABER: 2x Wertigkeit 5 falsch!
+ANTWORT:
+→ DURCHGEFALLEN! ❌
+→ Auch wenn nur 10 Fehlerpunkte!</div>
+                        <div class="beispiel">BEISPIEL 2: TESTBOGEN IM UNTERRICHT
+SITUATION:
+Fahrlehrer plant Theorieunterricht (Grundstoff). Er will in jeder Stunde 30 Minuten Original-Prüfungsbogen ausfüllen lassen.
+FRAGE: Ist das erlaubt?
+
+RECHTLICHE ANALYSE:
+REGEL:
+→ Ausfüllen von Testbogen nach Art der Prüfungsbogen darf NICHT Gegenstand des theoretischen Mindestunterrichts sein!
+WAS HEISST DAS?
+→ Im Pflichtunterricht (12 DS Grundstoff) KEINE Original-Prüfungsbogen!
+ANTWORT:
+→ NEIN, nicht erlaubt! ❌
+→ Testbogen gehören nicht zum Mindestunterricht!
+→ Fahrlehrer muss Verständnis vermitteln, nicht nur Testbogen trainieren!
+ABER:
+→ Zusätzlicher Unterricht (über 12 DS hinaus) = ok!
+→ Lernkontrollen (Verständnisfragen) = ok!</div>
+                        <div class="beispiel">BEISPIEL 3: DIGITALER UNTERRICHT - ERLAUBT?
+SITUATION:
+Fahrschule will wegen Corona alle Theoriestunden digital als Live-Stream anbieten (synchron, alle gleichzeitig online).
+FRAGE: Ist das erlaubt?
+
+RECHTLICHE ANALYSE:
+GRUNDREGEL:
+→ Theoretischer Unterricht setzt grundsätzlich physische Präsenz voraus!
+AUSNAHME:
+→ In begründeten Ausnahmefällen (z.B. Corona!) kann digitaler Unterricht stattfinden
+VORAUSSETZUNGEN:
+
+Genehmigung der Landesbehörde erforderlich!
+Synchrone Durchführung (zeitgleich!) ✅ (Live-Stream erfüllt das!)
+Erfüllung der Anforderungen nach Anlage 2a zur DV-FahrlG
+Weitere Auflagen möglich
+
+ANTWORT:
+→ JA, erlaubt! ✅
+→ Wenn: Genehmigung der Landesbehörde vorliegt + synchrone Durchführung + Anforderungen Anlage 2a erfüllt!
+→ Corona = begründeter Ausnahmefall!</div>
+                        <div class="beispiel">BEISPIEL 4: BESONDERE AUSBILDUNGSFAHRTEN - AUFSTIEG A1 → A2
+SITUATION:
+Fahrschüler hat A1 und will A2 machen (Aufstieg).
+FRAGE: Wie viele besondere Ausbildungsfahrten sind erforderlich?
+
+RECHTLICHE ANALYSE:
+AUFSTIEG A1 → A2:
+Überlandfahrten: 3 (statt 5 bei Ersterwerb!)
+Autobahnfahrten: 2 (statt 4 bei Ersterwerb!)
+Nachtfahrten: (siehe Anlage 4 - reduziert!)
+ANTWORT:
+→ 3 Überlandfahrten, 2 Autobahnfahrten (plus Nachtfahrten nach Anlage 4)
+→ Weniger als bei Ersterwerb, weil schon Erfahrung vorhanden!</div>
+                        <div class="beispiel">BEISPIEL 5: PEDELEC ODER SPEED-PEDELEC?
+SITUATION:
+Fahrschüler fragt: "Ich habe ein E-Bike mit Tretunterstützung bis 45 km/h. Brauche ich einen Führerschein?"
+FRAGE: Pedelec oder Speed-Pedelec? Führerschein erforderlich?
+
+RECHTLICHE ANALYSE:
+DEFINITION:
+Pedelec:
+
+Tretunterstützung bis 25 km/h
+Max. 250 W
+Rechtlich = Fahrrad (kein Führerschein!)
+
+Speed-Pedelec:
+
+Tretunterstützung bis 45 km/h
+Rechtlich = Kraftfahrzeug (Klasse AM)!
+
+FAHRSCHÜLER HAT:
+→ 45 km/h = Speed-Pedelec!
+ANTWORT:
+→ JA, Führerschein erforderlich! ✅
+→ Mindestens Klasse AM (oder höher: A1, A2, A, B)!
+→ Plus: Helmpflicht, Versicherungskennzeichen, NUR Fahrbahn (nicht Radweg!)**</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min = 2 x 60 Min)<br><br>UNTERRICHTSEINHEIT 1: THEORETISCHE PRÜFUNG &amp; AUSBILDUNGSORDNUNG (60 Min)<br>Einstieg (10 Min):<br>Methode: Quiz<br>Ablauf: "10 Fehlerpunkte - bestanden oder durchgefallen?" Verschiedene Szenarien (2x Wertigkeit 5, 1x Wertigkeit 5 + andere, 11 Fehlerpunkte). Anwärter raten. Überleitung: "Heute lernen wir das Bewertungssystem!"<br>Ziel: Interesse wecken, Vorwissen aktivieren<br><br>Hauptteil (45 Min):<br>Phase 1: Bewertungssystem (15 Min)<br>Dozent erklärt: Wertigkeit 2-5 Punkte. Wichtig: 10-Fehlerpunkte-Regel + 2x Wertigkeit-5-Ausnahme! Übung: 5 Szenarien durchrechnen (bestanden/durchgefallen?). Anwärter rechnen selbst.<br>Phase 2: Rahmenplan vs. Ausbildungsplan (15 Min)<br>Dozent erklärt Unterschied. Vergleichstabelle an Tafel! Gruppenarbeit: 2 Gruppen - eine erstellt Rahmenplan-Mindmap, andere Ausbildungsplan-Mindmap. Vergleich!<br>Phase 3: Grundstoff + Testbogen-Verbot (15 Min)<br>Dozent erklärt: 12 DS Grundstoff (6 bei Vorbesitz), Themen. Wichtig: Testbogen gehören NICHT zum Mindestunterricht! Diskussion: Warum ist das so? (Verständnis statt Training!)<br><br>Schluss (5 Min):<br>Sicherung: "10 Fehlerpunkte ok, außer?" → 2x Wertigkeit 5! "Testbogen im Unterricht?" → NEIN!<br>Ausblick: "Nächste Stunde: Fahrerlaubnisklassen &amp; Radverkehr!"<br><br>UNTERRICHTSEINHEIT 2: FAHRERLAUBNISKLASSEN &amp; RADVERKEHR (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Wie viele Überlandfahrten Klasse B?" → 5!<br><br>Hauptteil (50 Min):<br>Phase 1: Besondere Ausbildungsfahrten (15 Min)<br>Dozent zeigt Tabelle: Überlandfahrten, Autobahnfahrten, Nachtfahrten. Wichtig: Unterschied Ersterwerb vs. Aufstieg! Übung: A1 → A2: Wie viele Fahrten? (3-2-X)<br>Phase 2: Klasse AM + EU-Klassifizierung (20 Min)<br>Dozent erklärt: Klasse AM (45 km/h, 50 cm³, 4 kW). EU-Klassen: L1e-B, L2e, L6e. Tabelle an Tafel! Wichtig: Keine Probezeit, keine Automatikbeschränkung!<br>Phase 3: Radverkehr (Pedelec vs. Speed-Pedelec) (15 Min)<br>Dozent erklärt Unterschied: 25 km/h vs. 45 km/h, Fahrrad vs. Kraftfahrzeug. Praxisbeispiel: Kunde will E-Bike kaufen → Beratung! Rollenspiel: A = Kunde, B = Fahrlehrer.<br><br>Schluss (5 Min):<br>Sicherung: "AM bis?" → 45 km/h, 50 cm³, 4 kW! "Pedelec = ?" → Fahrrad!<br>Hausaufgabe: Erstelle Tabelle: Alle Fahrerlaubnisklassen (AM, A1, A2, A, B)!</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>10-Fehlerpunkte-Regel + Ausnahme ist zentral! Viele Übungsbeispiele!<br>Testbogen-Verbot betonen! (Häufiger Fehler in Fahrschulen!)<br>Rahmenplan vs. Ausbildungsplan = Prüfungsliebling!<br>EU-Klassifizierung (L1e, L2e, L6e) kann verwirrend sein → Tabelle!<br><br>Häufige Fehler der Anwärter:<br><br>Denken, 10 Fehlerpunkte immer ok (2x Wertigkeit 5 vergessen!)<br>Verwechseln Rahmenplan und Ausbildungsplan<br>Denken, Testbogen gehören zum Unterricht<br>Pedelec und Speed-Pedelec verwechseln<br><br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Tabellen für alles erstellen! (Übersichtlich!)<br>Praxisbeispiele durchspielen!<br>EU-Klassen: Fokus auf AM-relevante (L1e-B, L2e, L6e)!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie die 10-Fehlerpunkte-Regel bei der theoretischen Prüfung. Wann gilt die Ausnahme?<br>Antwort: Bei der theoretischen Prüfung (Ersterwerb Klasse B, A, etc.) sind maximal 10 Fehlerpunkte erlaubt. AUSNAHME: Wenn zwei Fragen mit Wertigkeit 5 falsch beantwortet wurden, ist man durchgefallen - auch wenn insgesamt nur 10 Fehlerpunkte erreicht wurden! Grund: Fragen mit Wertigkeit 5 sind besonders wichtig für die Verkehrssicherheit. Merksatz: "10 Fehlerpunkte sind erlaubt - außer bei 2x Wertigkeit 5 falsch!"<br><br>Frage 2: Was ist der Unterschied zwischen Rahmenplan und Ausbildungsplan?<br>Antwort: Rahmenplan: Gesetzliche Vorgabe mit festgelegten Inhalten und Mindestumfang. Wird vom Gesetzgeber (BMVI) erstellt. Steht in Anlage 1+2 FahrschAusbO. Verbindlich! Muss eingehalten werden. Ausbildungsplan: Individuelle Planung der Fahrschule, angepasst an Schüler und Klassen. Wird von der Fahrschule erstellt. Muss sich am Rahmenplan orientieren, aber kann individuell angepasst werden. Merksatz: "Rahmenplan = Gesetz | Ausbildungsplan = Individuelle Umsetzung"<br><br>Frage 3: Darf im theoretischen Mindestunterricht das Ausfüllen von Testbogen nach Art der Prüfungsbogen stattfinden?<br>Antwort: NEIN! Das Ausfüllen von Testbogen nach Art der Prüfungsbogen darf NICHT Gegenstand des theoretischen Mindestunterrichts sein! Grund: Der Unterricht soll Verständnis vermitteln, nicht nur Testbogen trainieren. Lernkontrollen (Verständnisfragen, Diskussionen) sind ok, aber kein Original-Prüfungsbogen-Training im Pflichtunterricht (12 DS Grundstoff + Zusatzstoff). Testbogen-Training ist nur in zusätzlichem Unterricht (über Mindestumfang hinaus) erlaubt. Merksatz: "Testbogen ausfüllen gehört NICHT zum Mindestunterricht!"<br><br>Frage 4: Nennen Sie die besonderen Ausbildungsfahrten für die Klasse B (Ersterwerb).<br>Antwort: Besondere Ausbildungsfahrten Klasse B (Ersterwerb): 1. Überlandfahrten: 5 Fahrstunden (à 45 Min.) - Fahrten außerhalb geschlossener Ortschaften, davon mind. eine Fahrt mit 2 Stunden Dauer. 2. Autobahnfahrten: 4 Fahrstunden (à 45 Min.) - Schulung auf Autobahnen oder Kraftfahrstraßen (mit Mittelstreifen, mind. 2 Fahrstreifen je Richtung), davon mind. eine Fahrt mit 2 Stunden Dauer, soweit möglich mind. 1 Stunde auf den genannten Straßen. 3. Nachtfahrten/Beleuchtungsfahrten: 3 Fahrstunden (à 45 Min.) - Fahrten bei Dunkelheit oder Dämmerung. Merksatz: "5-4-3 für Klasse B!"<br><br>Frage 5: Was sind die technischen Anforderungen an ein Fahrzeug der Klasse AM? Nennen Sie die drei Hauptkriterien.<br>Antwort: Klasse AM - Technische Anforderungen (Hauptkriterien): 1. Bauartbedingte Höchstgeschwindigkeit (bbH): ≤ 45 km/h, 2. Hubraum: ≤ 50 cm³ (bei Verbrennungsmotor mit Fremdzündung), 3. Maximale Nenndauerleistung: ≤ 4 kW (4.000 Watt). EU-Fahrzeugklassen: L1e-B (zweirädrige Kleinkrafträder/Mopeds), L2e (dreirädrige Kleinkrafträder), L6e (leichte vierrädrige Leichtkraftfahrzeuge). Besonderheiten Klasse AM: Keine Probezeit, keine Automatikbeschränkung, Mindestalter 15 Jahre (Schlüsselzahl 194 - bis 16 nur im Inland). Merksatz: "Bis 45 km/h, bis 50 cm³, bis 4 kW - das ist AM!"<br><br>Frage 6: Unterscheiden Sie Pedelec und Speed-Pedelec. Was ist der rechtliche Unterschied?<br>Antwort: Pedelec: Tretunterstützung bis 25 km/h, maximale Motorleistung 250 Watt. Rechtlich = Fahrrad! Keine Fahrerlaubnis erforderlich, keine Helmpflicht, keine Versicherungspflicht, darf auf Radwegen fahren. Speed-Pedelec: Tretunterstützung bis 45 km/h, höhere Motorleistung. Rechtlich = Kraftfahrzeug (Kleinkraftrad der Klasse AM)! Mindestens Klasse AM (oder höher) erforderlich, Helmpflicht, Versicherungskennzeichen (Haftpflicht), darf NUR auf Fahrbahn fahren (nicht Radweg!). Merksatz: "Pedelec (25 km/h) = Fahrrad | Speed-Pedelec (45 km/h) = Kraftfahrzeug (AM)!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="recht_1767469150036" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
