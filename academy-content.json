@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T00:11:45.614Z">
+    <meta name="last-updated" content="2026-01-04T00:29:32.436Z">
 </head>
 <body>
     <div id="academy-data">
@@ -2592,6 +2592,173 @@ Fahrschüler schätzt: "20-25 Meter?"
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Nennen Sie die 4 Grundformeln der Fahrphysik.Antwort: 1. Reaktionsweg = (Geschw. ÷ 10) × 3, 2. Bremsweg = (Geschw. ÷ 10) × (Geschw. ÷ 10), 3. Gefahrenbremsweg = Bremsweg ÷ 2, 4. Anhalteweg = Reaktionsweg + Bremsweg (bzw. + Gefahrenbremsweg).Frage 2: Erklären Sie das 30/50-Problem und berechnen Sie beide Fälle.Antwort: Szenario: Kind bei 13,5 m. Fall 1 (30 km/h): Reaktionsweg 9 m + Gefahrenbremsweg 4,5 m = Anhalteweg 13,5 m → Fahrzeug steht vor Kind → Kind überlebt! Fall 2 (50 km/h): Reaktionsweg 15 m (Kind schon bei 13,5 m!) → Kind wird mit voller Geschwindigkeit (50 km/h) erfasst BEVOR Bremsung beginnt → Kind stirbt! Erkenntnis: 20 km/h Unterschied = Leben oder Tod!Frage 3: Was besagt der "Goldene Merksatz" und beweisen Sie ihn mit einem Beispiel.Antwort: "Verdoppelst du die Geschwindigkeit → vervierfacht sich der Bremsweg." Beweis: 30 km/h: Bremsweg = 9 m. 60 km/h (doppelt): Bremsweg = 36 m. 36 ÷ 9 = 4 → Vervierfachung! Grund: Bremsweg ist quadratisch zur Geschwindigkeit [(Geschw. ÷ 10)²].Frage 4: Berechnen Sie für 100 km/h: Reaktionsweg, Bremsweg, Gefahrenbremsweg, Anhalteweg normal, Anhalteweg Gefahr.Antwort: Reaktionsweg: (100 ÷ 10) × 3 = 30 m. Bremsweg: (100 ÷ 10) × (100 ÷ 10) = 100 m. Gefahrenbremsweg: 100 ÷ 2 = 50 m. Anhalteweg normal: 30 + 100 = 130 m. Anhalteweg Gefahr: 30 + 50 = 80 m.Frage 5: Was ist der Reaktionsweg und warum ist er so entscheidend?Antwort: Reaktionsweg = Strecke vom Erkennen der Gefahr bis Beginn des Bremsens (ca. 1 Sekunde). Entscheidend, weil: In dieser Zeit fährt Fahrzeug UNGEBREMST weiter! Beispiel 50 km/h: 15 m ungebremst! Beim 30/50-Problem: Bei 50 km/h ist Reaktionsweg (15 m) größer als gesamter Anhalteweg bei 30 km/h (13,5 m) → Kind wird VOR Bremsbeginn erfasst!Frage 6: Erklären Sie §3 StVO "Fahren auf Sicht" mit Bezug zu Bremswegen.Antwort: §3 StVO: "Nur so schnell fahren, dass innerhalb übersehbarer Strecke gehalten werden kann." Bedeutung: Anhalteweg ≤ Sichtweite! Beispiel: Nebel, Sichtweite 30 m → max. ca. 50 km/h (Anhalteweg Gefahr 27,5 m &amp;lt; 30 m). Wenn Sichtweite 80 m → max. ca. 100 km/h (Anhalteweg Gefahr 80 m). Wichtig: Bei schlechter Sicht LANGSAMER!Frage 7: Warum ist der Gefahrenbremsweg kürzer als der normale Bremsweg?Antwort: Bei normaler Bremsung: Komfortable Bremsung (50-60% Kraft). Bei Gefahrenbremsung: Vollbremsung mit 100% Kraft! ABS verhindert Blockieren, maximale Haftung wird genutzt. Deshalb: Gefahrenbremsweg = Bremsweg ÷ 2. ABER: Reaktionsweg bleibt gleich! Man kann nicht schneller reagieren!Frage 8: Ein Fahrschüler fährt bei 40 m Sichtweite (Nebel) mit 80 km/h. Ist das erlaubt? Begründen Sie mit Rechnung.Antwort: NEIN! Rechnung: 80 km/h → Anhalteweg Gefahr = 24 m + 32 m = 56 m. Sichtweite = 40 m. 56 m &amp;gt; 40 m → Anhalteweg größer als Sichtweite! Verstößt gegen §3 StVO "Fahren auf Sicht"! Richtig wäre: Ca. 60 km/h (Anhalteweg Gefahr = 36 m &amp;lt; 40 m).Frage 9: Wie vermitteln Sie das 30/50-Problem emotional wirksam an Fahrschüler?Antwort: 1. Persönlich machen: "Stell dir vor, das ist dein kleiner Bruder/Schwester." 2. Rechnung live vorführen (nicht nur erzählen!). 3. Beide Fälle klar vergleichen (30 = Leben, 50 = Tod). 4. Stille Pause nach Ergebnis (wirken lassen!). 5. Verbindung zu Realität: "Deshalb 30 vor Schulen!" 6. Optional: Video zeigen (Crashtest). Ziel: Emotional berühren, nicht nur Zahlen vermitteln!Frage 10: Nennen Sie alle Bremswege für 30 km/h und 60 km/h und zeigen Sie die Vervierfachung.Antwort: 30 km/h: Reaktionsweg 9 m, Bremsweg 9 m, Gefahrenbremsweg 4,5 m, Anhalteweg normal 18 m, Anhalteweg Gefahr 13,5 m. 60 km/h (doppelte Geschw.): Reaktionsweg 18 m (doppelt!), Bremsweg 36 m (vierfach!), Gefahrenbremsweg 18 m (vierfach!), Anhalteweg normal 54 m, Anhalteweg Gefahr 36 m. Vervierfachung: Bremsweg 9 → 36 (×4), Gefahrenbremsweg 4,5 → 18 (×4). Reaktionsweg nur verdoppelt (9 → 18)!</div>
                     </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767486470779" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Kraftstoffversorgung und Einspritzsysteme bei Otto- und Dieselmotoren</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Aufbau und Funktion des Kraftstoffsystems verstehen</div>
+                    <div class="lernziel">Komponenten der Kraftstoffversorgung (Pumpe, Filter, Injektoren) kennen</div>
+                    <div class="lernziel">Unterschied zwischen Otto- und Diesel-Einspritzung erklären können</div>
+                    <div class="lernziel">Innere vs. äußere Gemischbildung unterscheiden</div>
+                    <div class="lernziel">Funktionsprinzip der Kraftstoffeinspritzung beherrschen</div>
+                    <div class="lernziel">Common-Rail-System (Diesel) verstehen</div>
+                    <div class="lernziel">Saugrohreinspritzung vs. Direkteinspritzung (Otto) unterscheiden</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. KRAFTSTOFFVERSORGUNG - ÜBERSICHT 🛢️<br>WAS IST DAS KRAFTSTOFFSYSTEM?<br>DEFINITION:<br>Das Kraftstoffsystem versorgt den Motor mit der richtigen Menge Kraftstoff zur richtigen Zeit in der richtigen Form (fein zerstäubt).<br><br>HAUPTAUFGABEN:<br><br>Kraftstoff fördern (vom Tank zum Motor)<br>Kraftstoff filtern (Verunreinigungen entfernen)<br>Kraftstoff dosieren (exakte Menge)<br>Kraftstoff zerstäuben (feine Tröpfchen für optimale Verbrennung)<br>Druck aufbauen (besonders bei Einspritzung)<br><br><br>GRUNDSÄTZLICHER AUFBAU<br>🛢️ KRAFTSTOFFTANK<br>    ↓<br>💧 KRAFTSTOFFPUMPE (fördert Kraftstoff)<br>    ↓<br>🔍 KRAFTSTOFFFILTER (reinigt)<br>    ↓<br>📊 KRAFTSTOFFDRUCKREGLER (hält Druck konstant)<br>    ↓<br>💉 EINSPRITZVENTILE / INJEKTOREN (spritzen ein)<br>    ↓<br>🔥 BRENNRAUM (Verbrennung)<br><br><br>2. KOMPONENTEN DES KRAFTSTOFFSYSTEMS 🔧<br>1️⃣ KRAFTSTOFFPUMPE 💧<br>FUNKTION:<br>Fördert Kraftstoff vom Tank zu den Einspritzventilen und baut den notwendigen Druck auf.<br><br>ARTEN:<br>A) ELEKTRISCHE KRAFTSTOFFPUMPE (Standard bei modernen Fahrzeugen)<br>LAGE:<br>Im Kraftstofftank (getaucht im Kraftstoff)<br>VORTEILE:<br><br>✅ Kühllung durch Kraftstoff<br>✅ Weniger Geräusche (Kraftstoff dämpft)<br>✅ Kein Ansaugproblem (unter Druck)<br>✅ Frühe Druckversorgung beim Starten<br><br>TYP:<br>Elektromotor mit Kreiselpumpe<br>DRUCK:<br><br>Saugrohreinspritzung (Otto): 3-5 bar<br>Direkteinspritzung (Otto): Vorförderpumpe 5-7 bar + Hochdruckpumpe bis 200 bar<br>Diesel: Vorförderpumpe 0,5-3 bar (Hochdruck durch Common-Rail-Pumpe)<br><br><br>B) MECHANISCHE KRAFTSTOFFPUMPE (veraltet, alte Vergaser-Motoren)<br>LAGE:<br>Am Motor (extern)<br>ANTRIEB:<br>Mechanisch über Nockenwelle<br>NACHTEILE:<br><br>❌ Höhere Geräuschentwicklung<br>❌ Verschleiß<br>❌ Heute kaum noch verbaut<br><br><br>MERKSATZ<br>"Moderne Fahrzeuge: Elektrische Pumpe im Tank! Leise, gekühlt, druckstabil!"<br><br><br>2️⃣ KRAFTSTOFFFILTER 🔍<br>FUNKTION:<br>Entfernt Verunreinigungen (Schmutz, Rost, Wasser) aus dem Kraftstoff.<br><br>WARUM WICHTIG?<br>Einspritzventile arbeiten mit höchster Präzision!<br><br>Düsenöffnungen: 0,1-0,2 mm (Otto), 0,15-0,25 mm (Diesel)<br>Kleinste Partikel können Düsen verstopfen!<br>Verschmutzte Injektoren → schlechte Zerstäubung → Leistungsverlust, erhöhter Verbrauch, Motorschäden<br><br><br>AUFBAU:<br>FILTERMATERIAL:<br><br>Papier oder Vlies (feinporig)<br>Filtert Partikel ab 5-10 μm (1 μm = 0,001 mm!)<br><br>BESONDERHEIT DIESELFILTER:<br><br>Oft mit Wasserabscheider (Diesel zieht Wasser an!)<br>Wasser sammelt sich am Boden<br>Sensor warnt bei zu viel Wasser<br>Manuell oder automatisch entleerbar<br><br><br>WARTUNG:<br>WICHTIG:<br>Regelmäßiger Wechsel notwendig!<br>INTERVALLE:<br><br>Otto: ca. 60.000-80.000 km<br>Diesel: ca. 60.000 km (häufiger bei minderwertiger Kraftstoffqualität!)<br><br>FOLGEN BEI VERSCHMUTZUNG:<br><br>❌ Motorleistungsverlust<br>❌ Erhöhter Verbrauch<br>❌ Motorschäden (Einspritzventile!)<br>❌ Schlechte Zerstäubung<br>❌ Unrunder Motorlauf<br><br><br>MERKSATZ<br>"Kraftstofffilter schützt Einspritzventile vor Verschmutzung und Beschädigung! Regelmäßiger Wechsel ist Pflicht!"<br><br><br>3️⃣ EINSPRITZVENTILE (INJEKTOREN) 💉<br>FUNKTION:<br>Zerstäuben und Einspritzen des Kraftstoffs in den Brennraum (Direkteinspritzung) oder ins Saugrohr (Saugrohreinspritzung).<br><br>AUFBAU:<br>ELEKTROMAGNETISCH GESTEUERTE VENTILE<br>KOMPONENTEN:<br><br>Magnetspule (elektromagnetischer Antrieb)<br>Ventilnadel (öffnet/schließt Düse)<br>Düse (feine Öffnung für Zerstäubung)<br>Feder (hält Ventil geschlossen)<br><br><br>FUNKTIONSPRINZIP:<br><br>Motorsteuergerät (ECU) berechnet Einspritzmenge und -zeitpunkt<br>Elektrischer Impuls an Magnetspule<br>Magnetfeld zieht Ventilnadel hoch<br>Ventil öffnet (nur wenige Millisekunden!)<br>Kraftstoff wird unter Druck fein zerstäubt eingespritzt<br>Impuls endet → Feder drückt Ventilnadel zurück → Ventil schließt<br><br><br>MERKMALE:<br>PRÄZISE DOSIERUNG:<br><br>Öffnungszeit im Millisekunden-Bereich (ms)!<br>1 ms = 0,001 Sekunden<br>Hochpräzise Steuerung durch ECU<br><br>FEINE ZERSTÄUBUNG:<br><br>Kraftstoff wird in feine Tröpfchen zerlegt<br>Optimale Vermischung mit Luft<br>Bessere Verbrennung<br><br>SCHNELLES ÖFFNEN/SCHLIESSEN:<br><br>Bis zu mehrfach pro Arbeitstakt (Vor-, Haupt-, Nacheinspritzung beim Diesel!)<br><br><br>MERKSATZ<br>"Injektoren zerstäuben Kraftstoff präzise im Millisekunden-Bereich für optimale Verbrennung!"<br><br><br>4️⃣ KRAFTSTOFFDRUCKREGLER 📊<br>FUNKTION:<br>Hält den Kraftstoffdruck im System konstant.<br><br>WARUM WICHTIG?<br>Gleichbleibender Druck = gleichbleibende Einspritzmenge!<br><br>Zu hoher Druck → zu viel Kraftstoff → fettes Gemisch<br>Zu niedriger Druck → zu wenig Kraftstoff → mageres Gemisch<br><br><br>FUNKTIONSPRINZIP:<br>Überschüssiger Kraftstoff wird zurück zum Tank geleitet (Rücklaufleitung).<br>BEI DIREKTEINSPRITZUNG:<br><br>Hochdruckregelung im Common-Rail-System (Diesel)<br>Rail = Hochdruckspeicher, Druck konstant halten<br><br><br>MERKSATZ<br>"Kraftstoffdruckregler sorgt für konstanten Druck = konstante Einspritzmengen!"<br><br><br>3. GEMISCHBILDUNG: INNEN vs. AUSSEN 🔥<br>WAS IST GEMISCHBILDUNG?<br>DEFINITION:<br>Gemischbildung ist die Vermischung von Kraftstoff und Luft vor oder während der Verbrennung.<br><br>1️⃣ ÄUßERE GEMISCHBILDUNG<br>WO?<br>Außerhalb des Brennraums (im Saugrohr)<br>WIE?<br>Kraftstoff wird ins Saugrohr eingespritzt → vermischt sich dort mit Luft → fertiges Gemisch wird angesaugt<br>BEISPIELE:<br><br>Vergaser (veraltet!)<br>Saugrohreinspritzung (MPI - Multi Point Injection)<br><br>VORTEILE:<br><br>✅ Einfacher Aufbau<br>✅ Gute Gemischverteilung<br>✅ Niedrigerer Druck nötig (3-5 bar)<br><br>NACHTEILE:<br><br>❌ Weniger präzise Dosierung<br>❌ Kraftstoff kann sich an Saugrohrwänden niederschlagen<br>❌ Nicht optimal für Effizienz und Emissionen<br><br>MOTORTYP:<br>Ottomotor (Saugrohreinspritzung)<br><br>2️⃣ INNERE GEMISCHBILDUNG<br>WO?<br>Direkt im Brennraum<br>WIE?<br>Kraftstoff wird direkt in den Brennraum eingespritzt → vermischt sich dort mit Luft → Verbrennung<br>BEISPIELE:<br><br>Direkteinspritzung (FSI, GDI, TFSI - Otto)<br>Common-Rail (Diesel - IMMER innere Gemischbildung!)<br><br>VORTEILE:<br><br>✅ Präzisere Dosierung<br>✅ Bessere Verbrennung<br>✅ Höherer Wirkungsgrad<br>✅ Niedrigere Emissionen<br>✅ Weniger Verbrauch<br><br>NACHTEILE:<br><br>❌ Hoher Druck nötig (Otto: bis 200 bar, Diesel: bis 2.500 bar!)<br>❌ Komplexerer Aufbau<br>❌ Höhere Kosten<br><br>MOTORTYP:<br>Ottomotor (Direkteinspritzung) + Dieselmotor (IMMER innere Gemischbildung!)<br><br>VERGLEICHSTABELLE<br>MerkmalÄußere GemischbildungInnere GemischbildungOrtSaugrohr (außerhalb Brennraum)Brennraum (direkt)BeispielVergaser, SaugrohreinspritzungDirekteinspritzung (Otto + Diesel)DruckNiedrig (3-5 bar)Hoch (Otto: 200 bar, Diesel: 2.500 bar)PräzisionGeringerHöherEffizienzGeringerHöherVerbrauchHöherNiedrigerEmissionenHöherNiedrigerMotortypOttomotor (veraltet/Standardeinspritzung)Ottomotor (modern) + Dieselmotor (immer!)<br><br>MERKSATZ<br>"Äußere Gemischbildung = Saugrohr (veraltet/Standard-Otto). Innere Gemischbildung = Brennraum (moderne Otto + ALLE Diesel)!"<br><br><br>4. OTTO-EINSPRITZUNG: SAUGROHR vs. DIREKT ⛽<br>1️⃣ SAUGROHREINSPRITZUNG (MPI - MULTI POINT INJECTION)<br>FUNKTIONSPRINZIP:<br>Kraftstoff wird ins Saugrohr eingespritzt (vor Einlassventil)<br>→ Vermischt sich dort mit angesaugter Luft<br>→ Fertiges Gemisch wird angesaugt<br>→ Äußere Gemischbildung!<br><br>AUFBAU:<br><br>Elektrische Kraftstoffpumpe im Tank (3-5 bar)<br>Kraftstoffverteilerleiste (Rail)<br>Ein Injektor pro Zylinder (vor Einlassventil)<br>Kraftstoffdruckregler<br><br><br>VORTEILE:<br>✅ Einfacher Aufbau<br>✅ Niedrigerer Druck (3-5 bar)<br>✅ Zuverlässig<br>✅ Bewährt<br><br>NACHTEILE:<br>❌ Weniger effizient als Direkteinspritzung<br>❌ Höherer Verbrauch<br>❌ Höhere Emissionen<br>❌ Kraftstoff kann sich an Saugrohrwänden niederschlagen<br><br>EINSATZ:<br>Standard bei älteren und einfacheren Ottomotoren<br><br><br>2️⃣ DIREKTEINSPRITZUNG (FSI, GDI, TFSI)<br>FUNKTIONSPRINZIP:<br>Kraftstoff wird direkt in den Brennraum eingespritzt (während Verdichtungstakt oder Ansaugtakt)<br>→ Innere Gemischbildung!<br>→ Präzisere Dosierung<br>→ Bessere Verbrennung<br><br>AUFBAU:<br><br>Niederdruckpumpe im Tank (5-7 bar - Vorförderpumpe)<br>Hochdruckpumpe am Motor (bis 200 bar!)<br>Hochdruckspeicher (Rail)<br>Injektoren direkt im Brennraum (hochpräzise!)<br><br><br>VORTEILE:<br>✅ 10-15% weniger Verbrauch (höherer Wirkungsgrad!)<br>✅ Bessere Leistung (mehr Drehmoment!)<br>✅ Niedrigere Emissionen (CO₂!)<br>✅ Präzisere Gemischbildung<br>✅ Klopffestigkeit höher (Gemisch kühlt Brennraum!)<br><br>NACHTEILE:<br>❌ Komplexer Aufbau (Hochdruckpumpe!)<br>❌ Höhere Kosten<br>❌ Rußbildung möglich (bei schlechter Verbrennung!)<br>❌ Partikelfilter nötig (GPF - Gasoline Particulate Filter!)<br><br>EINSATZ:<br>Moderne Ottomotoren (Standard seit ca. 2005+)<br>BEZEICHNUNGEN:<br><br>FSI (Fuel Stratified Injection - VW/Audi)<br>GDI (Gasoline Direct Injection - Hyundai, Kia, Mazda)<br>TFSI (Turbo FSI - VW/Audi mit Turbolader)<br><br><br><br>VERGLEICHSTABELLE: SAUGROHR vs. DIREKT<br>MerkmalSaugrohreinspritzung (MPI)Direkteinspritzung (FSI/GDI)GemischbildungÄußere (im Saugrohr)Innere (im Brennraum)Druck3-5 barbis 200 barVerbrauchHöher10-15% niedrigerLeistungStandardHöher (+10-15%)Emissionen (CO₂)HöherNiedrigerRußbildungKaumMöglich (GPF nötig!)KomplexitätEinfachKomplex (Hochdruckpumpe!)KostenGünstigerTeurerEinsatzÄltere/einfache MotorenModerne Motoren (Standard heute!)<br><br>MERKSATZ<br>"Saugrohr = einfach, veraltet. Direkt = effizient, modern, aber komplex! Direkteinspritzung spart 10-15% Verbrauch!"<br><br><br>5. DIESEL-EINSPRITZUNG: COMMON-RAIL ⚫<br>WARUM NUR DIREKTEINSPRITZUNG BEIM DIESEL?<br>DIESEL = IMMER INNERE GEMISCHBILDUNG!<br>GRUND:<br>Dieselmotor funktioniert durch Selbstzündung!<br><br>Nur Luft wird angesaugt (KEIN Kraftstoff!)<br>Luft wird stark verdichtet (16:1 bis 24:1)<br>Temperatur steigt auf 700-900°C<br>Kraftstoff wird eingespritzt → entzündet sich sofort an heißer Luft!<br><br>→ Kraftstoff MUSS direkt in Brennraum eingespritzt werden! (dort ist die heiße Luft!)<br><br><br>COMMON-RAIL-SYSTEM (STANDARD SEIT CA. 1997)<br>WAS IST COMMON-RAIL?<br>DEFINITION:<br>Common-Rail = gemeinsame Hochdruckleiste (Rail) für alle Zylinder<br>"Common" = gemeinsam<br>"Rail" = Schiene/Leitung<br><br>FUNKTIONSPRINZIP:<br>1. NIEDERDRUCKPUMPE (im Tank)<br>   ↓ (0,5-3 bar)<br>2. HOCHDRUCKPUMPE (am Motor)<br>   ↓ (200-2.500 bar!)<br>3. COMMON-RAIL (Hochdruckspeicher)<br>   ↓ (Druck konstant!)<br>4. INJEKTOREN (pro Zylinder)<br>   ↓ (präzise Einspritzung!)<br>5. BRENNRAUM (Selbstzündung!)<br><br>VORTEILE COMMON-RAIL:<br>✅ Druck unabhängig von Motordrehzahl (Rail speichert Druck!)<br>✅ Mehrfacheinspritzung möglich:<br><br>Voreinspritzung (1-3x) → weicherer Motorlauf, weniger "Nageln"<br>Haupteinspritzung → eigentliche Verbrennung<br>Nacheinspritzung (1-2x) → DPF-Regeneration, Emissionsreduktion<br><br>✅ Präzise Dosierung (Einspritzmenge + Zeitpunkt!)<br>✅ Hoher Druck (bis 2.500 bar!) → feinste Zerstäubung!<br>✅ Leiser Motorlauf (Voreinspritzung!)<br>✅ Niedrigere Emissionen (NOₓ, Ruß!)<br>✅ Mehr Leistung bei weniger Verbrauch!<br><br>KOMPONENTEN:<br>1. NIEDERDRUCKPUMPE:<br><br>Im Tank oder am Motor<br>Fördert Kraftstoff zur Hochdruckpumpe (0,5-3 bar)<br><br>2. HOCHDRUCKPUMPE:<br><br>Am Motor (mechanisch angetrieben über Nockenwelle oder Zahnriemen)<br>Kolbenpumpe (erzeugt extrem hohen Druck!)<br>Druck: 200-2.500 bar (je nach System!)<br><br>3. COMMON-RAIL (HOCHDRUCKSPEICHER):<br><br>Hochdruckleiste (alle Injektoren angeschlossen!)<br>Speichert Kraftstoff unter konstantem Hochdruck<br>Drucksensor überwacht Druck → meldet an Steuergerät<br>Druckregelventil hält Druck konstant<br><br>4. INJEKTOREN:<br><br>Piezo-Injektoren (schneller als Magnetventil-Injektoren!)<br><br>Reaktionszeit &lt; 0,1 ms!<br>Mehrfacheinspritzung (bis zu 7x pro Arbeitstakt!)<br><br><br>ODER: Magnetventil-Injektoren (Standard)<br><br>Etwas langsamer, aber zuverlässig<br><br><br><br>5. MOTORSTEUERGERÄT (ECU):<br><br>Berechnet Einspritzmenge, -zeitpunkt, -anzahl<br>Steuert Injektoren präzise (Millisekunden!)<br>Berücksichtigt: Drehzahl, Last, Temperatur, Luftmenge, etc.<br><br><br>EINSPRITZSTRATEGIE:<br>MEHRFACHEINSPRITZUNG:<br>1️⃣ VOREINSPRITZUNG (1-3x)<br>   - Kleine Menge (ca. 1-2 mm³)<br>   - Zweck: Brennraum vorwärmen<br>   - Effekt: Weicherer Motorlauf, weniger "Nageln"<br><br>2️⃣ HAUPTEINSPRITZUNG<br>   - Hauptmenge Kraftstoff<br>   - Zweck: Arbeitstakt, Leistungserzeugung<br><br>3️⃣ NACHEINSPRITZUNG (1-2x)<br>   - Kleine Menge (nach Hauptverbrennung)<br>   - Zweck: DPF-Regeneration (Abgastemperatur erhöhen!)<br>   - Zweck: NOₓ-Reduktion (SCR-System unterstützen!)<br><br>MERKSATZ<br>"Common-Rail: Hochdruckspeicher (bis 2.500 bar!) + Mehrfacheinspritzung = leise, sauber, effizient!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>KRAFTSTOFFSYSTEM - KOMPONENTEN:<br>→ Kraftstoffpumpe (fördert + Druck), Filter (reinigt, schützt Injektoren!), Druckregler (konstanter Druck!), Injektoren (zerstäuben, einspritzen!)<br>→ Elektrische Pumpe im Tank = Standard (gekühlt, leise!)<br>→ Filter regelmäßig wechseln! (ca. 60.000 km - schützt Injektoren vor Verschmutzung!)<br>GEMISCHBILDUNG:<br>→ Äußere = Saugrohr (veraltet/Standard-Otto)<br>→ Innere = Brennraum (moderne Otto + ALLE Diesel!)<br>→ Diesel = IMMER innere Gemischbildung! (Selbstzündung!)<br>OTTO-EINSPRITZUNG:<br>→ Saugrohreinspritzung (MPI): Äußere Gemischbildung, 3-5 bar, einfach, veraltet<br>→ Direkteinspritzung (FSI/GDI): Innere Gemischbildung, bis 200 bar, 10-15% weniger Verbrauch, modern!<br>→ Merksatz: "Direkteinspritzung = effizient, aber Hochdruckpumpe nötig!"<br>DIESEL-EINSPRITZUNG:<br>→ IMMER Direkteinspritzung (innere Gemischbildung!)<br>→ Common-Rail-System: Hochdruckspeicher (200-2.500 bar!), Mehrfacheinspritzung (Vor-, Haupt-, Nacheinspritzung!)<br>→ Vorteile: Leiser Motorlauf, niedrigere Emissionen, mehr Leistung!<br>→ Merksatz: "Common-Rail = gemeinsamer Hochdruckspeicher + Mehrfacheinspritzung!"</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: KRAFTSTOFFFILTER VERSCHMUTZT
+SITUATION:
+Fahrschüler klagt: "Mein Auto hat keinen Anzug mehr, verbraucht mehr Sprit, Motor läuft unrund!"
+FRAGE: Was könnte die Ursache sein?
+
+MÖGLICHE URSACHE: VERSCHMUTZTER KRAFTSTOFFFILTER!
+ANALYSE:
+Symptome:
+
+Leistungsverlust ("kein Anzug")
+Erhöhter Verbrauch
+Unrunder Motorlauf
+
+GRUND:
+
+Kraftstofffilter verschmutzt
+Einspritzventile bekommen nicht genug/nicht sauberen Kraftstoff
+Schlechte Zerstäubung
+Unvollständige Verbrennung
+
+LÖSUNG:
+→ Kraftstofffilter wechseln! (ca. alle 60.000 km!)
+PRÄVENTION:
+
+Regelmäßige Wartung nach Herstellervorgaben
+Hochwertigen Kraftstoff tanken (weniger Verunreinigungen!)
+
+
+ANTWORT:
+→ Wahrscheinlich verschmutzter Kraftstofffilter!
+→ Schützt Einspritzventile → wenn verstopft, kommen Symptome wie beschrieben!
+→ Wechseln (ca. 60.000 km Intervall!)</div>
+                        <div class="beispiel">BEISPIEL 2: SAUGROHR vs. DIREKT - WELCHER MOTOR?
+SITUATION:
+Fahrschüler fragt: "Was ist besser - Saugrohreinspritzung oder Direkteinspritzung?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+SAUGROHREINSPRITZUNG (MPI):
+
+✅ Einfacher, zuverlässiger
+✅ Günstiger
+❌ Höherer Verbrauch
+❌ Höhere Emissionen
+Einsatz: Ältere/einfache Motoren
+
+DIREKTEINSPRITZUNG (FSI/GDI):
+
+✅ 10-15% weniger Verbrauch!
+✅ Mehr Leistung
+✅ Niedrigere Emissionen
+❌ Komplexer (Hochdruckpumpe!)
+❌ Teurer
+❌ Rußbildung möglich (GPF nötig!)
+Einsatz: Moderne Motoren (Standard heute!)
+
+
+ANTWORT:
+→ Direkteinspritzung ist besser (effizienter, weniger Verbrauch, mehr Leistung!), ABER:
+→ Komplexer + teurer!
+→ Für moderne Autos: Direkteinspritzung = Standard!
+→ Merksatz: "Direkt = 10-15% Ersparnis, aber Hochdruckpumpe nötig!"</div>
+                        <div class="beispiel">BEISPIEL 3: COMMON-RAIL - WARUM MEHRFACHEINSPRITZUNG?
+SITUATION:
+Fahrschüler fragt: "Warum spritzt ein Dieselmotor mehrmals pro Arbeitstakt ein?"
+FRAGE: Was ist der Grund?
+
+ANALYSE:
+MEHRFACHEINSPRITZUNG BEIM COMMON-RAIL:
+1. VOREINSPRITZUNG (1-3x):
+
+Zweck: Brennraum vorwärmen, Druck langsam aufbauen
+Effekt: Weicherer Motorlauf, weniger "Nageln" (typisches Dieselgeräusch!)
+
+2. HAUPTEINSPRITZUNG:
+
+Zweck: Arbeitstakt, Leistung erzeugen
+
+3. NACHEINSPRITZUNG (1-2x):
+
+Zweck 1: DPF-Regeneration (Abgastemperatur erhöhen → Ruß verbrennen!)
+Zweck 2: NOₓ-Reduktion (SCR-System unterstützen!)
+
+
+ANTWORT:
+→ Mehrfacheinspritzung = weicherer Motorlauf + niedrigere Emissionen + DPF-Regeneration!
+→ Voreinspritzung → weniger "Nageln" (Dieselgeräusch!)
+→ Nacheinspritzung → DPF-Regeneration (Ruß verbrennen!) + NOₓ-Reduktion!
+→ Merksatz: "Common-Rail kann bis zu 7x pro Arbeitstakt einspritzen!"</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: KRAFTSTOFFSYSTEM &amp; KOMPONENTEN (60 Min)<br>Einstieg (10 Min):<br>Methode: Brainstorming<br>Ablauf: "Welche Teile braucht ein Auto, um Kraftstoff vom Tank zum Motor zu bringen?" Anwärter sammeln an Tafel (Pumpe, Filter, Leitungen, etc.). Überleitung: "Heute lernen wir das komplette Kraftstoffsystem!"<br>Ziel: Vorwissen aktivieren, Interesse wecken<br><br>Hauptteil (45 Min):<br>Phase 1: Kraftstoffsystem-Übersicht (10 Min)<br>Dozent zeigt Schaubild: Tank → Pumpe → Filter → Druckregler → Injektoren → Brennraum. Wichtig: Jede Komponente hat wichtige Funktion! Gruppenarbeit: 2 Gruppen - welche Komponente ist am wichtigsten? (Diskussion!)<br>Phase 2: Komponenten im Detail (25 Min)<br>Dozent erklärt: Elektrische Pumpe im Tank (gekühlt, leise!), Kraftstofffilter (schützt Injektoren, ca. 60.000 km wechseln!), Druckregler (konstanter Druck!), Injektoren (Millisekunden-Präzision!). Praxisfall: Auto hat Leistungsverlust - was könnte sein? (Filter verschmutzt!)<br>Phase 3: Gemischbildung (innen vs. außen) (10 Min)<br>Dozent erklärt: Äußere = Saugrohr (veraltet), Innere = Brennraum (modern + ALLE Diesel!). Wichtig: Diesel = IMMER innere Gemischbildung (Selbstzündung!)<br><br>Schluss (5 Min):<br>Sicherung: "Kraftstofffilter schützt?" → Injektoren! "Diesel = welche Gemischbildung?" → Innen!<br>Ausblick: "Nächste Stunde: Otto vs. Diesel Einspritzung, Common-Rail!"<br><br>UNTERRICHTSEINHEIT 2: EINSPRITZSYSTEME (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Filter wechseln alle?" → ca. 60.000 km!<br><br>Hauptteil (50 Min):<br>Phase 1: Otto-Einspritzung (Saugrohr vs. Direkt) (20 Min)<br>Dozent zeigt Vergleichstabelle: Saugrohr (3-5 bar, einfach, veraltet) vs. Direkt (200 bar, 10-15% Ersparnis, modern!). Wichtig: Direkteinspritzung = Hochdruckpumpe nötig! Praxisfall: Kunde will sparsames Auto - was empfehlen? (Direkteinspritzung!)<br>Phase 2: Common-Rail-System (Diesel) (25 Min)<br>Dozent erklärt: Common-Rail = gemeinsamer Hochdruckspeicher (200-2.500 bar!), Mehrfacheinspritzung (Vor-, Haupt-, Nacheinspritzung!). Wichtig: Voreinspritzung → weniger "Nageln"! Nacheinspritzung → DPF-Regeneration! Praxisfall: Warum ist moderner Diesel leiser? (Voreinspritzung!)<br>Phase 3: Zusammenfassung &amp; Vergleich (5 Min)<br>Dozent zeigt Übersicht: Saugrohr (veraltet) → Direkt-Otto (modern, 10-15% Ersparnis) → Common-Rail-Diesel (bis 2.500 bar, Mehrfacheinspritzung!). Wichtig: Diesel = IMMER Direkteinspritzung!<br><br>Schluss (5 Min):<br>Sicherung: "Direkteinspritzung spart?" → 10-15%! "Common-Rail = ?" → Hochdruckspeicher!<br>Hausaufgabe: Erstelle Vergleichstabelle: Saugrohr vs. Direkt-Otto vs. Common-Rail-Diesel (Druck, Gemischbildung, Vorteile!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Kraftstofffilter-Wechselintervalle betonen! (ca. 60.000 km - schützt teure Injektoren!)<br>Diesel = IMMER Direkteinspritzung (Selbstzündung!) klar machen!<br>Direkteinspritzung vs. Saugrohr gut vergleichen (10-15% Ersparnis!)<br>Common-Rail-Mehrfacheinspritzung erklären (Vor-, Haupt-, Nacheinspritzung - warum?)<br><br>Häufige Fehler der Anwärter:<br><br>Verwechseln äußere und innere Gemischbildung<br>Denken, Diesel kann auch Saugrohreinspritzung haben (NEIN! Immer Direkteinspritzung!)<br>Vergessen, dass Kraftstofffilter regelmäßig gewechselt werden muss<br>Denken, Saugrohreinspritzung ist modern (NEIN! Veraltet! Direkteinspritzung = Standard!)<br><br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Schaubilder/Tabellen erstellen! (Kraftstoffsystem, Saugrohr vs. Direkt!)<br>Praxisfälle durchspielen! (Filter verschmutzt, sparsames Auto empfehlen!)<br>10-15% Ersparnis bei Direkteinspritzung merken!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Nennen Sie die Komponenten des Kraftstoffsystems und erklären Sie ihre Funktionen.<br>Antwort: Komponenten des Kraftstoffsystems: 1. Kraftstoffpumpe: Fördert Kraftstoff vom Tank zu Einspritzventilen, baut Druck auf. Typ: Elektrische Pumpe im Tank (Standard - gekühlt durch Kraftstoff, leise!). Druck: 3-5 bar (Saugrohr), 5-7 bar Vorförderpumpe + bis 200 bar Hochdruck (Direkt-Otto), 0,5-3 bar Vorförderpumpe (Diesel - Hochdruck durch Common-Rail-Pumpe). 2. Kraftstofffilter: Entfernt Verunreinigungen (Schmutz, Rost, Wasser). Wichtig: Schützt Einspritzventile vor Verschmutzung! Wechselintervall: ca. 60.000-80.000 km (Otto), ca. 60.000 km (Diesel). Folgen bei Verschmutzung: Leistungsverlust, erhöhter Verbrauch, Motorschäden! 3. Kraftstoffdruckregler: Hält Druck konstant, leitet Überschuss zurück zum Tank. Wichtig: Gleichbleibender Druck = gleichbleibende Einspritzmengen! 4. Einspritzventile (Injektoren): Zerstäuben und Einspritzen des Kraftstoffs. Elektromagnetisch gesteuert, Öffnungszeit im Millisekunden-Bereich, präzise Dosierung, feine Zerstäubung. Merksatz: "Pumpe fördert → Filter reinigt → Druckregler hält konstant → Injektoren spritzen ein!"<br><br>Frage 2: Unterscheiden Sie äußere und innere Gemischbildung. Welche Motortypen nutzen welche?<br>Antwort: Gemischbildung = Vermischung von Kraftstoff und Luft. Äußere Gemischbildung: Ort: Außerhalb des Brennraums (im Saugrohr). Funktionsprinzip: Kraftstoff wird ins Saugrohr eingespritzt → vermischt sich dort mit Luft → fertiges Gemisch wird angesaugt. Beispiele: Vergaser (veraltet!), Saugrohreinspritzung (MPI). Vorteile: Einfacher Aufbau, gute Gemischverteilung, niedrigerer Druck (3-5 bar). Nachteile: Weniger präzise, Kraftstoff kann sich an Saugrohrwänden niederschlagen, nicht optimal für Effizienz. Motortyp: Ottomotor (Saugrohreinspritzung - veraltet/Standard). Innere Gemischbildung: Ort: Direkt im Brennraum. Funktionsprinzip: Kraftstoff wird direkt in Brennraum eingespritzt → vermischt sich dort mit Luft. Beispiele: Direkteinspritzung (FSI, GDI - Otto), Common-Rail (Diesel). Vorteile: Präzisere Dosierung, bessere Verbrennung, höherer Wirkungsgrad, niedrigere Emissionen, weniger Verbrauch. Nachteile: Hoher Druck nötig (Otto 200 bar, Diesel 2.500 bar!), komplexer, teurer. Motortyp: Ottomotor (Direkteinspritzung - modern) + Dieselmotor (IMMER innere Gemischbildung!). Merksatz: "Äußere = Saugrohr (veraltet-Otto). Innere = Brennraum (modern-Otto + ALLE Diesel)!"<br><br>Frage 3: Vergleichen Sie Saugrohreinspritzung und Direkteinspritzung beim Ottomotor. Welche Vor- und Nachteile haben beide Systeme?<br>Antwort: Saugrohreinspritzung (MPI - Multi Point Injection): Funktionsprinzip: Kraftstoff wird ins Saugrohr eingespritzt (vor Einlassventil), äußere Gemischbildung. Druck: 3-5 bar (elektrische Pumpe im Tank). Vorteile: Einfacher Aufbau, niedrigerer Druck, zuverlässig, bewährt, günstiger. Nachteile: Weniger effizient, höherer Verbrauch, höhere Emissionen, Kraftstoff kann sich an Saugrohrwänden niederschlagen. Einsatz: Ältere/einfachere Ottomotoren (veraltet). Direkteinspritzung (FSI/GDI/TFSI): Funktionsprinzip: Kraftstoff wird direkt in Brennraum eingespritzt, innere Gemischbildung. Druck: Niederdruckpumpe 5-7 bar + Hochdruckpumpe bis 200 bar! Vorteile: 10-15% weniger Verbrauch (höherer Wirkungsgrad!), bessere Leistung (+10-15% Drehmoment!), niedrigere Emissionen (CO₂!), präzisere Gemischbildung, höhere Klopffestigkeit. Nachteile: Komplexer Aufbau (Hochdruckpumpe!), höhere Kosten, Rußbildung möglich (Partikelfilter GPF nötig!). Einsatz: Moderne Ottomotoren (Standard seit ca. 2005+). Merksatz: "Saugrohr = einfach, veraltet. Direkt = effizient, 10-15% Ersparnis, aber Hochdruckpumpe nötig!"<br><br>Frage 4: Erklären Sie das Common-Rail-System beim Dieselmotor. Was bedeutet "Common-Rail" und welche Vorteile hat das System?<br>Antwort: Common-Rail-System (Standard seit ca. 1997): Definition: "Common-Rail" = gemeinsame Hochdruckleiste (Rail) für alle Zylinder. "Common" = gemeinsam, "Rail" = Schiene/Leitung. Funktionsprinzip: Niederdruckpumpe (Tank, 0,5-3 bar) → Hochdruckpumpe (Motor, 200-2.500 bar!) → Common-Rail (Hochdruckspeicher, Druck konstant!) → Injektoren (pro Zylinder, präzise Einspritzung!) → Brennraum (Selbstzündung!). Komponenten: 1. Niederdruckpumpe (im Tank/am Motor), 2. Hochdruckpumpe (Kolbenpumpe, mechanisch angetrieben), 3. Common-Rail (Hochdruckspeicher mit Drucksensor + Druckregelventil), 4. Injektoren (Piezo oder Magnetventil), 5. Motorsteuergerät (ECU). Mehrfacheinspritzung: Voreinspritzung (1-3x - weicherer Motorlauf, weniger "Nageln"!), Haupteinspritzung (Arbeitstakt), Nacheinspritzung (1-2x - DPF-Regeneration, NOₓ-Reduktion!). Vorteile: Druck unabhängig von Motordrehzahl (Rail speichert!), Mehrfacheinspritzung möglich (bis 7x pro Arbeitstakt!), präzise Dosierung, hoher Druck (bis 2.500 bar!) → feinste Zerstäubung, leiser Motorlauf (Voreinspritzung!), niedrigere Emissionen (NOₓ, Ruß!), mehr Leistung bei weniger Verbrauch. Merksatz: "Common-Rail = Hochdruckspeicher (bis 2.500 bar!) + Mehrfacheinspritzung = leise, sauber, effizient!"<br><br>Frage 5: Warum hat der Dieselmotor IMMER innere Gemischbildung (Direkteinspritzung)?<br>Antwort: Diesel = IMMER innere Gemischbildung (Direkteinspritzung)! Grund: Selbstzündung! Funktionsprinzip Dieselmotor: 1. Nur Luft wird angesaugt (KEIN Kraftstoff! - Unterschied zu Otto!), 2. Luft wird stark verdichtet (Verdichtungsverhältnis 16:1 bis 24:1 - viel höher als Otto!), 3. Temperatur steigt auf 700-900°C (durch Verdichtung!), 4. Kraftstoff wird eingespritzt (direkt in Brennraum!) → entzündet sich sofort an heißer Luft! (Selbstzündung - KEINE Zündkerze!). Warum MUSS Kraftstoff direkt in Brennraum? → Dort ist die heiße Luft (700-900°C)! → Kraftstoff entzündet sich nur bei Kontakt mit heißer Luft! → Saugrohreinspritzung unmöglich (Kraftstoff würde sich nicht entzünden!)! Vergleich Otto: Ottomotor = Fremdzündung (Zündkerze!) → Gemisch kann im Saugrohr gebildet werden. Dieselmotor = Selbstzündung (keine Zündkerze!) → Kraftstoff MUSS direkt in heiße Luft (Brennraum!) eingespritzt werden! Merksatz: "Diesel = IMMER Direkteinspritzung! Grund: Selbstzündung - Kraftstoff MUSS in heiße Luft (700-900°C) eingespritzt werden!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767486570850" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3></h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel"></div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt"></div>
+                    
+
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+
+
 
                 </div>
             </div>
