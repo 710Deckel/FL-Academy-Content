@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T11:31:20.289Z">
+    <meta name="last-updated" content="2026-01-04T11:41:32.318Z">
 </head>
 <body>
     <div id="academy-data">
@@ -5671,6 +5671,290 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767526278193" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Viertakt-Dieselmotor - Funktionsprinzip und Selbstzündung</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Prinzip der Selbstzündung beim Dieselmotor verstehen</div>
+                    <div class="lernziel">Die vier Takte des Dieselmotors erklären können</div>
+                    <div class="lernziel">Unterschied zu Ottomotor kennen</div>
+                    <div class="lernziel">Verdichtungsverhältnis und dessen Bedeutung beherrschen</div>
+                    <div class="lernziel">Dieseleinspritzung und Einspritzzeitpunkt verstehen</div>
+                    <div class="lernziel">Vor- und Nachteile des Dieselmotors kennen</div>
+                    <div class="lernziel">Glühkerzen und deren Bedeutung beim Kaltstart verstehen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. DAS PRINZIP DER SELBSTZÜNDUNG 🔥<br>WARUM "SELBSTZÜNDUNG"?<br>OTTOMOTOR:<br>Kraftstoff-Luft-Gemisch wird durch Zündkerze gezündet! (Fremdzündung!)<br>DIESELMOTOR:<br>Diesel entzündet sich von selbst durch hohe Temperatur! (Selbstzündung!)<br>KEINE Zündkerze nötig!<br><br>🌡️ WIE FUNKTIONIERT SELBSTZÜNDUNG?<br>PRINZIP:<br>1. HOHE VERDICHTUNG:<br><br>Luft wird stark verdichtet (Verdichtungsverhältnis ca. 18:1 bis 22:1!)<br>VIEL höher als beim Ottomotor (10:1 bis 13:1!)<br><br>2. TEMPERATUR STEIGT:<br><br>Durch Verdichtung erhitzt sich Luft auf 700-900°C!<br>Physikalisches Gesetz: Verdichten von Gasen erzeugt Wärme!<br><br>3. DIESEL WIRD EINGESPRITZT:<br><br>Dieselkraftstoff wird hochfein zerstäubt eingespritzt (feiner Nebel!)<br>Einspritzdruck: ca. 200-2.500 bar! (extrem hoch!)<br><br>4. SELBSTZÜNDUNG:<br><br>Diesel trifft auf heiße Luft (700-900°C!)<br>Zündtemperatur von Diesel: ca. 220-350°C (je nach Cetanzahl!)<br>Diesel entzündet sich sofort (ohne Zündkerze!)<br><br>5. VERBRENNUNG:<br><br>Kraftstoff verbrennt<br>Druck steigt auf ca. 80-120 bar! (höher als Otto: 40-60 bar!)<br>Kolben wird nach unten gedrückt → Arbeit!<br><br><br>📊 VERGLEICH: VERDICHTUNG OTTO vs. DIESEL<br>MerkmalOTTOMOTORDIESELMOTORVerdichtungsverhältnis10:1 bis 13:118:1 bis 22:1 (höher!)VerdichtungsdruckCa. 15-25 barCa. 30-50 bar (doppelt!)VerdichtungstemperaturCa. 300-500°CCa. 700-900°C (viel heißer!)Maximaler VerbrennungsdruckCa. 40-60 barCa. 80-120 bar (höher!)ZündungZündkerze (Fremdzündung!)Selbstzündung (durch Temperatur!)<br><br>MERKSATZ<br>"Dieselmotor: Hohe Verdichtung (18:1 bis 22:1!) → Luft erhitzt sich (700-900°C!) → Diesel eingespritzt → Selbstzündung (ohne Zündkerze!)!"<br><br><br>2. DIE VIER TAKTE DES DIESELMOTORS 🔄<br>ÜBERSICHT<br>VIER TAKTE = VIER BEWEGUNGEN DES KOLBENS:<br><br>ANSAUGEN (Kolben nach unten!)<br>VERDICHTEN (Kolben nach oben!)<br>ARBEITEN (Kolben nach unten!)<br>AUSSCHIEBEN (Kolben nach oben!)<br><br>WICHTIG:<br>NUR Takt 3 (Arbeiten!) erzeugt Kraft!<br>Die anderen drei Takte verbrauchen Energie!<br><br>1️⃣ TAKT 1: ANSAUGEN<br>KOLBEN BEWEGT SICH: Von OT (oberer Totpunkt) nach UT (unterer Totpunkt)<br>WAS PASSIERT:<br><br>Einlassventil öffnet (Auslassventil geschlossen!)<br>NUR LUFT wird angesaugt! (KEIN Kraftstoff!)<br>Luft strömt durch Luftfilter in Zylinder<br>Unterdruck entsteht (Kolben saugt Luft an!)<br>Zylinder füllt sich mit Luft<br><br>DRUCK: Ca. 0,9-1,0 bar (fast Atmosphärendruck!)<br>TEMPERATUR: Ca. 50-80°C (Umgebungstemperatur + Motorwärme!)<br><br>2️⃣ TAKT 2: VERDICHTEN<br>KOLBEN BEWEGT SICH: Von UT nach OT<br>WAS PASSIERT:<br><br>Beide Ventile geschlossen! (Zylinder luftdicht!)<br>Luft wird stark verdichtet<br>Volumen verkleinert sich (z.B. von 2.000 cm³ auf 100 cm³!)<br>Verdichtungsverhältnis: ca. 18:1 bis 22:1!<br><br>DRUCK STEIGT: Von 1 bar auf ca. 30-50 bar!<br>TEMPERATUR STEIGT: Von 50°C auf 700-900°C! (durch Verdichtung!)<br>WICHTIG:<br>AM ENDE VON TAKT 2:<br><br>Kolben fast in OT (oberem Totpunkt!)<br>Diesel wird eingespritzt! (kurz vor OT!)<br>Sofortige Selbstzündung!<br><br><br>3️⃣ TAKT 3: ARBEITEN (VERBRENNUNG!)<br>KOLBEN BEWEGT SICH: Von OT nach UT<br>WAS PASSIERT:<br>BEGINN (KOLBEN IN OT):<br><br>Diesel wird eingespritzt (hochfein zerstäubt, ca. 200-2.500 bar Druck!)<br>Diesel trifft auf heiße Luft (700-900°C!)<br>SELBSTZÜNDUNG! (Diesel entzündet sich sofort!)<br>Verbrennung beginnt!<br><br>WÄHREND DER VERBRENNUNG:<br><br>Druck steigt auf ca. 80-120 bar! (sehr hoch!)<br>Temperatur steigt auf ca. 2.000-2.500°C!<br>Kolben wird nach unten gedrückt (durch Druck!)<br>ARBEIT WIRD VERRICHTET! (einziger Arbeitstakt!)<br><br>ENDE (KOLBEN IN UT):<br><br>Verbrennung abgeschlossen<br>Beide Ventile geschlossen<br>Abgase im Zylinder (CO₂, H₂O, NOₓ, Ruß!)<br><br><br>4️⃣ TAKT 4: AUSSCHIEBEN<br>KOLBEN BEWEGT SICH: Von UT nach OT<br>WAS PASSIERT:<br><br>Auslassventil öffnet (Einlassventil geschlossen!)<br>Kolben drückt Abgase nach außen<br>Abgase strömen durch Abgaskrümmer → Turbolader (falls vorhanden!) → Abgasreinigung (Oxidationskatalysator, DPF, SCR!) → Auspuff<br>Zylinder wird geleert<br><br>ENDE:<br>Kolben in OT → Takt 1 beginnt wieder! (Kreislauf!)<br><br>MERKSATZ<br>"Vier Takte Diesel: 1. Ansaugen (NUR Luft!), 2. Verdichten (700-900°C!), 3. Arbeiten (Diesel eingespritzt → Selbstzündung!), 4. Ausschieben (Abgase raus!)!"<br><br><br>3. VERDICHTUNGSVERHÄLTNIS ⚙️<br>WAS IST DAS VERDICHTUNGSVERHÄLTNIS?<br>DEFINITION:<br>Verhältnis zwischen größtem Volumen (Kolben in UT) und kleinstem Volumen (Kolben in OT)!<br>FORMEL:<br>Verdichtungsverhältnis ε = V_max / V_min<br>BEISPIEL:<br><br>V_max (Kolben in UT): 2.000 cm³<br>V_min (Kolben in OT): 100 cm³<br>ε = 2.000 / 100 = 20:1<br><br>Bedeutung: Luft wird auf 1/20 ihres ursprünglichen Volumens verdichtet!<br><br>📊 VERDICHTUNGSVERHÄLTNIS: OTTO vs. DIESEL<br>MotorVerdichtungsverhältnisVerdichtungsdruckVerdichtungstemperaturOttomotor10:1 bis 13:1Ca. 15-25 barCa. 300-500°CDieselmotor18:1 bis 22:1Ca. 30-50 barCa. 700-900°C<br>WARUM HÖHER BEIM DIESEL?<br>Diesel braucht hohe Temperatur zur Selbstzündung!<br><br>Zündtemperatur Diesel: ca. 220-350°C (je nach Cetanzahl!)<br>OHNE hohe Verdichtung (z.B. nur 10:1 wie Otto!) → Temperatur zu niedrig! (nur ca. 400°C!) → Diesel zündet NICHT!<br>MIT hoher Verdichtung (20:1!) → Temperatur 700-900°C! → Diesel zündet zuverlässig!<br><br><br>⚠️ FOLGEN HOHER VERDICHTUNG<br>VORTEILE:<br>✅ Selbstzündung möglich! (Diesel zündet bei 700-900°C!)<br>✅ Höherer Wirkungsgrad! (mehr Energie aus Kraftstoff! - ca. 40-45% beim Diesel vs. 30-35% beim Otto!)<br>✅ Mehr Drehmoment! (höherer Verbrennungsdruck!)<br>NACHTEILE:<br>❌ Motor muss stabiler gebaut sein! (höhere Drücke - 80-120 bar!)<br>→ Dickere Zylinderwände, stärkerer Kolben, robusterer Kurbelwelle<br>→ Motor ist schwerer! (ca. 30-50% schwerer als vergleichbarer Ottomotor!)<br>❌ Höhere Belastung!<br>→ Verschleiß höher!<br>→ Motorlaufruhe schlechter! (Diesel "nagelt" - typisches Geräusch!)<br>❌ Kaltstart schwieriger!<br>→ Bei Kälte Temperatur evtl. nicht ausreichend!<br>→ Glühkerzen nötig! (erwärmen Luft vor!)<br><br>MERKSATZ<br>"Verdichtungsverhältnis Diesel: 18:1 bis 22:1 (höher als Otto!)! Warum? Diesel braucht 700-900°C zur Selbstzündung! Folge: Höherer Wirkungsgrad, mehr Drehmoment, ABER schwerer, lauter!"<br><br><br>4. DIESELEINSPRITZUNG 💉<br>WARUM HOCHDRUCKEINSPRITZUNG?<br>ZIEL:<br>Diesel hochfein zerstäuben! (feiner Nebel!)<br>WARUM?<br>Große Oberfläche = schnelle Verdampfung = bessere Verbrennung!<br><br>Grobtropfen: Verbrennen langsam, unvollständig → Ruß!<br>Feinnebel: Verbrennt schnell, vollständig → weniger Ruß!<br><br>LÖSUNG:<br>SEHR HOHER DRUCK! (ca. 200-2.500 bar!)<br><br>🔧 EINSPRITZSYSTEME<br>MODERNE DIESEL:<br>COMMON-RAIL-SYSTEM (Standard!)<br>AUFBAU:<br>💧 KRAFTSTOFFTANK<br>    ↓<br>🔧 KRAFTSTOFFPUMPE (Vorförderpumpe!)<br>    ↓<br>💪 HOCHDRUCKPUMPE (erzeugt 200-2.500 bar!)<br>    ↓<br>🚂 COMMON RAIL (Hochdruckspeicher - "gemeinsame Schiene"!)<br>    ├─ Injektor Zylinder 1<br>    ├─ Injektor Zylinder 2<br>    ├─ Injektor Zylinder 3<br>    └─ Injektor Zylinder 4<br>    ↓<br>🔥 BRENNRAUM (Diesel wird fein zerstäubt eingespritzt!)<br><br>FUNKTIONSPRINZIP COMMON-RAIL<br>1. HOCHDRUCK ERZEUGEN:<br><br>Hochdruckpumpe erzeugt konstanten Druck (200-2.500 bar!)<br>Common Rail (Hochdruckspeicher!) speichert Diesel unter Hochdruck<br>Druck konstant! (unabhängig von Drehzahl!)<br><br>2. EINSPRITZUNG:<br><br>Motorsteuergerät (ECU) steuert Injektoren (elektronisch!)<br>Injektor öffnet (Magnetventil oder Piezo!)<br>Diesel wird eingespritzt (hochfein zerstäubt! - Tropfengröße ca. 1-5 µm!)<br>Einspritzdauer: ca. 0,001-0,003 Sekunden! (1-3 Millisekunden!)<br><br>3. MEHRFACHEINSPRITZUNG:<br>MODERN:<br>Nicht nur eine Einspritzung, sondern mehrere pro Arbeitstakt!<br>ABLAUF:<br><br>VOREINSPRITZUNG (ca. 1-2 mg!) → sanfter Druckaufbau, weniger Lärm!<br>HAUPTEINSPRITZUNG (ca. 20-40 mg!) → Verbrennung, Leistung!<br>NACHEINSPRITZUNG (ca. 2-5 mg!) → DPF-Regeneration (erhöht Abgastemperatur!)<br><br>VORTEILE:<br><br>✅ Ruhigerer Motorlauf (weniger "Nageln"!)<br>✅ Weniger Emissionen (bessere Verbrennung!)<br>✅ DPF-Regeneration möglich!<br><br><br>⏱️ EINSPRITZZEITPUNKT<br>WANN WIRD DIESEL EINGESPRITZT?<br>KURZ VOR OT! (oberer Totpunkt!)<br>TYPISCH:<br>5-15° vor OT (Kurbelwellenwinkel!)<br>WARUM VOR OT?<br><br>Verbrennung braucht Zeit! (ca. 2-3 Millisekunden!)<br>Einspritzung kurz vor OT → Verbrennung beginnt → Maximaler Druck genau bei OT! → optimale Kraftausnutzung!<br><br>ZU FRÜH:<br><br>Verbrennung beginnt, bevor Kolben in OT!<br>Kolben kämpft gegen Druck! → Leistungsverlust!<br><br>ZU SPÄT:<br><br>Verbrennung beginnt, wenn Kolben schon nach unten geht!<br>Druck baut sich zu spät auf! → Leistungsverlust!<br>Abgastemperatur steigt! (unvollständige Verbrennung!)<br><br>MODERNE MOTOREN:<br>Motorsteuergerät (ECU) berechnet optimalen Einspritzzeitpunkt ständig! (basierend auf Drehzahl, Last, Temperatur!)<br><br>MERKSATZ<br>"Dieseleinspritzung: Common-Rail (200-2.500 bar!) → Diesel hochfein zerstäubt (1-5 µm!)! Mehrfacheinspritzung: Vor-, Haupt-, Nacheinspritzung! Einspritzzeitpunkt: 5-15° vor OT!"<br><br><br>5. UNTERSCHIEDE: DIESEL vs. OTTOMOTOR 🔍<br>Merkmal🔵 OTTOMOTOR🟢 DIESELMOTORZündungFremdzündung (Zündkerze!)Selbstzündung (durch Verdichtungswärme!)GemischbildungVor Verdichtung (Kraftstoff + Luft gemischt!)Während Verbrennung (nur Luft verdichtet, Diesel später eingespritzt!)AnsaugenKraftstoff-Luft-GemischNUR Luft!Verdichtungsverhältnis10:1 bis 13:118:1 bis 22:1 (höher!)VerdichtungsdruckCa. 15-25 barCa. 30-50 bar (doppelt!)VerdichtungstemperaturCa. 300-500°CCa. 700-900°C (viel höher!)VerbrennungsdruckCa. 40-60 barCa. 80-120 bar (höher!)EinspritzdruckCa. 5-10 bar (Saugrohreinspritzung!)Ca. 200-2.500 bar (Common-Rail!)Zündkerze✅ JA (notwendig!)❌ NEIN (nicht vorhanden!)Glühkerze❌ NEIN✅ JA (zum Kaltstart!)Lambda (λ)λ = 1 (stöchiometrisch!)λ &gt; 1 (immer mager - Luftüberschuss!)KraftstoffBenzin (Oktanzahl 91-100!)Diesel (Cetanzahl 51-70!)WirkungsgradCa. 30-35%Ca. 40-45% (höher!)DrehmomentNiedriger (aber bei höherer Drehzahl!)Höher (besonders bei niedriger Drehzahl!)DrehzahlbereichHöher (bis 7.000 U/min!)Niedriger (bis 5.000 U/min!)GewichtLeichterSchwerer (ca. 30-50% mehr!)LaufruheRuhigerLauter ("Nageln" - typisches Diesel-Geräusch!)AbgasreinigungDrei-Wege-Katalysator (CO + HC + NOₓ!)Oxidationskatalysator (CO + HC!) + DPF (Ruß!) + SCR (NOₓ mit AdBlue!)SchadstoffeMehr CO + HC, weniger NOₓ + RußWeniger CO + HC, mehr NOₓ + Ruß!<br><br>MERKSATZ<br>"Diesel vs. Otto: Diesel = Selbstzündung (700-900°C!), höheres Verdichtungsverhältnis (18:1-22:1!), höherer Wirkungsgrad (40-45%!), mehr Drehmoment, ABER schwerer, lauter, mehr NOₓ + Ruß!"<br><br><br>6. VOR- UND NACHTEILE DIESELMOTOR ⚖️<br>✅ VORTEILE<br>1. HÖHERER WIRKUNGSGRAD (40-45%!)<br><br>Mehr Energie aus Kraftstoff gewonnen!<br>Weniger Verbrauch pro kW Leistung!<br>Grund: Höhere Verdichtung + mageres Gemisch!<br><br>2. NIEDRIGERER KRAFTSTOFFVERBRAUCH<br><br>Ca. 20-30% weniger als vergleichbarer Ottomotor!<br>Beispiel: Otto 7 L/100 km → Diesel 5 L/100 km!<br><br>3. HÖHERES DREHMOMENT (BESONDERS BEI NIEDRIGER DREHZAHL!)<br><br>Mehr "Durchzugskraft"!<br>Besser für schwere Fahrzeuge (LKW!), Anhänger, bergauf!<br>Beispiel: Diesel 400 Nm bei 1.500 U/min, Otto 250 Nm bei 4.000 U/min!<br><br>4. LÄNGERE LEBENSDAUER<br><br>Robuster gebaut (höhere Drücke!)<br>Weniger verschleißanfällig (weniger Drehzahl!)<br>Typisch: 300.000-500.000 km (bei guter Wartung!)<br><br>5. NIEDRIGERE KRAFTSTOFFKOSTEN<br><br>Diesel oft günstiger als Benzin (je nach Land/Steuer!)<br>Weniger Verbrauch → weniger Kosten!<br><br>6. KEIN KLOPFEN<br><br>Selbstzündung = kontrolliert!<br>Kein Problem wie beim Otto (unkontrollierte Selbstzündung = Klopfen!)<br><br><br>❌ NACHTEILE<br>1. HÖHERES GEWICHT<br><br>Ca. 30-50% schwerer als vergleichbarer Ottomotor!<br>Grund: Robusterer Aufbau (höhere Drücke!)<br>Folge: Höheres Fahrzeuggewicht → schlechtere Beschleunigung!<br><br>2. HÖHERE ANSCHAFFUNGSKOSTEN<br><br>Diesel-Fahrzeug ca. 2.000-5.000 € teurer als Benziner!<br>Grund: Komplexere Technik (Hochdruckeinspritzung, Abgasreinigung!)<br><br>3. HÖHERE WARTUNGSKOSTEN<br><br>Einspritzsystem teuer bei Defekt! (Injektoren: 200-500 € pro Stück!)<br>DPF-Reinigung/-Austausch: 300-2.500 €!<br>AdBlue nachfüllen (ca. 10-30 €/Jahr)<br><br>4. LAUTERER MOTORLAUF<br><br>"Nageln" - typisches Diesel-Geräusch!<br>Grund: Hoher Verbrennungsdruck (plötzlicher Druckanstieg!)<br>Abhilfe: Voreinspritzung (moderner Diesel leiser!)<br><br>5. HÖHERE EMISSIONEN (NOₓ + RUSS!)<br><br>NOₓ (Stickoxide): Hoch (wegen hoher Verbrennungstemperatur!)<br>Ruß/Feinstaub: Hoch (besonders bei älteren Dieseln!)<br>Abgasreinigung aufwändig! (DPF, SCR mit AdBlue!)<br><br>6. NICHT FÜR KURZSTRECKEN GEEIGNET<br><br>DPF braucht Regeneration (Autobahn!)<br>Motor wird nicht warm! (höherer Verschleiß!)<br>Kurzstrecken → DPF verstopft → teurer Austausch!<br><br>7. KALTSTART SCHWIERIGER<br><br>Bei Kälte (&lt; 0°C) schwerer Start!<br>Glühkerzen nötig (Vorglühen 2-10 Sek.!)<br>Bei -20°C: Evtl. Startprobleme (trotz Glühkerzen!)<br><br>8. NIEDRIGERE MAXIMALDREHZAHL<br><br>Drehzahlbereich: nur bis ca. 5.000 U/min (Otto: 7.000 U/min!)<br>Folge: Weniger sportlich, weniger PS pro Liter Hubraum!<br><br><br>MERKSATZ<br>"Diesel: ✅ Höherer Wirkungsgrad (40-45%!), weniger Verbrauch, mehr Drehmoment, länger haltbar! ❌ Schwerer, teurer, lauter, mehr NOₓ + Ruß, nicht für Kurzstrecken!"<br><br><br>7. GLÜHKERZEN BEIM DIESELMOTOR 🔥<br>WARUM GLÜHKERZEN?<br>PROBLEM BEIM KALTSTART:<br><br>Kalter Motor (z.B. -10°C!)<br>Luft wird verdichtet (Verdichtungsverhältnis 20:1)<br>Temperatur steigt auf ca. 400-500°C (statt 700-900°C bei warmem Motor!)<br>ZU KALT! Diesel zündet nicht (braucht mindestens 600°C!)<br>Motor startet nicht!<br><br>LÖSUNG: GLÜHKERZEN!<br><br>Erwärmen Luft im Brennraum (auf ca. 900-1.300°C!)<br>Temperatur steigt → Diesel zündet!<br><br><br>🔧 FUNKTION<br>VORGLÜHEN:<br><br>Zündung EIN (Motor noch nicht gestartet!)<br>Glühkerzen werden erhitzt (900-1.300°C!)<br>Dauer: ca. 2-10 Sekunden (abhängig von Temperatur!)<br>Kontrollleuchte (Spirale!) erlischt → fertig!<br>JETZT: Motor starten!<br><br>NACHGLÜHEN:<br><br>Nach Start: Glühkerzen bleiben noch ca. 1-3 Minuten aktiv!<br>Zweck: Besserer Warmlauf, weniger Emissionen, ruhigerer Lauf!<br><br><br>🌡️ TYPEN<br>KERAMIK-GLÜHKERZEN (MODERN):<br><br>Aufheizzeit: 2-5 Sekunden! (sehr schnell!)<br>Temperatur: 1.300°C!<br>Standard bei modernen Dieseln!<br><br>STAHLGLÜHKERZEN (VERALTET):<br><br>Aufheizzeit: 10-20 Sekunden<br>Temperatur: 900°C<br>Heute: kaum noch verbaut!<br><br><br>🔧 LEBENSDAUER &amp; SYMPTOME<br>LEBENSDAUER:<br>Ca. 100.000-150.000 km<br>SYMPTOME DEFEKT:<br>❌ Schwerer Kaltstart (besonders bei Kälte!)<br>❌ Weißer Rauch beim Start (unverdampfter Diesel!)<br>❌ Motor läuft unrund beim Kaltstart!<br>❌ Glühkerzen-Kontrollleuchte blinkt!<br>WECHSEL:<br>Ca. 10-30 € pro Glühkerze + Arbeitszeit (50-150 €)<br><br>MERKSATZ<br>"Glühkerzen (Diesel!): ERWÄRMEN Luft beim Kaltstart (900-1.300°C!), zünden NICHT! Vorglühen 2-10 Sek., Nachglühen 1-3 Min.! Keramik = modern (2-5 Sek.)!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>SELBSTZÜNDUNG:<br>→ Prinzip: Hohe Verdichtung (18:1 bis 22:1!) → Luft erhitzt sich (700-900°C!) → Diesel eingespritzt (200-2.500 bar!) → Selbstzündung (ohne Zündkerze!)<br>→ Zündtemperatur Diesel: 220-350°C (je nach Cetanzahl!)<br>VIER TAKTE DIESELMOTOR:<br>→ 1. Ansaugen: NUR Luft (KEIN Kraftstoff!), Kolben UT → OT, Einlassventil offen<br>→ 2. Verdichten: Beide Ventile zu, Luft verdichtet (18:1-22:1!), Druck 30-50 bar, Temperatur 700-900°C!<br>→ 3. Arbeiten: Diesel eingespritzt (kurz vor OT!), Selbstzündung, Druck 80-120 bar, Temperatur 2.000-2.500°C, Kolben nach unten (ARBEIT!)<br>→ 4. Ausschieben: Auslassventil offen, Abgase raus, Kolben OT → UT<br>VERDICHTUNGSVERHÄLTNIS:<br>→ Diesel: 18:1 bis 22:1 (HÖHER als Otto 10:1-13:1!)<br>→ Warum höher? Diesel braucht 700-900°C zur Selbstzündung!<br>→ Folge: Höherer Wirkungsgrad (40-45%!), mehr Drehmoment, ABER schwerer, lauter!<br>DIESELEINSPRITZUNG:<br>→ Common-Rail: Hochdruckspeicher (200-2.500 bar!), Injektoren elektronisch gesteuert<br>→ Diesel fein zerstäubt: 1-5 µm Tropfengröße!<br>→ Mehrfacheinspritzung: Vor- (sanfter Druckaufbau!), Haupt- (Leistung!), Nacheinspritzung (DPF-Regeneration!)<br>→ Einspritzzeitpunkt: 5-15° vor OT!<br>UNTERSCHIEDE DIESEL vs. OTTO:<br>→ Zündung: Diesel = Selbstzündung, Otto = Fremdzündung (Zündkerze!)<br>→ Ansaugen: Diesel = nur Luft, Otto = Kraftstoff-Luft-Gemisch<br>→ Verdichtung: Diesel = 18:1-22:1 (höher!), Otto = 10:1-13:1<br>→ Lambda: Diesel = λ &gt; 1 (immer mager!), Otto = λ = 1 (stöchiometrisch!)<br>→ Wirkungsgrad: Diesel = 40-45% (höher!), Otto = 30-35%<br>VORTEILE DIESEL:<br>→ Höherer Wirkungsgrad (40-45%!), weniger Verbrauch (20-30% weniger!), mehr Drehmoment (besonders niedrige Drehzahl!), längere Lebensdauer (300.000-500.000 km!)<br>NACHTEILE DIESEL:<br>→ Schwerer (30-50% mehr!), teurer (2.000-5.000 € mehr!), lauter ("Nageln"!), mehr NOₓ + Ruß, nicht für Kurzstrecken (DPF!), Kaltstart schwieriger (Glühkerzen nötig!)<br>GLÜHKERZEN:<br>→ Funktion: ERWÄRMEN Luft beim Kaltstart (900-1.300°C!), zünden NICHT!<br>→ Vorglühen: 2-10 Sek. (Kontrollleuchte Spirale!), Nachglühen 1-3 Min.<br>→ Typen: Keramik (modern, 2-5 Sek., 1.300°C!), Stahl (veraltet, 10-20 Sek., 900°C)</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: DIESEL "NAGELT" - NORMAL ODER DEFEKT?
+SITUATION:
+Fahrschüler klagt: "Mein Dieselmotor 'nagelt' so laut! Ist das normal oder kaputt?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+DIESEL "NAGELT" = MEIST NORMAL!
+URSACHE:
+HOHER VERBRENNUNGSDRUCK!
+
+Dieselmotor: 80-120 bar Verbrennungsdruck!
+Ottomotor: nur 40-60 bar!
+Plötzlicher Druckanstieg → Druckwelle → metallisches "Klopfen" oder "Nageln"!
+
+BESONDERS HÖRBAR:
+
+Bei Kaltstart (Motor noch nicht warm!)
+Bei Leerlauf (niedrige Drehzahl!)
+Bei alten Dieseln (weniger Dämmung!)
+
+
+MODERNE DIESEL LEISER:
+WARUM?
+1. VOREINSPRITZUNG:
+
+Kleine Menge Diesel (1-2 mg!) wird VOR Haupteinspritzung eingespritzt!
+Sanfter Druckaufbau (nicht plötzlich!)
+Weniger "Nageln"!
+
+2. BESSERE DÄMMUNG:
+
+Schalldämmende Materialien im Motorraum!
+Kapselung des Motors!
+
+3. OPTIMIERTE VERBRENNUNG:
+
+Mehrfacheinspritzung (Vor-, Haupt-, Nacheinspritzung!)
+Präzise Steuerung durch Motorsteuergerät!
+
+
+WANN IST NAGELN NICHT NORMAL?
+DEUTLICH LAUTER ALS FRÜHER:
+❌ Mögliche Ursachen:
+
+Defekte Einspritzdüsen (tropfen nach, spätere Verbrennung!)
+Falsche Einspritzzeit (zu früh/zu spät!)
+Verschlissene Kolbenringe (zu viel Spiel!)
+Verschlissenes Pleuellager (Klopfen bei Last!)
+
+DIAGNOSE:
+Werkstatt aufsuchen! (Fehlerspeicher auslesen, Einspritzsystem prüfen!)
+
+ANTWORT:
+→ Diesel "nagelt" = MEIST NORMAL! (hoher Verbrennungsdruck 80-120 bar → plötzlicher Druckanstieg → Druckwelle!)
+→ Besonders hörbar: Kaltstart, Leerlauf, alte Diesel!
+→ Moderne Diesel leiser: Voreinspritzung (sanfter Druckaufbau!), bessere Dämmung, Mehrfacheinspritzung!
+→ NICHT normal: Deutlich lauter als früher! Ursachen: Defekte Einspritzdüsen, falsche Einspritzzeit, Verschleiß! → Werkstatt!</div>
+                        <div class="beispiel">BEISPIEL 2: DIESEL STARTET SCHWER BEI KÄLTE - WARUM?
+SITUATION:
+Fahrschüler klagt: "Mein Diesel startet bei -15°C sehr schwer! Ich muss mehrmals versuchen! Ist das normal?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+SCHWERER KALTSTART = TYPISCH FÜR DIESEL BEI KÄLTE!
+URSACHE:
+TEMPERATUR ZU NIEDRIG FÜR SELBSTZÜNDUNG!
+BEI KÄLTE:
+
+Motor kalt (-15°C Außentemperatur!)
+Luft wird verdichtet (Verdichtungsverhältnis 20:1)
+Temperatur steigt nur auf ca. 300-400°C (statt 700-900°C!)
+ZU KALT! Diesel zündet schlecht oder gar nicht! (braucht mind. 600°C!)
+Motor startet nicht oder sehr schwer!
+
+
+LÖSUNGEN:
+1. GLÜHKERZEN PRÜFEN:
+Glühkerzen sollen Luft vorheizen (auf 900-1.300°C!)
+Defekte Glühkerzen?
+
+Erwärmen Luft nicht ausreichend!
+Symptome: Schwerer Start bei Kälte, weißer Rauch, Motor läuft unrund!
+Diagnose: Glühkerzen-Kontrollleuchte blinkt? Widerstand messen (sollte 0,5-2 Ohm sein!)!
+Lösung: Glühkerzen wechseln (alle gleichzeitig! - 10-30 € pro Stück + Arbeit 50-150 €!)
+
+2. BATTERIE PRÜFEN:
+Schwache Batterie → Glühkerzen werden nicht heiß genug!
+
+Sollspannung: 12,4-12,8 Volt (bei stehendem Motor!)
+Bei Kälte: Batterie verliert Leistung! (bei -20°C nur noch 50% Kapazität!)
+Lösung: Batterie laden oder wechseln! (50-150 €)
+
+3. FALSCHER DIESEL:
+WINTER-DIESEL vs. SOMMER-DIESEL:
+
+Sommer-Diesel: Versulzt bei ca. -5 bis -10°C! (Paraffinkristalle bilden sich → Filter verstopft!)
+Winter-Diesel: Versulzt erst bei ca. -20 bis -30°C!
+Lösung: Winter-Diesel tanken! (ab Oktober!) oder Diesel-Additiv (Fließverbesserer!)
+
+4. VORGLÜHEN VERLÄNGERN:
+Bei extremer Kälte (-20°C):
+
+Zweimal vorglühen!
+
+Zündung EIN → Glühkerzen-Kontrollleuchte erlischt (nach 5-10 Sek.)
+Zündung AUS + wieder EIN → nochmal vorglühen (5-10 Sek.)
+DANN: Motor starten!
+
+
+Lufttemperatur höher → besserer Start!
+
+5. MOTOR WARMHALTEN (STANDHEIZUNG):
+Standheizung (z.B. Webasto, Eberspächer):
+
+Heizt Motor vor (auf ca. 40-60°C!)
+Vorteil: Leichterer Start, weniger Verschleiß!
+Kosten: ca. 800-2.000 € (Nachrüstung!)
+
+
+ANTWORT:
+→ Schwerer Kaltstart Diesel bei Kälte = typisch! (Temperatur zu niedrig für Selbstzündung - braucht 600°C, erreicht nur 300-400°C!)
+→ Lösungen: 1. Glühkerzen prüfen (defekt = nicht heiß genug!), 2. Batterie prüfen (schwach = Glühkerzen nicht heiß!), 3. Winter-Diesel tanken (Sommer-Diesel versulzt bei -5 bis -10°C!), 4. Zweimal vorglühen (bei extremer Kälte!), 5. Standheizung (Motor vorheizen!)
+→ Glühkerzen defekt: Wechseln (10-30 €/Stück + Arbeit 50-150 €!)
+→ Batterie schwach: Laden oder wechseln (50-150 €!)
+</div>
+                        <div class="beispiel">BEISPIEL 3: DIESEL HAT MEHR DREHMOMENT - WARUM?
+SITUATION:
+Fahrschüler fragt: "Warum hat ein Dieselmotor mehr Drehmoment als ein Ottomotor? Was ist der Unterschied?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+DIESEL HAT MEHR DREHMOMENT - BESONDERS BEI NIEDRIGER DREHZAHL!
+BEISPIEL:
+Dieselmotor (2.0L):
+
+Leistung: 150 PS
+Drehmoment: 400 Nm bei 1.500-3.000 U/min!
+
+Ottomotor (2.0L):
+
+Leistung: 150 PS
+Drehmoment: 250 Nm bei 3.500-5.000 U/min!
+
+UNTERSCHIED:
+Diesel hat 60% mehr Drehmoment und das bei viel niedrigerer Drehzahl!
+
+WARUM?
+GRUND 1: HÖHERER VERBRENNUNGSDRUCK!
+Diesel:
+
+Verbrennungsdruck: 80-120 bar!
+Höherer Druck → mehr Kraft auf Kolben!
+Mehr Kraft → mehr Drehmoment!
+
+Otto:
+
+Verbrennungsdruck: nur 40-60 bar (halb so viel!)
+Weniger Kraft → weniger Drehmoment!
+
+
+GRUND 2: HÖHERES VERDICHTUNGSVERHÄLTNIS!
+Diesel:
+
+Verdichtungsverhältnis: 18:1 bis 22:1
+Höhere Verdichtung → höherer Wirkungsgrad!
+Mehr Energie aus Kraftstoff → mehr Drehmoment!
+
+Otto:
+
+Verdichtungsverhältnis: 10:1 bis 13:1 (niedriger!)
+
+
+GRUND 3: KRAFTSTOFFEIGENSCHAFTEN!
+Diesel:
+
+Energiedichte höher! (ca. 36 MJ/L)
+Mehr Energie pro Liter → mehr Drehmoment!
+
+Benzin:
+
+Energiedichte niedriger! (ca. 32 MJ/L - 10% weniger!)
+
+
+GRUND 4: MAGERES GEMISCH (λ &gt; 1)!
+Diesel:
+
+Läuft immer mager (Luftüberschuss!)
+Mehr Luft → vollständigere Verbrennung!
+Bessere Ausnutzung der Kraftstoffenergie!
+
+Otto:
+
+λ = 1 (stöchiometrisch!)
+Weniger Luftüberschuss!
+
+
+ABER: WARUM WENIGER PS?
+PS = LEISTUNG (Arbeit pro Zeit!)
+Formel:
+Leistung (PS) = Drehmoment (Nm) × Drehzahl (U/min) / 9.550
+Diesel:
+
+Hohes Drehmoment (400 Nm!)
+ABER niedrige Drehzahl! (max. 5.000 U/min!)
+Leistung: 400 Nm × 5.000 / 9.550 = ca. 210 PS
+
+Otto:
+
+Niedriges Drehmoment (250 Nm!)
+ABER hohe Drehzahl! (max. 7.000 U/min!)
+Leistung: 250 Nm × 7.000 / 9.550 = ca. 183 PS
+
+FAZIT:
+Diesel hat mehr Drehmoment, Otto kann höher drehen → ähnliche Leistung!
+
+PRAKTISCHE BEDEUTUNG:
+DIESEL:
+
+Viel "Durchzugskraft" bei niedriger Drehzahl!
+Besser für: Schwere Lasten (LKW!), Anhänger, bergauf, Autobahn (konstante Geschwindigkeit!)
+Beispiel: LKW fährt bergauf mit schwerem Anhänger → Diesel zieht bei 1.500 U/min!
+
+OTTO:
+
+Weniger Drehmoment bei niedriger Drehzahl!
+Muss höher drehen für gleiche Leistung!
+Besser für: Sportlich, dynamisch, Stadt (häufige Drehzahländerungen!)
+Beispiel: Sportwagen beschleunigt → Otto dreht hoch (6.000 U/min!) → viel Leistung!
+
+
+ANTWORT:
+→ Diesel hat mehr Drehmoment (z.B. 400 Nm vs. Otto 250 Nm!), besonders bei niedriger Drehzahl (1.500-3.000 U/min!)!
+→ Warum? 1. Höherer Verbrennungsdruck (80-120 bar vs. 40-60 bar!), 2. Höheres Verdichtungsverhältnis (18:1-22:1 vs. 10:1-13:1!), 3. Höhere Energiedichte Diesel, 4. Mageres Gemisch (λ &gt; 1!)
+→ ABER: Diesel dreht niedriger (max. 5.000 U/min vs. Otto 7.000 U/min!) → ähnliche Leistung (PS!)
+→ Praktisch: Diesel = viel Durchzugskraft (Anhänger, bergauf, LKW!), Otto = sportlich (hohe Drehzahl!)</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: SELBSTZÜNDUNG &amp; VIER TAKTE (60 Min)<br>Einstieg (10 Min):<br>Methode: Vergleichsfrage + Demonstration<br>Ablauf: Dozent zeigt zwei Motoren (Otto + Diesel) und fragt: "Wo ist die Zündkerze beim Dieselmotor?" Anwärter suchen (finden keine!). Auflösung: Diesel braucht KEINE Zündkerze! (Selbstzündung!) Überleitung: "Heute lernen wir, wie Diesel sich selbst zündet!"<br>Ziel: Überraschung erzeugen, Interesse wecken<br><br>Hauptteil (45 Min):<br>Phase 1: Selbstzündung (15 Min)<br>Dozent erklärt: Hohe Verdichtung (18:1-22:1!) → Luft erhitzt sich (700-900°C!) → Diesel eingespritzt → Selbstzündung! Vergleich Otto: Verdichtung nur 10:1-13:1 (300-500°C) → zu kalt für Diesel → braucht Zündkerze! Wichtig: Diesel braucht 600°C zur Selbstzündung!<br>Phase 2: Vier Takte (20 Min)<br>Dozent zeigt Animation (Viertakt-Dieselmotor): 1. Ansaugen (NUR Luft!), 2. Verdichten (700-900°C!), 3. Arbeiten (Diesel eingespritzt kurz vor OT → Selbstzündung!), 4. Ausschieben! Wichtig: Unterschied zu Otto: NUR Luft angesaugt (NICHT Gemisch!), Diesel später eingespritzt!<br>Phase 3: Verdichtungsverhältnis (10 Min)<br>Dozent erklärt: Diesel 18:1-22:1 (höher als Otto 10:1-13:1!)! Warum? Diesel braucht hohe Temperatur! Folge: Höherer Wirkungsgrad (40-45%!), mehr Drehmoment, ABER schwerer, lauter!<br><br>Schluss (5 Min):<br>Sicherung: "Diesel zündet wie?" → Selbstzündung (700-900°C!)! "Verdichtungsverhältnis?" → 18:1-22:1!<br>Ausblick: "Nächste Stunde: Dieseleinspritzung + Vor-/Nachteile!"<br><br>UNTERRICHTSEINHEIT 2: DIESELEINSPRITZUNG &amp; VOR-/NACHTEILE (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Wann wird Diesel eingespritzt?" → Kurz vor OT (im Takt 3!)<br><br>Hauptteil (50 Min):<br>Phase 1: Dieseleinspritzung (20 Min)<br>Dozent erklärt: Common-Rail (Hochdruckspeicher 200-2.500 bar!), Diesel fein zerstäubt (1-5 µm!)! Mehrfacheinspritzung: Vor- (sanfter Druckaufbau!), Haupt- (Leistung!), Nacheinspritzung (DPF-Regeneration!)! Einspritzzeitpunkt: 5-15° vor OT! Praxisfall: Warum Hochdruck? (Feine Zerstäubung = bessere Verbrennung, weniger Ruß!)<br>Phase 2: Unterschiede Diesel vs. Otto (15 Min)<br>Dozent zeigt Vergleichstabelle: Zündung (Selbst vs. Fremd!), Ansaugen (Luft vs. Gemisch!), Verdichtung (18:1-22:1 vs. 10:1-13:1!), Lambda (λ &gt; 1 vs. λ = 1!), Wirkungsgrad (40-45% vs. 30-35%!)! Wichtig: Diesel = höherer Wirkungsgrad, mehr Drehmoment!<br>Phase 3: Vor-/Nachteile Diesel (10 Min)<br>Gruppenarbeit: Anwärter sammeln Vor-/Nachteile! Vorteile: Höherer Wirkungsgrad, weniger Verbrauch, mehr Drehmoment, länger haltbar! Nachteile: Schwerer, teurer, lauter, mehr NOₓ + Ruß, nicht für Kurzstrecken!<br>Phase 4: Glühkerzen (5 Min)<br>Dozent erklärt: Glühkerzen ERWÄRMEN Luft beim Kaltstart (900-1.300°C!), zünden NICHT! Vorglühen 2-10 Sek., Nachglühen 1-3 Min.! Praxisfall: Schwerer Kaltstart bei Kälte - warum? (Glühkerzen defekt, Batterie schwach, Sommer-Diesel versulzt!)<br><br>Schluss (5 Min):<br>Sicherung: "Common-Rail-Druck?" → 200-2.500 bar! "Diesel hat mehr...?" → Drehmoment (bei niedriger Drehzahl!)<br>Hausaufgabe: Erstelle Vergleichstabelle: Diesel vs. Otto (mindestens 10 Unterschiede!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Selbstzündung gut erklären! (Temperatur durch Verdichtung!)<br>Verdichtungsverhältnis ist entscheidend! (18:1-22:1 vs. 10:1-13:1!)<br>Unterschied Diesel vs. Otto klar herausarbeiten!<br>Drehmoment vs. Leistung erklären! (Diesel = viel Drehmoment, Otto = hohe Drehzahl!)<br>Praktische Beispiele nutzen! (LKW = Diesel, Sportwagen = Otto!)<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Diesel hat Zündkerze (NEIN! Selbstzündung!)<br>Verwechseln Drehmoment und Leistung (PS!)<br>Denken, Diesel ist immer besser (NEIN! Nicht für Kurzstrecken!)<br>Unterschätzen Bedeutung der Verdichtung (ist KERN der Selbstzündung!)<br>Denken, Glühkerzen zünden (NEIN! Erwärmen nur!)<br><br>Tipps &amp; Tricks:<br><br>Animation zeigen! (Viertakt-Dieselmotor - sehr hilfreich!)<br>Echte Komponenten zeigen! (Injektor, Glühkerze!)<br>Common-Rail erklären mit Analogie: "Wie Wasserleitung mit Druckspeicher!"<br>Drehmoment-Kurve zeigen! (Diesel = flach, früh, Otto = spitz, spät!)<br>Merksätze auswendig lernen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie das Prinzip der Selbstzündung beim Dieselmotor. Warum ist keine Zündkerze nötig?<br>Antwort: PRINZIP DER SELBSTZÜNDUNG (DIESELMOTOR): Diesel entzündet sich von selbst durch hohe Temperatur (Verdichtungswärme!), KEINE Zündkerze nötig! ABLAUF: 1. Hohe Verdichtung: Luft wird stark verdichtet (Verdichtungsverhältnis ca. 18:1 bis 22:1! - VIEL höher als Otto 10:1-13:1!). 2. Temperatur steigt: Durch Verdichtung erhitzt sich Luft auf 700-900°C! (Physikalisches Gesetz: Verdichten von Gasen erzeugt Wärme!). 3. Diesel wird eingespritzt: Dieselkraftstoff wird hochfein zerstäubt eingespritzt (feiner Nebel, 1-5 µm Tropfengröße!), Einspritzdruck ca. 200-2.500 bar (Common-Rail!), Einspritzzeitpunkt: kurz vor OT (5-15°!)! 4. Selbstzündung: Diesel trifft auf heiße Luft (700-900°C!), Zündtemperatur von Diesel ca. 220-350°C (je nach Cetanzahl!), Diesel entzündet sich sofort (ohne Zündkerze!)! 5. Verbrennung: Kraftstoff verbrennt, Druck steigt auf 80-120 bar (höher als Otto 40-60 bar!), Kolben wird nach unten gedrückt → Arbeit! WARUM KEINE ZÜNDKERZE? Temperatur ausreichend! 700-900°C sind deutlich über Zündtemperatur von Diesel (220-350°C!) → Diesel zündet von selbst! Vergleich Ottomotor: Verdichtung nur 10:1-13:1 → Temperatur nur 300-500°C → ZU KALT für Diesel → braucht Zündkerze (Fremdzündung!)! Merksatz: "Diesel: Hohe Verdichtung (18:1-22:1!) → Luft 700-900°C → Diesel eingespritzt → Selbstzündung (ohne Zündkerze!)!"<br><br>Frage 2: Beschreiben Sie die vier Takte des Viertakt-Dieselmotors. Was wird im ersten Takt angesaugt?<br>Antwort: VIER TAKTE VIERTAKT-DIESELMOTOR: 1. TAKT: ANSAUGEN (Kolben UT → OT): Einlassventil öffnet (Auslassventil geschlossen!), NUR LUFT wird angesaugt (KEIN Kraftstoff! - wichtiger Unterschied zu Otto!), Luft strömt durch Luftfilter in Zylinder, Unterdruck entsteht, Zylinder füllt sich mit Luft. Druck ca. 0,9-1,0 bar, Temperatur ca. 50-80°C. 2. TAKT: VERDICHTEN (Kolben OT → UT): Beide Ventile geschlossen (Zylinder luftdicht!), Luft wird stark verdichtet, Volumen verkleinert (z.B. von 2.000 cm³ auf 100 cm³!), Verdichtungsverhältnis 18:1 bis 22:1! Druck steigt von 1 bar auf 30-50 bar! Temperatur steigt von 50°C auf 700-900°C! (durch Verdichtung!). AM ENDE: Kolben fast in OT, Diesel wird eingespritzt (kurz vor OT!), sofortige Selbstzündung! 3. TAKT: ARBEITEN/VERBRENNUNG (Kolben UT → OT): Diesel wird eingespritzt (hochfein zerstäubt, 200-2.500 bar!), Diesel trifft auf heiße Luft (700-900°C!), SELBSTZÜNDUNG! Verbrennung beginnt! Druck steigt auf 80-120 bar, Temperatur steigt auf 2.000-2.500°C, Kolben wird nach unten gedrückt (durch Druck!), ARBEIT WIRD VERRICHTET (einziger Arbeitstakt!)! Am Ende: Verbrennung abgeschlossen, beide Ventile geschlossen, Abgase im Zylinder. 4. TAKT: AUSSCHIEBEN (Kolben OT → UT): Auslassventil öffnet (Einlassventil geschlossen!), Kolben drückt Abgase nach außen, Abgase strömen durch Abgaskrümmer → Turbolader → Abgasreinigung (Oxidationskatalysator, DPF, SCR!) → Auspuff, Zylinder wird geleert. ENDE: Kolben in OT → Takt 1 beginnt wieder (Kreislauf!)! WICHTIG 1. TAKT: NUR LUFT angesaugt (NICHT Kraftstoff-Luft-Gemisch wie beim Otto!)! Diesel wird später eingespritzt (im Takt 3, kurz vor OT!)! Merksatz: "Vier Takte Diesel: 1. Ansaugen (NUR Luft!), 2. Verdichten (700-900°C!), 3. Arbeiten (Diesel → Selbstzündung!), 4. Ausschieben!"<br><br>Frage 3: Was ist das Verdichtungsverhältnis? Vergleichen Sie Diesel- und Ottomotor. Warum ist es beim Diesel höher?<br>Antwort: VERDICHTUNGSVERHÄLTNIS: Verhältnis zwischen größtem Volumen (Kolben in UT - unterer Totpunkt!) und kleinstem Volumen (Kolben in OT - oberer Totpunkt!)! Formel: ε = V_max / V_min. Beispiel: V_max = 2.000 cm³, V_min = 100 cm³ → ε = 2.000 / 100 = 20:1. Bedeutung: Luft wird auf 1/20 ihres ursprünglichen Volumens verdichtet! VERGLEICH DIESEL vs. OTTO: OTTOMOTOR: Verdichtungsverhältnis 10:1 bis 13:1, Verdichtungsdruck ca. 15-25 bar, Verdichtungstemperatur ca. 300-500°C. DIESELMOTOR: Verdichtungsverhältnis 18:1 bis 22:1 (HÖHER!), Verdichtungsdruck ca. 30-50 bar (doppelt so hoch!), Verdichtungstemperatur ca. 700-900°C (viel höher!)! WARUM HÖHER BEIM DIESEL? Diesel braucht hohe Temperatur zur Selbstzündung! Zündtemperatur Diesel: ca. 220-350°C (je nach Cetanzahl!). OHNE hohe Verdichtung (z.B. nur 10:1 wie Otto!): Temperatur nur ca. 400°C → ZU KALT → Diesel zündet NICHT! MIT hoher Verdichtung (20:1!): Temperatur 700-900°C → ausreichend hoch → Diesel zündet zuverlässig (Selbstzündung!)! FOLGEN HOHER VERDICHTUNG: Vorteile: Selbstzündung möglich, höherer Wirkungsgrad (40-45% vs. Otto 30-35%!), mehr Drehmoment! Nachteile: Motor muss stabiler gebaut sein (höhere Drücke 80-120 bar!) → dickere Zylinderwände, stärkerer Kolben → Motor schwerer (30-50% mehr als Otto!), höhere Belastung → mehr Verschleiß, schlechtere Motorlaufruhe ("Nageln"!), Kaltstart schwieriger (Glühkerzen nötig!)! Merksatz: "Verdichtungsverhältnis Diesel 18:1-22:1 (höher als Otto 10:1-13:1!)! Warum? Diesel braucht 700-900°C zur Selbstzündung! Folge: Höherer Wirkungsgrad, mehr Drehmoment, ABER schwerer!"<br><br>Frage 4: Erklären Sie das Common-Rail-Einspritzsystem. Warum ist der Einspritzdruck so hoch?<br>Antwort: COMMON-RAIL-EINSPRITZSYSTEM (STANDARD BEI MODERNEN DIESELN): AUFBAU: 1. Kraftstofftank → 2. Vorförderpumpe → 3. Hochdruckpumpe (erzeugt 200-2.500 bar!) → 4. Common Rail (Hochdruckspeicher - "gemeinsame Schiene"!) → 5. Injektoren (einer pro Zylinder!) → 6. Brennraum (Diesel fein zerstäubt eingespritzt!)! FUNKTIONSPRINZIP: 1. Hochdruck erzeugen: Hochdruckpumpe erzeugt konstanten Druck (200-2.500 bar!), Common Rail (Hochdruckspeicher!) speichert Diesel unter Hochdruck, Druck konstant (unabhängig von Drehzahl!)! 2. Einspritzung: Motorsteuergerät (ECU) steuert Injektoren (elektronisch!), Injektor öffnet (Magnetventil oder Piezo!), Diesel wird eingespritzt (hochfein zerstäubt - Tropfengröße 1-5 µm!), Einspritzdauer ca. 0,001-0,003 Sekunden (1-3 Millisekunden!)! 3. Mehrfacheinspritzung: Voreinspritzung (1-2 mg!) → sanfter Druckaufbau, weniger Lärm! Haupteinspritzung (20-40 mg!) → Verbrennung, Leistung! Nacheinspritzung (2-5 mg!) → DPF-Regeneration (erhöht Abgastemperatur!)! WARUM HOHER DRUCK (200-2.500 BAR)? ZIEL: Diesel hochfein zerstäuben (feiner Nebel!)! Warum? Große Oberfläche = schnelle Verdampfung = bessere Verbrennung! Grobtropfen: Verbrennen langsam, unvollständig → RUSS! Feinnebel (1-5 µm!): Verbrennt schnell, vollständig → weniger Ruß! Je höher der Druck → feiner die Zerstäubung → bessere Verbrennung → weniger Emissionen (Ruß, NOₓ!), mehr Leistung! EINSPRITZZEITPUNKT: Kurz vor OT (5-15° Kurbelwellenwinkel vor oberem Totpunkt!)! Warum? Verbrennung braucht Zeit (2-3 ms!) → Einspritzung kurz vor OT → Verbrennung beginnt → maximaler Druck genau bei OT → optimale Kraftausnutzung! Merksatz: "Common-Rail: Hochdruckspeicher (200-2.500 bar!) → Injektoren → Diesel fein zerstäubt (1-5 µm!)! Mehrfacheinspritzung: Vor-, Haupt-, Nacheinspritzung! Warum Hochdruck? Feine Zerstäubung = bessere Verbrennung!"<br><br>Frage 5: Nennen Sie jeweils 4 Vorteile und 4 Nachteile des Dieselmotors im Vergleich zum Ottomotor.<br>Antwort: VORTEILE DIESELMOTOR: 1. Höherer Wirkungsgrad (40-45%!): Mehr Energie aus Kraftstoff gewonnen (Otto nur 30-35%!), weniger Verbrauch pro kW Leistung! Grund: Höhere Verdichtung + mageres Gemisch! 2. Niedrigerer Kraftstoffverbrauch: Ca. 20-30% weniger als vergleichbarer Ottomotor! Beispiel: Otto 7 L/100 km → Diesel 5 L/100 km! 3. Höheres Drehmoment (besonders bei niedriger Drehzahl!): Mehr "Durchzugskraft"! Besser für schwere Fahrzeuge (LKW!), Anhänger, bergauf! Beispiel: Diesel 400 Nm bei 1.500 U/min, Otto 250 Nm bei 4.000 U/min! 4. Längere Lebensdauer: Robuster gebaut (höhere Drücke!), weniger verschleißanfällig (weniger Drehzahl!), typisch 300.000-500.000 km (bei guter Wartung!)! NACHTEILE DIESELMOTOR: 1. Höheres Gewicht: Ca. 30-50% schwerer als vergleichbarer Ottomotor! Grund: Robusterer Aufbau (höhere Drücke - 80-120 bar!), dickere Zylinderwände, stärkerer Kolben! Folge: Höheres Fahrzeuggewicht → schlechtere Beschleunigung! 2. Höhere Anschaffungskosten: Diesel-Fahrzeug ca. 2.000-5.000 € teurer als Benziner! Grund: Komplexere Technik (Hochdruckeinspritzung, Abgasreinigung - DPF, SCR!)! 3. Lauterer Motorlauf: "Nageln" - typisches Diesel-Geräusch! Grund: Hoher Verbrennungsdruck (80-120 bar - plötzlicher Druckanstieg!)! Abhilfe: Voreinspritzung (moderner Diesel leiser!), bessere Dämmung! 4. Höhere Emissionen (NOₓ + Ruß!): NOₓ (Stickoxide) hoch (wegen hoher Verbrennungstemperatur 2.000-2.500°C!), Ruß/Feinstaub hoch (besonders ältere Diesel!)! Abgasreinigung aufwändig (DPF filtert Ruß, SCR mit AdBlue reduziert NOₓ!)! Merksatz: "Diesel: ✅ Höherer Wirkungsgrad (40-45%!), weniger Verbrauch, mehr Drehmoment, länger haltbar! ❌ Schwerer, teurer, lauter, mehr NOₓ + Ruß!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767526890905" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
