@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T01:02:33.408Z">
+    <meta name="last-updated" content="2026-01-04T01:08:26.861Z">
 </head>
 <body>
     <div id="academy-data">
@@ -3544,27 +3544,176 @@ ANTWORT:
             <div class="lektion" 
                  data-id="technik_1767488551871" 
                  data-pruefung="false"
-                 data-dauer="90"
+                 data-dauer="120"
                  data-status-justin="false"
                  data-status-dozent="false">
                 
-                <h3></h3>
+                <h3>Kühlsystem und Schmiersystem - Aufbau, Funktion und Zusammenspiel</h3>
                 
                 <div class="lernziele">
-                    <div class="lernziel"></div>
+                    <div class="lernziel">Aufgabe und Funktion des Kühlsystems verstehen</div>
+                    <div class="lernziel">Komponenten des Kühlkreislaufs kennen (Wasserpumpe, Thermostat, Kühler, etc.)</div>
+                    <div class="lernziel">Unterschied Wasser- vs. Luftkühlung kennen</div>
+                    <div class="lernziel">Aufgabe und Funktion des Schmiersystems verstehen</div>
+                    <div class="lernziel">Komponenten des Schmierkreislaufs kennen (Ölpumpe, Ölfilter, etc.)</div>
+                    <div class="lernziel">Motoröl-Spezifikationen verstehen (SAE, ACEA)</div>
+                    <div class="lernziel">Ölwechselintervalle und Wartung beherrschen</div>
+                    <div class="lernziel">Zusammenhang Kühlung/Schmierung verstehen</div>
                 </div>
                 
                 <div class="anwaerter">
                     <h4>Inhalt für Anwärter</h4>
-                    <div class="inhalt"></div>
+                    <div class="inhalt">1. WARUM KÜHLUNG? ❄️DAS PROBLEM: ENORME HITZEENTWICKLUNGVERBRENNUNGSTEMPERATUR:<br><br>Ottomotor: 2.000-2.500°C<br>Dieselmotor: 1.800-2.300°C<br>PROBLEM:Nur 30-45% der Energie wird in Bewegung umgewandelt!REST:<br><br>30-40% geht als Abwärme über Abgassystem verloren<br>20-30% geht als Wärme über Kühlsystem verloren<br>→ Motor würde ohne Kühlung überhitzen und kaputtgehen!⚠️ FOLGEN OHNE KÜHLUNGÜBERHITZUNG:❌ Kolbenfresser (Kolben dehnt sich aus, klemmt im Zylinder!)<br>❌ Ölverkokung (Motoröl verbrennt → Schmierwirkung verloren!)<br>❌ Zylinderkopfdichtung defekt (brennt durch!)<br>❌ Ventile verbrennen<br>❌ Motorschaden (totaler Schaden möglich!)🎯 AUFGABE DES KÜHLSYSTEMSDEFINITION:Das Kühlsystem hat die Aufgabe, den Motor auf optimaler Betriebstemperatur (ca. 80-105°C) zu halten.ZIELE:<br>Überhitzung verhindern (Motor vor Schäden schützen!)<br>Betriebstemperatur schnell erreichen (Kaltstartphase verkürzen!)<br>Betriebstemperatur konstant halten (unabhängig von Last und Außentemperatur!)<br>MERKSATZ"Kühlsystem hält Motor auf optimaler Betriebstemperatur 80-105°C - verhindert Überhitzung und Motorschäden!"2. KÜHLSYSTEM-ARTEN 🔧1️⃣ WASSERKÜHLUNG (FLÜSSIGKEITSKÜHLUNG)FUNKTIONSPRINZIPSTANDARD BEI MODERNEN PKW!KÜHLMITTEL:<br><br>Wasser + Frostschutz (Ethylenglykol oder Propylenglykol)<br>Mischungsverhältnis: meist 50:50 (Wasser:Frostschutz)<br>Frostschutz bis ca. -35 bis -40°C<br>Siedepunkt erhöht auf ca. 135°C (bei 1,5 bar Überdruck im System!)<br>VORTEILE:<br><br>✅ Gleichmäßige Kühlung aller Motorteile<br>✅ Geräuscharm (kein Gebläse wie bei Luftkühlung!)<br>✅ Schnelle Erwärmung (Motor erreicht schnell Betriebstemperatur!)<br>✅ Innenraumheizung möglich (Kühlmittel gibt Wärme an Heizung ab!)<br>✅ Präzise Temperaturregelung (Thermostat!)<br>NACHTEILE:<br><br>❌ Komplexer (mehr Bauteile: Wasserpumpe, Kühler, Schläuche, etc.)<br>❌ Wartung nötig (Kühlmittelwechsel, Frostschutz prüfen!)<br>❌ Schwerer (Kühlmittel wiegt ca. 5-10 Liter!)<br>EINSATZ:<br>Standard bei allen modernen PKW!2️⃣ LUFTKÜHLUNGFUNKTIONSPRINZIPVERALTET!KÜHLMITTEL:<br>Luft (Fahrtwind oder Gebläse!)AUFBAU:<br><br>Kühlrippen am Zylinderkopf und Zylinder (vergrößern Oberfläche!)<br>Gebläse (bläst Luft über Kühlrippen!)<br>VORTEILE:<br><br>✅ Einfacher Aufbau (keine Wasserpumpe, kein Kühler!)<br>✅ Leichter (kein Kühlmittel!)<br>✅ Wartungsärmer (kein Kühlmittelwechsel!)<br>✅ Kein Frostschutz nötig<br>NACHTEILE:<br><br>❌ Ungleichmäßige Kühlung (manche Teile zu heiß, andere zu kalt!)<br>❌ Laut (Gebläse!)<br>❌ Langsame Erwärmung (Motor braucht länger bis Betriebstemperatur!)<br>❌ Keine Innenraumheizung möglich<br>❌ Weniger effizient als Wasserkühlung<br>EINSATZ:<br>Veraltet! Früher bei VW Käfer, Porsche 911 (alte Modelle), MotorräderHEUTE:<br>Kaum noch verwendet (außer bei manchen Motorrädern!)MERKSATZ"Wasserkühlung = Standard (gleichmäßig, leise, Heizung möglich!). Luftkühlung = veraltet (ungleichmäßig, laut, keine Heizung!)!"3. AUFBAU WASSERKÜHLSYSTEM 💧ÜBERSICHT KÜHLKREISLAUF🔥 MOTOR (Wärme entsteht!)<br>    ↓ (Kühlmittel nimmt Wärme auf!)<br>💧 WASSERPUMPE (zirkuliert Kühlmittel!)<br>    ↓<br>🌡️ THERMOSTAT (regelt Durchfluss!)<br>    ↓<br>    ├─→ 🔄 KLEINER KREISLAUF (Motor kalt: Thermostat geschlossen!)<br>    │   └─→ zurück zum Motor (Kühlmittel bleibt im Motor!)<br>    │<br>    └─→ 🌬️ GROSSER KREISLAUF (Motor warm: Thermostat offen!)<br>        ↓<br>        🏁 KÜHLER (gibt Wärme an Außenluft ab!)<br>        ↓ (Gebläse bei Bedarf!)<br>        ↓<br>        🔙 zurück zum Motor🔧 KOMPONENTEN DES KÜHLSYSTEMS1️⃣ KÜHLMITTELZUSAMMENSETZUNG:<br><br>Wasser (50%)<br>Frostschutzmittel (50%) - Ethylenglykol oder Propylenglykol<br>EIGENSCHAFTEN:<br><br>Frostschutz: -35 bis -40°C<br>Siedepunkt erhöht: ca. 135°C (bei 1,5 bar Überdruck!)<br>Korrosionsschutz (verhindert Rost im Kühlsystem!)<br>MENGE:<br>Ca. 5-10 Liter (abhängig von Motorgröße!)WECHSELINTERVALL:<br>Ca. alle 2-5 Jahre (Herstellervorgaben beachten!)2️⃣ WASSERPUMPEFUNKTION:<br>Zirkuliert Kühlmittel im Kühlsystem!ANTRIEB:<br><br>Keilriemen oder Keilrippenriemen (von Kurbelwelle angetrieben!)<br>ODER: Elektrisch (moderne Systeme!)<br>FÖRDERLEISTUNG:<br>Ca. 100-200 Liter/Minute (bei Volllast!)AUFBAU:<br><br>Kreiselpumpe (Laufrad mit Schaufeln!)<br>Dreht kontinuierlich (solange Motor läuft!)<br>DEFEKT - SYMPTOME:<br><br>❌ Motor überhitzt<br>❌ Kühlmittel läuft aus (undichte Pumpe!)<br>❌ Quietschen/Schleifen (Lager defekt!)<br>3️⃣ THERMOSTAT 🌡️FUNKTION:<br>Regelt Kühlmitteldurchfluss und steuert Betriebstemperatur!LAGE:<br>Zwischen Motor und KühlerFUNKTIONSPRINZIP:MOTOR KALT (&lt; 80°C):<br><br>Thermostat GESCHLOSSEN<br>Kleiner Kreislauf: Kühlmittel zirkuliert nur im Motor (nicht zum Kühler!)<br>Zweck: Motor schnell auf Betriebstemperatur bringen! (Kaltstartphase verkürzen!)<br>MOTOR WARM (ca. 80-95°C):<br><br>Thermostat ÖFFNET<br>Großer Kreislauf: Kühlmittel fließt zum Kühler (Wärme wird abgegeben!)<br>Zweck: Betriebstemperatur konstant halten!<br>ÖFFNUNGSTEMPERATUR:<br>Ca. 80-95°C (abhängig von Motor!)AUFBAU:<br><br>Dehnstoffelement (Wachs!)<br>Bei Erwärmung: Wachs dehnt sich aus → Ventil öffnet!<br>Bei Abkühlung: Wachs zieht sich zusammen → Feder schließt Ventil!<br>DEFEKT - SYMPTOME:<br><br>❌ Motor überhitzt (Thermostat bleibt geschlossen → kein großer Kreislauf!)<br>❌ Motor erreicht nicht Betriebstemperatur (Thermostat bleibt offen → ständig großer Kreislauf!)<br>❌ Erhöhter Verbrauch (Motor zu kalt!)<br>4️⃣ KÜHLER 🌬️FUNKTION:<br>Gibt Wärme von Kühlmittel an Außenluft ab!LAGE:<br>Vorne (hinter Kühlergrill! - beste Luftzufuhr!)AUFBAU:<br><br>Kühlrippen aus Aluminium (große Oberfläche!)<br>Kühlmittelkanäle (durchströmt von heißem Kühlmittel!)<br>Fahrtwind kühlt Kühlmittel ab!<br>KÜHLLEISTUNG:<br>Ca. 10-20 kW (abhängig von Kühler und Fahrtwind!)KÜHLERGRILL:<br>Lässt Luft zum Kühler! (moderne Autos: aktiver Kühlergrill - öffnet/schließt je nach Bedarf für Aerodynamik!)5️⃣ KÜHLERLÜFTER (GEBLÄSE)FUNKTION:<br>Bläst Luft durch Kühler, wenn Fahrtwind nicht ausreicht!WANN AKTIV?<br><br>Niedrige Geschwindigkeit (Stadtverkehr, Stau!)<br>Hohe Last (Vollgas, bergauf!)<br>Motor zu heiß (&gt; ca. 95-100°C!)<br>ANTRIEB:<br><br>Elektrisch (modern!) - schaltet sich automatisch ein/aus (Temperaturschalter!)<br>Viskokupplung (veraltet!) - mechanisch, Drehzahl abhängig von Temperatur<br>STEUERUNG:<br><br>Temperatursensor (misst Kühlmitteltemperatur!)<br>Motorsteuergerät (ECU) schaltet Lüfter ein/aus!<br>6️⃣ AUSGLEICHSBEHÄLTERFUNKTION:<br>Gleicht Volumenänderungen des Kühlmittels aus!WARUM NÖTIG?<br><br>Kühlmittel dehnt sich aus bei Erwärmung! (ca. +5-10% Volumen!)<br>Überschuss fließt in Ausgleichsbehälter!<br>Bei Abkühlung: Kühlmittel zieht sich zusammen → Unterdruck → Kühlmittel wird zurückgesaugt!<br>AUFBAU:<br><br>Kunststoffbehälter (meist durchsichtig!)<br>Verschlussdeckel mit Überdruckventil (1,3-1,5 bar!)<br>Markierungen: MIN und MAX (Füllstand prüfen!)<br>ÜBERDRUCKVENTIL:<br><br>Öffnet bei ca. 1,3-1,5 bar Überdruck<br>Zweck: Siedepunkt erhöhen! (135°C statt 100°C!)<br>Verhindert Dampfbildung im System!<br>7️⃣ KÜHLMITTELTEMPERATURSENSORFUNKTION:<br>Misst Kühlmitteltemperatur und meldet an Motorsteuergerät!ZWECK:<br><br>Anzeige im Cockpit (Kühlmitteltemperaturanzeige!)<br>Steuerung Kühlerlüfter (ein/aus!)<br>Motorsteuerung (kalter Motor: fetteres Gemisch!)<br>LAGE:<br>Im Kühlmittelkreislauf (meist am Thermostatgehäuse!)MERKSATZ"Kühlsystem: Wasserpumpe zirkuliert → Thermostat regelt (klein/groß!) → Kühler gibt Wärme ab → Lüfter hilft bei Bedarf!"4. KLEINER vs. GROSSER KÜHLKREISLAUF 🔄KLEINER KREISLAUF (MOTOR KALT)THERMOSTAT: GESCHLOSSENABLAUF:🔥 MOTOR (kalt, &lt; 80°C)<br>    ↓<br>💧 WASSERPUMPE (zirkuliert!)<br>    ↓<br>🌡️ THERMOSTAT (GESCHLOSSEN!)<br>    ↓ (Kühlmittel fließt NICHT zum Kühler!)<br>    ↓<br>🔄 Zurück zum MOTOR (direkt!)ZWECK:<br>Motor schnell auf Betriebstemperatur bringen!VORTEILE:<br><br>✅ Schnelle Erwärmung (Kaltstartphase verkürzen!)<br>✅ Weniger Emissionen (Katalysator schneller auf Betriebstemperatur!)<br>✅ Weniger Verschleiß (kalter Motor = mehr Verschleiß!)<br>GROSSER KREISLAUF (MOTOR WARM)THERMOSTAT: OFFENABLAUF:🔥 MOTOR (warm, ca. 80-95°C)<br>    ↓<br>💧 WASSERPUMPE (zirkuliert!)<br>    ↓<br>🌡️ THERMOSTAT (OFFEN!)<br>    ↓ (Kühlmittel fließt ZUM Kühler!)<br>    ↓<br>🌬️ KÜHLER (gibt Wärme ab!)<br>    ↓ (Kühlerlüfter bei Bedarf!)<br>    ↓<br>🔙 Zurück zum MOTORZWECK:<br>Betriebstemperatur konstant halten (80-105°C!)VORTEILE:<br><br>✅ Motor wird gekühlt (verhindert Überhitzung!)<br>✅ Temperatur bleibt konstant (unabhängig von Last!)<br>MERKSATZ"Kleiner Kreislauf (Thermostat zu!): Motor schnell warm! Großer Kreislauf (Thermostat auf!): Motor konstant 80-105°C!"5. WARUM SCHMIERUNG? 🛢️DAS PROBLEM: REIBUNG &amp; VERSCHLEISSBEWEGLICHE TEILE IM MOTOR:<br>Kolben (auf/ab im Zylinder - tausende Male pro Minute!)<br>Pleuel (verbindet Kolben mit Kurbelwelle!)<br>Kurbelwelle (dreht in Lagern!)<br>Nockenwelle (öffnet/schließt Ventile!)<br>Ventile (auf/ab!)<br>→ Ohne Schmierung: Metall auf Metall! → Enorme Reibung → Verschleiß → Motorschaden!⚠️ FOLGEN OHNE SCHMIERUNGOHNE ÖL:❌ Kolbenfresser (Kolben klemmt im Zylinder!)<br>❌ Lagerschaden (Kurbelwelle, Nockenwelle klemmen!)<br>❌ Überhitzung (Reibung erzeugt Hitze!)<br>❌ Motorschaden (total!) - innerhalb von Minuten!🎯 AUFGABEN DES MOTORÖLS1. SCHMIERUNG<br>Hauptaufgabe! Reduziert Reibung zwischen beweglichen Teilen!2. KÜHLUNG<br>Öl nimmt Wärme von heißen Bauteilen auf (z.B. Kolben!) und transportiert sie ab!3. REINIGUNG<br>Öl transportiert Schmutzpartikel, Metallabrieb, Verbrennungsrückstände zum Ölfilter!4. DICHTUNG<br>Öl dichtet Spalt zwischen Kolben und Zylinderwand ab! (verhindert Druckverlust!)5. KORROSIONSSCHUTZ<br>Öl schützt Metalloberflächen vor Korrosion (Rost!)MERKSATZ"Motoröl: Schmierung (Reibung!), Kühlung (Wärme!), Reinigung (Schmutz!), Dichtung (Kolben!), Korrosionsschutz (Rost!)!"6. AUFBAU SCHMIERSYSTEM 🔧ÜBERSICHT SCHMIERKREISLAUF🛢️ ÖLWANNE (Öl-Vorrat!)<br>    ↓<br>💧 ÖLPUMPE (zirkuliert Öl!)<br>    ↓<br>🔍 ÖLFILTER (reinigt Öl!)<br>    ↓<br>📊 ÖLDRUCKREGLER (hält Druck konstant!)<br>    ↓<br>🔧 HAUPTÖLKANAL (verteilt Öl!)<br>    ↓<br>    ├─→ Kurbelwellenlager (schmiert!)<br>    ├─→ Pleuellager (schmiert!)<br>    ├─→ Nockenwellenlager (schmiert!)<br>    ├─→ Kolben (Ölspritzung oder Ölnebel!)<br>    ├─→ Ventiltrieb (schmiert!)<br>    └─→ Turbolader (falls vorhanden - schmiert!)<br>    ↓<br>🔙 Öl fließt zurück in ÖLWANNE (Schwerkraft!)<br>    ↓<br>🔄 Kreislauf beginnt von vorne!🔧 KOMPONENTEN DES SCHMIERSYSTEMS1️⃣ MOTORÖLFUNKTION:<br>Schmierung, Kühlung, Reinigung, Dichtung, Korrosionsschutz!MENGE:<br>Ca. 3-7 Liter (abhängig von Motorgröße!)SPEZIFIKATIONEN:<br>Siehe Abschnitt "Motoröl-Spezifikationen" weiter unten!2️⃣ ÖLWANNEFUNKTION:<br>Öl-Vorratsbehälter!LAGE:<br>Unten am Motor (tiefster Punkt!)AUFBAU:<br><br>Meist aus Aluminium oder Stahlblech<br>Ablassschraube (für Ölwechsel!)<br>Magnetschraube (sammelt Metallabrieb!)<br>ÖLSTAND:<br>Prüfbar mit Ölmessstab (MIN und MAX Markierung!)3️⃣ ÖLPUMPEFUNKTION:<br>Zirkuliert Öl im Schmiersystem und baut Öldruck auf!ANTRIEB:<br><br>Mechanisch (von Kurbelwelle oder Nockenwelle angetrieben!)<br>Läuft solange Motor läuft!<br>TYP:<br><br>Zahnradpumpe (Standard!)<br>Innenzahnradpumpe (kompakter!)<br>FÖRDERDRUCK:<br>Ca. 2-5 bar (bei Betriebstemperatur und mittlerer Drehzahl!)SAUGROHR:<br>Führt vom Boden der Ölwanne zur Ölpumpe (mit Ölsieb - grobe Filterung!)4️⃣ ÖLFILTER 🔍FUNKTION:<br>Filtert Schmutzpartikel, Metallabrieb, Verbrennungsrückstände aus dem Öl!WARUM WICHTIG?<br><br>Selbst kleinste Partikel können Lager beschädigen!<br>Lagerspiel: nur ca. 0,01-0,05 mm!<br>Partikel &gt; 0,01 mm können Schäden verursachen!<br>AUFBAU:<br><br>Filtermedium (Papier oder Vlies!)<br>Filtert Partikel ab ca. 10-25 μm (0,01-0,025 mm!)<br>Bypass-Ventil (wenn Filter verstopft → Öl fließt ungefiltert weiter! - besser ungefiltertes Öl als gar kein Öl!)<br>WECHSELINTERVALL:<br>Bei jedem Ölwechsel! (ca. alle 15.000-30.000 km - Herstellervorgaben!)5️⃣ ÖLDRUCKREGLERFUNKTION:<br>Hält Öldruck konstant!WARUM NÖTIG?<br><br>Ölpumpe fördert mehr Öl bei hoher Drehzahl!<br>Zu hoher Druck → Leckagen, Dichtungen platzen!<br>Öldruck muss begrenzt werden!<br>FUNKTIONSPRINZIP:<br><br>Überdruckventil (öffnet bei ca. 3-6 bar!)<br>Überschüssiges Öl fließt zurück zur Ölwanne!<br>ÖLDRUCK:<br><br>Leerlauf: ca. 1-2 bar<br>Mittlere Drehzahl: ca. 3-4 bar<br>Hohe Drehzahl: ca. 4-5 bar (durch Druckregler begrenzt!)<br>6️⃣ ÖLDRUCKSENSOR &amp; ÖLSTANDSENSORÖLDRUCKSENSOR:FUNKTION:<br>Misst Öldruck und meldet an Motorsteuergerät!ZWECK:<br><br>Warnung bei zu niedrigem Öldruck! (rote Öldruckleuchte!)<br>Motorabschaltung bei kritisch niedrigem Druck (Motorschutz!)<br>WARNUNG:<br>🔴 Rote Öldruckleuchte leuchtet → SOFORT ANHALTEN! (Motor abstellen!) → Ölstand prüfen! → Werkstatt!ÖLSTANDSENSOR:FUNKTION:<br>Misst Ölstand in Ölwanne!ZWECK:<br><br>Warnung bei zu niedrigem Ölstand! (gelbe Ölstandsleuchte!)<br>Moderne Autos: Automatische Anzeige im Display!<br>WARNUNG:<br>🟡 Gelbe Ölstandsleuchte leuchtet → Ölstand prüfen! → Öl nachfüllen!7️⃣ ÖLKÜHLERFUNKTION:<br>Kühlt Motoröl!WARUM NÖTIG?<br><br>Öl nimmt Wärme auf (Kühlung der Bauteile!)<br>Zu heiß (&gt; 120°C): Öl verliert Schmierwirkung! (Viskosität sinkt!)<br>Ölkühler senkt Öltemperatur auf ca. 90-110°C!<br>EINSATZ:<br><br>Hochleistungsmotoren (Sport, Rennsport!)<br>Turbomotoren (Turbolader erzeugt viel Wärme!)<br>Nutzfahrzeuge (Dauerbelastung!)<br>AUFBAU:<br><br>Ähnlich wie Kühlmittelkühler (Kühlrippen!)<br>Luftgekühlt (eigener Kühler!) ODER wassergekühlt (integriert in Kühlmittelkreislauf!)<br>MERKSATZ"Schmiersystem: Ölpumpe zirkuliert (2-5 bar!) → Ölfilter reinigt → Öl schmiert Lager/Kolben/Ventile → fließt zurück in Ölwanne!"7. MOTORÖL-SPEZIFIKATIONEN 📊SAE-KLASSIFIKATION (VISKOSITÄT)SAE = Society of Automotive EngineersVISKOSITÄT = ZÄHFLÜßIGKEITFORMAT:<br>SAE XW-YYBEISPIEL:<br>SAE 5W-30WAS BEDEUTET DAS?ERSTE ZAHL (z.B. 5W):<br>Kaltfließeigenschaft (bei niedrigen Temperaturen!)W = Winter<br>0W: bis ca. -35°C<br>5W: bis ca. -30°C<br>10W: bis ca. -25°C<br>15W: bis ca. -20°C<br>→ Je niedriger die Zahl, desto besser fließt das Öl bei Kälte!ZWEITE ZAHL (z.B. 30):<br>Viskosität bei Betriebstemperatur (100°C!)<br>20: dünnflüssig (selten!)<br>30: mittel (Standard!)<br>40: dickflüssig (ältere Motoren, hohe Temperaturen!)<br>50: sehr dickflüssig (Hochleistung, Rennsport!)<br>→ Je höher die Zahl, desto dickflüssiger das Öl bei Hitze!BEISPIELESAE 0W-20:<br>Sehr dünnflüssig! Moderne Motoren (beste Kaltstart-Eigenschaften! -35°C!)SAE 5W-30:<br>STANDARD! Moderne Motoren (guter Kompromiss! -30°C!)SAE 10W-40:<br>Ältere Motoren, höhere Kilometerleistung (bis -25°C!)SAE 15W-50:<br>Hochleistungsmotoren, Rennsport, sehr heiße Bedingungen (bis -20°C!)MERKSATZ"SAE XW-YY: X = Kälte (je niedriger, desto besser bei Kälte!), Y = Hitze (je höher, desto dickflüssiger bei Hitze!)!""SAE 5W-30 = Standard für moderne Motoren!"ACEA-KLASSIFIKATION (LEISTUNGSKLASSE)ACEA = Association des Constructeurs Européens d'AutomobilesFORMAT:<br>ACEA XYBEISPIEL:<br>ACEA C3KATEGORIENA = OTTOMOTOREN (PKW)<br>A1/A5: Leichtlauföle (dünnflüssig, sparsam!)<br>A3/A4: Standard, universell einsetzbar<br>B = DIESELMOTOREN (PKW, leichte Nutzfahrzeuge)<br>B1/B5: Leichtlauföle<br>B3/B4: Standard, universell<br>C = OTTOMOTOREN UND DIESELMOTOREN MIT ABGASNACHBEHANDLUNGWichtig für moderne Motoren mit Partikelfilter!<br>C1: Sehr niedriger Aschegehalt (für DPF!)<br>C2: Niedriger Aschegehalt (für DPF!)<br>C3: Mittlerer Aschegehalt (für DPF!)<br>C4: Sehr niedriger Aschegehalt (strengste Anforderungen!)<br>ASCHE = Verbrennungsrückstände im Öl → verstopfen DPF!→ Low SAPS-Öle (Low Sulfated Ash, Phosphorus, Sulfur) für Motoren mit DPF/GPF!E = DIESELMOTOREN (SCHWERE NUTZFAHRZEUGE - LKW)<br>E6, E7, E9: Verschiedene Leistungsklassen für LKW-Motoren<br>BEISPIELEACEA A3/B4:<br>Universalöl für Otto und Diesel (ohne DPF!)ACEA C3:<br>STANDARD für moderne Motoren mit DPF/GPF! (Low SAPS!)ACEA C2:<br>Leichtlauföl für moderne Motoren mit DPF! (sparsam!)MERKSATZ"ACEA: A = Otto, B = Diesel, C = Otto/Diesel mit DPF/GPF (Low SAPS!), E = LKW!""ACEA C3 = Standard für moderne Motoren mit Partikelfilter!"HERSTELLERFREIGABENWICHTIG:<br>Neben SAE und ACEA gibt es Herstellerfreigaben!BEISPIELE:<br><br>VW: VW 504.00 / 507.00 (Longlife!)<br>Mercedes: MB 229.51 / 229.52<br>BMW: BMW Longlife-04<br>Ford: Ford WSS-M2C917-A<br>IMMER HERSTELLERVORGABEN BEACHTEN!→ Falsches Öl kann Motorschäden verursachen (z.B. DPF verstopfen!)MERKSATZ"IMMER Herstellerfreigaben beachten! Falsches Öl = Motorschäden (DPF!)!"8. ÖLWECHSEL &amp; WARTUNG 🔧ÖLWECHSELINTERVALLEWARUM ÖLWECHSEL?Motoröl altert (verliert Schmierwirkung!):<br><br>Verdünnung durch Kraftstoffreste<br>Verunreinigung durch Verbrennungsrückstände, Metallabrieb<br>Viskosität ändert sich (zu dünn oder zu dick!)<br>Additive (Zusätze) werden verbraucht!<br>INTERVALLE:STANDARD:<br>Alle 15.000-30.000 km ODER alle 1-2 Jahre (je nachdem, was zuerst erreicht wird!)LONGLIFE-SERVICE:<br>Bis zu 30.000 km ODER bis zu 2 JahreABER:<br>Herstellervorgaben beachten!KURZSTRECKENVERKEHR:<br>Kürzere Intervalle! (z.B. alle 10.000 km!) - Öl altert schneller!WAS WIRD GEWECHSELT?1. MOTORÖL:<br>Komplette Menge (3-7 Liter!)2. ÖLFILTER:<br>IMMER bei jedem Ölwechsel! (sonst Schmutz im neuen Öl!)3. ABLASSSCHRAUBE MIT DICHTRING:<br>Dichtring sollte gewechselt werden! (verhindert Leckagen!)ÖLSTAND PRÜFENWIE OFT?<br>Regelmäßig! (mindestens alle 2 Wochen, vor langen Fahrten!)WIE?<br>Motor warm fahren (Betriebstemperatur!)<br>Motor abstellen, 5-10 Minuten warten (Öl fließt in Ölwanne zurück!)<br>Ölmessstab herausziehen, abwischen, wieder einstecken<br>Ölmessstab herausziehen → Ölstand ablesen!<br>Zwischen MIN und MAX? → ✅ OK!<br>Unter MIN? → ❌ Öl nachfüllen! (maximal bis MAX!)<br>Über MAX? → ❌ Zu viel! (kann schädlich sein - Schaumbildung, Dichtungen platzen!)<br>ÖLSTAND ZU NIEDRIG - URSACHENNORMALER ÖLVERBRAUCH:<br>0,1-0,5 Liter pro 1.000 km (abhängig von Motor, Fahrweise!)ERHÖHTER ÖLVERBRAUCH:<br><br>Verschleiß (Kolbenringe, Zylinderwand!)<br>Undichtigkeiten (Dichtungen, Ölwanne!)<br>Turbolader defekt (Öl verbrennt in Abgas!)<br>MERKSATZ"Ölwechsel: Alle 15.000-30.000 km ODER 1-2 Jahre! IMMER Ölfilter mitw wechseln! Ölstand regelmäßig prüfen (MIN-MAX!)!"9. ZUSAMMENSPIEL KÜHLUNG &amp; SCHMIERUNG 🔄WARUM ARBEITEN SIE ZUSAMMEN?MOTOR ERZEUGT WÄRME:<br><br>Verbrennung: 2.000-2.500°C<br>Reibung: zusätzliche Wärme<br>KÜHLUNG:<br>Kühlmittel nimmt Wärme von Motorblock, Zylinderkopf auf → Kühler gibt Wärme an Außenluft ab!SCHMIERUNG:<br>Motoröl nimmt Wärme von Kolben, Lagern auf → (Ölkühler gibt Wärme ab!)→ Beide Systeme kühlen Motor!IDEALE BETRIEBSTEMPERATURKÜHLMITTEL:<br>80-105°CMOTORÖL:<br>90-110°CWARUM DIESE TEMPERATUREN?ZU KALT (&lt; 80°C):<br><br>❌ Schlechte Verbrennung (Katalysator nicht auf Temperatur!)<br>❌ Höherer Verbrauch (Motor braucht fetteres Gemisch!)<br>❌ Mehr Verschleiß (Öl dickflüssiger, schlechtere Schmierung!)<br>❌ Höhere Emissionen (Katalysator nicht effektiv!)<br>OPTIMAL (80-105°C):<br><br>✅ Beste Verbrennung!<br>✅ Niedrigster Verbrauch!<br>✅ Geringster Verschleiß!<br>✅ Niedrigste Emissionen!<br>ZU HEIß (&gt; 110°C):<br><br>❌ Öl verliert Schmierwirkung! (zu dünnflüssig!)<br>❌ Überhitzung (Kolbenfresser, Zylinderkopfdichtung!)<br>❌ Motorschäden!<br>MERKSATZ"Optimale Betriebstemperatur: Kühlmittel 80-105°C, Öl 90-110°C! Zu kalt = Verbrauch/Verschleiß! Zu heiß = Motorschaden!"ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅🎯 MERKE FÜR DIE PRÜFUNGKÜHLSYSTEM:<br>→ Aufgabe: Motor auf optimaler Betriebstemperatur 80-105°C halten!<br>→ Wasserkühlung = Standard (gleichmäßig, leise, Heizung möglich!), Luftkühlung = veraltet<br>→ Komponenten: Wasserpumpe (zirkuliert!), Thermostat (regelt klein/groß!), Kühler (gibt Wärme ab!), Lüfter (bei Bedarf!), Ausgleichsbehälter (Volumenausgleich!)<br>→ Kleiner Kreislauf: Thermostat zu (&lt; 80°C) → Motor schnell warm!<br>→ Großer Kreislauf: Thermostat auf (&gt; 80°C) → Kühlung aktiv, Temperatur konstant!<br>→ Kühlmittel: 50% Wasser + 50% Frostschutz (bis -35/-40°C, Siedepunkt 135°C bei 1,5 bar!)SCHMIERSYSTEM:<br>→ Aufgaben: Schmierung (Reibung!), Kühlung (Wärme!), Reinigung (Schmutz!), Dichtung (Kolben!), Korrosionsschutz!<br>→ Komponenten: Ölpumpe (zirkuliert, 2-5 bar!), Ölfilter (reinigt ab 10-25 μm!), Öldruckregler (hält Druck konstant!), Ölwanne (Vorrat!)<br>→ Öldruck: Leerlauf 1-2 bar, mittlere Drehzahl 3-4 bar, hoch 4-5 bar<br>→ 🔴 Rote Öldruckleuchte: SOFORT ANHALTEN! Motor abstellen! Ölstand prüfen! Werkstatt!MOTORÖL-SPEZIFIKATIONEN:<br>→ SAE XW-YY: X = Kälte (0W, 5W, 10W - je niedriger, desto besser bei Kälte!), Y = Hitze (20, 30, 40, 50 - je höher, desto dickflüssiger!)<br>→ Standard: SAE 5W-30<br>→ ACEA: A = Otto, B = Diesel, C = Otto/Diesel mit DPF (Low SAPS!), E = LKW<br>→ Standard modern: ACEA C3 (für DPF/GPF!)<br>→ Herstellerfreigaben IMMER beachten! (VW, Mercedes, BMW, etc. - falsches Öl = DPF-Schäden!)ÖLWECHSEL &amp; WARTUNG:<br>→ Intervalle: Alle 15.000-30.000 km ODER 1-2 Jahre (Herstellervorgaben!)<br>→ IMMER Ölfilter mitwechseln!<br>→ Ölstand prüfen: Regelmäßig (alle 2 Wochen!), zwischen MIN-MAX!<br>→ Normaler Verbrauch: 0,1-0,5 Liter/1.000 kmZUSAMMENSPIEL:<br>→ Optimale Betriebstemperatur: Kühlmittel 80-105°C, Öl 90-110°C!<br>→ Zu kalt: Höherer Verbrauch, mehr Verschleiß, höhere Emissionen!<br>→ Zu heiß: Öl verliert Schmierwirkung, Überhitzung, Motorschäden!</div>
                     
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: MOTOR ÜBERHITZT - WAS TUN?SITUATION:
+Fahrschüler klagt: "Die Kühlmitteltemperaturanzeige steigt in den roten Bereich! Was soll ich tun?"FRAGE: Was rätst du?SOFORTMASSNAHMEN:1. HEIZUNG AUF MAXIMUM!
 
+Heizung voll aufdrehen (auch im Sommer!)
+Zweck: Kühlmittel gibt Wärme an Innenraum ab! (zusätzliche Kühlung!)
+2. MOTOR ENTLASTEN:
+
+Nicht Vollgas! (weniger Last = weniger Wärme!)
+Niedriger Gang bei Bergauffahrt! (Motor nicht überlasten!)
+Geschwindigkeit reduzieren (wenn sicher möglich!)
+3. SICHER ANHALTEN:
+
+Nicht sofort abstellen! (Motor im Leerlauf weiterlaufen lassen - 1-2 Min.!)
+Zweck: Wasserpumpe zirkuliert weiter, Kühlmittel kann abkühlen!
+4. MOTOR ABSTELLEN:
+
+Nach 1-2 Min. Leerlauf: Motor abstellen
+Motorhaube NICHT sofort öffnen! (Verbrennungsgefahr durch heißes Kühlmittel!)
+15-30 Min. warten (Motor abkühlen lassen!)
+5. URSACHE PRÜFEN:
+
+Kühlmittelstand prüfen (Ausgleichsbehälter - MIN/MAX!)
+Zu niedrig? → Kühlmittel nachfüllen (NUR wenn Motor kalt!)
+Leckage sichtbar? → Werkstatt!
+Kühlerlüfter läuft? → Falls nicht → Werkstatt!
+MÖGLICHE URSACHEN:
+Zu wenig Kühlmittel (Leckage!)
+Thermostat defekt (bleibt geschlossen → kein großer Kreislauf!)
+Kühlerlüfter defekt (schaltet nicht ein!)
+Wasserpumpe defekt (zirkuliert nicht!)
+Kühler verstopft (keine Wärmeabgabe!)
+Zylinderkopfdichtung defekt (Kühlmittel tritt in Brennraum!)
+ANTWORT:
+→ SOFORT: Heizung auf Maximum! Motor entlasten! Sicher anhalten!
+→ Motor 1-2 Min. Leerlauf (Kühlmittel zirkuliert weiter!), dann abstellen!
+→ 15-30 Min. warten, dann Kühlmittelstand prüfen!
+→ Zu niedrig: Nachfüllen (nur wenn Motor kalt!)
+→ Werkstatt aufsuchen! (Ursache klären - Thermostat, Lüfter, Leckage?)</div>
+                        <div class="beispiel">BEISPIEL 2: ROTE ÖLDRUCKLEUCHTE LEUCHTET!SITUATION:
+Fahrschüler klagt: "Während der Fahrt leuchtet plötzlich die rote Öldruckleuchte auf!"FRAGE: Was soll er tun?SOFORTMASSNAHMEN:⚠️ ROTE ÖLDRUCKLEUCHTE = HÖCHSTE ALARMSTUFE!1. SOFORT SICHER ANHALTEN!
+
+Warnblinker einschalten!
+Sicher rechts ranfahren!
+NICHT weiterfahren! (Motorschaden droht innerhalb von Minuten!)
+2. MOTOR ABSTELLEN!
+
+Sofort Motor abstellen!
+NICHT im Leerlauf weiterlaufen lassen! (anders als bei Überhitzung!)
+3. ÖLSTAND PRÜFEN:
+
+5-10 Min. warten (Öl fließt in Ölwanne!)
+Ölmessstab herausziehen, abwischen, einstecken, herausziehen
+Ölstand ablesen: MIN-MAX?
+4. HANDELN:ÖLSTAND ZU NIEDRIG (unter MIN):
+
+Öl nachfüllen (wenn vorhanden!)
+Motor kurz starten (Öldruck prüfen!)
+Leuchte erlischt? → Vorsichtig zur Werkstatt fahren!
+Leuchte bleibt? → NICHT weiterfahren! → Abschleppen lassen!
+ÖLSTAND OK:
+
+Ölpumpe oder Öldrucksensor defekt!
+NICHT weiterfahren! → Abschleppen lassen!
+URSACHEN:
+Ölmangel (zu wenig Öl in Ölwanne!)
+Ölpumpe defekt (zirkuliert nicht!)
+Öldrucksensor defekt (falsche Warnung - selten!)
+Ölfilter verstopft (Öl fließt über Bypass!)
+Leckage (Öl läuft aus!)
+FOLGEN BEI WEITERFAHRT:❌ Kolbenfresser (Kolben klemmt im Zylinder!)
+❌ Lagerschaden (Kurbelwelle, Nockenwelle!)
+❌ Motorschaden TOTAL! (innerhalb von Minuten!)
+💰 Kosten: 5.000-15.000 € (Motorschaden!)ANTWORT:
+→ 🔴 Rote Öldruckleuchte = SOFORT ANHALTEN! (Warnblinker, sicher rechts ran!)
+→ Motor SOFORT abstellen! (NICHT weiterlaufen lassen!)
+→ Ölstand prüfen (Ölmessstab!)
+→ Zu niedrig: Öl nachfüllen, testen! Leuchte erlischt? → Vorsichtig zur Werkstatt! Leuchte bleibt? → Abschleppen!
+→ Ölstand OK: Ölpumpe/Sensor defekt → Abschleppen!
+→ NICHT weiterfahren! (Motorschaden droht!)</div>
+                        <div class="beispiel">BEISPIEL 3: WELCHES MOTORÖL KAUFEN?SITUATION:
+Fahrschüler fragt: "Ich muss Öl nachfüllen. Welches Öl soll ich kaufen?"FRAGE: Was rätst du?ANTWORT:1. BEDIENUNGSANLEITUNG PRÜFEN!WICHTIG:
+IMMER Herstellervorgaben beachten!IN BEDIENUNGSANLEITUNG STEHT:
+
+SAE-Klassifikation (z.B. SAE 5W-30)
+ACEA-Klassifikation (z.B. ACEA C3)
+Herstellerfreigabe (z.B. VW 504.00 / 507.00)
+BEISPIEL VW:
+
+SAE 5W-30
+ACEA C3
+VW 504.00 / 507.00
+→ Öl MUSS alle drei Spezifikationen erfüllen!2. RICHTIGES ÖL KAUFEN:IM AUTOHAUS:
+
+Original-Öl vom Hersteller (teuer, aber garantiert richtig!)
+IM BAUMARKT/TANKSTELLE:
+
+Spezifikationen prüfen! (SAE, ACEA, Herstellerfreigabe!)
+Auf Flasche/Kanister steht:
+
+SAE 5W-30 ✅
+ACEA C3 ✅
+VW 504.00 / 507.00 ✅
+
+
+Alle drei erfüllt? → Kaufen!
+3. RICHTIGE MENGE:NUR NACHFÜLLEN:
+
+Ölstand zwischen MIN und MAX!
+Nicht zu viel! (maximal bis MAX!)
+Lieber mehrmals wenig nachfüllen und prüfen!
+RICHTWERT:
+
+Von MIN bis MAX = ca. 1-1,5 Liter
+Schrittweise nachfüllen: 0,2-0,5 Liter → warten 2-3 Min. → Ölstand prüfen!
+⚠️ FALSCHES ÖL - FOLGEN:FALSCHE VISKOSITÄT (z.B. 10W-40 statt 5W-30):
+
+❌ Schlechtere Schmierung bei Kaltstart!
+❌ Höherer Verbrauch!
+❌ Mehr Verschleiß!
+FALSCHE SPEZIFIKATION (z.B. kein Low SAPS bei DPF-Motor!):
+
+❌ DPF verstopft! (Asche setzt Filter zu!)
+❌ DPF-Austausch nötig! (1.000-2.500 €!)
+KEINE HERSTELLERFREIGABE:
+
+❌ Garantieverlust möglich!
+❌ Evtl. Motorschäden!
+ANTWORT:
+→ IMMER Bedienungsanleitung prüfen! (SAE, ACEA, Herstellerfreigabe!)
+→ Alle drei Spezifikationen müssen erfüllt sein! (z.B. SAE 5W-30, ACEA C3, VW 504.00!)
+→ Nicht zu viel nachfüllen! (maximal bis MAX! - schrittweise 0,2-0,5 Liter!)
+→ Falsches Öl = DPF-Schäden, Motorschäden, Garantieverlust!</div>
+                    </div>
                 </div>
                 
                 <div class="dozent">
                     <h4>Inhalt für Dozenten</h4>
                     
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)UNTERRICHTSEINHEIT 1: KÜHLSYSTEM (60 Min)Einstieg (10 Min):Methode: Schockfrage<br>Ablauf: "Wie heiß wird es bei der Verbrennung im Motor?" Anwärter schätzen (viele zu niedrig!). Auflösung: 2.000-2.500°C! (Otto!) "Ohne Kühlung → Motorschaden in Minuten!" Überleitung: "Heute lernen wir, wie Kühlung funktioniert!"<br>Ziel: Interesse wecken, Relevanz verdeutlichenHauptteil (45 Min):Phase 1: Warum Kühlung? (5 Min)<br>Dozent erklärt: Verbrennungstemperatur 2.000-2.500°C! Ohne Kühlung → Überhitzung → Kolbenfresser, Motorschaden! Aufgabe: Motor auf 80-105°C halten!Phase 2: Wasserkühlung vs. Luftkühlung (10 Min)<br>Dozent zeigt Vergleich: Wasserkühlung (Standard - gleichmäßig, leise, Heizung möglich!) vs. Luftkühlung (veraltet - ungleichmäßig, laut, keine Heizung!). Wichtig: Wasserkühlung = Standard!Phase 3: Komponenten Kühlsystem (25 Min)<br>Dozent zeigt Schaubild: Wasserpumpe (zirkuliert!), Thermostat (regelt klein/groß!), Kühler (gibt Wärme ab!), Lüfter (bei Bedarf!), Ausgleichsbehälter! Wichtig: Kleiner Kreislauf (&lt; 80°C, Thermostat zu!) → Motor schnell warm! Großer Kreislauf (&gt; 80°C, Thermostat auf!) → Kühlung aktiv! Praxisfall: Motor überhitzt - was tun? (Heizung auf Maximum, sicher anhalten, Motor 1-2 Min. Leerlauf!)Phase 4: Kühlmittel (5 Min)<br>Dozent erklärt: 50% Wasser + 50% Frostschutz (bis -35/-40°C!), Siedepunkt erhöht auf 135°C (bei 1,5 bar!)! Wechsel: Alle 2-5 Jahre!Schluss (5 Min):<br>Sicherung: "Optimale Betriebstemperatur?" → 80-105°C! "Thermostat regelt?" → Klein/groß!<br>Ausblick: "Nächste Stunde: Schmiersystem!"UNTERRICHTSEINHEIT 2: SCHMIERSYSTEM (60 Min)Einstieg (5 Min):<br>Wiederholung: "Kühlsystem hält Motor auf?" → 80-105°C!Hauptteil (50 Min):Phase 1: Warum Schmierung? (10 Min)<br>Dozent erklärt: Ohne Öl → Metall auf Metall → Kolbenfresser, Motorschaden innerhalb von Minuten! Aufgaben: Schmierung (Reibung!), Kühlung (Wärme!), Reinigung (Schmutz!), Dichtung (Kolben!), Korrosionsschutz!Phase 2: Komponenten Schmiersystem (20 Min)<br>Dozent zeigt Schaubild: Ölwanne (Vorrat!) → Ölpumpe (zirkuliert, 2-5 bar!) → Ölfilter (reinigt ab 10-25 μm!) → Öldruckregler → Lager/Kolben/Ventile schmieren → zurück in Ölwanne! Wichtig: 🔴 Rote Öldruckleuchte = SOFORT ANHALTEN! Motor abstellen! Praxisfall: Rote Öldruckleuchte - was tun?Phase 3: Motoröl-Spezifikationen (15 Min)<br>Dozent erklärt: SAE XW-YY: X = Kälte (0W, 5W, 10W!), Y = Hitze (20, 30, 40, 50!). Standard: SAE 5W-30! ACEA: A = Otto, B = Diesel, C = DPF (Low SAPS!). Standard: ACEA C3! Herstellerfreigaben IMMER beachten! (VW, Mercedes, BMW!) Praxisfall: Welches Öl kaufen? (Bedienungsanleitung prüfen!)Phase 4: Ölwechsel &amp; Wartung (5 Min)<br>Dozent erklärt: Alle 15.000-30.000 km ODER 1-2 Jahre! IMMER Ölfilter mitwechseln! Ölstand regelmäßig prüfen (alle 2 Wochen!), zwischen MIN-MAX!Schluss (5 Min):<br>Sicherung: "SAE 5W-30 bedeutet?" → 5W = Kälte, 30 = Hitze! "Ölwechsel wann?" → 15.000-30.000 km!<br>Hausaufgabe: Erstelle Übersicht: Kühlsystem vs. Schmiersystem (Aufgaben, Komponenten, Wartung!)</div>
+                    </div>
 
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Optimale Betriebstemperatur 80-105°C betonen!<br>🔴 Rote Öldruckleuchte = SOFORT ANHALTEN! klar machen!<br>SAE 5W-30 = Standard verdeutlichen!<br>Herstellerfreigaben IMMER beachten (falsches Öl = DPF-Schäden!)<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Luftkühlung ist modern (NEIN! Veraltet!)<br>Verwechseln kleinen und großen Kreislauf<br>Unterschätzen Gefahr bei roter Öldruckleuchte (SOFORT ANHALTEN!)<br>Denken, jedes 5W-30 Öl passt (NEIN! Herstellerfreigaben beachten!)<br><br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Schaubilder erstellen! (Kühlkreislauf, Schmierkreislauf!)<br>Praxisfälle durchspielen! (Motor überhitzt, rote Öldruckleuchte!)<br>SAE-Klassifikation gut einprägen! (XW-YY!)<br><br></div>
+                    </div>
 
 
                 </div>
