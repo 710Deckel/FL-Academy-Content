@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T15:28:27.559Z">
+    <meta name="last-updated" content="2026-01-04T15:49:31.080Z">
 </head>
 <body>
     <div id="academy-data">
@@ -6364,6 +6364,238 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767540506109" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Motoröl - Aufgaben, Viskosität, Wechselintervalle und Spezifikationen</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Die fünf Hauptaufgaben des Motoröls kennen</div>
+                    <div class="lernziel">Viskosität und SAE-Klassen verstehen</div>
+                    <div class="lernziel">Viskositätsindex und Mehrbereichsöle erklären können</div>
+                    <div class="lernziel">Unterschied zwischen Mineralöl und Synthetik verstehen</div>
+                    <div class="lernziel">Ölspezifikationen und Freigaben kennen</div>
+                    <div class="lernziel">Ölwechselintervalle und deren Bedeutung verstehen</div>
+                    <div class="lernziel">Folgen falscher Ölwahl oder fehlenden Ölwechsels kennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. DIE FÜNF HAUPTAUFGABEN DES MOTORÖLS 🛢️<br>WARUM BRAUCHT DER MOTOR ÖL?<br>OHNE ÖL:<br><br>Metall auf Metall! (Kolben reibt an Zylinderwand!)<br>Enorme Hitze! (durch Reibung!)<br>Motor zerstört in wenigen Sekunden! (Kolbenfresser!)<br><br>MIT ÖL:<br><br>Schmierfilm zwischen Bauteilen!<br>Motor läuft reibungslos!<br><br><br>🔧 DIE FÜNF HAUPTAUFGABEN<br>1️⃣ SCHMIERUNG (WICHTIGSTE AUFGABE!)<br>AUFGABE:<br>Schmierfilm zwischen bewegten Teilen bilden!<br>WO?<br><br>Kolben ↔ Zylinderwand<br>Kurbelwelle ↔ Pleuel<br>Nockenwelle ↔ Ventile<br>Zahnräder ↔ Zahnräder<br><br>WIE?<br><br>Ölpumpe pumpt Öl durch Motor<br>Ölfilm (wenige µm dünn!) trennt Metallflächen<br>Reibung wird minimiert!<br><br>OHNE SCHMIERUNG:<br>Kolbenfresser! (Kolben verschweißt mit Zylinder! - Motorschaden 5.000-15.000 €!)<br><br>2️⃣ KÜHLUNG<br>AUFGABE:<br>Wärme von heißen Bauteilen abtransportieren!<br>WARUM NÖTIG?<br><br>Verbrennung: ca. 2.000-2.500°C!<br>Kolben wird extrem heiß!<br>Kühlsystem kühlt nur Zylinderkopf und Zylinderwand von außen!<br>Kolbeninnenseite wird von Motoröl gekühlt!<br><br>WIE?<br><br>Öl fließt durch heiße Bereiche<br>Nimmt Wärme auf<br>Gibt Wärme in Ölwanne ab (bzw. Ölkühler!)<br><br>WICHTIG:<br>Ca. 10-20% der Motorwärme wird durch Öl abgeführt!<br><br>3️⃣ REINIGUNG<br>AUFGABE:<br>Schmutzpartikel und Verbrennungsrückstände aufnehmen und wegspülen!<br>WAS WIRD GEREINIGT?<br><br>Ruß (von Verbrennung!)<br>Metallabrieb (von Verschleiß!)<br>Verbrennungsrückstände (Kohle, Lack!)<br>Alterungsprodukte des Öls selbst!<br><br>WIE?<br><br>Öl nimmt Partikel auf (wie ein Schwamm!)<br>Spült sie zur Ölwanne<br>Ölfilter filtert große Partikel heraus!<br><br>FOLGE:<br>Öl wird mit der Zeit schwarz! (besonders bei Diesel! - normal!)<br><br>4️⃣ DICHTUNG<br>AUFGABE:<br>Abdichten von Spalten!<br>WO?<br><br>Zwischen Kolben und Zylinderwand!<br>Zwischen Kolbenringen und Kolben!<br><br>WIE?<br><br>Ölfilm füllt mikroskopisch kleine Spalten aus!<br>Verhindert Durchblasen von Verbrennungsgasen!<br>Hält Kompression aufrecht!<br><br>WICHTIG:<br>Ohne Öl: Kompression sinkt! (Motor läuft schlecht, wenig Leistung!)<br><br>5️⃣ KORROSIONSSCHUTZ<br>AUFGABE:<br>Metallteile vor Korrosion (Rost!) schützen!<br>WARUM NÖTIG?<br><br>Verbrennungsprodukte sind aggressiv! (Schwefelsäure, Salpetersäure!)<br>Kondenswasser entsteht (besonders Kurzstrecken!)<br>Metall würde rosten!<br><br>WIE?<br><br>Ölfilm schützt Metalloberflächen<br>Additive neutralisieren Säuren!<br><br>BESONDERS WICHTIG:<br><br>Bei Langzeitstandzeiten (Winterpause!)<br>Bei Kurzstrecken (Motor wird nicht warm, Kondenswasser!)<br><br><br>MERKSATZ<br>"Fünf Aufgaben Motoröl: 1. SCHMIERUNG (wichtigste!), 2. KÜHLUNG (10-20% Wärme!), 3. REINIGUNG (Partikel aufnehmen!), 4. DICHTUNG (Spalte abdichten!), 5. KORROSIONSSCHUTZ (vor Rost!)!"<br><br><br>2. VISKOSITÄT &amp; SAE-KLASSEN 🌡️<br>WAS IST VISKOSITÄT?<br>VISKOSITÄT = Zähflüssigkeit des Öls!<br>EINFACH:<br>Wie "dick" oder "dünn" ist das Öl?<br>DÜNNFLÜSSIG (NIEDRIGE VISKOSITÄT):<br>Öl fließt leicht (wie Wasser!)<br>DICKFLÜSSIG (HOHE VISKOSITÄT):<br>Öl fließt schwer (wie Honig!)<br><br>🌡️ PROBLEM: TEMPERATURABHÄNGIGKEIT<br>ÖL ÄNDERT VISKOSITÄT MIT TEMPERATUR!<br>BEI KÄLTE (-20°C):<br><br>Öl wird dickflüssig (wie Honig!)<br>Fließt schwer!<br>Ölpumpe muss gegen hohen Widerstand arbeiten!<br>Schmierung verzögert! (erste Sekunden kritisch!)<br><br>BEI HITZE (+100°C):<br><br>Öl wird dünnflüssig (wie Wasser!)<br>Fließt leicht!<br>Schmierfilm wird dünner!<br>Gefahr: Schmierfilm reißt ab! (Metall auf Metall!)<br><br><br>🔢 SAE-KLASSEN<br>SAE = Society of Automotive Engineers<br>SAE-Klasse = Viskositätsbereich des Öls!<br><br>EINBEREICHSÖLE (VERALTET!)<br>NUR EINE ZAHL:<br>SAE 30:<br>Für Sommer (dickes Öl bei Hitze!)<br>SAE 10W:<br>Für Winter (dünnes Öl bei Kälte!)<br>W = Winter<br>PROBLEM:<br>Zwei Öle nötig! (Ölwechsel im Frühling und Herbst!)<br>HEUTE:<br>Fast nicht mehr verwendet! (nur noch Oldtimer, Rasenmäher!)<br><br>MEHRBEREICHSÖLE (STANDARD!)<br>ZWEI ZAHLEN MIT "W":<br>Beispiel: SAE 5W-30<br>ERSTE ZAHL (vor dem "W"):<br>Kälte-Viskosität!<br>Wie dünnflüssig ist Öl bei Kälte (-20 bis -30°C)?<br>ZWEITE ZAHL (nach dem "-"):<br>Hitze-Viskosität!<br>Wie dickflüssig ist Öl bei Hitze (100°C)?<br><br>BEISPIELE &amp; BEDEUTUNG<br>SAE 0W-20:<br><br>0W: Sehr dünnflüssig bei Kälte! (fließt bis -35°C!)<br>20: Dünn bei Hitze! (wenig Reibung, aber dünner Schmierfilm!)<br>Für: Moderne Motoren, Kurzstrecken, kalte Regionen!<br>Vorteil: Schnelle Schmierung bei Kaltstart, Spritsparen!<br>Nachteil: Schmierfilm dünn bei Hitze!<br><br>SAE 5W-30:<br><br>5W: Dünnflüssig bei Kälte! (fließt bis -30°C!)<br>30: Mittel bei Hitze!<br>Für: Moderne Motoren, Ganzjahresöl (Standard!)<br>HÄUFIGSTER STANDARD!<br><br>SAE 5W-40:<br><br>5W: Dünnflüssig bei Kälte! (fließt bis -30°C!)<br>40: Dick bei Hitze! (stabiler Schmierfilm!)<br>Für: Ältere Motoren, Hochleistungsmotoren, Langstrecken, heiße Regionen!<br>Vorteil: Stabiler Schmierfilm bei Hitze!<br>Nachteil: Etwas höherer Verbrauch!<br><br>SAE 10W-40:<br><br>10W: Dickflüssiger bei Kälte! (fließt bis -25°C!)<br>40: Dick bei Hitze!<br>Für: Ältere Motoren (80er/90er Jahre!), warme Regionen!<br><br>SAE 15W-40:<br><br>15W: Dick bei Kälte! (fließt bis -20°C!)<br>40: Dick bei Hitze!<br>Für: Alte Dieselmotoren, LKW, heiße Regionen!<br><br><br>REGEL:<br>NIEDRIGERE ERSTE ZAHL (z.B. 0W statt 10W):<br><br>✅ Besserer Kaltstart!<br>✅ Schnellere Schmierung!<br>✅ Weniger Verbrauch!<br><br>HÖHERE ZWEITE ZAHL (z.B. 40 statt 20):<br><br>✅ Stabilerer Schmierfilm bei Hitze!<br>✅ Besser für ältere/verschlissene Motoren!<br>❌ Etwas höherer Verbrauch!<br><br><br>📊 VISKOSITÄTSINDEX (VI)<br>VISKOSITÄTSINDEX = Wie stark ändert sich Viskosität mit Temperatur?<br>HOHER VI (z.B. 160-180):<br><br>Öl ändert Viskosität wenig mit Temperatur!<br>Synthetik-Öle!<br>✅ Bessere Schmierung bei Kälte UND Hitze!<br><br>NIEDRIGER VI (z.B. 90-100):<br><br>Öl ändert Viskosität stark mit Temperatur!<br>Mineralöle!<br>❌ Bei Kälte sehr dick, bei Hitze sehr dünn!<br><br>MERKE:<br>Synthetik-Öle haben höheren VI → besser für extreme Bedingungen!<br><br>MERKSATZ<br>"SAE-Klasse: Erste Zahl (vor W) = Kälte! (niedrig = besser!), Zweite Zahl = Hitze! (hoch = dickerer Schmierfilm!). Standard: SAE 5W-30! Viskositätsindex: Hoch = Viskosität ändert sich wenig (Synthetik!)!"<br><br><br>3. MINERALÖL vs. TEILSYNTHETIK vs. VOLLSYNTHETIK 🧪<br>DREI TYPEN<br>1️⃣ MINERALÖL<br>HERSTELLUNG:<br>Aus Erdöl durch Destillation und Raffination<br>EIGENSCHAFTEN:<br><br>❌ Niedriger Viskositätsindex (90-100)<br>❌ Altert schneller (Oxidation!)<br>❌ Weniger temperaturstabil!<br>✅ Günstiger! (ca. 5-15 €/L)<br><br>FÜR:<br><br>Alte Motoren (80er/90er Jahre!)<br>Wenig-Fahrer (&lt;10.000 km/Jahr!)<br>Einfache Motoren!<br><br>ÖLWECHSEL:<br>Häufiger! (ca. alle 10.000 km!)<br><br>2️⃣ TEILSYNTHETIK (HC-SYNTHETIK)<br>HERSTELLUNG:<br>Mix aus Mineralöl + synthetischen Komponenten<br>EIGENSCHAFTEN:<br><br>✅ Mittlerer Viskositätsindex (120-140)<br>✅ Bessere Temperaturstabilität als Mineralöl!<br>✅ Längere Lebensdauer!<br>✅ Preis-Leistung gut! (ca. 10-25 €/L)<br><br>FÜR:<br><br>Moderne Motoren (ab 2000!)<br>Normal-Fahrer (10.000-20.000 km/Jahr!)<br>HÄUFIGSTER STANDARD!<br><br>ÖLWECHSEL:<br>Ca. alle 15.000 km oder 1x pro Jahr!<br><br>3️⃣ VOLLSYNTHETIK (PAO-SYNTHETIK)<br>HERSTELLUNG:<br>Chemisch synthetisiert! (nicht aus Erdöl!)<br>Aufwendige Herstellung (Polyalphaolefine - PAO!)<br>EIGENSCHAFTEN:<br><br>✅ Hoher Viskositätsindex (160-180)<br>✅ Sehr temperaturstabil! (Kälte UND Hitze!)<br>✅ Altert langsamer! (weniger Oxidation!)<br>✅ Besserer Verschleißschutz!<br>✅ Längere Lebensdauer!<br>❌ Teurer! (ca. 15-40 €/L)<br><br>FÜR:<br><br>Hochleistungsmotoren (Turbo, Sportmotoren!)<br>Viel-Fahrer (&gt;20.000 km/Jahr!)<br>Extreme Bedingungen (sehr kalt/heiß!)<br>Longlife-Intervalle (30.000 km!)<br><br>ÖLWECHSEL:<br>Ca. alle 30.000 km oder 2 Jahre! (Longlife!)<br><br>📊 VERGLEICHSTABELLE<br>MerkmalMINERALÖLTEILSYNTHETIKVOLLSYNTHETIKHerstellungErdöl (destilliert!)Mix (Mineralöl + Synthetik!)Chemisch synthetisiert (PAO!)Viskositätsindex (VI)Niedrig (90-100)Mittel (120-140)Hoch (160-180)Temperaturstabilität❌ Schlecht✅ Gut✅ Sehr gutAlterung❌ Schnell✅ Mittel✅ LangsamVerschleißschutz❌ Basic✅ Gut✅ Sehr gutÖlwechsel-IntervallCa. 10.000 kmCa. 15.000 kmCa. 30.000 km (Longlife!)Preis✅ Günstig (5-15 €/L)✅ Mittel (10-25 €/L)❌ Teuer (15-40 €/L)FürAlte Motoren, Wenig-FahrerModerne Motoren, Normal-FahrerHochleistung, Viel-Fahrer, Longlife<br><br>MERKSATZ<br>"Mineralöl: Günstig, altert schnell, für alte Motoren! Teilsynthetik: Preis-Leistung gut, Standard! Vollsynthetik: Teuer, beste Eigenschaften, für Hochleistung + Longlife!"<br><br><br>4. ÖLSPEZIFIKATIONEN &amp; FREIGABEN 📋<br>WARUM SPEZIFIKATIONEN?<br>NICHT JEDES ÖL passt zu jedem Motor!<br>HERSTELLER haben spezifische Anforderungen:<br><br>Motordesign (Turbo, Direkteinspritzung!)<br>Abgasnorm (Euro 6!)<br>Ölwechsel-Intervalle (Longlife!)<br><br>SPEZIFIKATIONEN = Qualitätsstandards für Motoröl!<br><br>🔢 ACEA-SPEZIFIKATIONEN (EUROPÄISCH)<br>ACEA = Association des Constructeurs Européens d'Automobiles<br>(Verband der europäischen Automobilhersteller!)<br><br>KATEGORIEN:<br>A = OTTOMOTOR<br>B = DIESELMOTOR (PKW)<br>C = OTTOMOTOR + DIESELMOTOR (mit DPF/Kat!)<br>E = DIESELMOTOR (NUTZFAHRZEUGE - LKW!)<br><br>BEISPIELE:<br>ACEA A3/B4:<br><br>A3: Otto-Motor, stabile Hochleistung<br>B4: Diesel-Motor (PKW!), Direkteinspritzung<br>Für: Ältere Motoren, Hochleistung, häufigere Ölwechsel!<br><br>ACEA C3:<br><br>C: Kompatibel mit DPF (Dieselpartikelfilter!) und Kat!<br>Low SAPS! (wenig Schwefel, Phosphor, Asche!)<br>Für: Moderne Motoren mit Abgasreinigung! (Euro 5/6!)<br>WICHTIGSTER STANDARD heute!<br><br>ACEA C2:<br><br>C: Kompatibel mit DPF/Kat!<br>Mid SAPS!<br>Dünnflüssiger (z.B. SAE 0W-30!) → Spritsparen!<br>Für: Moderne Motoren mit Fokus Verbrauch!<br><br><br>🌐 API-SPEZIFIKATIONEN (AMERIKANISCH)<br>API = American Petroleum Institute<br><br>KATEGORIEN:<br>S = SERVICE (OTTOMOTOR!)<br>C = COMMERCIAL (DIESELMOTOR!)<br><br>BEISPIELE:<br>API SN:<br><br>S = Otto!<br>N = Aktuelle Stufe (höher = besser!)<br>Für: Moderne Otto-Motoren!<br><br>API CF:<br><br>C = Diesel!<br>F = Stufe<br>Für: Diesel-Motoren (PKW!)<br><br>WICHTIG:<br>Buchstabe je weiter hinten im Alphabet → desto neuer/besser!<br>(z.B. SN besser als SL!)<br><br>🏭 HERSTELLERFREIGABEN<br>WICHTIGSTER PUNKT!<br>JEDER HERSTELLER hat eigene Freigaben!<br>BEISPIELE:<br>VW:<br><br>VW 504.00 (Otto, Longlife!)<br>VW 507.00 (Diesel mit DPF, Longlife!)<br><br>BMW:<br><br>BMW Longlife-04 (Otto + Diesel!)<br>BMW Longlife-14 FE+ (neue Generation, Spritsparen!)<br><br>MERCEDES:<br><br>MB 229.51 (Otto + Diesel, Euro 6!)<br>MB 229.52 (neue Generation!)<br><br>PORSCHE:<br><br>Porsche C30 (Hochleistung!)<br><br><br>WO FINDE ICH DIE RICHTIGE SPEZIFIKATION?<br>✅ Bedienungsanleitung! (Kapitel "Betriebsstoffe"!)<br>✅ Tankdeckel (manchmal!)<br>✅ Öldeckel (manchmal!)<br>BEISPIEL:<br>"Verwenden Sie nur Öl nach VW 507.00!"<br><br>WICHTIG:<br>HERSTELLERFREIGABE ist wichtiger als SAE-Klasse!<br>BEISPIEL:<br><br>Motor braucht VW 507.00<br>SAE 5W-30 OHNE VW 507.00 → FALSCH!<br>SAE 0W-30 MIT VW 507.00 → RICHTIG!<br><br>BEI FALSCHER SPEZIFIKATION:<br><br>❌ Garantie erlischt!<br>❌ Motor kann Schaden nehmen! (DPF, Kat!)<br><br><br>MERKSATZ<br>"Ölspezifikationen: ACEA (europäisch! - A = Otto, B = Diesel PKW, C = mit DPF/Kat!), API (amerikanisch! - S = Otto, C = Diesel!), Herstellerfreigabe (WICHTIGSTER! - z.B. VW 507.00!) - in Bedienungsanleitung prüfen!"<br><br><br>5. ÖLWECHSEL-INTERVALLE &amp; FOLGEN ⏱️<br>WANN ÖL WECHSELN?<br>ZWEI FAKTOREN:<br><br>KILOMETER (z.B. 15.000 km)<br>ZEIT (z.B. 1 Jahr)<br><br>WAS ZUERST ERREICHT IST!<br><br>📊 TYPISCHE INTERVALLE<br>MINERALÖL:<br><br>Ca. 10.000 km oder 1x pro Jahr<br>Für: Alte Motoren!<br><br>TEILSYNTHETIK:<br><br>Ca. 15.000 km oder 1x pro Jahr<br>STANDARD!<br><br>VOLLSYNTHETIK (LONGLIFE):<br><br>Ca. 30.000 km oder 2 Jahre<br>Für: Moderne Motoren mit Longlife-Freigabe!<br><br>KURZSTRECKEN:<br><br>HÄUFIGER! (z.B. alle 10.000 km statt 15.000 km!)<br>Grund: Öl altert schneller (Kondenswasser, Kraftstoffverdünnung!)<br><br><br>⚠️ WARUM MUSS ÖL GEWECHSELT WERDEN?<br>ÖL ALTERT!<br>1. VERSCHMUTZUNG:<br><br>Ruß, Metallabrieb, Verbrennungsrückstände sammeln sich!<br>Ölfilter ist irgendwann voll!<br>Öl wird schwarz/dickflüssig!<br><br>2. OXIDATION:<br><br>Sauerstoff reagiert mit Öl!<br>Öl wird sauer! (greift Metallt eile an!)<br>Schlamm bildet sich!<br><br>3. VERDÜNNUNG:<br><br>Kraftstoff gelangt ins Öl! (besonders Kurzstrecken!)<br>Schmierung wird schlechter!<br><br>4. ADDITIVE VERBRAUCHEN SICH:<br><br>Additive (Verschleißschutz, Reinigung!) werden aufgebraucht!<br>Öl verliert Wirkung!<br><br><br>💥 FOLGEN BEI FEHLENDEM ÖLWECHSEL<br>KURZFRISTIG:<br>❌ Motor läuft unrund!<br>❌ Leistungsverlust!<br>❌ Höherer Verbrauch!<br>❌ Öldruckleuchte kann angehen!<br>LANGFRISTIG:<br>❌ MOTORSCHADEN!<br><br>Schmierung unzureichend!<br>Kolbenfresser! (Kolben verschweißt mit Zylinder!)<br>Lagerschaden! (Kurbelwelle, Pleuellager!)<br>Ventilschaden! (Nockenwelle!)<br><br>KOSTEN:<br>5.000-15.000 €! (Motor instandsetzen oder neu!)<br>WICHTIG:<br>Ölwechsel ist BILLIGSTE Wartung! (ca. 50-150 €!)<br>Motorschaden ist TEUERSTE Reparatur! (5.000-15.000 €!)<br><br>🛢️ ÖLSTAND PRÜFEN<br>WIE OFT?<br>Mind. alle 2 Wochen! (besser wöchentlich!)<br>WIE?<br><br>Motor warmlaufen lassen (5 Min. fahren!)<br>Motor abstellen, 5 Min. warten (Öl läuft in Wanne!)<br>Ölmessstab herausziehen, abwischen!<br>Ölmessstab wieder reinstecken, herausziehen!<br>Ölstand ablesen!<br><br>MARKIERUNGEN:<br><br>MIN (Minimum!) → nachfüllen!<br>MAX (Maximum!) → nicht überfüllen!<br><br>ÖLSTAND ZWISCHEN MIN UND MAX = OK!<br>ZU WENIG:<br>❌ Schmierung unzureichend! → Motorschaden!<br>ZU VIEL:<br>❌ Öl schäumt! → Schmierung schlechter!<br>❌ Katalysator kann verstopfen! (Öl verbrennt!)<br><br>MERKSATZ<br>"Ölwechsel-Intervalle: Teilsynthetik 15.000 km / 1 Jahr (Standard!), Vollsynthetik 30.000 km / 2 Jahre (Longlife!), Kurzstrecken häufiger! Folgen fehlendem Ölwechsel: Motorschaden (5.000-15.000 €!)! Ölstand mind. alle 2 Wochen prüfen!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>FÜNF AUFGABEN MOTORÖL:<br>→ 1. SCHMIERUNG (wichtigste! - Schmierfilm zwischen Bauteilen, verhindert Metall auf Metall!), 2. KÜHLUNG (10-20% Motorwärme abgeführt!), 3. REINIGUNG (Schmutzpartikel aufnehmen, Ölfilter!), 4. DICHTUNG (Spalte abdichten, Kompression halten!), 5. KORROSIONSSCHUTZ (vor Rost!)<br>VISKOSITÄT &amp; SAE-KLASSEN:<br>→ Viskosität = Zähflüssigkeit! Bei Kälte dick, bei Hitze dünn!<br>→ SAE-Klasse (z.B. 5W-30): Erste Zahl (vor W) = Kälte-Viskosität (niedrig = besser, z.B. 0W = bis -35°C!), Zweite Zahl = Hitze-Viskosität (hoch = dickerer Schmierfilm bei Hitze!)<br>→ Standard: SAE 5W-30! Viskositätsindex (VI): Hoch = Viskosität ändert sich wenig mit Temperatur (Synthetik!)<br>MINERALÖL vs. TEILSYNTHETIK vs. VOLLSYNTHETIK:<br>→ Mineralöl: Aus Erdöl, günstiger (5-15 €/L), niedrigerer VI (90-100), altert schneller, Ölwechsel ca. 10.000 km, für alte Motoren!<br>→ Teilsynthetik: Mix, Preis-Leistung gut (10-25 €/L), mittlerer VI (120-140), Ölwechsel ca. 15.000 km, STANDARD!<br>→ Vollsynthetik: Chemisch synthetisiert (PAO!), teurer (15-40 €/L), hoher VI (160-180), beste Eigenschaften, Ölwechsel ca. 30.000 km (Longlife!), für Hochleistung, Viel-Fahrer!<br>ÖLSPEZIFIKATIONEN:<br>→ ACEA (europäisch!): A = Otto, B = Diesel PKW, C = mit DPF/Kat (Low SAPS! - wichtig Euro 5/6!), E = Diesel LKW!<br>→ API (amerikanisch!): S = Otto (z.B. SN!), C = Diesel (z.B. CF!)<br>→ Herstellerfreigabe WICHTIGSTER! (z.B. VW 507.00, BMW Longlife-04!) - in Bedienungsanleitung prüfen! Falsche Spezifikation → Garantie erlischt, Motor kann Schaden nehmen!<br>ÖLWECHSEL-INTERVALLE:<br>→ Teilsynthetik: Ca. 15.000 km / 1 Jahr (was zuerst erreicht!)<br>→ Vollsynthetik (Longlife): Ca. 30.000 km / 2 Jahre<br>→ Kurzstrecken: Häufiger! (Öl altert schneller - Kondenswasser, Kraftstoffverdünnung!)<br>→ Folgen fehlendem Ölwechsel: Motorschaden (Kolbenfresser, Lagerschaden! - 5.000-15.000 €!)<br>→ Ölstand prüfen: Mind. alle 2 Wochen! (zwischen MIN und MAX!)</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: ÖLSTAND ZU NIEDRIG - WAS TUN?
+SITUATION:
+Fahrschüler prüft Ölstand - Ölmessstab zeigt UNTER MIN!
+FRAGE: Was tun?
+
+ANALYSE:
+ZU WENIG ÖL = GEFAHR!
+FOLGEN:
+❌ Ölpumpe saugt Luft! (statt Öl!)
+❌ Schmierung unzureichend!
+❌ Öldruckleuchte kann angehen!
+❌ Motorschaden-Gefahr! (Kolbenfresser, Lagerschaden!)
+
+SOFORTMASSNAHMEN:
+1. MOTOR NICHT STARTEN / SOFORT ABSTELLEN!
+Wenn Ölstand zu niedrig → nicht weiterfahren!
+2. ÖL NACHFÜLLEN:
+WAS KAUFEN?
+✅ Richtige Spezifikation! (siehe Bedienungsanleitung!)
+✅ Richtige SAE-Klasse! (z.B. 5W-30!)
+✅ Herstellerfreigabe! (z.B. VW 507.00!)
+WO KAUFEN?
+
+Tankstelle (teurer! - ca. 10-20 €/L!)
+Baumarkt (günstiger! - ca. 8-15 €/L!)
+Werkstatt (richtige Spezifikation garantiert!)
+
+WIE NACHFÜLLEN?
+
+Öldeckel öffnen (auf Motor - meist mit Ölkanne-Symbol!)
+Trichter einsetzen (oder vorsichtig ohne!)
+Langsam Öl einfüllen! (ca. 0,5-1 Liter!)
+Warten (2-3 Min. - Öl läuft in Wanne!)
+Ölstand prüfen! (Messstab!)
+Wiederholen bis Ölstand zwischen MIN und MAX!
+
+WICHTIG:
+NICHT ÜBERFÜLLEN! (zwischen MIN und MAX = OK!)
+
+3. URSACHE KLÄREN:
+WARUM ZU WENIG ÖL?
+NORMAL:
+Motor verbraucht etwas Öl! (ca. 0,5 L / 1.000 km = noch OK!)
+NICHT NORMAL:
+
+Ölleck! (Öl tropft unter Auto!)
+Ölverbrennung! (blauer Rauch aus Auspuff! - Kolbenringe defekt!)
+Zylinderkopfdichtung defekt! (Öl im Kühlwasser oder umgekehrt!)
+
+BEI NICHT-NORMALEM VERBRAUCH:
+→ Werkstatt aufsuchen! (Ursache finden!)
+
+KOSTEN:
+Öl nachfüllen:
+Ca. 10-20 € (1 Liter Öl!)
+Ölwechsel (vorbeugend):
+Ca. 50-150 €
+Motorschaden (bei zu wenig Öl!):
+5.000-15.000 €!
+
+ANTWORT:
+→ Ölstand UNTER MIN = GEFAHR! (Schmierung unzureichend → Motorschaden!)
+→ Sofort: Motor NICHT starten / abstellen! Öl nachfüllen (richtige Spezifikation! - Bedienungsanleitung prüfen!), langsam einfüllen (0,5-1 L!), Ölstand prüfen (zwischen MIN und MAX!), NICHT überfüllen!
+→ Ursache klären: Normal: Motor verbraucht etwas Öl (0,5 L/1.000 km OK!), NICHT normal: Ölleck, Ölverbrennung (blauer Rauch!), Zylinderkopfdichtung defekt → Werkstatt!
+→ Kosten: Nachfüllen 10-20 €, Motorschaden bei zu wenig Öl: 5.000-15.000 €!</div>
+                        <div class="beispiel">BEISPIEL 2: WELCHES ÖL FÜR MEINEN MOTOR?
+SITUATION:
+Fahrschüler will Öl nachkaufen. An der Tankstelle stehen 10 verschiedene Öle!
+FRAGE: Welches ist richtig?
+
+ANALYSE:
+DREI SCHRITTE:
+
+SCHRITT 1: BEDIENUNGSANLEITUNG PRÜFEN!
+WO?
+Kapitel "Betriebsstoffe" oder "Motoröl"
+WAS STEHT DRIN?
+BEISPIEL:
+"Verwenden Sie Motoröl nach folgender Spezifikation:
+
+SAE: 5W-30
+Spezifikation: ACEA C3
+Herstellerfreigabe: VW 507.00"
+
+WICHTIG:
+Alle drei Angaben müssen passen!
+
+SCHRITT 2: ÖL-ETIKETT PRÜFEN!
+AUF ÖLFLASCHE STEHT:
+Vorderseite:
+
+Marke (z.B. Castrol, Mobil, Shell!)
+SAE-Klasse (z.B. 5W-30!)
+Typ (z.B. Vollsynthetik!)
+
+Rückseite:
+
+Spezifikationen: (z.B. ACEA C3, API SN!)
+Freigaben: (z.B. VW 507.00, BMW Longlife-04!)
+
+BEISPIEL-PRÜFUNG:
+Bedienungsanleitung sagt:
+SAE 5W-30, ACEA C3, VW 507.00
+Öl-Etikett sagt:
+SAE 5W-30, ACEA C3, VW 507.00, BMW Longlife-04
+PASST! ✅ (Öl kann mehrere Freigaben haben!)
+
+SCHRITT 3: BEI UNSICHERHEIT → WERKSTATT FRAGEN!
+WENN:
+
+Bedienungsanleitung nicht vorhanden!
+Etikett unklar!
+Mehrere Spezifikationen angegeben!
+
+DANN:
+→ Werkstatt anrufen! (Fahrzeugdaten durchgeben: Hersteller, Modell, Baujahr, Motor!)
+→ Hersteller-Hotline anrufen!
+
+HÄUFIGE FEHLER:
+❌ "Passt schon, ist ja SAE 5W-30!"
+→ FALSCH! SAE-Klasse alleine reicht NICHT! (Spezifikation wichtig!)
+❌ "Ist doch alles Öl!"
+→ FALSCH! Falsche Spezifikation → Garantie erlischt, Motor kann Schaden nehmen! (besonders DPF, Kat!)
+❌ "Ich nehme das Billigste!"
+→ RISKANT! Billig-Öle erfüllen oft nicht alle Freigaben!
+
+ANTWORT:
+→ Schritt 1: Bedienungsanleitung prüfen! (Kapitel "Betriebsstoffe"!) → SAE-Klasse (z.B. 5W-30!), Spezifikation (z.B. ACEA C3!), Herstellerfreigabe (z.B. VW 507.00!)
+→ Schritt 2: Öl-Etikett prüfen! (Rückseite: Spezifikationen + Freigaben!) → ALLE drei Angaben müssen passen!
+→ Schritt 3: Bei Unsicherheit → Werkstatt fragen!
+→ Häufige Fehler: SAE-Klasse alleine reicht NICHT! Herstellerfreigabe wichtigster! Falsche Spezifikation → Garantie erlischt, Motor kann Schaden nehmen (DPF, Kat!)</div>
+                        <div class="beispiel">BEISPIEL 3: LANGSTRECKE VS. KURZSTRECKE - GLEICHER ÖLWECHSEL?
+SITUATION:
+Zwei Fahrschüler:
+
+Fahrschüler A: Fährt täglich 100 km Autobahn (Langstrecke!)
+Fahrschüler B: Fährt täglich 5 km Stadt (Kurzstrecke!)
+
+FRAGE: Brauchen beide den gleichen Ölwechsel-Intervall?
+
+ANALYSE:
+NEIN! KURZSTRECKE IST HÄRTER FÜR ÖL!
+
+FAHRSCHÜLER A (LANGSTRECKE - 100 KM AUTOBAHN):
+BEDINGUNGEN:
+
+Motor wird warm! (90-100°C Öltemperatur!)
+Kondenswasser verdampft! (Motor hat Zeit aufzuwärmen!)
+Kraftstoff im Öl verdampft! (kein Problem!)
+Öl arbeitet optimal!
+
+ÖLWECHSEL:
+Normal! (z.B. alle 15.000 km oder 1 Jahr)
+
+FAHRSCHÜLER B (KURZSTRECKE - 5 KM STADT):
+BEDINGUNGEN:
+
+Motor wird NICHT warm! (nur 50-70°C Öltemperatur!)
+Kondenswasser sammelt sich im Öl! (nicht verdampft!)
+Kraftstoff gelangt ins Öl! (bei Kaltstart fettes Gemisch!)
+Öl altert schneller!
+
+FOLGEN:
+❌ Öl wird milchig! (Emulsion aus Öl + Wasser!)
+❌ Öl wird dünnflüssig! (Kraftstoff verdünnt Öl!)
+❌ Schmierung schlechter!
+❌ Korrosion! (Wasser greift Metall an!)
+❌ Ölschlamm bildet sich! (Oxidation!)
+ÖLWECHSEL:
+HÄUFIGER! (z.B. alle 10.000 km statt 15.000 km!)
+Oder: Alle 1 Jahr (auch wenn weniger km!)
+
+EMPFEHLUNG FÜR KURZSTRECKEN-FAHRER:
+✅ Ölwechsel häufiger! (ca. alle 10.000 km oder 1x pro Jahr!)
+✅ Mind. 1x pro Woche Langstrecke! (30-60 Min. Autobahn - Motor warm fahren!)
+✅ Ölstand häufiger prüfen! (Kraftstoff kann Öl verdünnen!)
+✅ Vollsynthetik bevorzugen! (altert langsamer!)
+
+ANTWORT:
+→ NEIN, nicht gleicher Ölwechsel! Kurzstrecke ist härter für Öl!
+→ Langstrecke (100 km Autobahn): Motor wird warm (90-100°C!), Kondenswasser + Kraftstoff verdampft, Öl arbeitet optimal! Ölwechsel normal (15.000 km / 1 Jahr!)
+→ Kurzstrecke (5 km Stadt): Motor wird NICHT warm (50-70°C!), Kondenswasser + Kraftstoff sammelt sich im Öl, Öl altert schneller! Folgen: Öl milchig (Emulsion!), dünnflüssig (Kraftstoff verdünnt!), Schmierung schlechter, Korrosion!
+→ Ölwechsel Kurzstrecke: HÄUFIGER (10.000 km statt 15.000 km!)! Empfehlung: Mind. 1x/Woche Langstrecke (Motor warm fahren!), Vollsynthetik bevorzugen!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br>UNTERRICHTSEINHEIT: MOTORÖL KOMPLETT (90 Min)<br>Einstieg (10 Min):<br>Methode: Demonstration + Schockmoment<br>Ablauf: Dozent zeigt Video: Motor ohne Öl! (Kolbenfresser nach wenigen Sekunden!). Frage: "Warum ist Öl so wichtig?" Anwärter diskutieren. Auflösung: Fünf Aufgaben des Motoröls! Überleitung: "Heute lernen wir alles über Motoröl!"<br>Ziel: Dramatik verdeutlichen, Wichtigkeit des Öls betonen<br><br>Hauptteil (75 Min):<br>Phase 1: Fünf Aufgaben (15 Min)<br>Dozent erklärt: 1. SCHMIERUNG (wichtigste! - Schmierfilm!), 2. KÜHLUNG (10-20% Wärme!), 3. REINIGUNG (Partikel aufnehmen!), 4. DICHTUNG (Spalte abdichten!), 5. KORROSIONSSCHUTZ (vor Rost!)! Wichtig: OHNE Öl = Motor kaputt in Sekunden!<br>Phase 2: Viskosität &amp; SAE-Klassen (20 Min)<br>Dozent erklärt: Viskosität = Zähflüssigkeit! Bei Kälte dick, bei Hitze dünn! SAE-Klasse (z.B. 5W-30): Erste Zahl = Kälte (niedrig = besser!), Zweite Zahl = Hitze (hoch = dickerer Schmierfilm!)! Standard: 5W-30! Viskositätsindex: Hoch = Viskosität ändert sich wenig (Synthetik!)! Gruppenarbeit: Anwärter erarbeiten: SAE 0W-20 vs. 5W-30 vs. 10W-40 (wann welches?)<br>Phase 3: Mineralöl vs. Teilsynthetik vs. Vollsynthetik (15 Min)<br>Dozent zeigt Vergleichstabelle: Mineralöl (günstig, altert schnell, alte Motoren!), Teilsynthetik (Preis-Leistung, Standard!), Vollsynthetik (teuer, beste Eigenschaften, Hochleistung!)! Wichtig: Vollsynthetik für Longlife nötig!<br>Phase 4: Ölspezifikationen (15 Min)<br>Dozent erklärt: ACEA (A = Otto, B = Diesel PKW, C = mit DPF/Kat! - WICHTIG!), API (S = Otto, C = Diesel!), Herstellerfreigabe WICHTIGSTER! (z.B. VW 507.00!) - in Bedienungsanleitung! Praxisfall: Öl-Etikett lesen (Rückseite: Spezifikationen + Freigaben!)<br>Phase 5: Ölwechsel-Intervalle &amp; Folgen (10 Min)<br>Dozent erklärt: Teilsynthetik: 15.000 km / 1 Jahr (Standard!), Vollsynthetik: 30.000 km / 2 Jahre (Longlife!), Kurzstrecken: Häufiger! Folgen fehlendem Ölwechsel: Motorschaden (5.000-15.000 €!)! Ölstand prüfen: Mind. alle 2 Wochen!<br><br>Schluss (5 Min):<br>Sicherung: "Wichtigste Aufgabe Öl?" → Schmierung! "SAE 5W-30 bedeutet?" → 5W = Kälte, 30 = Hitze!<br>Hausaufgabe: Prüfe dein eigenes Auto: Welche Ölspezifikation? (Bedienungsanleitung!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Fünf Aufgaben gut einprägen! (besonders Schmierung!)<br>SAE-Klassen praktisch erklären! (0W = extrem kalt, 40 = sehr heiß!)<br>Herstellerfreigabe betonen! (wichtiger als SAE!)<br>Kurzstrecken-Problematik verdeutlichen! (Öl altert schneller!)<br>Kosten Motorschaden dramatisch darstellen! (5.000-15.000 €!)<br><br>Häufige Fehler der Anwärter:<br><br>Denken, SAE-Klasse alleine reicht (NEIN! Spezifikation wichtig!)<br>Unterschätzen Bedeutung Ölwechsel (ist BILLIGSTE Wartung!)<br>Verwechseln Mineralöl und Synthetik (Synthetik ≠ immer besser für alle Motoren!)<br>Denken, zu viel Öl ist OK (NEIN! Öl schäumt!)<br>Vergessen, Ölstand zu prüfen (mind. alle 2 Wochen!)<br><br>Tipps &amp; Tricks:<br><br>Video zeigen! (Motor ohne Öl - Kolbenfresser!)<br>Ölproben zeigen! (frisch vs. alt!)<br>Öl-Etiketten zeigen! (Spezifikationen finden!)<br>Ölmessstab zeigen! (MIN/MAX erklären!)<br>Merksätze auswendig lernen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Nennen Sie die fünf Hauptaufgaben des Motoröls und erklären Sie diese kurz.<br>Antwort: FÜNF HAUPTAUFGABEN MOTORÖL: 1. SCHMIERUNG (wichtigste Aufgabe!): Schmierfilm zwischen bewegten Teilen bilden (Kolben ↔ Zylinderwand, Kurbelwelle ↔ Pleuel, Nockenwelle ↔ Ventile!). Ölpumpe pumpt Öl durch Motor, Ölfilm (wenige µm dünn!) trennt Metallflächen, Reibung wird minimiert! OHNE Schmierung: Kolbenfresser (Kolben verschweißt mit Zylinder! - Motorschaden 5.000-15.000 €!)! 2. KÜHLUNG: Wärme von heißen Bauteilen abtransportieren! Verbrennung ca. 2.000-2.500°C → Kolben wird extrem heiß! Kühlsystem kühlt nur von außen → Kolbeninnenseite wird von Motoröl gekühlt! Öl fließt durch heiße Bereiche, nimmt Wärme auf, gibt Wärme in Ölwanne ab! Ca. 10-20% der Motorwärme wird durch Öl abgeführt! 3. REINIGUNG: Schmutzpartikel und Verbrennungsrückstände aufnehmen und wegspülen! Was? Ruß (von Verbrennung!), Metallabrieb (von Verschleiß!), Verbrennungsrückstände, Alterungsprodukte! Öl nimmt Partikel auf, spült sie zur Ölwanne, Ölfilter filtert große Partikel! Folge: Öl wird schwarz (besonders Diesel - normal!)! 4. DICHTUNG: Abdichten von Spalten (zwischen Kolben und Zylinderwand, zwischen Kolbenringen und Kolben!)! Ölfilm füllt mikroskopisch kleine Spalten aus, verhindert Durchblasen von Verbrennungsgasen, hält Kompression aufrecht! OHNE Öl: Kompression sinkt (Motor läuft schlecht!)! 5. KORROSIONSSCHUTZ: Metallteile vor Korrosion (Rost!) schützen! Verbrennungsprodukte aggressiv (Schwefelsäure, Salpetersäure!), Kondenswasser entsteht (Kurzstrecken!), Metall würde rosten! Ölfilm schützt Metalloberflächen, Additive neutralisieren Säuren! Besonders wichtig: Langzeitstandzeiten, Kurzstrecken! Merksatz: "Fünf Aufgaben: 1. SCHMIERUNG (wichtigste!), 2. KÜHLUNG (10-20%!), 3. REINIGUNG, 4. DICHTUNG, 5. KORROSIONSSCHUTZ!"<br><br>Frage 2: Was bedeutet die SAE-Klasse 5W-30? Erklären Sie beide Zahlen und den Buchstaben "W".<br>Antwort: SAE-KLASSE 5W-30: SAE = Society of Automotive Engineers (Klassifizierung Viskosität!)! 5W-30 = Mehrbereichsöl (zwei Zahlen mit "W"!)! ERSTE ZAHL (5W): Kälte-Viskosität! Wie dünnflüssig ist Öl bei Kälte (-20 bis -30°C)? "5W" bedeutet: Öl fließt bis ca. -30°C! "W" = WINTER! Je niedriger die Zahl, desto dünnflüssiger bei Kälte, desto besser! Beispiele: 0W = fließt bis -35°C (sehr dünnflüssig!), 5W = fließt bis -30°C, 10W = fließt bis -25°C! ZWEITE ZAHL (30): Hitze-Viskosität! Wie dickflüssig ist Öl bei Hitze (100°C)? "30" bedeutet: Öl hat mittlere Viskosität bei 100°C! Je höher die Zahl, desto dickflüssiger bei Hitze, desto stabiler Schmierfilm! Beispiele: 20 = dünn bei Hitze (wenig Reibung, Spritsparen, aber dünner Schmierfilm!), 30 = mittel bei Hitze (Standard!), 40 = dick bei Hitze (stabiler Schmierfilm, besser für ältere/Hochleistungsmotoren!)! BEDEUTUNG SAE 5W-30: Bei Kälte (-30°C): dünnflüssig (5W) → schnelle Schmierung bei Kaltstart! Bei Hitze (100°C): mittlere Viskosität (30) → ausreichender Schmierfilm! STANDARD für die meisten modernen Motoren! REGEL: Niedrigere erste Zahl (z.B. 0W statt 10W): Besserer Kaltstart, schnellere Schmierung, weniger Verbrauch! Höhere zweite Zahl (z.B. 40 statt 20): Stabilerer Schmierfilm bei Hitze, besser für ältere/verschlissene Motoren, etwas höherer Verbrauch! Merksatz: "SAE 5W-30: 5W = Kälte (niedrig = besser!), 30 = Hitze (hoch = dickerer Schmierfilm!), W = Winter!"<br><br>Frage 3: Vergleichen Sie Mineralöl, Teilsynthetik und Vollsynthetik. Nennen Sie Unterschiede, Vorteile und Einsatzgebiete.<br>Antwort: VERGLEICH MINERALÖL vs. TEILSYNTHETIK vs. VOLLSYNTHETIK: MINERALÖL: Herstellung: Aus Erdöl durch Destillation und Raffination! Eigenschaften: Niedriger Viskositätsindex (90-100 - Viskosität ändert sich stark mit Temperatur!), altert schneller (Oxidation!), weniger temperaturstabil! Preis: ✅ Günstiger (ca. 5-15 €/L)! Ölwechsel: Häufiger (ca. alle 10.000 km!)! Für: Alte Motoren (80er/90er Jahre!), Wenig-Fahrer (&lt;10.000 km/Jahr!), einfache Motoren! TEILSYNTHETIK (HC-SYNTHETIK): Herstellung: Mix aus Mineralöl + synthetischen Komponenten! Eigenschaften: Mittlerer Viskositätsindex (120-140), bessere Temperaturstabilität als Mineralöl, längere Lebensdauer! Preis: ✅ Preis-Leistung gut (ca. 10-25 €/L)! Ölwechsel: Ca. alle 15.000 km oder 1x pro Jahr! Für: Moderne Motoren (ab 2000!), Normal-Fahrer (10.000-20.000 km/Jahr!), HÄUFIGSTER STANDARD! VOLLSYNTHETIK (PAO-SYNTHETIK): Herstellung: Chemisch synthetisiert (nicht aus Erdöl!), aufwendig (Polyalphaolefine - PAO!)! Eigenschaften: Hoher Viskositätsindex (160-180 - Viskosität ändert sich WENIG mit Temperatur!), sehr temperaturstabil (Kälte UND Hitze!), altert langsamer (weniger Oxidation!), besserer Verschleißschutz, längere Lebensdauer! Preis: ❌ Teurer (ca. 15-40 €/L)! Ölwechsel: Ca. alle 30.000 km oder 2 Jahre (Longlife!)! Für: Hochleistungsmotoren (Turbo, Sportmotoren!), Viel-Fahrer (&gt;20.000 km/Jahr!), extreme Bedingungen (sehr kalt/heiß!), Longlife-Intervalle! HAUPTUNTERSCHIEDE: Herstellung: Mineralöl aus Erdöl, Teilsynthetik Mix, Vollsynthetik chemisch synthetisiert! Viskositätsindex: Mineralöl niedrig (90-100), Teilsynthetik mittel (120-140), Vollsynthetik hoch (160-180!)! Ölwechsel: Mineralöl 10.000 km, Teilsynthetik 15.000 km, Vollsynthetik 30.000 km! Preis: Mineralöl günstig, Teilsynthetik mittel, Vollsynthetik teuer! Merksatz: "Mineralöl: Günstig, altert schnell, alte Motoren! Teilsynthetik: Preis-Leistung, Standard! Vollsynthetik: Teuer, beste Eigenschaften, Hochleistung + Longlife!"<br><br>Frage 4: Was sind Ölspezifikationen? Erklären Sie ACEA und Herstellerfreigaben. Warum sind sie wichtig?<br>Antwort: ÖLSPEZIFIKATIONEN: Qualitätsstandards für Motoröl! Nicht jedes Öl passt zu jedem Motor! Hersteller haben spezifische Anforderungen (Motordesign - Turbo, Direkteinspritzung!, Abgasnorm - Euro 6!, Ölwechsel-Intervalle - Longlife!)! ACEA-SPEZIFIKATIONEN (EUROPÄISCH): ACEA = Association des Constructeurs Européens d'Automobiles (Verband europäischer Automobilhersteller!)! KATEGORIEN: A = Ottomotor, B = Dieselmotor (PKW!), C = Ottomotor + Dieselmotor (mit DPF/Kat!), E = Dieselmotor (Nutzfahrzeuge - LKW!)! BEISPIELE: ACEA A3/B4: A3 = Otto-Motor stabile Hochleistung, B4 = Diesel-Motor PKW Direkteinspritzung! Für ältere Motoren, Hochleistung! ACEA C3: C = Kompatibel mit DPF (Dieselpartikelfilter!) und Kat! Low SAPS (wenig Schwefel, Phosphor, Asche! - wichtig für Abgasreinigung!)! Für moderne Motoren mit Abgasreinigung (Euro 5/6!)! WICHTIGSTER STANDARD heute! ACEA C2: C = Kompatibel mit DPF/Kat, Mid SAPS, dünnflüssiger (z.B. SAE 0W-30!) → Spritsparen! HERSTELLERFREIGABEN (WICHTIGSTER PUNKT!): JEDER HERSTELLER hat eigene Freigaben! Beispiele: VW: VW 504.00 (Otto, Longlife!), VW 507.00 (Diesel mit DPF, Longlife!). BMW: BMW Longlife-04 (Otto + Diesel!), BMW Longlife-14 FE+ (neue Generation, Spritsparen!). Mercedes: MB 229.51 (Otto + Diesel, Euro 6!), MB 229.52 (neue Generation!). WICHTIG: Herstellerfreigabe ist WICHTIGER als SAE-Klasse! Beispiel: Motor braucht VW 507.00 → SAE 5W-30 OHNE VW 507.00 = FALSCH!, SAE 0W-30 MIT VW 507.00 = RICHTIG! WO FINDE ICH RICHTIGE SPEZIFIKATION? Bedienungsanleitung (Kapitel "Betriebsstoffe"!), Tankdeckel (manchmal!), Öldeckel (manchmal!)! BEI FALSCHER SPEZIFIKATION: Garantie erlischt! Motor kann Schaden nehmen (besonders DPF, Kat! - Low SAPS wichtig!)! Merksatz: "ACEA: A = Otto, B = Diesel PKW, C = mit DPF/Kat (Low SAPS!)! Herstellerfreigabe WICHTIGSTER (z.B. VW 507.00!) - in Bedienungsanleitung!"<br><br>Frage 5: Welche Ölwechsel-Intervalle gibt es? Was passiert bei fehlendem Ölwechsel?<br>Antwort: ÖLWECHSEL-INTERVALLE: ZWEI FAKTOREN: 1. Kilometer (z.B. 15.000 km), 2. Zeit (z.B. 1 Jahr) → was zuerst erreicht ist! TYPISCHE INTERVALLE: Mineralöl: Ca. 10.000 km oder 1x pro Jahr (für alte Motoren!). Teilsynthetik: Ca. 15.000 km oder 1x pro Jahr (STANDARD!). Vollsynthetik (Longlife): Ca. 30.000 km oder 2 Jahre (für moderne Motoren mit Longlife-Freigabe!). Kurzstrecken: HÄUFIGER! (z.B. alle 10.000 km statt 15.000 km!), Grund: Öl altert schneller (Kondenswasser, Kraftstoffverdünnung!)! WARUM MUSS ÖL GEWECHSELT WERDEN? ÖL ALTERT! 1. VERSCHMUTZUNG: Ruß, Metallabrieb, Verbrennungsrückstände sammeln sich! Ölfilter irgendwann voll! Öl wird schwarz/dickflüssig! 2. OXIDATION: Sauerstoff reagiert mit Öl! Öl wird sauer (greift Metallteile an!), Schlamm bildet sich! 3. VERDÜNNUNG: Kraftstoff gelangt ins Öl (besonders Kurzstrecken!), Schmierung wird schlechter! 4. ADDITIVE VERBRAUCHEN SICH: Additive (Verschleißschutz, Reinigung!) werden aufgebraucht, Öl verliert Wirkung! FOLGEN BEI FEHLENDEM ÖLWECHSEL: Kurzfristig: Motor läuft unrund, Leistungsverlust, höherer Verbrauch, Öldruckleuchte kann angehen! Langfristig: MOTORSCHADEN! Schmierung unzureichend → Kolbenfresser (Kolben verschweißt mit Zylinder!), Lagerschaden (Kurbelwelle, Pleuellager!), Ventilschaden (Nockenwelle!)! KOSTEN: 5.000-15.000 € (Motor instandsetzen oder neu!)! WICHTIG: Ölwechsel ist BILLIGSTE Wartung (ca. 50-150 €!)! Motorschaden ist TEUERSTE Reparatur (5.000-15.000 €!)! ÖLSTAND PRÜFEN: Mind. alle 2 Wochen! Motor warmlaufen (5 Min.), abstellen (5 Min. warten!), Ölmessstab herausziehen/abwischen/reinstecken/herausziehen, Ölstand ablesen (zwischen MIN und MAX!)! Zu wenig: Schmierung unzureichend → Motorschaden! Zu viel: Öl schäumt → Schmierung schlechter! Merksatz: "Ölwechsel: Teilsynthetik 15.000 km / 1 Jahr, Vollsynthetik 30.000 km / 2 Jahre, Kurzstrecken häufiger! Folgen: Motorschaden (5.000-15.000 €!)!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767541761972" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
