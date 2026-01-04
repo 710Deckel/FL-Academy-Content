@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T00:29:32.436Z">
+    <meta name="last-updated" content="2026-01-04T00:34:51.175Z">
 </head>
 <body>
     <div id="academy-data">
@@ -2736,6 +2736,159 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767486570850" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Zündanlage, Zündkerzen und Glühkerzen - Unterschiede und Funktionen</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Aufgabe und Funktion der Zündanlage verstehen</div>
+                    <div class="lernziel">Unterschied Zündkerze (Otto) vs. Glühkerze (Diesel) kennen</div>
+                    <div class="lernziel">Kreislauf der Zündanlage erklären können</div>
+                    <div class="lernziel">Aufbau und Funktion von Zündkerzen beherrschen</div>
+                    <div class="lernziel">Wärmewert von Zündkerzen verstehen (kalte vs. heiße Zündkerze)</div>
+                    <div class="lernziel">Unterschiedliche Zündkerzentypen (Standard, Platin, Iridium) kennen</div>
+                    <div class="lernziel">Glühkerzen (Funktion, Einsatzzeitpunkt) erklären können</div>
+                    <div class="lernziel">Klopfregelung und Klopfen verstehen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. DIE ZÜNDANLAGE - NUR BEIM OTTOMOTOR! ⚡AUFGABE DER ZÜNDANLAGEDEFINITION:Die Zündanlage erzeugt zum richtigen Zeitpunkt einen Hochspannungsfunken an der Zündkerze, um das komprimierte Kraftstoff-Luft-Gemisch zu entzünden.🔄 WANN GIBT ES EINE SEPARATE ZÜNDANLAGE?NUR BEI OTTOMOTOREN!WARUM?OTTOMOTOREN:<br><br>Benötigen Fremdzündung durch Zündkerze (Funkenüberschlag!)<br>Grund: Ottokraftstoff hat höhere Zündtemperatur (ca. 400-500°C) als Diesel (ca. 220°C)<br>Ottokraftstoff zündet nicht durch Verdichtung allein!<br>Zündkerze ist zwingend notwendig!<br>DIESELMOTOREN:<br><br>Selbstzündung durch hohe Verdichtung<br>KEINE separate Zündanlage!<br>Grund: Diesel hat niedrige Zündtemperatur (ca. 220°C)<br>Verdichtungstemperatur (700-900°C) reicht zur Selbstzündung!<br>Keine Zündkerze - nur Glühkerze zur Starthilfe!<br>MERKSATZ"Zündanlage = nur Ottomotor (Fremdzündung)! Dieselmotor = keine Zündanlage (Selbstzündung)!"2. KREISLAUF DER ZÜNDANLAGE 🔌ÜBERSICHT1️⃣ ENERGIEVERSORGUNG (Batterie 12V)<br>    ↓<br>2️⃣ STEUERUNG (Motorsteuergerät ECU)<br>    ↓<br>3️⃣ SPANNUNGSERZEUGUNG (Zündspule 15.000-30.000V)<br>    ↓<br>4️⃣ VERTEILUNG (Zündverteiler - veraltet / Einzelfunkenzündung - modern)<br>    ↓<br>5️⃣ ZÜNDUNG (Zündkerze - Funkenüberschlag)<br>    ↓<br>6️⃣ RÜCKMELDUNG &amp; REGELUNG (Klopfsensor)1️⃣ ENERGIEVERSORGUNGBATTERIE (12V Bordnetz)→ Liefert Niederspannung (12V)<br>→ Basis für Zündanlage2️⃣ STEUERUNGMOTORSTEUERGERÄT (ECU)Berechnet optimalen Zündzeitpunkt basierend auf:<br>Motordrehzahl (Kurbelwellensensor)<br>Motorlast (Luftmassenmesser, Drosselklappenstellung)<br>Motortemperatur (Kühlmitteltemperatursensor)<br>Klopfsensor-Signal (erkennt Klopfen!)<br>Kennfeld-Daten (gespeicherte Werte)<br>WICHTIG:<br>Der richtige Zündzeitpunkt ist entscheidend!<br>Zu früh → Klopfen, Motorschaden!<br>Zu spät → Leistungsverlust, höherer Verbrauch!<br>3️⃣ SPANNUNGSERZEUGUNGZÜNDSPULEFUNKTION:<br>Transformiert 12V auf 15.000-30.000V (Hochspannung!)AUFBAU:<br><br>Primärwicklung: Niederspannung (12V) - wenige Windungen<br>Sekundärwicklung: Hochspannung (bis 30.000V) - viele Windungen (Faktor 1.000-2.500!)<br>FUNKTIONSPRINZIP:<br>Elektromagnetische Induktion beim Unterbrechen des Primärstroms!ABLAUF:<br><br>Motorsteuergerät schließt Primärstromkreis (12V)<br>Magnetfeld baut sich in Zündspule auf<br>Motorsteuergerät unterbricht Primärstrom abrupt!<br>Magnetfeld bricht zusammen<br>In Sekundärwicklung wird Hochspannung induziert (bis 30.000V!)<br>Hochspannung wird zur Zündkerze geleitet<br>4️⃣ VERTEILUNGFRÜHER: ZÜNDVERTEILER (veraltet)FUNKTION:<br>Verteilt Hochspannung auf einzelne Zylinder in ZündreihenfolgeHEUTE: EINZELFUNKENZÜNDUNG (Standard)FUNKTION:<br>Jede Zündkerze hat eigene Zündspule (direkt aufgesetzt - "Zündspule auf Zündkerze")VORTEILE:<br><br>✅ Keine Hochspannungskabel mehr nötig<br>✅ Weniger Verluste<br>✅ Zuverlässiger<br>✅ Präzisere Zündung pro Zylinder<br>5️⃣ ZÜNDUNGZÜNDKERZEFUNKTION:<br>Erzeugt Funkenüberschlag, entzündet GemischSPANNUNG:<br>15.000-30.000V!6️⃣ RÜCKMELDUNG &amp; REGELUNGKLOPFSENSORFUNKTION:<br>Meldet Klopfen (unkontrollierte Selbstzündung) an SteuergerätREAKTION:<br>→ Zündzeitpunkt wird verzögert (später)<br>→ Klopfen wird verhindertMERKSATZ"Zündanlage: Batterie (12V) → ECU (steuert) → Zündspule (bis 30.000V!) → Zündkerze (Funken) → Klopfsensor (Regelung)!"3. ZÜNDKERZEN 🕯️AUFBAU UND FUNKTIONDEFINITION:Die Zündkerze erzeugt durch Funkenüberschlag zwischen Mittelelektrode und Masseelektrode die Zündung des Gemischs.🔧 KOMPONENTEN EINER ZÜNDKERZE┌─────────────────┐<br>│   ANSCHLUSS     │ → Verbindung zur Zündspule<br>├─────────────────┤<br>│   ISOLATOR      │ → Keramik, verhindert Spannungsüberschlag<br>├─────────────────┤<br>│ MITTELELEKTRODE │ → Positiver Pol, erzeugt Funken<br>├─────────────────┤<br>│ MASSEELEKTRODE  │ → Negativer Pol, mit Gehäuse verbunden<br>├─────────────────┤<br>│   DICHTRING     │ → Abdichtung zum Zylinderkopf<br>├─────────────────┤<br>│   GEWINDE       │ → Befestigung im Zylinderkopf<br>└─────────────────┘🌡️ WÄRMEWERT EINER ZÜNDKERZEWAS IST DER WÄRMEWERT?DEFINITION:Der Wärmewert gibt an, wie schnell eine Zündkerze Wärme aus dem Brennraum ableitet.KALTE vs. HEIßE ZÜNDKERZEMerkmalKALTE Zündkerze (hoher Wärmewert)HEIßE Zündkerze (niedriger Wärmewert)WärmeableitungSchnell - kurzer IsolatorfußLangsam - langer IsolatorfußEinsatzbereichHochleistungsmotoren, Dauervollast, SportmotorenNormalverbrauchsmotoren, Stadt- und KurzstreckenverkehrBetriebstemperaturNiedriger (ca. 450-500°C)Höher (ca. 850-900°C)SelbstreinigungSchlechter bei Kurzstrecken (verrußt!)Besser (Ablagerungen verbrennen!)RisikoVerrußung bei zu niedriger LastGlühzündung bei zu hoher LastSELBSTREINIGUNGSTEMPERATUR400-500°CAb dieser Temperatur verbrennen Ablagerungen (Ruß, Öl, Kraftstoffreste) selbstständig!WICHTIG:<br><br>Heiße Zündkerze erreicht Selbstreinigungstemperatur schneller (auch bei Kurzstrecken!)<br>Kalte Zündkerze erreicht Selbstreinigungstemperatur nur bei hoher Last (Autobahn!)<br>⚠️ WICHTIG: HERSTELLERVORGABEN BEACHTEN!Falscher Wärmewert kann zu Motorschäden führen!ZU KALTE ZÜNDKERZE (bei Kurzstrecke):<br>→ Verrußung → Leistungsverlust → FehlzündungenZU HEIßE ZÜNDKERZE (bei Hochleistung):<br>→ Glühzündung → Klopfen → Motorschäden (Kolbenfresser!)MERKSATZ"Kalte Zündkerze = schnelle Ableitung = Hochleistung! Heiße Zündkerze = langsame Ableitung = Kurzstrecke/Selbstreinigung!""Hoher Wärmewert = kalt! Niedriger Wärmewert = heiß!"🔍 UNTERSCHIEDLICHE ZÜNDKERZENTYPENTypElektrodenmaterialEigenschaftenLebensdauerEinsatzbereichStandard-ZündkerzeNickel-LegierungGünstig, bewährt, gute Leitfähigkeit30.000-50.000 kmNormale OttomotorenPlatin-ZündkerzePlatin-MittelelektrodeBessere Korrosionsbeständigkeit, feinere Elektrode60.000-100.000 kmModerne Motoren, LonglifeIridium-ZündkerzeIridium-MittelelektrodeSehr feine Elektrode (0,4-0,6mm), beste Zündfähigkeit, höchster Schmelzpunkt100.000-150.000 kmHochleistungsmotoren, DirekteinspritzerMehrelektroden-ZündkerzeMehrere MasseelektrodenZuverlässigkeit durch Redundanz (mehrere Funkenüberschläge möglich)VariabelKritische AnwendungenVORTEILE IRIDIUM/PLATIN:✅ Feinere Elektrode → präziserer Funke<br>✅ Höherer Schmelzpunkt → länger haltbar<br>✅ Bessere Korrosionsbeständigkeit<br>✅ Längere Lebensdauer (bis 150.000 km!)<br>✅ Bessere ZündfähigkeitNACHTEILE IRIDIUM/PLATIN:❌ Teurer (3-5x teurer als Standard!)MERKSATZ"Standard-Nickel = günstig, 30.000-50.000 km. Platin = besser, 60.000-100.000 km. Iridium = beste, 100.000-150.000 km!"4. ZÜNDKERZEN vs. GLÜHKERZEN 🔥WICHTIGSTER UNTERSCHIEDZÜNDKERZEN (OTTOMOTOR):<br>→ Entzünden das Kraftstoff-Luft-Gemisch durch Funkenüberschlag<br>→ Fremdzündung<br>→ Essentiell für Motorbetrieb (ohne Zündkerze = keine Verbrennung!)GLÜHKERZEN (DIESELMOTOR):<br>→ Erwärmen die Ansaugluft im Brennraum zum erleichtern des Kaltstarts<br>→ Keine Zündung! (Diesel zündet selbst durch Verdichtung!)<br>→ Nur Starthilfe (bei kaltem Motor)VERGLEICHSTABELLEMerkmal⚡ ZÜNDKERZEN (Ottomotor)🔥 GLÜHKERZEN (Dieselmotor)FunktionZünden das Kraftstoff-Luft-Gemisch durch FunkenüberschlagErwärmen die Ansaugluft im Brennraum zum erleichtern des KaltstartsWirkprinzipHochspannungsfunken (15.000-30.000V)Glühwendel erhitzt sich elektrisch auf 800-1.300°CEinsatzzeitpunktBei jedem Arbeitstakt (permanent während Motorbetrieb!)• Vor dem Start (Vorglühen 2-30 Sek.)• Beim Start (Startglühen)• Nach dem Start (Nachglühen bis zu 3 Min.)• Nur bei kaltem Motor notwendigSpannungHochspannung (bis 30.000V)Bordspannung (11-12V, moderne: 5-7V)Zündung/VerbrennungFremdzündung - ohne Zündkerze keine Verbrennung!Selbstzündung durch Verdichtung - Glühkerze nur StarthilfeBetriebstemperatur450-900°C (je nach Wärmewert)800-1.300°C (Glühwendel)Anzahl pro Zylinder1 Zündkerze (bei Einzelfunkenzündung auch 1 Spule/Zylinder)1 Glühkerze pro ZylinderVerschleißElektrodenabbrand durch permanente FunkenbildungGlühwendel kann durchbrennen (meist nach 100.000+ km)NotwendigkeitEssentiell für Motorbetrieb (permanent!)Nur bei niedrigen Temperaturen wichtig (&lt; 10°C)GLÜHKERZEN IM DETAILFUNKTION:Glühkerzen erwärmen die Ansaugluft im Brennraum, damit der Diesel bei kaltem Motor leichter zündet.WARUM NOTWENDIG?BEI KALTEM MOTOR:<br><br>Brennraumwände sind kalt<br>Verdichtungstemperatur reicht evtl. nicht zur Selbstzündung (besonders bei &lt; 10°C Außentemperatur!)<br>Glühkerzen heizen Brennraum vor → Diesel zündet sicherer!<br>EINSATZZEITPUNKT:1. VORGLÜHEN (2-30 Sekunden):<br><br>Vor dem Start<br>Glühkerzen heizen auf 800-1.300°C<br>Glühkerzenleuchte im Cockpit zeigt an (🔥-Symbol)<br>Nach Erlöschen der Leuchte → starten!<br>2. STARTGLÜHEN:<br><br>Während des Startvorgangs<br>Unterstützt Zündung beim ersten Arbeitstakt<br>3. NACHGLÜHEN (bis zu 3 Minuten):<br><br>Nach dem Start<br>Motor läuft bereits!<br>Glühkerzen heizen weiter → sichert weiche Verbrennung<br>Reduziert Emissionen (weniger Ruß, weniger NOₓ)<br>Verbessert Motorlauf (weniger "Nageln")<br>MODERNE GLÜHKERZEN:KERAMIK-GLÜHKERZEN:<br><br>Schneller (erreichen 1.000°C in &lt; 2 Sekunden!)<br>Höhere Temperatur (bis 1.300°C!)<br>Länger haltbar<br>Weniger Verschleiß<br>STAHLGLÜHKERZEN (veraltet):<br><br>Langsamer (10-30 Sekunden bis Betriebstemperatur)<br>Niedrigere Temperatur (800-1.000°C)<br>Kürzere Lebensdauer<br>MERKSATZ"Zündkerze = Fremdzündung (Otto) → Entzündet Gemisch aktiv durch Funken!""Glühkerze = Starthilfe (Diesel) → Erwärmt nur Luft, Selbstzündung durch Verdichtung!""Glühkerze ist KEINE Zündkerze - Diesel zündet selbst!"5. KLOPFREGELUNG 💥WAS IST KLOPFEN?DEFINITION:Klopfen ist die unkontrollierte Selbstentzündung von Gemischanteilen mit anschließender schlagartiger Verbrennung.URSACHEN:<br>Zu hohe Verdichtungstemperatur<br>Zu früher Zündzeitpunkt<br>Zu niedrige Oktanzahl des Kraftstoffs (Ottomotor!)<br>Zu hohe Motorlast bei niedriger Drehzahl<br>Zu mageres Gemisch (höhere Verbrennungstemperatur!)<br>Glühzündung durch überhitzte Bauteile (z.B. zu heiße Zündkerze!)<br>FOLGEN:⚠️ Motorschäden:<br><br>Kolbenfresser (Kolben schmilzt!)<br>Lochfraß in Kolben<br>Pleuelschäden (Pleuel verbiegt/bricht!)<br><br>Leistungsverlust<br>Erhöhter Kraftstoffverbrauch<br>Überhitzung des Motors<br>Klopfendes, metallisches Geräusch ("Nageln")<br>🎯 AUFGABE DER KLOPFREGELUNGDie Klopfregelung hat die Aufgabe, die Zündung und damit den Druck im Verbrennungsraum so zu regeln, dass die Verbrennung möglichst nahe der Klopfgrenze verläuft - ohne diese zu überschreiten.ZIEL:<br>Maximaler Wirkungsgrad bei gleichzeitiger Vermeidung von Motorschäden!🔧 FUNKTION DER KLOPFREGELUNGKOMPONENTEN:<br>Klopfsensor (am Motorblock)<br><br>Piezoelektrisches Element<br>Erkennt hochfrequente Vibrationen (Klopfen!)<br>Sendet Signal an Motorsteuergerät<br><br><br><br>Motorsteuergerät (ECU)<br><br>Wertet Klopfsensor-Signal aus<br>Verzögert Zündzeitpunkt (später zünden!)<br>Pro Zylinder separat regelbar!<br><br><br>ABLAUF:<br>Klopfsensor erkennt Klopfen (hochfrequente Schwingungen)<br>Signal wird an Motorsteuergerät gesendet<br>ECU verzögert Zündzeitpunkt des betroffenen Zylinders (später zünden!)<br>Klopfen verschwindet<br>ECU tastet sich wieder an optimalen Zündzeitpunkt heran (früher zünden bis kurz vor Klopfgrenze!)<br>MERKSATZ"Klopfen = unkontrollierte Selbstzündung = Motorschaden! Klopfregelung verzögert Zündzeitpunkt → verhindert Klopfen!"6. ⚠️ SICHERHEITSHINWEIS - HOCHSPANNUNG!WICHTIG: ZÜNDANLAGE ERZEUGT BIS ZU 30.000 VOLT!SICHERHEITSREGELN:❌ Nie bei laufendem Motor Zündkabel abziehen!<br>❌ Keine Arbeiten an der Zündanlage bei eingeschalteter Zündung!<br>⚠️ Lebensgefahr durch elektrischen Schlag möglich!RICHTIG:✅ Motor abstellen<br>✅ Zündung ausschalten<br>✅ Batterie abklemmen (Minuspol!)<br>✅ Erst dann Arbeiten an Zündanlage!MERKSATZ"Zündanlage = bis 30.000V! Hochspannung = Lebensgefahr! Nie bei laufendem Motor Zündkabel abziehen!"ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅🎯 MERKE FÜR DIE PRÜFUNGZÜNDANLAGE - NUR OTTOMOTOR:<br>→ Nur Ottomotor hat Zündanlage! (Fremdzündung!)<br>→ Dieselmotor: KEINE Zündanlage! (Selbstzündung!)<br>→ Grund: Ottokraftstoff hat höhere Zündtemperatur (400-500°C) → zündet nicht durch Verdichtung allein!KREISLAUF DER ZÜNDANLAGE:<br>→ Batterie (12V) → Motorsteuergerät (steuert) → Zündspule (transformiert auf 15.000-30.000V!) → Zündkerze (Funkenüberschlag!) → Klopfsensor (Rückmeldung bei Klopfen!)<br>→ Einzelfunkenzündung (modern): Jede Zündkerze hat eigene Spule!<br>→ Zündverteiler (veraltet): Eine Spule für alle ZylinderZÜNDKERZEN:<br>→ Aufbau: Anschluss, Isolator (Keramik!), Mittelelektrode (+ Pol), Masseelektrode (- Pol), Dichtring, Gewinde<br>→ Funktion: Funkenüberschlag (15.000-30.000V!) → entzündet Gemisch<br>→ Wärmewert: Kalte Zündkerze (hoher Wärmewert) = schnelle Ableitung = Hochleistung/Autobahn | Heiße Zündkerze (niedriger Wärmewert) = langsame Ableitung = Kurzstrecke/Selbstreinigung<br>→ Selbstreinigungstemperatur: 400-500°C (Ablagerungen verbrennen!)<br>→ Typen: Standard-Nickel (30.000-50.000 km), Platin (60.000-100.000 km), Iridium (100.000-150.000 km - beste!)ZÜNDKERZEN vs. GLÜHKERZEN:<br>→ Zündkerzen (Otto): Entzünden Gemisch durch Funkenüberschlag (Fremdzündung!), permanent während Motorbetrieb, essentiell!<br>→ Glühkerzen (Diesel): Erwärmen Ansaugluft zum Kaltstarthelfen (Selbstzündung!), nur vor/beim/nach Start (bei kaltem Motor!), nur Starthilfe!<br>→ Merksatz: "Zündkerze = Fremdzündung (Otto)! Glühkerze = Starthilfe (Diesel - zündet selbst!)!"KLOPFREGELUNG:<br>→ Klopfen: Unkontrollierte Selbstzündung → schlagartige Verbrennung → Motorschäden (Kolbenfresser, Pleuelschäden!)<br>→ Klopfsensor erkennt Klopfen → Motorsteuergerät verzögert Zündzeitpunkt (später!) → Klopfen verschwindet!<br>→ Ziel: Maximal nahe der Klopfgrenze fahren (höchster Wirkungsgrad!), aber nicht überschreiten!SICHERHEIT:<br>→ Zündanlage = bis 30.000V! (Hochspannung!)<br>→ Nie bei laufendem Motor Zündkabel abziehen! (Lebensgefahr!)<br>→ Keine Arbeiten an Zündanlage bei eingeschalteter Zündung!</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: ZÜNDKERZE VERRUSZ - WAS TUN?SITUATION:
+Fahrschüler klagt: "Mein Auto (Kurzstrecke, Stadtverkehr) läuft unrund, hat Fehlzündungen. Werkstatt sagt: Zündkerzen verrußt!"FRAGE: Was ist die Ursache? Was kann man tun?ANALYSE:SYMPTOME:
+
+Unrunder Motorlauf
+Fehlzündungen
+Verrußte Zündkerzen
+URSACHE:KURZSTRECKE + STADTVERKEHR:
+
+Motor erreicht nicht Betriebstemperatur
+Zündkerzen erreichen nicht Selbstreinigungstemperatur (400-500°C!)
+Ablagerungen (Ruß, Öl, Kraftstoffreste) verbrennen nicht!
+Zündkerzen verrußen!
+MÖGLICHE ZUSATZURSACHE:
+
+Zu kalte Zündkerze verbaut! (hoher Wärmewert)
+Kalte Zündkerze leitet Wärme zu schnell ab → erreicht nicht Selbstreinigungstemperatur!
+Verrußung!
+LÖSUNG:1. KURZFRISTIG:
+
+Zündkerzen wechseln (verrußte Zündkerzen reinigen bringt nichts - meist defekt!)
+2. LANGFRISTIG:
+
+Fahrverhalten ändern: Regelmäßig Langstrecke fahren (Autobahn, 30+ Min.)
+Motor erreicht Betriebstemperatur
+Zündkerzen erreichen Selbstreinigungstemperatur
+Ablagerungen verbrennen!
+3. ZÜNDKERZENWAHL PRÜFEN:
+
+Evtl. zu kalte Zündkerze (hoher Wärmewert) verbaut?
+Für Kurzstrecke: heiße Zündkerze (niedriger Wärmewert) wählen!
+Herstellervorgaben beachten!
+ANTWORT:
+→ Ursache: Kurzstrecke → Zündkerzen erreichen nicht Selbstreinigungstemperatur (400-500°C!) → Verrußung!
+→ Lösung: Zündkerzen wechseln + regelmäßig Langstrecke fahren!
+→ Evtl.: Zu kalte Zündkerze verbaut → heiße Zündkerze (niedriger Wärmewert) für Kurzstrecke besser!</div>
+                        <div class="beispiel">BEISPIEL 2: GLÜHKERZENLEUCHTE BLINKT - WAS BEDEUTET DAS?SITUATION:
+Fahrschüler (Dieselfahrzeug) fragt: "Die Glühkerzenleuchte blinkt während der Fahrt! Was bedeutet das?"FRAGE: Was antwortest du?ANALYSE:GLÜHKERZENLEUCHTE:NORMAL:
+
+Leuchtet vor dem Start (Vorglühen - 2-30 Sek.)
+Erlischt → starten!
+Evtl. leuchtet sie kurz nach dem Start (Nachglühen - unsichtbar für Fahrer)
+BLINKT WÄHREND FAHRT:
+
+WARNUNG! ⚠️
+Fehler im Glühsystem oder Motorsteuerung erkannt!
+MÖGLICHE URSACHEN:
+Defekte Glühkerze (Glühwendel durchgebrannt!)
+Fehler im Glühkerzensteuerggerät
+Sensorfehler (z.B. Luftmassenmesser, Kühlmitteltemperatursensor)
+Motorfehler (z.B. Einspritzung, Abgasrückführung)
+WAS TUN?
+Werkstatt aufsuchen! (nicht ignorieren!)
+Fehlerspeicher auslesen (Diagnosegerät!)
+Fehler beheben
+WICHTIG:
+
+Motor läuft meist noch normal (bei warmen Temperaturen!)
+Problem: Bei nächstem Kaltstart könnte Motor nicht mehr starten (defekte Glühkerze!)
+ANTWORT:
+→ Glühkerzenleuchte blinkt = Warnung! ⚠️ (Fehler im Glühsystem oder Motor!)
+→ Mögliche Ursachen: Defekte Glühkerze, Steuergerät, Sensorfehler
+→ Was tun: Werkstatt aufsuchen, Fehlerspeicher auslesen!
+→ Gefahr: Nächster Kaltstart könnte nicht mehr funktionieren!</div>
+                        <div class="beispiel">BEISPIEL 3: KLOPFEN BEI VOLLGAS - WARUM?SITUATION:
+Fahrschüler (Ottomotor) klagt: "Bei Vollgas bergauf hört man ein metallisches 'Klopfen'!"FRAGE: Was ist die Ursache? Was tun?ANALYSE:SYMPTOM:
+Klopfen (metallisches Geräusch) bei Vollgas bergaufURSACHE:KLOPFEN = unkontrollierte Selbstzündung!WARUM BEI VOLLGAS BERGAUF?
+
+Hohe Motorlast (bergauf, Vollgas!)
+Hohe Verdichtungstemperatur (durch Vollast!)
+Gemischanteile entzünden sich unkontrolliert (vor dem eigentlichen Zündzeitpunkt!)
+Schlagartige Verbrennung → Druckwelle → Klopfen!
+MÖGLICHE ZUSATZURSACHEN:
+
+Zu niedrige Oktanzahl (falscher Kraftstoff! z.B. Super statt Super Plus bei Hochleistungsmotor!)
+Defekte Klopfregelung (Klopfsensor defekt!)
+Zu früher Zündzeitpunkt (Motorsteuergerät falsch programmiert!)
+Zu heiße Zündkerze (Glühzündung!)
+FOLGEN:⚠️ Motorschäden!
+
+Kolbenfresser (Kolben schmilzt!)
+Lochfraß in Kolben
+Pleuelschäden (Pleuel verbiegt/bricht!)
+LÖSUNG:1. SOFORT:
+
+Gas wegnehmen! (Last reduzieren!)
+Niedriger Gang einlegen (Motor entlasten!)
+Nicht mit Vollgas weiterfahren! (Motorschaden droht!)
+2. WERKSTATT:
+
+Kraftstoff prüfen: Richtige Oktanzahl? (z.B. Super 95 oder Super Plus 98?)
+Klopfsensor prüfen: Defekt?
+Zündzeitpunkt prüfen: Richtig eingestellt?
+Zündkerzen prüfen: Richtiger Wärmewert?
+3. PRÄVENTION:
+
+Richtigen Kraftstoff tanken! (bei Hochleistungsmotor: Super Plus 98!)
+Klopfregelung funktionsfähig halten (Klopfsensor regelmäßig prüfen!)
+ANTWORT:
+→ Klopfen = unkontrollierte Selbstzündung → Motorschaden droht! ⚠️
+→ Ursache: Hohe Last (Vollgas bergauf) → hohe Verdichtungstemperatur → unkontrollierte Selbstzündung!
+→ Mögliche Zusatzursachen: Zu niedrige Oktanzahl (falscher Kraftstoff!), defekte Klopfregelung, zu früher Zündzeitpunkt
+→ Sofort: Gas wegnehmen, niedriger Gang, nicht mit Vollgas weiterfahren!
+→ Werkstatt: Kraftstoff, Klopfsensor, Zündzeitpunkt prüfen!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)UNTERRICHTSEINHEIT 1: ZÜNDANLAGE &amp; ZÜNDKERZEN (60 Min)Einstieg (10 Min):Methode: Provokationsfrage<br>Ablauf: "Hat ein Dieselmotor eine Zündanlage?" Anwärter diskutieren (viele denken: ja!). Auflösung: NEIN! Nur Ottomotor! Überleitung: "Heute lernen wir, warum nur Otto eine Zündanlage hat!"<br>Ziel: Interesse wecken, Unterschied Otto/Diesel verdeutlichenHauptteil (45 Min):Phase 1: Warum nur Ottomotor? (10 Min)<br>Dozent erklärt: Ottomotor = Fremdzündung (Zündkerze nötig!), Dieselmotor = Selbstzündung (keine Zündanlage!). Grund: Ottokraftstoff hat höhere Zündtemperatur (400-500°C) → zündet nicht durch Verdichtung allein! Wichtig: Diesel = 220°C Zündtemperatur → reicht Verdichtung (700-900°C)!Phase 2: Kreislauf der Zündanlage (20 Min)<br>Dozent zeigt Schaubild: Batterie → ECU → Zündspule (transformiert 12V auf 30.000V!) → Zündkerze (Funken!) → Klopfsensor (Rückmeldung!). Wichtig: Einzelfunkenzündung (modern) = jede Zündkerze hat eigene Spule! Praxisfall: Warum ist Hochspannung gefährlich? (30.000V = Lebensgefahr!)Phase 3: Zündkerzen (Aufbau, Wärmewert, Typen) (15 Min)<br>Dozent erklärt: Aufbau (Mittelelektrode + Masseelektrode = Funkenüberschlag!), Wärmewert (kalte vs. heiße Zündkerze!), Typen (Nickel 30.000-50.000 km, Platin 60.000-100.000 km, Iridium 100.000-150.000 km!). Wichtig: Kalte Zündkerze = Hochleistung/Autobahn, heiße Zündkerze = Kurzstrecke/Selbstreinigung! Praxisfall: Zündkerze verrußt bei Kurzstrecke - warum? (erreicht nicht Selbstreinigungstemperatur 400-500°C!)Schluss (5 Min):<br>Sicherung: "Dieselmotor hat Zündanlage?" → NEIN! "Wärmewert: kalt = ?" → Hochleistung!<br>Ausblick: "Nächste Stunde: Glühkerzen, Klopfregelung!"UNTERRICHTSEINHEIT 2: GLÜHKERZEN &amp; KLOPFREGELUNG (60 Min)Einstieg (5 Min):<br>Wiederholung: "Zündkerze entzündet Gemisch - Glühkerze auch?" → NEIN! (nur Starthilfe!)Hauptteil (50 Min):Phase 1: Zündkerzen vs. Glühkerzen (20 Min)<br>Dozent zeigt Vergleichstabelle: Zündkerzen (Funkenüberschlag, Fremdzündung, permanent!) vs. Glühkerzen (Erwärmen Luft, Selbstzündung, nur bei Kaltstart!). Wichtig: Glühkerze ist KEINE Zündkerze! Diesel zündet selbst! Glühkerze nur Starthilfe bei &lt; 10°C! Einsatzzeitpunkt: Vorglühen (2-30 Sek.), Startglühen, Nachglühen (bis 3 Min.)! Praxisfall: Glühkerzenleuchte blinkt - was tun? (Werkstatt, Fehler im Glühsystem!)Phase 2: Klopfregelung (25 Min)<br>Dozent erklärt: Klopfen = unkontrollierte Selbstzündung → Motorschaden! (Kolbenfresser, Pleuelschäden!). Ursachen: Zu hohe Last, zu früher Zündzeitpunkt, zu niedrige Oktanzahl, zu heiße Zündkerze! Klopfregelung: Klopfsensor erkennt Klopfen → ECU verzögert Zündzeitpunkt → Klopfen verschwindet! Wichtig: Ziel = maximal nahe Klopfgrenze (höchster Wirkungsgrad!), aber nicht überschreiten! Praxisfall: Klopfen bei Vollgas bergauf - was tun? (Gas weg, niedriger Gang, Werkstatt!)Phase 3: Sicherheit (5 Min)<br>Dozent betont: Zündanlage = bis 30.000V! (Hochspannung = Lebensgefahr!). Nie bei laufendem Motor Zündkabel abziehen! Keine Arbeiten bei eingeschalteter Zündung!Schluss (5 Min):<br>Sicherung: "Glühkerze zündet Gemisch?" → NEIN! "Klopfen = ?" → Unkontrollierte Selbstzündung!<br>Hausaufgabe: Erstelle Vergleichstabelle: Zündkerzen vs. Glühkerzen (Funktion, Einsatzzeitpunkt, Motortyp!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Unterschied Otto (Zündanlage!) vs. Diesel (KEINE Zündanlage!) klar machen!<br>Glühkerze ≠ Zündkerze betonen! (Glühkerze nur Starthilfe, KEINE Zündung!)<br>Wärmewert gut erklären! (kalt = Hochleistung, heiß = Kurzstrecke!)<br>Klopfen = Motorschaden! (Kolbenfresser!) betonen!<br>Häufige Fehler der Anwärter:<br><br>Denken, Dieselmotor hat auch Zündanlage (NEIN! Selbstzündung!)<br>Verwechseln Glühkerze und Zündkerze (Glühkerze zündet nicht!)<br>Verwechseln kalte und heiße Zündkerze (kalt = schnelle Ableitung = Hochleistung!)<br>Denken, Klopfen ist harmlos (NEIN! Motorschaden droht!)<br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Vergleichstabellen erstellen! (Zündkerzen vs. Glühkerzen!)<br>Praxisfälle durchspielen! (Zündkerze verrußt, Klopfen bei Vollgas!)<br>30.000V Hochspannung = Lebensgefahr! einprägen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Warum hat nur der Ottomotor eine separate Zündanlage? Warum nicht der Dieselmotor?<br>Antwort: Nur Ottomotor hat Zündanlage! Grund: Ottomotor = Fremdzündung! Ottokraftstoff hat höhere Zündtemperatur (ca. 400-500°C) als Diesel (ca. 220°C). Verdichtungstemperatur beim Ottomotor (ca. 400°C) reicht nicht zur Selbstzündung! Zündkerze ist zwingend notwendig (Funkenüberschlag entzündet Gemisch!). Dieselmotor = Selbstzündung! Diesel hat niedrige Zündtemperatur (ca. 220°C). Verdichtungstemperatur beim Dieselmotor (700-900°C, Verdichtungsverhältnis 16:1 bis 24:1!) reicht vollkommen zur Selbstzündung! Keine Zündkerze nötig - Kraftstoff entzündet sich automatisch bei Kontakt mit heißer Luft! Merksatz: "Ottomotor = Fremdzündung (Zündanlage nötig!). Dieselmotor = Selbstzündung (KEINE Zündanlage!)!"<br><br>Frage 2: Erklären Sie den Kreislauf der Zündanlage beim Ottomotor. Welche Komponenten sind beteiligt?<br>Antwort: Kreislauf der Zündanlage: 1️⃣ Energieversorgung: Batterie (12V Bordnetz) liefert Niederspannung. 2️⃣ Steuerung: Motorsteuergerät (ECU) berechnet optimalen Zündzeitpunkt basierend auf Motordrehzahl (Kurbelwellensensor), Motorlast (Luftmassenmesser, Drosselklappe), Motortemperatur, Klopfsensor-Signal, Kennfeld-Daten. 3️⃣ Spannungserzeugung: Zündspule transformiert 12V auf 15.000-30.000V (Hochspannung!) durch elektromagnetische Induktion (Primärwicklung 12V, Sekundärwicklung bis 30.000V!). 4️⃣ Verteilung: Früher: Zündverteiler (veraltet) verteilt Hochspannung auf Zylinder in Zündreihenfolge. Heute: Einzelfunkenzündung (Standard) - jede Zündkerze hat eigene Zündspule (direkt aufgesetzt!). 5️⃣ Zündung: Zündkerze erzeugt Funkenüberschlag (15.000-30.000V!), entzündet Gemisch. 6️⃣ Rückmeldung &amp; Regelung: Klopfsensor meldet Klopfen an ECU → Zündzeitpunkt wird verzögert (später!). Merksatz: "Batterie (12V) → ECU (steuert) → Zündspule (bis 30.000V!) → Zündkerze (Funken!) → Klopfsensor (Regelung)!"<br><br>Frage 3: Was ist der Wärmewert einer Zündkerze? Unterscheiden Sie kalte und heiße Zündkerze. Wann wird welche verwendet?<br>Antwort: Wärmewert: Gibt an, wie schnell eine Zündkerze Wärme aus dem Brennraum ableitet. KALTE Zündkerze (hoher Wärmewert): Wärmeableitung: Schnell (kurzer Isolatorfuß). Betriebstemperatur: Niedriger (ca. 450-500°C). Einsatzbereich: Hochleistungsmotoren, Dauervollast, Sportmotoren, Autobahn. Selbstreinigung: Schlechter bei Kurzstrecken (erreicht nicht Selbstreinigungstemperatur 400-500°C!) → Verrußung bei zu niedriger Last! HEIßE Zündkerze (niedriger Wärmewert): Wärmeableitung: Langsam (langer Isolatorfuß). Betriebstemperatur: Höher (ca. 850-900°C). Einsatzbereich: Normalverbrauchsmotoren, Stadt- und Kurzstreckenverkehr. Selbstreinigung: Besser (erreicht schneller Selbstreinigungstemperatur!) - Ablagerungen verbrennen! Risiko: Glühzündung bei zu hoher Last! Selbstreinigungstemperatur: 400-500°C (Ablagerungen verbrennen ab dieser Temperatur selbstständig!). ⚠️ WICHTIG: Immer Herstellervorgaben beachten! Falscher Wärmewert kann zu Motorschäden führen! Merksatz: "Kalte Zündkerze (hoher Wärmewert) = schnelle Ableitung = Hochleistung/Autobahn! Heiße Zündkerze (niedriger Wärmewert) = langsame Ableitung = Kurzstrecke/Selbstreinigung!"<br><br>Frage 4: Unterscheiden Sie Zündkerzen und Glühkerzen. Welche Funktion haben sie? Bei welchem Motortyp werden sie eingesetzt?<br>Antwort: ZÜNDKERZEN (Ottomotor): Funktion: Entzünden das Kraftstoff-Luft-Gemisch durch Funkenüberschlag (Hochspannung 15.000-30.000V!). Wirkprinzip: Fremdzündung - ohne Zündkerze keine Verbrennung! Einsatzzeitpunkt: Bei jedem Arbeitstakt (permanent während Motorbetrieb!). Motortyp: Ottomotor (zwingend notwendig!). Notwendigkeit: Essentiell für Motorbetrieb! GLÜHKERZEN (Dieselmotor): Funktion: Erwärmen die Ansaugluft im Brennraum zum erleichtern des Kaltstarts. KEINE Zündung! Diesel zündet selbst durch Verdichtung (Selbstzündung!)! Wirkprinzip: Glühwendel erhitzt sich elektrisch auf 800-1.300°C. Einsatzzeitpunkt: Nur bei kaltem Motor (&lt; 10°C): Vorglühen (2-30 Sek. vor Start), Startglühen (beim Start), Nachglühen (bis 3 Min. nach Start). Motortyp: Dieselmotor (nur Starthilfe!). Notwendigkeit: Nur bei niedrigen Temperaturen wichtig (&lt; 10°C) - bei warmem Motor/warmen Temperaturen nicht notwendig! WICHTIGSTER UNTERSCHIED: Zündkerze entzündet Gemisch aktiv (Fremdzündung!), Glühkerze erwärmt nur Luft (Selbstzündung durch Verdichtung!). Merksatz: "Zündkerze = Fremdzündung (Otto) → entzündet Gemisch! Glühkerze = Starthilfe (Diesel) → erwärmt nur Luft, Motor zündet selbst!"<br><br>Frage 5: Was ist Klopfen? Welche Ursachen und Folgen hat es? Wie funktioniert die Klopfregelung?<br>Antwort: KLOPFEN: Definition: Unkontrollierte Selbstentzündung von Gemischanteilen mit anschließender schlagartiger Verbrennung. Ursachen: Zu hohe Verdichtungstemperatur, zu früher Zündzeitpunkt, zu niedrige Oktanzahl des Kraftstoffs (falscher Kraftstoff!), zu hohe Motorlast bei niedriger Drehzahl, zu mageres Gemisch (höhere Verbrennungstemperatur!), Glühzündung durch überhitzte Bauteile (z.B. zu heiße Zündkerze!). Folgen: ⚠️ Motorschäden: Kolbenfresser (Kolben schmilzt!), Lochfraß in Kolben, Pleuelschäden (Pleuel verbiegt/bricht!). Leistungsverlust, erhöhter Kraftstoffverbrauch, Überhitzung, klopfendes metallisches Geräusch ("Nageln"). KLOPFREGELUNG: Aufgabe: Zündung und Druck im Verbrennungsraum so regeln, dass Verbrennung möglichst nahe der Klopfgrenze verläuft - ohne diese zu überschreiten. Ziel: Maximaler Wirkungsgrad bei gleichzeitiger Vermeidung von Motorschäden! Funktion: 1. Klopfsensor (am Motorblock, piezoelektrisch) erkennt Klopfen (hochfrequente Vibrationen). 2. Signal wird an Motorsteuergerät (ECU) gesendet. 3. ECU verzögert Zündzeitpunkt des betroffenen Zylinders (später zünden!). 4. Klopfen verschwindet. 5. ECU tastet sich wieder an optimalen Zündzeitpunkt heran (früher zünden bis kurz vor Klopfgrenze!). Pro Zylinder separat regelbar! Merksatz: "Klopfen = unkontrollierte Selbstzündung = Motorschaden! Klopfregelung verzögert Zündzeitpunkt → verhindert Klopfen!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767486889790" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
