@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T10:40:39.827Z">
+    <meta name="last-updated" content="2026-01-04T10:51:16.818Z">
 </head>
 <body>
     <div id="academy-data">
@@ -4559,6 +4559,326 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767523238209" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Kupplung und Kraftübertragung - Aufbau, Funktion und Fahrtechnik</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Aufgabe und Funktion der Kupplung verstehen</div>
+                    <div class="lernziel">Aufbau der Einscheiben-Trockenkupplung kennen</div>
+                    <div class="lernziel">Kraftübertragung vom Motor zum Getriebe erklären können</div>
+                    <div class="lernziel">Unterschied eingekuppelt vs. ausgekuppelt beherrschen</div>
+                    <div class="lernziel">Kupplungsverschleiß und Symptome erkennen</div>
+                    <div class="lernziel">Richtige Kupplungstechnik beim Anfahren anwenden können</div>
+                    <div class="lernziel">Vor- und Nachteile verschiedener Kupplungsarten kennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WARUM KUPPLUNG? ⚙️DAS PROBLEM: MOTOR UND GETRIEBE VERBINDENVERBRENNUNGSMOTOR - EIGENSCHAFTEN:<br>Läuft immer (solange gestartet!)<br>Leerlaufdrehzahl: ca. 800 U/min (Otto), 600 U/min (Diesel)<br>Kann nicht stehen bleiben (ohne abzusterben!)<br>GETRIEBE UND RÄDER:<br>Müssen manchmal stillstehen (Auto steht an Ampel!)<br>Unterschiedliche Drehzahlen beim Gangwechsel!<br>💡 DIE LÖSUNG: KUPPLUNGDEFINITION:Die Kupplung trennt und verbindet Motor und Getriebe!AUFGABEN:1. ANFAHREN ERMÖGLICHEN<br><br>Motor läuft (800 U/min)<br>Räder stehen (0 U/min)<br>Kupplung schleifen lassen (sanft verbinden!) → Auto fährt an!<br>2. SCHALTEN ERMÖGLICHEN<br><br>Motor und Getriebe trennen (auskuppeln!)<br>Gang wechseln (Synchronisierung arbeitet!)<br>Motor und Getriebe verbinden (einkuppeln!)<br>3. MOTOR IM LEERLAUF HALTEN<br><br>Auto steht (an Ampel!)<br>Motor läuft weiter!<br>Kupplung trennt Motor von Getriebe/Rädern!<br>4. STOSSEN ABFEDERN<br><br>Schwingungsdämpfung (ungleichmäßiger Motorlauf!)<br>Sanfte Kraftübertragung (keine harten Stöße!)<br>MERKSATZ"Kupplung = Schaltstelle zwischen Motor und Getriebe! Aufgaben: 1. Anfahren, 2. Schalten, 3. Leerlauf, 4. Stöße abfedern!"2. AUFBAU EINSCHEIBEN-TROCKENKUPPLUNG 🔧STANDARD BEI PKW!EINSCHEIBEN-TROCKENKUPPLUNG = am häufigsten verbaut!"Trocken" = keine Ölbäder (wie bei Motorradkupplungen!)<br>"Einscheibe" = eine Kupplungsscheibe (LKW haben oft Zweischeiben-Kupplungen!)🔧 HAUPTKOMPONENTENMOTOR (Kurbelwelle)<br>    ↓<br>💿 SCHWUNGRAD (am Motor befestigt!)<br>    ↓<br>🔵 KUPPLUNGSSCHEIBE (in der Mitte!)<br>    ↓<br>⚙️ DRUCKPLATTE (drückt auf Kupplungsscheibe!)<br>    ↓<br>🌀 TELLERFEDER (drückt Druckplatte!)<br>    ↓<br>🔌 AUSRÜCKLAGER (zum Auskuppeln!)<br>    ↓<br>🦶 KUPPLUNGSPEDAL (Fahrer tritt!)<br>    ↓<br>🔧 GETRIEBEEINGANGSWELLEKOMPONENTEN IM DETAIL1️⃣ SCHWUNGRADFUNKTION:<br><br>Massenschwungrad (speichert Energie!)<br>Dreht mit Kurbelwelle (fest verbunden!)<br>Glättet ungleichmäßigen Motorlauf (Viertaktmotor läuft ungleichmäßig!)<br>AUFBAU:<br><br>Große, schwere Metallscheibe (Gusseisen!)<br>Durchmesser: ca. 25-40 cm<br>Gewicht: ca. 10-20 kg<br>ZUSATZFUNKTION:<br><br>Zahnkranz (für Anlasser - Motorstart!)<br>2️⃣ KUPPLUNGSSCHEIBEFUNKTION:<br><br>Überträgt Kraft von Schwungrad auf Getriebeeingangswelle!<br>In der Mitte zwischen Schwungrad und Druckplatte!<br>AUFBAU:BELÄGE:<br><br>Reibbeläge beidseitig (wie Bremsbeläge!)<br>Material: Kunstharz + Kupfer + Graphit (hitzebeständig bis ca. 300°C!)<br>Abnutzbar (Verschleißteil!)<br>NABENSCHEIBE:<br><br>Verzahnt (verbunden mit Getriebeeingangswelle!)<br>Kann sich verschieben (für Dämpfung!)<br>TORSIONSDÄMPFER:<br><br>Federn zwischen Scheibe und Nabe!<br>Dämpft Schwingungen (sanfte Kraftübertragung!)<br>Verhindert Ruck beim Einkuppeln!<br>3️⃣ DRUCKPLATTEFUNKTION:<br><br>Drückt Kupplungsscheibe gegen Schwungrad!<br>Je stärker der Druck → mehr Kraft übertragen!<br>AUFBAU:<br><br>Massive Stahlplatte<br>Dreht mit Schwungrad (fest verbunden über Kupplungskorb!)<br>4️⃣ TELLERFEDER (MEMBRANFEDER)FUNKTION:<br><br>Drückt Druckplatte auf Kupplungsscheibe!<br>Hohe Federkraft (ca. 500-1.000 N!)<br>AUFBAU:<br><br>Tellerförmige Feder (wie Teller!)<br>Fingerzungen in der Mitte (zum Ausrücken!)<br>FUNKTIONSPRINZIP:EINGEKUPPELT (PEDAL OBEN):<br><br>Tellerfeder nicht gedrückt<br>Tellerfeder drückt Druckplatte auf Kupplungsscheibe<br>Kupplungsscheibe zwischen Schwungrad und Druckplatte eingeklemmt!<br>Kraft wird übertragen!<br>AUSGEKUPPELT (PEDAL UNTEN):<br><br>Ausrücklager drückt auf Tellerfeder-Mitte (Fingerzungen!)<br>Tellerfeder kippt → Druckplatte wird weggezogen!<br>Kupplungsscheibe frei (nicht mehr eingeklemmt!)<br>Keine Kraft übertragen!<br>5️⃣ AUSRÜCKLAGER (ZENTRALAUSRÜCKER)FUNKTION:<br><br>Drückt auf Tellerfeder-Mitte (beim Auskuppeln!)<br>Verschiebt sich auf Getriebeeingangswelle!<br>ANTRIEB:<br><br>FRÜHER: Mechanisch (Seilzug!) oder hydraulisch (Nehmerzylinder!)<br>HEUTE: Hydraulisch (Geberzylinder am Pedal → Nehmerzylinder am Getriebe!)<br>LAGERUNG:<br><br>Kugellager (muss drehen können - dreht mit Schwungrad, schiebt aber auf feststehender Welle!)<br>6️⃣ KUPPLUNGSPEDALFUNKTION:<br><br>Fahrer betätigt Kupplung!<br>Tritt Pedal → Ausrücklager drückt → Kupplung öffnet!<br>ÜBERSETZUNG:<br><br>Mechanische oder hydraulische Übersetzung (Fahrer braucht weniger Kraft!)<br>Pedalweg: ca. 10-15 cm<br>Ausrücklager-Weg: ca. 1-2 cm (Übersetzung!)<br>PEDALWEG:<br><br>Oberer Bereich (ca. 1/3): Leerlauf (keine Funktion - Spiel!)<br>Mittlerer Bereich (ca. 1/3): SCHLEIFPUNKT! (Kupplungsscheibe wird gedrückt, aber noch Schlupf!)<br>Unterer Bereich (ca. 1/3): Vollständig ausgekuppelt (keine Kraftübertragung!)<br>MERKSATZ"Kupplung: Schwungrad (Motor!) + Kupplungsscheibe (Mitte!) + Druckplatte (drückt!) + Tellerfeder (Federkraft!) + Ausrücklager (zum Auskuppeln!)!"3. FUNKTIONSPRINZIP: EINGEKUPPELT vs. AUSGEKUPPELT ⚡🔵 EINGEKUPPELT (PEDAL OBEN - NORMAL)ZUSTAND:MOTOR (dreht!)<br>    ↓<br>SCHWUNGRAD (dreht mit Motor!)<br>    ↓<br>KUPPLUNGSSCHEIBE (EINGEKLEMMT zwischen Schwungrad + Druckplatte!)<br>    ↓ (Kraft wird übertragen!)<br>GETRIEBEEINGANGSWELLE (dreht!)<br>    ↓<br>GETRIEBE + RÄDER (dreht!)ABLAUF:<br>Kupplungspedal NICHT getreten (Pedal oben!)<br>Tellerfeder drückt Druckplatte auf Kupplungsscheibe<br>Kupplungsscheibe wird zwischen Schwungrad und Druckplatte eingeklemmt!<br>Reibung zwischen Belägen und Schwungrad/Druckplatte!<br>Kraft wird übertragen: Motor → Schwungrad → Kupplungsscheibe → Getriebeeingangswelle → Getriebe → Räder!<br>Auto fährt! (wenn Gang eingelegt!)<br>🔴 AUSGEKUPPELT (PEDAL UNTEN)ZUSTAND:MOTOR (dreht!)<br>    ↓<br>SCHWUNGRAD (dreht mit Motor!)<br>    ↓<br>KUPPLUNGSSCHEIBE (FREI - nicht eingeklemmt!)<br>    ↓ (KEINE Kraft übertragen!)<br>GETRIEBEEINGANGSWELLE (steht still ODER dreht anders!)<br>    ↓<br>GETRIEBE + RÄDER (entkoppelt vom Motor!)ABLAUF:<br>Kupplungspedal GETRETEN (Pedal unten!)<br>Ausrücklager drückt auf Tellerfeder-Mitte (Fingerzungen!)<br>Tellerfeder kippt → Druckplatte wird weggezogen!<br>Kupplungsscheibe frei (nicht mehr eingeklemmt!)<br>Keine Reibung → KEINE Kraft übertragen!<br>Motor dreht weiter (entkoppelt!)<br>Getriebe/Räder können stehenbleiben ODER anders drehen!<br>Schalten möglich! (Synchronisierung kann arbeiten!)<br>🟡 SCHLEIFPUNKT (PEDAL HALB)ZUSTAND:MOTOR (dreht!)<br>    ↓<br>SCHWUNGRAD (dreht mit Motor!)<br>    ↓<br>KUPPLUNGSSCHEIBE (TEILWEISE gedrückt - SCHLUPF!)<br>    ↓ (Kraft teilweise übertragen!)<br>GETRIEBEEINGANGSWELLE (dreht langsamer als Motor!)ABLAUF:<br>Kupplungspedal HALB (Schleifpunkt!)<br>Druckplatte drückt leicht auf Kupplungsscheibe (nicht volle Kraft!)<br>Teilweise Reibung → Kupplungsscheibe rutscht! (schlupf!)<br>Motor dreht z.B. 1.500 U/min<br>Getriebeeingangswelle dreht z.B. 500 U/min (langsamer!)<br>SCHLUPF: Differenz = 1.000 U/min!<br>Wärme entsteht! (Reibung → Wärme!)<br>Kraft wird langsam übertragen → Auto fährt sanft an!<br>WICHTIG:<br>NICHT zu lange schleifen lassen! (Kupplungsverschleiß, Überhitzung!)MERKSATZ"Eingekuppelt (Pedal oben!): Kupplungsscheibe eingeklemmt → Kraft übertragen! Ausgekuppelt (Pedal unten!): Kupplungsscheibe frei → KEINE Kraft! Schleifpunkt (Pedal halb!): Teilweise Reibung → Schlupf → Anfahren!"4. KUPPLUNGSVERSCHLEISS 🔥URSACHENKUPPLUNGSBELÄGE SIND VERSCHLEISSTEIL!NORMALER VERSCHLEISS:<br><br>Anfahren (schleifen lassen!)<br>Schalten (ein-/auskuppeln - minimal!)<br>Lebensdauer: ca. 80.000-150.000 km (abhängig von Fahrweise!)<br>BESCHLEUNIGTER VERSCHLEISS:❌ ZU LANGES SCHLEIFEN LASSEN:<br><br>Beim Anfahren zu lange Schleifpunkt halten!<br>Reibung → Wärme → Beläge verbrennen!<br>❌ ANFAHREN IN ZU HOHEM GANG:<br><br>Z.B. im 2. oder 3. Gang anfahren!<br>Motor hat zu wenig Drehmoment → Kupplung muss stark schleifen!<br>Überhitzung!<br>❌ KUPPLUNG ALS BREMSE:<br><br>Bergab Motor abwürgen lassen statt bremsen!<br>Kupplung überhitzt!<br>❌ FUSS AUF KUPPLUNG:<br><br>Fuß während Fahrt auf Kupplungspedal lassen!<br>Leichter Druck → Ausrücklager drückt leicht → Kupplungsscheibe rutscht minimal!<br>Dauerhafter Verschleiß!<br>❌ UNSAUBERES SCHALTEN:<br><br>Beim Schalten nicht vollständig auskuppeln!<br>Getriebe kracht → Kupplung rutscht!<br>⚠️ SYMPTOME KUPPLUNGSVERSCHLEISSKUPPLUNGSSCHEIBE VERSCHLISSEN:1. KUPPLUNG RUTSCHT<br><br>Bei Last/Beschleunigung: Motor dreht hoch, aber Auto beschleunigt nicht!<br>Ursache: Beläge zu dünn → nicht genug Reibung!<br>Beispiel: Bergauf bei Vollgas - Motor dreht auf 4.000 U/min, Auto beschleunigt kaum!<br>2. SCHLEIFPUNKT WANDERT NACH OBEN<br><br>Früher: Schleifpunkt bei halber Pedalhöhe<br>Jetzt: Schleifpunkt fast ganz oben (Pedal fast vollständig oben!)<br>Ursache: Beläge abgenutzt → weniger Dicke!<br>3. SCHWERGÄNGIGES SCHALTEN<br><br>Gänge gehen schwer rein!<br>Getriebe kracht beim Schalten!<br>Ursache: Kupplung trennt nicht vollständig (Beläge verzogen!)<br>4. GERUCH NACH VERBRANNTEM<br><br>Beim Anfahren riecht es nach "verbranntem Gummi"!<br>Ursache: Beläge überhitzt (zu lange geschliffen!)<br>5. VIBRATIONEN BEIM ANFAHREN<br><br>Kupplungspedal vibriert beim Einkuppeln!<br>Auto ruckelt beim Anfahren!<br>Ursache: Beläge ungleichmäßig abgenutzt, Schwungrad verzogen!<br>💰 KOSTEN KUPPLUNGSWECHSELMATERIAL:<br><br>Kupplungssatz (Kupplungsscheibe + Druckplatte + Ausrücklager): ca. 150-400 €<br>ARBEITSZEIT:<br><br>4-8 Stunden (Getriebe muss ausgebaut werden!)<br>Arbeitskosten: ca. 400-800 €<br>GESAMT:<br>Ca. 550-1.200 €!ZUSÄTZLICH TAUSCHEN (SINNVOLL):<br><br>Schwungrad (falls verzogen!): +200-500 €<br>Getriebeöl (da Getriebe eh ausgebaut!): +50-150 €<br>MERKSATZ"Kupplungsverschleiß: Zu langes Schleifen, Anfahren in hohem Gang, Fuß auf Kupplung! Symptome: Rutscht, Schleifpunkt wandert nach oben, schwergängiges Schalten, Geruch, Vibrationen! Wechsel: 550-1.200 €!"5. RICHTIGE KUPPLUNGSTECHNIK BEIM ANFAHREN 🚗⚠️ HÄUFIGSTER FEHLER: MOTOR ABWÜRGENURSACHE:ZU SCHNELL EINKUPPELN!<br>Kupplung kommt (Pedal nach oben!)<br>Schleifpunkt wird übersprungen!<br>Motor und Getriebe werden schlagartig verbunden!<br>Motor hat nicht genug Kraft → Motor stirbt ab! (abgewürgt!)<br>✅ RICHTIG: SANFT ANFAHRENABLAUF:VORBEREITUNG:<br><br>Motor starten<br>Kupplung treten (Pedal ganz runter!)<br>1. Gang einlegen<br>Beide Hände am Lenkrad! (nicht am Schalthebel!)<br>ANFAHREN:<br>Gas geben (leicht! - ca. 1.500 U/min)<br>Kupplung langsam kommen lassen (Pedal langsam nach oben!)<br>SCHLEIFPUNKT SPÜREN:<br><br>Motor wird leiser (Drehzahl sinkt leicht!)<br>Auto vibriert leicht<br>Auto beginnt zu rollen!<br><br><br>SCHLEIFPUNKT HALTEN (Pedal auf dieser Höhe halten! - 1-2 Sekunden!)<br>Evtl. etwas mehr Gas (Drehzahl halten!)<br>Auto rollt (ca. 5-10 km/h)<br>Kupplung vollständig kommen lassen (Pedal ganz nach oben!)<br>FERTIG! Auto fährt!<br>🎯 TIMING: GAS UND KUPPLUNGWICHTIG:<br>GAS LEICHT VOR KUPPLUNG!REIHENFOLGE:<br>Gas geben (1.500 U/min)<br>DANN: Kupplung kommen lassen (bis Schleifpunkt!)<br>Schleifpunkt halten + evtl. etwas mehr Gas!<br>Auto rollt → Kupplung vollständig kommen lassen!<br>NICHT:<br>❌ Kupplung kommen lassen BEVOR Gas gegeben! (Motor würgt ab!)<br>❌ Zu viel Gas! (Räder drehen durch, Rucken!)<br>❌ Schleifpunkt überspringen! (Motor würgt ab!)📐 BERGAUF ANFAHRENBESONDERHEIT:Auto rollt zurück! (Hangabtriebskraft!)LÖSUNG: HANDBREMSE!ABLAUF:<br>Handbremse angezogen (Auto steht!)<br>Kupplung treten + 1. Gang<br>Gas geben (mehr als ebene Strecke! - ca. 2.000 U/min!)<br>Kupplung bis Schleifpunkt kommen lassen (HALTEN!)<br>Motor zieht (spürbar!)<br>Handbremse lösen! (gleichzeitig etwas mehr Gas!)<br>Auto fährt an! (rollt NICHT zurück!)<br>Kupplung vollständig kommen lassen<br>TIMING:<br>Handbremse lösen GENAU wenn Motor zieht! (Schleifpunkt!)MERKSATZ"Anfahren: 1. Gas (1.500 U/min!), 2. Kupplung langsam bis Schleifpunkt, 3. Schleifpunkt HALTEN (1-2 Sek.!), 4. Auto rollt → Kupplung ganz kommen lassen! Bergauf: Handbremse + mehr Gas (2.000 U/min!)!"6. WEITERE KUPPLUNGSARTEN 🔧1️⃣ DOPPELKUPPLUNGSGETRIEBE (DSG/DCT)ZWEI KUPPLUNGEN!<br>Kupplung 1: Ungerade Gänge (1, 3, 5, 7)<br>Kupplung 2: Gerade Gänge (2, 4, 6, R)<br>VORTEILE:<br><br>✅ Automatisch (kein Kupplungspedal!)<br>✅ Schnelle Schaltvorgänge (0,1-0,2 Sek.!)<br>✅ Keine Zugkraftunterbrechung!<br>NACHTEILE:<br><br>❌ Komplex, teuer<br>❌ Ruckeln bei niedrigen Geschwindigkeiten<br>EINSATZ:<br>Moderne Automatikfahrzeuge (VW, Audi, Porsche, etc.)2️⃣ AUTOMATIKGETRIEBE (DREHMOMENTWANDLER)KEINE KUPPLUNG - DREHMOMENTWANDLER!<br>Hydraulische Kraftübertragung (Öl!)<br>Pumpenrad (Motor!) → Öl → Turbinenrad (Getriebe!)<br>VORTEILE:<br><br>✅ Kein Kupplungspedal (nur Gas + Bremse!)<br>✅ Sanftes Anfahren (kein Abwürgen möglich!)<br>✅ Komfortabel!<br>NACHTEILE:<br><br>❌ Höherer Verbrauch (ca. 5-10% mehr als Schaltgetriebe!)<br>❌ Weniger sportlich<br>EINSATZ:<br>Klassische Automatikfahrzeuge (besonders USA!)3️⃣ MEHRSCHEIBEN-KUPPLUNGMEHRERE KUPPLUNGSSCHEIBEN!<br>Z.B. Zweischeiben-Kupplung bei LKW!<br>Mehr Reibfläche → höheres Drehmoment übertragbar!<br>VORTEILE:<br><br>✅ Höheres Drehmoment (LKW, schwere Fahrzeuge!)<br>✅ Kompakter (kleinerer Durchmesser als Einscheiben-Kupplung bei gleichem Drehmoment!)<br>NACHTEILE:<br><br>❌ Komplexer, teurer<br>❌ Schwerer<br>EINSATZ:<br>LKW, schwere Nutzfahrzeuge, Rennsport4️⃣ NASSE KUPPLUNGIN ÖLBAD!<br>Kupplungsscheiben in Öl (statt trocken!)<br>Kühlung durch Öl!<br>VORTEILE:<br><br>✅ Bessere Kühlung (kann mehr Wärme abführen!)<br>✅ Weniger Verschleiß (Öl schmiert!)<br>✅ Sanfteres Anfahren<br>NACHTEILE:<br><br>❌ Höherer Schlupf (Öl → weniger Reibung!)<br>❌ Komplexer (Ölsystem nötig!)<br>❌ Schwerer<br>EINSATZ:<br><br>Motorräder (Standard!)<br>Manche DSG (Nasskupplung statt Trockenkupplung!)<br>MERKSATZ"Einscheiben-Trockenkupplung = Standard PKW! DSG = zwei Kupplungen (automatisch!), Drehmomentwandler = keine Kupplung (Öl!), Mehrscheiben = LKW (höheres Drehmoment!), Nasse Kupplung = Motorräder (Ölbad!)!"ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅🎯 MERKE FÜR DIE PRÜFUNGKUPPLUNG - AUFGABE:<br>→ Trennt und verbindet Motor und Getriebe!<br>→ Aufgaben: 1. Anfahren ermöglichen (schleifen!), 2. Schalten ermöglichen (trennen!), 3. Motor im Leerlauf halten, 4. Stöße abfedern!AUFBAU EINSCHEIBEN-TROCKENKUPPLUNG:<br>→ Komponenten: Schwungrad (Motor!), Kupplungsscheibe (Mitte - Reibbeläge!), Druckplatte (drückt!), Tellerfeder (Federkraft 500-1.000 N!), Ausrücklager (zum Auskuppeln!), Kupplungspedal<br>→ Eingekuppelt (Pedal oben!): Kupplungsscheibe eingeklemmt zwischen Schwungrad + Druckplatte → Kraft übertragen!<br>→ Ausgekuppelt (Pedal unten!): Ausrücklager drückt Tellerfeder → Druckplatte weg → Kupplungsscheibe frei → KEINE Kraft!<br>→ Schleifpunkt (Pedal halb!): Teilweise Reibung → Schlupf → Anfahren!KUPPLUNGSVERSCHLEISS:<br>→ Ursachen: Zu langes Schleifen (Anfahren!), Anfahren in hohem Gang, Fuß auf Kupplung, unsauberes Schalten<br>→ Symptome: Kupplung rutscht (Motor dreht, Auto nicht!), Schleifpunkt wandert nach oben, schwergängiges Schalten, Geruch nach Verbranntem, Vibrationen<br>→ Lebensdauer: 80.000-150.000 km (abhängig von Fahrweise!)<br>→ Kosten Wechsel: 550-1.200 € (Material 150-400 € + Arbeit 400-800 €!)RICHTIGE KUPPLUNGSTECHNIK:<br>→ Anfahren: 1. Gas (1.500 U/min!), 2. Kupplung langsam bis Schleifpunkt, 3. Schleifpunkt HALTEN (1-2 Sek.!), 4. Auto rollt → Kupplung ganz kommen lassen!<br>→ Schleifpunkt erkennen: Motor wird leiser, Auto vibriert leicht, Auto beginnt zu rollen!<br>→ Bergauf: Handbremse + mehr Gas (2.000 U/min!), Handbremse lösen wenn Motor zieht!<br>→ NICHT: Zu schnell einkuppeln (Motor würgt ab!), Schleifpunkt überspringen, zu viel Gas (Räder drehen durch!)WEITERE KUPPLUNGSARTEN:<br>→ DSG: Zwei Kupplungen (automatisch!), schnelle Schaltvorgänge (0,1-0,2 Sek.!), Ruckeln bei niedrigen Geschwindigkeiten<br>→ Drehmomentwandler: Keine Kupplung (Öl/Hydraulik!), sanftes Anfahren, höherer Verbrauch<br>→ Mehrscheiben: LKW (höheres Drehmoment übertragbar!)<br>→ Nasse Kupplung: Motorräder (Ölbad - bessere Kühlung!)</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: MOTOR WÜRGT AB BEIM ANFAHREN - WARUM?SITUATION:
+Fahrschüler klagt: "Ich würge den Motor immer beim Anfahren ab! Was mache ich falsch?"FRAGE: Was antwortest du?ANALYSE:MOTOR ABWÜRGEN = HÄUFIGSTER ANFÄNGERFEHLER!URSACHE:ZU SCHNELL EINKUPPELN!
+Kupplung kommt zu schnell nach oben
+Schleifpunkt wird übersprungen!
+Motor und Getriebe werden schlagartig verbunden!
+Getriebe/Räder stehen (0 U/min)
+Motor läuft (z.B. 1.500 U/min)
+Plötzliche Bremsung des Motors durch stehendes Getriebe!
+Motor hat nicht genug Kraft → Motor stirbt ab!
+WEITERE URSACHEN:1. ZU WENIG GAS:
+
+Motor läuft nur im Leerlauf (800 U/min)
+Nicht genug Drehmoment zum Anfahren!
+Lösung: Mehr Gas! (ca. 1.500 U/min!)
+2. FALSCHER GANG:
+
+2. oder 3. Gang eingelegt statt 1. Gang!
+Zu hohe Übersetzung → zu wenig Drehmoment!
+Lösung: 1. Gang zum Anfahren!
+3. HANDBREMSE ANGEZOGEN:
+
+Auto kann nicht rollen (Handbremse hält!)
+Motor kämpft gegen Handbremse!
+Lösung: Handbremse lösen!
+LÖSUNG: RICHTIGE TECHNIK!ABLAUF:
+Gas geben (1.500 U/min - NICHT zu wenig!)
+Kupplung LANGSAM kommen lassen (Pedal langsam nach oben!)
+SCHLEIFPUNKT SPÜREN:
+
+Motor wird leiser
+Auto vibriert leicht
+Auto beginnt zu rollen
+
+
+SCHLEIFPUNKT HALTEN (Pedal auf dieser Höhe! - 1-2 Sekunden!)
+Evtl. etwas mehr Gas (Drehzahl halten!)
+Auto rollt → Kupplung vollständig kommen lassen!
+NICHT:
+
+❌ Kupplung zu schnell kommen lassen! (Schleifpunkt überspringen!)
+❌ Zu wenig Gas! (Motor hat nicht genug Kraft!)
+❌ Falscher Gang! (Immer 1. Gang zum Anfahren!)
+ANTWORT:
+→ Motor würgt ab = zu schnell eingekuppelt! (Schleifpunkt übersprungen!)
+→ Lösung: Kupplung LANGSAM kommen lassen, Schleifpunkt SPÜREN und HALTEN (1-2 Sek.!)!
+→ Weitere Ursachen: Zu wenig Gas (1.500 U/min nötig!), falscher Gang (immer 1. Gang!), Handbremse angezogen!
+→ Richtig: 1. Gas (1.500 U/min!), 2. Kupplung langsam bis Schleifpunkt, 3. Schleifpunkt HALTEN, 4. Auto rollt → Kupplung ganz kommen lassen!</div>
+                        <div class="beispiel">BEISPIEL 2: KUPPLUNG RIECHT VERBRANNT - WAS TUN?SITUATION:
+Fahrschüler klagt: "Beim Anfahren riecht es nach 'verbranntem Gummi'! Ist meine Kupplung kaputt?"FRAGE: Was antwortest du?ANALYSE:GERUCH NACH VERBRANNTEM = KUPPLUNGSBELÄGE ÜBERHITZT!URSACHE:ZU LANGE GESCHLIFFEN!
+Beim Anfahren Schleifpunkt zu lange gehalten! (&gt; 3-5 Sekunden!)
+Kupplungsscheibe rutscht (Schlupf!)
+Reibung erzeugt Wärme!
+Beläge überhitzen (&gt; 300°C!)
+Beläge beginnen zu "verbrennen"!
+Geruch nach verbranntem Gummi!
+WEITERE URSACHEN:1. ANFAHREN IN ZU HOHEM GANG:
+
+2. oder 3. Gang statt 1. Gang!
+Zu wenig Drehmoment → Kupplung muss stark schleifen!
+Überhitzung!
+2. BERGAUF ANFAHREN OHNE HANDBREMSE:
+
+Auto rollt zurück → Fahrer hält mit Kupplung!
+Kupplung schleifen lassen statt Handbremse!
+Dauerhafter Schlupf → Überhitzung!
+3. UNSICHERES ANFAHREN:
+
+Mehrfach Gas geben + Kupplung schleifen lassen!
+Zu lange im Schleifbereich!
+IST DIE KUPPLUNG KAPUTT?NICHT SOFORT!
+Einmalig überhitzt → meist OK! (Beläge kühlen ab!)
+Häufig überhitzt → Beläge verschleißen schneller! → Kupplung wird rutschen!
+WAS TUN?SOFORT:
+Anhalten (sicher rechts ranfahren!)
+Motor abstellen
+Kupplung abkühlen lassen (10-15 Minuten!)
+NICHT weiterfahren mit überhitzter Kupplung! (noch mehr Schaden!)
+DANACH:
+Fahrweise überprüfen:
+
+Anfahren in 1. Gang? (nicht 2. oder 3.!)
+Schleifpunkt nur kurz halten? (max. 1-2 Sekunden!)
+Bergauf mit Handbremse? (nicht mit Kupplung halten!)
+
+
+
+Kupplung testen:
+
+Rutscht die Kupplung? (Motor dreht hoch, Auto beschleunigt nicht?)
+Schleifpunkt gewandert? (jetzt ganz oben statt Mitte?)
+Wenn ja: Werkstatt! (Kupplung evtl. verschlissen!)
+
+
+PRÄVENTION:✅ Immer 1. Gang zum Anfahren!
+✅ Schleifpunkt nur kurz halten! (1-2 Sek., nicht länger!)
+✅ Bergauf: Handbremse nutzen! (nicht mit Kupplung halten!)
+✅ Kupplung vollständig kommen lassen nach Schleifpunkt! (nicht halb getreten lassen!)ANTWORT:
+→ Geruch nach Verbranntem = Kupplungsbeläge überhitzt! (zu lange geschliffen!)
+→ Ursachen: Schleifpunkt zu lange gehalten (&gt; 3-5 Sek.!), Anfahren in zu hohem Gang (2./3. statt 1.!), Bergauf ohne Handbremse!
+→ Sofort: Anhalten, Motor abstellen, Kupplung abkühlen lassen (10-15 Min.!)!
+→ Prävention: Immer 1. Gang, Schleifpunkt nur kurz (1-2 Sek.!), Bergauf Handbremse nutzen!
+→ Test: Rutscht Kupplung? Schleifpunkt gewandert? → Wenn ja: Werkstatt!</div>
+                        <div class="beispiel">BEISPIEL 3: SCHLEIFPUNKT WANDERT NACH OBEN - WARUM?SITUATION:
+Fahrschüler bemerkt: "Früher war der Schleifpunkt in der Mitte vom Pedalweg, jetzt ist er fast ganz oben! Was ist los?"FRAGE: Was antwortest du?ANALYSE:SCHLEIFPUNKT WANDERT NACH OBEN = KUPPLUNGSBELÄGE VERSCHLISSEN!NORMAL:NEUER KUPPLUNGSBELAG:
+
+Dicke: ca. 8-10 mm
+Schleifpunkt: ca. Mitte des Pedalwegs (ca. 5-7 cm vom Boden!)
+VERSCHLISSENER KUPPLUNGSBELAG:
+
+Dicke: ca. 2-3 mm (abgenutzt!)
+Schleifpunkt: Fast ganz oben (ca. 2-3 cm vom Boden!)
+WARUM WANDERT DER SCHLEIFPUNKT?
+Beläge nutzen sich ab (Verschleiß!)
+Kupplungsscheibe wird dünner!
+Druckplatte muss weiter nach vorne (um Kupplungsscheibe zu drücken!)
+Tellerfeder muss weiter eingedrückt werden (um Druckplatte wegzuziehen!)
+Ausrücklager muss weiter nach vorne (um Tellerfeder einzudrücken!)
+Kupplungspedal muss weiter nach oben (um vollständig auszukuppeln!)
+Schleifpunkt wandert nach oben!
+IST DAS SCHLIMM?JA!KUPPLUNGSBELÄGE FAST AUFGEBRAUCHT!
+Normal: Schleifpunkt ca. Mitte (50% Pedalweg!)
+Verschlissen: Schleifpunkt fast oben (&gt; 80% Pedalweg!)
+Kritisch: Schleifpunkt ganz oben (&gt; 90% Pedalweg!) → Kupplung muss bald gewechselt werden!
+WEITERE SYMPTOME:BEI VERSCHLISSENER KUPPLUNG:
+Kupplung rutscht (Motor dreht, Auto beschleunigt nicht!)
+Schwergängiges Schalten (Gänge gehen schwer rein!)
+Geruch nach Verbranntem (Beläge überhitzen schneller!)
+Vibrationen beim Anfahren (Beläge ungleichmäßig!)
+WAS TUN?1. WERKSTATT AUFSUCHEN:
+
+Kupplung prüfen lassen!
+Belagdicke messen!
+Evtl. Kupplung wechseln (550-1.200 €!)
+2. FAHRWEISE ANPASSEN (VORÜBERGEHEND):
+
+Schonend anfahren (nicht zu viel schleifen!)
+Nicht in zu hohem Gang anfahren!
+Nicht überladen fahren! (weniger Last!)
+3. KUPPLUNG BALD WECHSELN:
+
+Spätestens wenn: Kupplung rutscht, Schalten schwergängig, Schleifpunkt ganz oben!
+Kosten: 550-1.200 € (Material + Arbeit!)
+Inklusive: Schwungrad prüfen/wechseln (falls verzogen!), Getriebeöl wechseln (da Getriebe ausgebaut!)
+LEBENSDAUER KUPPLUNG:NORMAL:
+80.000-150.000 kmABHÄNGIG VON:
+
+Fahrweise: Viel Stadtverkehr (Stop-and-Go) → schneller verschlissen! Autobahn → langsamer verschlissen!
+Fahrer: Anfänger (viel schleifen!) → schneller! Erfahrener Fahrer → langsamer!
+Beladung: Schwere Lasten, Anhänger → schneller verschlissen!
+ANTWORT:
+→ Schleifpunkt wandert nach oben = Kupplungsbeläge verschlissen! (abgenutzt!)
+→ Warum? Beläge dünner → Druckplatte muss weiter nach vorne → Pedal muss weiter nach oben → Schleifpunkt wandert!
+→ Ist das schlimm? JA! Kupplungsbeläge fast aufgebraucht! Schleifpunkt &gt; 80% Pedalweg = kritisch!
+→ Weitere Symptome: Kupplung rutscht, schwergängiges Schalten, Geruch, Vibrationen!
+→ Was tun? Werkstatt aufsuchen, Kupplung prüfen/wechseln (550-1.200 €!)! Schonend fahren (vorübergehend!)!
+→ Lebensdauer: 80.000-150.000 km (abhängig von Fahrweise, Stadtverkehr → schneller!)</div>
+                        <div class="beispiel">BEISPIEL 4: BERGAUF ANFAHREN - AUTO ROLLT ZURÜCK!SITUATION:
+Fahrschüler klagt: "Beim Anfahren bergauf rolle ich immer zurück! Wie mache ich das richtig?"FRAGE: Was antwortest du?ANALYSE:BERGAUF ANFAHREN - BESONDERHEIT:HANGABTRIEBSKRAFT!
+Schwerkraft zieht Auto bergab!
+Auto rollt zurück wenn keine Kraft dagegen wirkt!
+PROBLEM:
+Kupplung getreten (Auto steht!)
+Kupplung kommen lassen → Auto rollt zurück! (bevor Motor genug Kraft hat!)
+Gefahr: Auffahren auf Hintermann!
+LÖSUNG 1: HANDBREMSE (EMPFOHLEN!)ABLAUF:
+Auto steht (Handbremse angezogen!)
+Kupplung treten + 1. Gang einlegen
+Gas geben (MEHR als auf ebener Strecke! - ca. 2.000-2.500 U/min!)
+Kupplung bis Schleifpunkt kommen lassen (HALTEN!)
+Motor zieht! (spürbar - Auto "drückt" nach vorne!)
+HANDBREMSE LÖSEN! (gleichzeitig etwas mehr Gas!)
+Auto fährt an (rollt NICHT zurück!)
+Kupplung vollständig kommen lassen
+TIMING:KRITISCH: Handbremse lösen GENAU wenn Motor zieht! (Schleifpunkt!)
+Zu früh: Auto rollt zurück! (Motor hat noch nicht genug Kraft!)
+Zu spät: Motor kämpft gegen Handbremse! (Motor könnte abwürgen!)
+LÖSUNG 2: SCHNELLES ANFAHREN (NUR FÜR ERFAHRENE!)OHNE HANDBREMSE:ABLAUF:
+Auto steht (Fuß auf Bremse!)
+Kupplung treten + 1. Gang
+Fuß von Bremse → SOFORT:
+Gas geben (2.000-2.500 U/min!)
+Kupplung SCHNELL bis Schleifpunkt (schneller als auf ebener Strecke!)
+Schleifpunkt HALTEN (Motor zieht!)
+Auto fährt an!
+RISIKO:
+
+❌ Evtl. minimal zurückrollen (ca. 5-20 cm!) → NICHT empfohlen wenn Hintermann nah!
+❌ Schwieriger (Timing muss sehr gut sein!)
+NUR FÜR ERFAHRENE FAHRER!HÄUFIGE FEHLER:❌ ZU WENIG GAS:
+
+Auf ebener Strecke: 1.500 U/min OK
+Bergauf: NICHT genug! (Hangabtriebskraft!)
+Lösung: 2.000-2.500 U/min! (je steiler, desto mehr!)
+❌ HANDBREMSE ZU FRÜH GELÖST:
+
+Motor hat noch nicht genug Kraft!
+Auto rollt zurück!
+Lösung: Warten bis Motor spürbar zieht! (Schleifpunkt!)
+❌ HANDBREMSE ZU SPÄT GELÖST:
+
+Motor kämpft gegen Handbremse!
+Motor könnte abwürgen!
+Lösung: Handbremse lösen sobald Motor zieht!
+❌ 2. GANG STATT 1. GANG:
+
+Zu wenig Drehmoment! (besonders bergauf!)
+Lösung: IMMER 1. Gang bergauf! (höchstes Drehmoment!)
+ANTWORT:
+→ Bergauf rollt zurück = Hangabtriebskraft! (Schwerkraft zieht Auto bergab!)
+→ Lösung: HANDBREMSE! (empfohlen!)
+→ Ablauf: 1. Handbremse angezogen, 2. Kupplung + 1. Gang, 3. MEHR Gas (2.000-2.500 U/min!), 4. Kupplung bis Schleifpunkt HALTEN, 5. Motor zieht → Handbremse lösen (gleichzeitig mehr Gas!), 6. Auto fährt an!
+→ Timing kritisch: Handbremse lösen GENAU wenn Motor zieht! (zu früh = zurückrollen, zu spät = Motor würgt ab!)
+→ Häufige Fehler: Zu wenig Gas (1.500 U/min nicht genug - 2.000-2.500 U/min nötig!), Handbremse zu früh/spät, 2. Gang statt 1. Gang!</div>
+                        <div class="beispiel">BEISPIEL 5: FUSS AUF KUPPLUNG WÄHREND FAHRT - SCHLIMM?SITUATION:
+Fahrschüler fragt: "Mein Fahrlehrer sagt, ich soll meinen Fuß nicht auf der Kupplung lassen während der Fahrt. Warum ist das schlimm?"FRAGE: Was antwortest du?ANALYSE:FUSS AUF KUPPLUNG = HÄUFIGER FEHLER!WAS PASSIERT?AUCH BEI LEICHTEM DRUCK:
+Fuß liegt auf Kupplungspedal (auch ohne zu treten!)
+Gewicht des Fußes drückt leicht auf Pedal! (ca. 2-5 kg!)
+Pedal bewegt sich minimal (ca. 2-5 mm!)
+Ausrücklager drückt leicht auf Tellerfeder!
+Tellerfeder gibt minimal nach!
+Druckplatte wird leicht weggezogen!
+Kupplungsscheibe rutscht minimal! (minimaler Schlupf!)
+FOLGEN:1. DAUERHAFTER VERSCHLEISS:
+
+Kupplungsscheibe rutscht minimal (ständig!)
+Reibung → Wärme!
+Beläge verschleißen schneller!
+Lebensdauer verkürzt! (statt 150.000 km nur 80.000 km!)
+2. AUSRÜCKLAGER VERSCHLEISST:
+
+Ausrücklager dreht ständig unter Druck!
+Normalerweise: Ausrücklager dreht nur beim Auskuppeln! (wenige Sekunden pro Fahrt!)
+Mit Fuß drauf: Ausrücklager dreht dauerhaft unter Druck! (ganze Fahrt!)
+Lager verschleißt schneller! → Quietschen, Klappern!
+3. TELLERFEDER ERMÜDET:
+
+Tellerfeder unter ständigem Druck!
+Material ermüdet schneller!
+Federkraft lässt nach! → Kupplung rutscht früher!
+"ABER ICH DRÜCKE DOCH GAR NICHT!"GEWICHT DES FUSSES REICHT!
+Fuß wiegt: ca. 2-5 kg
+Pedal-Hebel: ca. 1:3 Übersetzung
+Kraft am Ausrücklager: ca. 6-15 kg! (ausreichend für minimalen Druck!)
+AUCH OHNE BEWUSSTEN DRUCK:
+Fuß auf Pedal = leichter Druck = Kupplungsverschleiß!RICHTIG: FUSS AUF FUSSRASTER!WÄHREND FAHRT:✅ Linker Fuß auf Fussraster (links neben Kupplungspedal!)
+✅ NICHT auf Kupplungspedal!
+✅ NUR beim Schalten: Fuß auf Kupplung → schalten → Fuß zurück auf Fussraster!VORTEILE:✅ Kein Kupplungsverschleiß!
+✅ Ausrücklager geschont!
+✅ Längere Lebensdauer! (Kupplung hält länger!)
+✅ Sicherer! (Fuß kann nicht versehentlich Kupplung treten!)AUSNAHME: KRIECHGANG (MANÖVRIEREN):Z.B. EINPARKEN, RANGIEREN:
+Langsam fahren (Schrittgeschwindigkeit!)
+Kupplung im Schleifpunkt halten! (bewusst!)
+OK für kurze Zeit! (max. 10-20 Sekunden!)
+ABER:
+NICHT während normaler Fahrt! (nur beim Manövrieren!)KOSTEN BEI VERSCHLEISS:VORZEITIGER KUPPLUNGSWECHSEL:
+
+Statt 150.000 km nur 80.000 km Lebensdauer!
+Kosten: 550-1.200 €!
+Vermeidbar durch richtiges Verhalten!
+AUSRÜCKLAGER-WECHSEL:
+
+Quietschen, Klappern!
+Wechsel: meist zusammen mit Kupplung! (Getriebe muss eh ausgebaut!)
+Zusatzkosten: ca. 50-100 € (Material!)
+ANTWORT:
+→ Fuß auf Kupplung während Fahrt = Kupplungsverschleiß! (dauerhaft!)
+→ Was passiert? Gewicht des Fußes (2-5 kg!) drückt leicht auf Pedal → Ausrücklager drückt leicht auf Tellerfeder → Druckplatte leicht weg → Kupplungsscheibe rutscht minimal → Dauerhafter Verschleiß!
+→ Folgen: Beläge verschleißen schneller (80.000 km statt 150.000 km!), Ausrücklager verschleißt (Quietschen!), Tellerfeder ermüdet!
+→ Richtig: Linker Fuß auf Fussraster (links neben Kupplung!), NUR beim Schalten kurz auf Kupplung!
+→ Ausnahme: Manövrieren (Einparken, Rangieren - Schleifpunkt bewusst halten, max. 10-20 Sek.!)
+→ Kosten: Vorzeitiger Kupplungswechsel 550-1.200 € (vermeidbar!)</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)UNTERRICHTSEINHEIT 1: KUPPLUNG - AUFBAU &amp; FUNKTION (60 Min)Einstieg (10 Min):Methode: Problemfrage<br>Ablauf: "Was würde passieren, wenn Motor und Getriebe fest verbunden wären?" Anwärter sammeln Probleme (Auto würde nicht stehen bleiben können, Schalten unmöglich!). Auflösung: Kupplung trennt und verbindet! Überleitung: "Heute lernen wir, wie die Kupplung funktioniert!"<br>Ziel: Problemstellung verdeutlichen, Interesse weckenHauptteil (45 Min):Phase 1: Warum Kupplung? Aufgaben (10 Min)<br>Dozent erklärt: Problem: Motor läuft immer (800 U/min), Räder müssen manchmal stillstehen! Lösung Kupplung: 1. Anfahren ermöglichen (schleifen!), 2. Schalten ermöglichen (trennen!), 3. Motor im Leerlauf halten, 4. Stöße abfedern! Wichtig: Kupplung = Schaltstelle zwischen Motor und Getriebe!Phase 2: Aufbau Einscheiben-Trockenkupplung (20 Min)<br>Dozent zeigt Schaubild: Schwungrad (Motor!) → Kupplungsscheibe (Reibbeläge!) → Druckplatte (drückt!) → Tellerfeder (Federkraft!) → Ausrücklager (zum Auskuppeln!) → Kupplungspedal! Wichtig: Eingekuppelt = Kupplungsscheibe eingeklemmt (Kraft übertragen!), Ausgekuppelt = Kupplungsscheibe frei (keine Kraft!), Schleifpunkt = teilweise Reibung (Schlupf!)! Praxisfall: Motor würgt ab - warum? (Zu schnell eingekuppelt!)Phase 3: Kupplungsverschleiß (10 Min)<br>Dozent erklärt: Ursachen: Zu langes Schleifen, Anfahren in hohem Gang, Fuß auf Kupplung! Symptome: Rutscht, Schleifpunkt wandert nach oben, Geruch! Lebensdauer: 80.000-150.000 km! Kosten: 550-1.200 €! Praxisfall: Schleifpunkt wandert nach oben - was bedeutet das? (Beläge verschlissen!)Phase 4: Zusammenfassung (5 Min)<br>Dozent fasst zusammen: Kupplung trennt/verbindet, Aufbau (Schwungrad, Kupplungsscheibe, Druckplatte, Tellerfeder), Verschleiß vermeiden!Schluss (5 Min):<br>Sicherung: "Kupplung hat welche Aufgaben?" → 1. Anfahren, 2. Schalten, 3. Leerlauf, 4. Stöße! "Schleifpunkt wandert nach oben = ?" → Beläge verschlissen!<br>Ausblick: "Nächste Stunde: Richtige Kupplungstechnik beim Anfahren!"UNTERRICHTSEINHEIT 2: KUPPLUNGSTECHNIK &amp; WEITERE KUPPLUNGSARTEN (60 Min)Einstieg (5 Min):<br>Wiederholung: "Kupplungsscheibe wo?" → Zwischen Schwungrad und Druckplatte!Hauptteil (50 Min):Phase 1: Richtige Kupplungstechnik beim Anfahren (25 Min)<br>Dozent erklärt: Häufigster Fehler: Zu schnell einkuppeln → Motor würgt ab! Richtig: 1. Gas (1.500 U/min!), 2. Kupplung langsam bis Schleifpunkt, 3. Schleifpunkt HALTEN (1-2 Sek.!), 4. Auto rollt → Kupplung ganz kommen lassen! Schleifpunkt erkennen: Motor leiser, Auto vibriert, Auto rollt! Bergauf: Handbremse + mehr Gas (2.000 U/min!), Handbremse lösen wenn Motor zieht! Praxisfall: Bergauf rollt zurück - was tun? (Handbremse!)Phase 2: Weitere Kupplungsarten (15 Min)<br>Dozent zeigt Übersicht: DSG: Zwei Kupplungen (automatisch!), schnelle Schaltvorgänge (0,1-0,2 Sek.!), Ruckeln bei niedrigen Geschwindigkeiten! Drehmomentwandler: Keine Kupplung (Öl!), sanftes Anfahren, höherer Verbrauch! Mehrscheiben: LKW (höheres Drehmoment!)! Nasse Kupplung: Motorräder (Ölbad!)! Praxisfall: DSG vs. Drehmomentwandler - Unterschied? (DSG = zwei Kupplungen, Drehmomentwandler = Öl!)Phase 3: Praktische Übung (10 Min)<br>Gruppenarbeit: Anwärter üben Anfahren am Simulator/Fahrzeug (Schleifpunkt finden und halten!), Dozent beobachtet und korrigiert! Feedback: Timing Gas + Kupplung, Schleifpunkt-Dauer!Schluss (5 Min):<br>Sicherung: "Anfahren: 1. ?, 2. ?, 3. ?, 4. ?" → Gas, Kupplung bis Schleifpunkt, Schleifpunkt halten, Kupplung ganz! "Bergauf?" → Handbremse!<br>Hausaufgabe: Erstelle Merkkarte: Kupplungstechnik (Anfahren ebene + bergauf!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Schleifpunkt = kritischster Punkt! (Anwärter müssen ihn spüren lernen!)<br>"Schleifen lassen" ≠ "zu lange schleifen"! (Anfahren OK, aber max. 1-2 Sek.!)<br>Bergauf: Handbremse = sicherste Methode! (nicht ohne Handbremse üben!)<br>Fuß auf Kupplung während Fahrt = Verschleiß! (betonen!)<br>Kupplungsverschleiß teuer! (550-1.200 €!) → Motivation für richtiges Verhalten!<br>Häufige Fehler der Anwärter:<br><br>Motor würgen ab (zu schnell einkuppeln!)<br>Zu lange schleifen lassen (Überhitzung!)<br>Zu wenig Gas beim Anfahren (1.500 U/min nötig!)<br>Bergauf ohne Handbremse (zurückrollen!)<br>Fuß auf Kupplung während Fahrt (Verschleiß!)<br>Vergessen Kupplung vollständig kommen zu lassen (halb getreten lassen!)<br>Tipps &amp; Tricks:<br><br>Schleifpunkt-Training: Anwärter im Stand üben lassen (Motor an, 1. Gang, Kupplung langsam kommen bis Motor leiser wird - OHNE Gas!) → Schleifpunkt spüren lernen!<br>Bergauf-Training: Erst mit Handbremse üben, später (wenn sicher!) ohne Handbremse!<br>Timing-Übung: "1. Gas, 2. Kupplung, 3. Halten, 4. Loslassen" als Rhythmus einüben!<br>Merksätze auswendig lernen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie die Aufgaben der Kupplung. Warum ist eine Kupplung notwendig?Antwort: AUFGABEN DER KUPPLUNG: Die Kupplung trennt und verbindet Motor und Getriebe! VIER HAUPTAUFGABEN: 1. Anfahren ermöglichen: Motor läuft (800 U/min Leerlauf), Räder stehen (0 U/min). Kupplung schleifen lassen (sanft verbinden!) → Auto fährt an! 2. Schalten ermöglichen: Motor und Getriebe trennen (auskuppeln!), Gang wechseln (Synchronisierung arbeitet!), Motor und Getriebe verbinden (einkuppeln!). 3. Motor im Leerlauf halten: Auto steht (an Ampel!), Motor läuft weiter! Kupplung trennt Motor von Getriebe/Rädern! 4. Stöße abfedern: Schwingungsdämpfung (ungleichmäßiger Motorlauf durch Torsionsdämpfer in Kupplungsscheibe!), sanfte Kraftübertragung (keine harten Stöße!). WARUM NOTWENDIG? OHNE Kupplung: 1. Anfahren unmöglich: Motor und Räder fest verbunden → Motor würde beim Stillstand absterben! 2. Schalten unmöglich: Gangwechsel würde Getriebe beschädigen (Zahnräder krachen aufeinander!). 3. Auto kann nicht stehen bleiben: Motor läuft → Räder drehen → Auto fährt immer (außer Motor abstellen!). 4. Harte Stöße: Jede Ungleichmäßigkeit im Motorlauf direkt auf Antrieb → ruckelig! MIT Kupplung: Anfahren möglich, Schalten möglich, Auto kann stehen (Motor läuft!), sanfte Kraftübertragung! Merksatz: "Kupplung = Schaltstelle zwischen Motor + Getriebe! Aufgaben: 1. Anfahren (schleifen!), 2. Schalten (trennen!), 3. Leerlauf, 4. Stöße abfedern!"Frage 2: Beschreiben Sie den Aufbau der Einscheiben-Trockenkupplung. Welche Komponenten sind beteiligt und wie funktionieren sie zusammen?Antwort: EINSCHEIBEN-TROCKENKUPPLUNG (STANDARD BEI PKW): HAUPTKOMPONENTEN: 1. SCHWUNGRAD: Fest verbunden mit Kurbelwelle (Motor!), dreht mit Motor, Massenschwungrad (speichert Energie, glättet Motorlauf!), Zahnkranz für Anlasser! 2. KUPPLUNGSSCHEIBE: In der Mitte zwischen Schwungrad und Druckplatte! Reibbeläge beidseitig (Kunstharz + Kupfer + Graphit, hitzebeständig bis 300°C!), Nabenscheibe verzahnt (verbunden mit Getriebeeingangswelle!), Torsionsdämpfer (Federn zwischen Scheibe und Nabe - dämpft Schwingungen!)! Verschleißteil (Lebensdauer 80.000-150.000 km!)! 3. DRUCKPLATTE: Drückt Kupplungsscheibe gegen Schwungrad, dreht mit Schwungrad (fest verbunden über Kupplungskorb!), massive Stahlplatte! 4. TELLERFEDER (MEMBRANFEDER): Drückt Druckplatte auf Kupplungsscheibe, hohe Federkraft (500-1.000 N!), tellerförmig mit Fingerzungen in der Mitte (zum Ausrücken!)! 5. AUSRÜCKLAGER: Drückt auf Tellerfeder-Mitte (Fingerzungen!) beim Auskuppeln, verschiebt sich auf Getriebeeingangswelle, Kugellager, Antrieb: hydraulisch (modern!)! 6. KUPPLUNGSPEDAL: Fahrer betätigt Kupplung, Übersetzung (mechanisch/hydraulisch!), Pedalweg ca. 10-15 cm! FUNKTIONSPRINZIP: Eingekuppelt (Pedal oben!): Tellerfeder drückt Druckplatte → Kupplungsscheibe eingeklemmt zwischen Schwungrad + Druckplatte → Reibung → Kraft übertragen (Motor → Schwungrad → Kupplungsscheibe → Getriebeeingangswelle!)! Ausgekuppelt (Pedal unten!): Ausrücklager drückt Tellerfeder-Mitte → Tellerfeder kippt → Druckplatte weggezogen → Kupplungsscheibe frei (nicht eingeklemmt!) → keine Reibung → KEINE Kraft übertragen! Schleifpunkt (Pedal halb!): Druckplatte drückt leicht auf Kupplungsscheibe → teilweise Reibung → Kupplungsscheibe rutscht (Schlupf!) → Kraft teilweise übertragen → Anfahren! Merksatz: "Kupplung: Schwungrad (Motor!) + Kupplungsscheibe (Reibbeläge!) + Druckplatte (drückt!) + Tellerfeder (Federkraft!) + Ausrücklager (zum Auskuppeln!)!"Frage 3: Was ist der Schleifpunkt und welche Bedeutung hat er beim Anfahren? Wie erkennt man den Schleifpunkt?Antwort: SCHLEIFPUNKT: Definition: Position des Kupplungspedals, bei der die Kupplungsscheibe teilweise zwischen Schwungrad und Druckplatte gedrückt wird → teilweise Reibung → Schlupf (Kupplungsscheibe rutscht!). BEDEUTUNG BEIM ANFAHREN: Kritischster Punkt! Ablauf Anfahren: 1. Kupplung getreten (Pedal unten!) → Kupplungsscheibe frei → keine Kraft. 2. Kupplung kommen lassen → Pedal nach oben. 3. SCHLEIFPUNKT erreicht: Druckplatte drückt leicht auf Kupplungsscheibe → teilweise Reibung! 4. Schlupf: Motor dreht z.B. 1.500 U/min, Getriebeeingangswelle dreht z.B. 500 U/min → Differenz = 1.000 U/min Schlupf! 5. Kraft wird langsam übertragen → Auto fährt sanft an! 6. Wärme entsteht (Reibung → Wärme!)! 7. Schleifpunkt HALTEN (1-2 Sekunden!) → Auto rollt. 8. Kupplung vollständig kommen lassen → eingekuppelt → volle Kraftübertragung! WIE ERKENNT MAN DEN SCHLEIFPUNKT? DREI SIGNALE: 1. MOTOR WIRD LEISER: Motordrehzahl sinkt leicht (von 1.500 U/min auf ca. 1.200 U/min!), Motor arbeitet gegen Widerstand (Getriebe/Räder!)! 2. AUTO VIBRIERT LEICHT: Spürbare Vibration im ganzen Auto, Kupplungsscheibe rutscht → Vibrationen! 3. AUTO BEGINNT ZU ROLLEN: Auto bewegt sich leicht nach vorne (Rollbewegung!)! WICHTIG: Schleifpunkt nur KURZ halten! (max. 1-2 Sekunden!) Zu lange → Überhitzung, Kupplungsverschleiß! PEDALWEG: Schleifpunkt bei ca. mittlerem Drittel des Pedalwegs (bei neuer Kupplung!). Verschlissene Kupplung: Schleifpunkt wandert nach oben (Beläge dünner!)! Merksatz: "Schleifpunkt = teilweise Reibung → Schlupf → Anfahren! Erkennen: Motor leiser, Auto vibriert, Auto rollt! Nur KURZ halten (1-2 Sek.!)!"Frage 4: Nennen Sie Ursachen und Symptome von Kupplungsverschleiß. Wie kann man Kupplungsverschleiß vermeiden?Antwort: KUPPLUNGSVERSCHLEISS: NORMALER VERSCHLEISS: Kupplungsbeläge sind Verschleißteil! Anfahren (schleifen!), Schalten (minimal!). Lebensdauer: 80.000-150.000 km (abhängig von Fahrweise!). URSACHEN BESCHLEUNIGTER VERSCHLEISS: ❌ Zu langes Schleifen: Beim Anfahren Schleifpunkt zu lange halten (&gt; 3-5 Sek.!) → Reibung → Wärme → Beläge verbrennen! ❌ Anfahren in zu hohem Gang: 2. oder 3. Gang statt 1. Gang → Motor zu wenig Drehmoment → Kupplung muss stark schleifen → Überhitzung! ❌ Kupplung als Bremse: Bergab Motor abwürgen lassen statt bremsen → Kupplung überhitzt! ❌ Fuß auf Kupplung: Während Fahrt Fuß auf Kupplungspedal → leichter Druck (Gewicht!) → Ausrücklager drückt leicht → Kupplungsscheibe rutscht minimal → dauerhafter Verschleiß! ❌ Unsauberes Schalten: Nicht vollständig auskuppeln → Getriebe kracht → Kupplung rutscht! SYMPTOME VERSCHLISSENER KUPPLUNG: 1. Kupplung rutscht: Bei Last/Beschleunigung Motor dreht hoch (z.B. 4.000 U/min!), aber Auto beschleunigt kaum! Beläge zu dünn → nicht genug Reibung! 2. Schleifpunkt wandert nach oben: Früher Mitte, jetzt fast ganz oben (&gt; 80% Pedalweg!)! Beläge abgenutzt → weniger Dicke! 3. Schwergängiges Schalten: Gänge gehen schwer rein, Getriebe kracht! Kupplung trennt nicht vollständig (Beläge verzogen!)! 4. Geruch nach Verbranntem: Beim Anfahren riecht nach "verbranntem Gummi"! Beläge überhitzt (zu lange geschliffen!)! 5. Vibrationen beim Anfahren: Kupplungspedal vibriert, Auto ruckelt! Beläge ungleichmäßig abgenutzt, Schwungrad verzogen! WIE VERMEIDEN? ✅ Schleifpunkt nur KURZ halten (max. 1-2 Sek.!)! ✅ Immer 1. Gang zum Anfahren (nicht 2./3.!)! ✅ Bergauf: Handbremse nutzen (nicht mit Kupplung halten!)! ✅ Fuß auf Fussraster während Fahrt (NICHT auf Kupplung!)! ✅ Sauber schalten (vollständig auskuppeln!)! ✅ Kupplung vollständig kommen lassen nach Schleifpunkt (nicht halb getreten lassen!)! KOSTEN WECHSEL: 550-1.200 € (Material 150-400 € + Arbeit 400-800 €!)! Merksatz: "Verschleiß: Zu lange schleifen, zu hoher Gang, Fuß auf Kupplung! Symptome: Rutscht, Schleifpunkt oben, schwergängig, Geruch, Vibrationen! Vermeiden: Kurz schleifen (1-2 Sek.!), 1. Gang, Handbremse bergauf, Fuß auf Fussraster!"Frage 5: Erklären Sie die richtige Kupplungstechnik beim Anfahren auf ebener Strecke und bergauf. Was ist der häufigste Fehler?Antwort: RICHTIGE KUPPLUNGSTECHNIK - EBENE STRECKE: Vorbereitung: Motor starten, Kupplung treten (Pedal ganz runter!), 1. Gang einlegen, beide Hände am Lenkrad! Anfahren: 1. Gas geben (leicht! - ca. 1.500 U/min!). 2. Kupplung LANGSAM kommen lassen (Pedal langsam nach oben!). 3. SCHLEIFPUNKT SPÜREN: Motor wird leiser (Drehzahl sinkt leicht!), Auto vibriert leicht, Auto beginnt zu rollen! 4. SCHLEIFPUNKT HALTEN (Pedal auf dieser Höhe! - 1-2 Sekunden!). 5. Evtl. etwas mehr Gas (Drehzahl halten!). 6. Auto rollt (ca. 5-10 km/h). 7. Kupplung vollständig kommen lassen (Pedal ganz nach oben!). FERTIG! TIMING: Gas LEICHT VOR Kupplung! Reihenfolge: 1. Gas (1.500 U/min!), 2. DANN Kupplung bis Schleifpunkt, 3. Halten, 4. Auto rollt → Kupplung ganz! BERGAUF ANFAHREN (MIT HANDBREMSE - EMPFOHLEN!): Besonderheit: Hangabtriebskraft → Auto rollt zurück! Ablauf: 1. Handbremse angezogen (Auto steht!). 2. Kupplung treten + 1. Gang. 3. Gas geben (MEHR als ebene Strecke! - ca. 2.000-2.500 U/min!). 4. Kupplung bis Schleifpunkt kommen lassen (HALTEN!). 5. Motor zieht (spürbar!). 6. HANDBREMSE LÖSEN (gleichzeitig etwas mehr Gas!). 7. Auto fährt an (rollt NICHT zurück!). 8. Kupplung vollständig kommen lassen. TIMING KRITISCH: Handbremse lösen GENAU wenn Motor zieht (Schleifpunkt!)! Zu früh → zurückrollen! Zu spät → Motor würgt ab! HÄUFIGSTER FEHLER: ZU SCHNELL EINKUPPELN! Ablauf Fehler: 1. Kupplung kommt zu schnell nach oben. 2. Schleifpunkt wird übersprungen! 3. Motor und Getriebe schlagartig verbunden! 4. Motor hat nicht genug Kraft → Motor stirbt ab (abgewürgt!)! Weitere Fehler: Zu wenig Gas (1.500 U/min nötig, bergauf 2.000-2.500 U/min!), falscher Gang (immer 1. Gang zum Anfahren!), Handbremse bergauf zu früh/spät gelöst, Schleifpunkt zu lange halten (&gt; 3-5 Sek. → Überhitzung!)! Merksatz: "Anfahren ebene: 1. Gas (1.500 U/min!), 2. Kupplung langsam bis Schleifpunkt, 3. HALTEN (1-2 Sek.!), 4. Auto rollt → Kupplung ganz! Bergauf: Handbremse + MEHR Gas (2.000-2.500 U/min!), Handbremse lösen wenn Motor zieht! Häufigster Fehler: Zu schnell einkuppeln (Schleifpunkt überspringen → Motor würgt ab!)!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767523875304" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
