@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T00:34:51.175Z">
+    <meta name="last-updated" content="2026-01-04T00:42:56.923Z">
 </head>
 <body>
     <div id="academy-data">
@@ -2889,6 +2889,211 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767486889790" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Abgasreinigungssysteme - Katalysator, Lambda-Sonde und Dieselpartikelfilter</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Aufbau und Funktion des Katalysators verstehen</div>
+                    <div class="lernziel">Unterschied 3-Wege-Katalysator (Otto) vs. Oxidationskatalysator (Diesel) kennen</div>
+                    <div class="lernziel">Lambda-Regelung und Lambda-Sonde erklären können</div>
+                    <div class="lernziel">Lambda-Wert (λ = 1,0) verstehen (stöchiometrisches Gemisch)</div>
+                    <div class="lernziel">Unterschied Sprungsonde vs. Breitband-Sonde kennen</div>
+                    <div class="lernziel">Funktion und Regeneration des Dieselpartikelfilters (DPF) beherrschen</div>
+                    <div class="lernziel">Probleme bei Kurzstreckenverkehr (DPF-Verstopfung) verstehen</div>
+                    <div class="lernziel">Symptome defekter Abgasreinigungssysteme erkennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WARUM ABGASREINIGUNG? 💨<br>SCHADSTOFFE IM ABGAS<br>PROBLEM:<br>Bei der Verbrennung von Kraftstoff entstehen schädliche Abgase:<br>OTTOMOTOR:<br><br>CO (Kohlenmonoxid) - giftig!<br>HC (unverbrannte Kohlenwasserstoffe) - krebserregend!<br>NOₓ (Stickoxide) - Smog, Atemwegserkrankungen!<br><br>DIESELMOTOR:<br><br>NOₓ (Stickoxide) - besonders viel!<br>Ruß (Feinstaub, Partikel) - krebserregend!<br>CO, HC (weniger als Otto)<br><br><br>LÖSUNG: ABGASREINIGUNG<br>DREI HAUPTSYSTEME:<br><br>KATALYSATOR (Otto + Diesel)<br><br>Wandelt Schadstoffe in harmlose Stoffe um<br><br><br>LAMBDA-SONDE (Otto + Diesel)<br><br>Misst Sauerstoffgehalt im Abgas<br>Regelt Gemischzusammensetzung<br><br><br>PARTIKELFILTER (Diesel + moderne Otto mit Direkteinspritzung)<br><br>Filtert Rußpartikel (Feinstaub)<br><br><br><br><br>MERKSATZ<br>"Katalysator wandelt um, Lambda-Sonde regelt, Partikelfilter filtert!"<br><br><br>2. KATALYSATOR 🔬<br>FUNKTION<br>DEFINITION:<br>Der Katalysator wandelt schädliche Abgase in unschädliche Stoffe um durch chemische Reaktionen.<br><br>AUFBAU<br>TRÄGER:<br><br>Wabenstruktur aus Keramik oder Metall<br>Tausende kleine Kanäle (große Oberfläche!)<br><br>BESCHICHTUNG:<br><br>Edelmetalle: Platin, Palladium, Rhodium<br>Wirken als Katalysator (beschleunigen chemische Reaktionen, ohne selbst verbraucht zu werden!)<br><br>GEHÄUSE:<br><br>Edelstahl, hitzebeständig (bis 1.000°C!)<br><br><br>BETRIEBSTEMPERATUR<br>WICHTIG:<br>Katalysator arbeitet nur bei hoher Temperatur effektiv!<br>BETRIEBSTEMPERATUR:<br>300-800°C<br>LIGHT-OFF-TEMPERATUR:<br>Ca. 300°C (ab hier beginnt Katalysator zu arbeiten!)<br>BEI KALTEM MOTOR:<br><br>Katalysator nicht aktiv! (&lt; 300°C)<br>Kaltstartphase: Erhöhte Emissionen! (bis zu 80% der Gesamtemissionen einer Fahrt!)<br><br>LÖSUNG:<br><br>Vorkatalysator (nahe am Motor, heizt schneller auf!)<br>Luftpumpe (pumpt Frischluft in Abgasstrang → Nachverbrennung → schnellere Aufheizung!)<br><br><br>MERKSATZ<br>"Katalysator arbeitet erst ab 300°C! Kaltstartphase = höchste Emissionen (bis 80%)!"<br><br><br>1️⃣ 3-WEGE-KATALYSATOR (OTTOMOTOR)<br>FUNKTION<br>Wandelt DREI Schadstoffe gleichzeitig um:<br><br>CO (Kohlenmonoxid) → CO₂ (Kohlendioxid)<br>HC (unverbrannte Kohlenwasserstoffe) → H₂O (Wasser) + CO₂<br>NOₓ (Stickoxide) → N₂ (Stickstoff) + O₂ (Sauerstoff)<br><br><br>CHEMISCHE REAKTIONEN<br>OXIDATION (Schadstoffe werden mit Sauerstoff verbrannt):<br>2 CO + O₂ → 2 CO₂<br>(Kohlenmonoxid + Sauerstoff → Kohlendioxid)<br><br>HC + O₂ → H₂O + CO₂<br>(Kohlenwasserstoffe + Sauerstoff → Wasser + Kohlendioxid)<br>REDUKTION (Sauerstoff wird entzogen):<br>2 NOₓ → N₂ + O₂<br>(Stickoxide → Stickstoff + Sauerstoff)<br><br>⚠️ KRITISCH: LAMBDA = 1,0 NOTWENDIG!<br>3-Wege-Katalysator arbeitet NUR bei λ = 1,0 optimal!<br>WARUM?<br><br>Oxidation braucht Sauerstoff (für CO und HC)<br>Reduktion braucht Sauerstoffmangel (für NOₓ)<br><br>BEI λ = 1,0:<br><br>Stöchiometrisches Gemisch (exakt richtige Menge Luft + Kraftstoff!)<br>Genug Sauerstoff für Oxidation (CO, HC)<br>Wenig Sauerstoff für Reduktion (NOₓ)<br>Alle drei Schadstoffe werden optimal umgewandelt!<br><br>BEI λ ≠ 1,0:<br><br>λ &lt; 1,0 (fettes Gemisch): Zu wenig Sauerstoff → CO und HC steigen!<br>λ &gt; 1,0 (mageres Gemisch): Zu viel Sauerstoff → NOₓ steigt!<br><br><br>WIRKUNGSGRAD<br>BEI λ = 1,0:<br><br>CO: &gt; 95% Reduktion<br>HC: &gt; 95% Reduktion<br>NOₓ: &gt; 90% Reduktion<br><br>GESAMT:<br>&gt; 90-95% Schadstoffreduktion!<br><br>MERKSATZ<br>"3-Wege-Kat (Otto): Wandelt CO, HC, NOₓ um - NUR bei λ = 1,0 optimal! (stöchiometrisches Gemisch!)"<br><br><br>2️⃣ OXIDATIONSKATALYSATOR (DIESELMOTOR)<br>FUNKTION<br>Wandelt ZWEI Schadstoffe um:<br><br>CO (Kohlenmonoxid) → CO₂ (Kohlendioxid)<br>HC (unverbrannte Kohlenwasserstoffe) → H₂O + CO₂<br><br>NICHT umgewandelt:<br><br>NOₓ (Stickoxide) - braucht SCR-Katalysator (Selective Catalytic Reduction mit AdBlue!)<br>Ruß (Feinstaub) - braucht Dieselpartikelfilter (DPF)!<br><br><br>WARUM KEIN 3-WEGE-KAT BEIM DIESEL?<br>DIESEL LÄUFT IMMER MAGER!<br>λ &gt; 1,0 (Luftüberschuss!)<br>GRUND:<br><br>Dieselmotor regelt Leistung über Kraftstoffmenge, nicht über Luftmenge!<br>Keine Drosselklappe! (Luft immer maximal!)<br>Immer mehr Luft als für stöchiometrische Verbrennung nötig!<br><br>FOLGE:<br><br>Zu viel Sauerstoff im Abgas!<br>3-Wege-Kat kann NOₓ nicht reduzieren (braucht Sauerstoffmangel!)<br>Oxidationskatalysator reicht für CO und HC!<br>Zusätzlich: SCR-Katalysator (NOₓ-Reduktion mit AdBlue!) + DPF (Rußfilterung!)<br><br><br>MERKSATZ<br>"Oxidationskat (Diesel): Wandelt nur CO + HC um! NOₓ → SCR-Kat (AdBlue!), Ruß → DPF!"<br>"Diesel läuft immer mager (λ &gt; 1) → kein 3-Wege-Kat möglich!"<br><br><br>3. LAMBDA-SONDE 📊<br>WAS IST LAMBDA (λ)?<br>DEFINITION:<br>Lambda (λ) ist das Verhältnis von tatsächlicher Luftmenge zu theoretisch notwendiger Luftmenge (für vollständige Verbrennung).<br><br>LAMBDA-WERTE<br>λ = 1,0 → STÖCHIOMETRISCHES GEMISCH<br><br>Ideal! Exakt richtige Menge Luft + Kraftstoff!<br>Komplette Verbrennung!<br>3-Wege-Katalysator arbeitet optimal!<br><br>λ &lt; 1,0 → FETTES GEMISCH<br><br>Zu viel Kraftstoff, zu wenig Luft!<br>Unvollständige Verbrennung!<br>Mehr CO und HC im Abgas!<br>Höherer Verbrauch!<br><br>λ &gt; 1,0 → MAGERES GEMISCH<br><br>Zu wenig Kraftstoff, zu viel Luft!<br>Luftüberschuss!<br>Mehr NOₓ im Abgas!<br>Weniger Leistung!<br><br><br>STÖCHIOMETRISCHES VERHÄLTNIS (λ = 1,0)<br>OTTOMOTOR:<br>14,7 kg Luft : 1 kg Kraftstoff<br>DIESELMOTOR:<br>14,5 kg Luft : 1 kg Kraftstoff<br>→ Für 1 kg Kraftstoff braucht man ca. 14,5-14,7 kg Luft für vollständige Verbrennung!<br><br>MERKSATZ<br>"λ = 1,0 = stöchiometrisch = ideal! λ &lt; 1 = fett (zu viel Kraftstoff!), λ &gt; 1 = mager (zu viel Luft!)"<br>"Stöchiometrisch: ca. 14,7 kg Luft : 1 kg Kraftstoff!"<br><br><br>FUNKTION DER LAMBDA-SONDE<br>DEFINITION:<br>Die Lambda-Sonde misst den Sauerstoffgehalt im Abgas und meldet diesen an das Motorsteuergerät.<br>ZWECK:<br>Regelung der Gemischzusammensetzung auf λ = 1,0 (nur Ottomotor!)<br><br>AUFBAU<br>SENSORELEMEENT:<br><br>Keramik (Zirkoniumdioxid ZrO₂)<br>Beschichtet mit Platin<br><br>HEIZUNG:<br><br>Elektrische Heizung (erwärmt Sonde auf 300-600°C Betriebstemperatur!)<br>Wichtig: Sonde arbeitet nur bei hoher Temperatur!<br><br>SCHUTZROHR:<br><br>Schützt Sensorelement<br>Durchlässig für Abgas<br><br><br>MESSPRINZIP<br>SONDE VERGLEICHT:<br><br>Sauerstoffgehalt im Abgas (Abgasseite)<br>Sauerstoffgehalt in Umgebungsluft (Referenzseite - ca. 21% O₂)<br><br>BEI UNTERSCHIED:<br><br>Spannungssignal wird erzeugt!<br><br>SPANNUNG:<br><br>λ &lt; 1,0 (fettes Gemisch): Wenig O₂ im Abgas → hohe Spannung (0,6-1,0V)<br>λ = 1,0 (stöchiometrisch): Spannungssprung (0,45V)<br>λ &gt; 1,0 (mageres Gemisch): Viel O₂ im Abgas → niedrige Spannung (0,1-0,4V)<br><br><br>ARTEN VON LAMBDA-SONDEN<br>1️⃣ SPRUNGSONDE (ZWEIPUNKT-LAMBDA-SONDE)<br>FUNKTION:<br><br>Erkennt nur, ob λ &lt; 1, λ = 1, oder λ &gt; 1!<br>Spannungssprung bei λ = 1,0!<br><br>SIGNAL:<br><br>Entweder "zu fett" oder "zu mager"<br>Keine präzise Messung!<br><br>REGELUNG:<br><br>Pendelt um λ = 1,0 (1-2 Hz)<br>Motorsteuergerät korrigiert ständig (fett → mager → fett → mager...)<br><br>EINSATZ:<br><br>Ältere Ottomotoren (vor ca. 2000)<br><br><br>2️⃣ BREITBAND-LAMBDA-SONDE (WEITBEREICHS-LAMBDA-SONDE)<br>FUNKTION:<br><br>Misst präzisen Lambda-Wert (kontinuierlich!)<br>Nicht nur "fett" oder "mager", sondern genauer Wert (z.B. λ = 0,95 oder λ = 1,05)<br><br>SIGNAL:<br><br>Kontinuierliches Signal (kein Sprung!)<br>Präzisere Regelung!<br><br>REGELUNG:<br><br>Schnellere, genauere Regelung möglich<br>Weniger Pendeln!<br><br>EINSATZ:<br><br>Moderne Ottomotoren (ab ca. 2000)<br>Dieselmotoren (für Oxidationskat, DPF-Überwachung!)<br><br><br>VERGLEICH<br>MerkmalSprungsondeBreitband-SondeSignalSpannungssprung bei λ = 1,0Kontinuierlicher Lambda-WertPräzisionErkennt nur "fett" oder "mager"Misst präzisen Wert (z.B. λ = 0,95)RegelungPendelt um λ = 1,0 (1-2 Hz)Schnellere, präzisere RegelungEinsatzÄltere Ottomotoren (vor 2000)Moderne Otto + Diesel (ab 2000)<br><br>MERKSATZ<br>"Sprungsonde = erkennt nur fett/mager (pendelt!). Breitband-Sonde = misst präzisen Wert (schneller, genauer!)"<br><br><br>🎯 LAMBDA-REGELUNG IM SYSTEM<br>REGELKREIS:<br><br>MESSUNG: Lambda-Sonde misst O₂-Gehalt im Abgas<br>SIGNAL: Spannungssignal wird an Motorsteuergerät (ECU) gesendet<br>AUSWERTUNG: ECU vergleicht Ist-Wert mit Soll-Wert (λ = 1,0)<br>KORREKTUR: Einspritzmenge wird angepasst:<br><br>Gemisch zu fett (λ &lt; 1) → weniger Kraftstoff einspritzen!<br>Gemisch zu mager (λ &gt; 1) → mehr Kraftstoff einspritzen!<br><br><br>WIEDERHOLUNG: Regelung läuft kontinuierlich (ca. 1-2x pro Sekunde bei Sprungsonde, schneller bei Breitband!)<br><br><br>REGELFREQUENZ<br>SPRUNGSONDE:<br>1-2 Hz (pendelt um λ = 1,0)<br>BREITBAND-SONDE:<br>Schnellere, präzisere Regelung möglich (weniger Pendeln!)<br><br>MERKSATZ<br>"Lambda-Regelung: Sonde misst O₂ → ECU korrigiert Einspritzmenge → λ = 1,0 halten!"<br><br><br>⚠️ DEFEKTE LAMBDA-SONDE - SYMPTOME<br>SYMPTOME:<br>❌ Erhöhter Kraftstoffverbrauch<br>❌ Schlechte Abgaswerte (NOₓ, CO, HC erhöht!)<br>❌ Unrunder Motorlauf<br>❌ Leistungsverlust<br>❌ Motorleuchte (Check Engine) aktiv<br>❌ Motor läuft im Notlaufprogramm (festes Kennfeld, keine Lambda-Regelung!)<br>❌ Katalysator-Schäden durch falsche Gemischzusammensetzung (zu fett → überhitzt!)<br><br>LEBENSDAUER<br>Ca. 80.000-160.000 km<br>(abhängig von Kraftstoffqualität, Betriebsbedingungen, Wartung!)<br><br>MERKSATZ<br>"Defekte Lambda-Sonde → erhöhter Verbrauch + schlechte Abgaswerte + Motorleuchte + Notlaufprogramm!"<br><br><br>4. DIESELPARTIKELFILTER (DPF) 💨<br>FUNKTION UND AUFBAU<br>DEFINITION:<br>Der Dieselpartikelfilter (DPF) filtert Rußpartikel (Feinstaub) aus dem Abgas von Dieselmotoren.<br><br>🔧 AUFBAU DPF<br>WABENSTRUKTUR MIT VERSCHLOSSENEN KANÄLEN:<br>┌─────────────────────────────────┐<br>│ EINGANGSSEITE                   │<br>│ ▓▓▓░░░▓▓▓░░░▓▓▓░░░              │ ▓ = offen<br>│ ▓▓▓░░░▓▓▓░░░▓▓▓░░░              │ ░ = verschlossen<br>│ ▓▓▓░░░▓▓▓░░░▓▓▓░░░              │<br>└─────────────────────────────────┘<br>           ↓↓↓ (Abgas strömt durch poröse Wände!)<br>┌─────────────────────────────────┐<br>│ AUSGANGSSEITE                   │<br>│ ░░░▓▓▓░░░▓▓▓░░░▓▓▓              │ Ruß bleibt hängen!<br>│ ░░░▓▓▓░░░▓▓▓░░░▓▓▓              │<br>│ ░░░▓▓▓░░░▓▓▓░░░▓▓▓              │<br>└─────────────────────────────────┘<br>FUNKTIONSPRINZIP:<br><br>Eingangsseite: Kanäle offen - gegenüberliegende Seite verschlossen<br>Ausgangsseite: Kanäle geschlossen - gegenüberliegende Seite offen<br>Abgas muss durch poröse Wände strömen!<br>Rußpartikel bleiben in den Poren hängen!<br>Sauberes Gas tritt aus<br><br><br>MATERIAL<br>SILIZIUMKARBID (SiC):<br><br>Hohe Hitzebeständigkeit (bis 1.000°C!)<br>Sehr hart, chemisch stabil<br><br>CORDIERIT (KERAMIK):<br><br>Ebenfalls hitzebeständig<br>Günstiger<br><br><br>MERKSATZ<br>"DPF: Wabenstruktur mit verschlossenen Kanälen → Abgas muss durch poröse Wände → Ruß bleibt hängen!"<br><br><br>🔥 REGENERATION DES PARTIKELFILTERS<br>PROBLEM:<br>Filter setzt sich mit Ruß zu!<br>→ Gegendruck steigt!<br>→ Motorleistung sinkt!<br>→ Filter verstopft!<br><br>LÖSUNG:<br>REGELMÄSSIGE REGENERATION (Abbrennen des Rußes!)<br><br>REGENERATIONSARTEN<br>1️⃣ PASSIVE REGENERATION<br>AUTOMATISCH WÄHREND FAHRT<br>BEDINGUNGEN:<br><br>Autobahnfahrt (konstant hohe Last!)<br>Abgastemperatur &gt; 600°C<br><br>ABLAUF:<br><br>Ruß verbrennt kontinuierlich während Fahrt<br>Kein Eingriff notwendig!<br><br>REAKTION:<br>C + O₂ → CO₂<br>(Kohlenstoff/Ruß verbrennt zu Kohlendioxid)<br><br>2️⃣ AKTIVE REGENERATION<br>MOTORSTEUERUNG ERHÖHT TEMPERATUR<br>BEDINGUNGEN:<br><br>Überwiegend Kurzstrecken<br>Filter erreicht kritischen Beladungsgrad<br><br>ABLAUF:<br><br>Motorsteuergerät erkennt: Filter zu voll!<br>Nacheinspritzung von Kraftstoff (kleine Menge nach Haupteinspritzung!)<br>Kraftstoff verbrennt im Abgasstrang<br>Abgastemperatur steigt auf 600-650°C!<br>Ruß verbrennt ab<br>Dauert ca. 10-20 Minuten<br>Läuft während Fahrt automatisch!<br><br>WICHTIG:<br><br>Nicht Motor abstellen während Regeneration! (sonst bleibt Ruß im Filter!)<br>Weiterfahren bis Regeneration abgeschlossen!<br><br><br>3️⃣ STATIONÄRE REGENERATION<br>IN WERKSTATT<br>WANN:<br><br>Bei extrem hoher Beladung<br>Wenn aktive Regeneration nicht möglich war (nur Kurzstrecke!)<br><br>ABLAUF:<br><br>Fahrzeug steht, Motor läuft<br>Diagnosetool startet Regeneration<br>Dauer: ca. 20-30 Minuten<br><br><br>4️⃣ MANUELLE REINIGUNG / AUSTAUSCH<br>ALS LETZTE MASSNAHME<br>WANN:<br><br>Filter vollständig verstopft<br>Regeneration nicht mehr möglich<br><br>ABLAUF:<br><br>Filter ausbauen<br>Professionell reinigen (Spezialfirma - Hochdruckreinigung!)<br>ODER: Filter austauschen<br><br>KOSTEN:<br>500-2.000 € (Austausch!)<br><br>MERKSATZ<br>"Regeneration: Passiv (Autobahn, automatisch!), Aktiv (Motorsteuerung, Nacheinspritzung!), Stationär (Werkstatt!), Austausch (letzte Lösung, teuer!)!"<br><br><br>CHEMISCHE REAKTION BEI REGENERATION<br>C + O₂ → CO₂<br>(Kohlenstoff/Ruß verbrennt zu Kohlendioxid)<br>BENÖTIGTE TEMPERATUR:<br>Mindestens 550-600°C<br>OPTIMALE TEMPERATUR:<br>600-650°C<br><br><br>⚠️ PROBLEME UND WARNZEICHEN<br>SYMPTOME VERSTOPFTER DPF:<br>🚗 Kurzstreckenverkehr: Größtes Problem! Filter setzt zu, weil Regeneration nicht möglich!<br>⚠️ Warnung im Display: "Partikelfilter voll - Weiterfahrt empfohlen"<br>⚡ Leistungsverlust: Motor geht in Notlauf (begrenzt auf 3.000 U/min!)<br>💰 Teure Reparatur: Neuer DPF kann 1.000-2.500 € kosten!<br>🔧 Verstopfter DPF: Kann zu Motorschäden führen (Überdruck im Abgassystem → Turbolader-Schäden!)<br><br>TIPPS ZUR VERMEIDUNG<br>✅ Regelmäßig Langstrecke fahren (Autobahn, 30+ Minuten!)<br>✅ Regeneration nicht unterbrechen (Motor nicht abstellen während Regeneration!)<br>✅ Hochwertigen Diesel tanken (weniger Ruß!)<br>✅ Motoröl-Wechselintervalle einhalten (Asche setzt Filter zu!)<br>❌ Diesel-PKW NICHT für reine Kurzstrecken geeignet!<br><br>MERKSATZ<br>"DPF-Problem Nr. 1: KURZSTRECKENVERKEHR! Filter setzt zu, weil Regeneration nicht möglich! → Diesel-PKW NICHT für Kurzstrecke!"<br><br><br>📊 FILTERLEISTUNG<br>ABSCHEIDERATE:<br>&gt; 95% der Rußpartikel!<br>PARTIKELGRÖSSE:<br>Filtert Partikel ab 0,1 μm (PM10, PM2.5, PM0.1!)<br>KAPAZITÄT:<br>Ca. 5-8 Gramm Ruß pro Regenerationszyklus<br>LEBENSDAUER:<br>120.000-240.000 km (bei korrekter Wartung!)<br><br>MERKSATZ<br>"DPF: &gt; 95% Abscheiderate, filtert ab 0,1 μm, Lebensdauer 120.000-240.000 km (bei richtiger Wartung!)!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>KATALYSATOR:<br>→ 3-Wege-Kat (Otto): Wandelt CO, HC, NOₓ um - NUR bei λ = 1,0 optimal! (stöchiometrisches Gemisch!)<br>→ Oxidationskat (Diesel): Wandelt nur CO + HC um! NOₓ → SCR-Kat (AdBlue!), Ruß → DPF!<br>→ Betriebstemperatur: 300-800°C (Light-off ab 300°C!)<br>→ Kaltstartphase: Bis zu 80% der Gesamtemissionen (Katalysator noch kalt!)<br>→ Wirkungsgrad bei λ = 1,0: &gt; 90-95% Schadstoffreduktion!<br>LAMBDA-SONDE:<br>→ λ = 1,0 = stöchiometrisch (ideal! - 14,7 kg Luft : 1 kg Kraftstoff)<br>→ λ &lt; 1,0 = fett (zu viel Kraftstoff! - mehr CO, HC!)<br>→ λ &gt; 1,0 = mager (zu viel Luft! - mehr NOₓ!)<br>→ Sprungsonde: Erkennt nur fett/mager (pendelt um λ = 1,0!)<br>→ Breitband-Sonde: Misst präzisen Wert (schneller, genauer!)<br>→ Defekt: Erhöhter Verbrauch, schlechte Abgaswerte, Motorleuchte, Notlaufprogramm!<br>→ Lebensdauer: 80.000-160.000 km<br>DIESELPARTIKELFILTER (DPF):<br>→ Funktion: Filtert Rußpartikel (Feinstaub &gt; 95%!)<br>→ Aufbau: Wabenstruktur mit verschlossenen Kanälen → Abgas muss durch poröse Wände → Ruß bleibt hängen!<br>→ Regeneration: Passiv (Autobahn, automatisch!), Aktiv (Nacheinspritzung, 10-20 Min.!), Stationär (Werkstatt!), Austausch (500-2.000 €!)<br>→ Temperatur: Mindestens 550-600°C (optimal 600-650°C!)<br>→ PROBLEM Nr. 1: KURZSTRECKENVERKEHR! (Filter setzt zu, keine Regeneration möglich!)<br>→ Warnung: "Partikelfilter voll - Weiterfahrt empfohlen" → Langstrecke fahren (Regeneration!)<br>→ Diesel-PKW NICHT für Kurzstrecke geeignet!</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: KATALYSATOR DEFEKT - SYMPTOME?
+SITUATION:
+Fahrschüler klagt: "Mein Auto (Ottomotor) hat erhöhten Verbrauch, riecht komisch nach 'faulen Eiern', Motorleuchte leuchtet!"
+FRAGE: Was könnte die Ursache sein?
+
+ANALYSE:
+SYMPTOME:
+
+Erhöhter Verbrauch
+Geruch nach "faulen Eiern" (Schwefelwasserstoff H₂S - typisch bei defektem Katalysator!)
+Motorleuchte aktiv
+
+URSACHE:
+DEFEKTER KATALYSATOR!
+WARUM GERUCH NACH FAULEN EIERN?
+
+Schwefel im Kraftstoff
+Katalysator wandelt normalerweise Schwefelverbindungen in SO₂ (Schwefeldioxid - geruchlos!) um
+Defekter Katalysator: Wandelt Schwefel in H₂S (Schwefelwasserstoff - riecht nach faulen Eiern!) um!
+
+WEITERE SYMPTOME:
+
+Leistungsverlust
+Schlechte Abgaswerte
+Erhöhter Verbrauch (Lambda-Regelung funktioniert nicht mehr optimal!)
+
+
+URSACHEN KATALYSATOR-DEFEKT:
+
+Alterung (normale Lebensdauer ca. 80.000-200.000 km)
+Überhitzung (zu fettes Gemisch → Katalysator überhitzt!)
+Mechanische Beschädigung (Aufprall, Bordsteinkante!)
+Vergiftung (verbleiter Kraftstoff, Motoröl im Abgas!)
+
+
+LÖSUNG:
+→ Katalysator austauschen! (Kosten: 300-1.500 €!)
+
+ANTWORT:
+→ Wahrscheinlich defekter Katalysator!
+→ Typisches Symptom: Geruch nach "faulen Eiern" (Schwefelwasserstoff H₂S!)
+→ Weitere Symptome: Erhöhter Verbrauch, Motorleuchte, Leistungsverlust
+→ Lösung: Katalysator austauschen! (Kosten: 300-1.500 €!)</div>
+                        <div class="beispiel">BEISPIEL 2: DPF-WARNUNG - WAS TUN?
+SITUATION:
+Fahrschüler (Dieselfahrzeug, hauptsächlich Kurzstrecke!) klagt: "Im Display steht: 'Partikelfilter voll - Weiterfahrt empfohlen'! Was soll ich tun?"
+FRAGE: Was rätst du?
+
+ANALYSE:
+WARNUNG:
+"Partikelfilter voll - Weiterfahrt empfohlen"
+BEDEUTUNG:
+
+DPF ist mit Ruß zugesetzt!
+Regeneration notwendig!
+Motorsteuergerät fordert: Weiterfahren (nicht abstellen!)
+
+
+URSACHE:
+KURZSTRECKENVERKEHR!
+
+Hauptsächlich Kurzstrecke gefahren
+Motor erreicht nicht Betriebstemperatur
+DPF erreicht nicht Regenerationstemperatur (600°C!)
+Passive Regeneration nicht möglich!
+Aktive Regeneration startet, aber wird unterbrochen (Motor abgestellt!)
+Filter setzt sich zu!
+
+
+WAS TUN?
+SOFORT:
+
+NICHT ABSTELLEN! (Regeneration läuft evtl. gerade!)
+Langstrecke fahren! (Autobahn, mindestens 30+ Minuten!)
+Konstant hohe Geschwindigkeit! (80-120 km/h)
+Niedriger Gang bei Bergauffahrt! (Motor hochdrehen! → höhere Abgastemperatur!)
+
+ZIEL:
+
+Abgastemperatur auf 600-650°C bringen!
+Aktive Regeneration läuft!
+Ruß wird abgebrannt!
+Warnung erlischt nach erfolgreicher Regeneration!
+
+
+WENN WARNUNG NICHT ERLISCHT:
+→ Werkstatt aufsuchen!
+→ Stationäre Regeneration (Diagnosetool!)
+→ Evtl. DPF austauschen/reinigen (500-2.000 €!)
+
+PRÄVENTION:
+✅ Regelmäßig Langstrecke fahren! (mindestens 1x pro Woche, 30+ Min. Autobahn!)
+✅ Regeneration nicht unterbrechen! (Motor nicht abstellen während Regeneration!)
+❌ Diesel-PKW NICHT für reine Kurzstrecke geeignet!
+
+ANTWORT:
+→ Sofort Langstrecke fahren! (Autobahn, 30+ Min., 80-120 km/h!)
+→ Motor NICHT abstellen! (Regeneration läuft evtl.!)
+→ Abgastemperatur auf 600-650°C bringen → Ruß verbrennt!
+→ Prävention: Regelmäßig Langstrecke! Diesel-PKW NICHT für Kurzstrecke!</div>
+                        <div class="beispiel">BEISPIEL 3: LAMBDA-SONDE DEFEKT - FOLGEN?
+SITUATION:
+Fahrschüler fragt: "Meine Lambda-Sonde ist defekt. Kann ich trotzdem weiterfahren?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+DEFEKTE LAMBDA-SONDE:
+SYMPTOME:
+
+Erhöhter Kraftstoffverbrauch (bis zu +20-30%!)
+Schlechte Abgaswerte (NOₓ, CO, HC erhöht!)
+Unrunder Motorlauf
+Leistungsverlust
+Motorleuchte (Check Engine) aktiv
+Motor läuft im Notlaufprogramm (festes Kennfeld, keine Lambda-Regelung!)
+
+
+FOLGEN:
+1. KATALYSATOR-SCHÄDEN:
+
+Lambda-Regelung funktioniert nicht!
+Gemisch evtl. zu fett (λ &lt; 1,0)!
+Katalysator überhitzt! (unverbrannter Kraftstoff verbrennt im Katalysator!)
+Katalysator kann schmelzen! (Kosten: 300-1.500 €!)
+
+2. ERHÖHTER VERBRAUCH:
+
+Motor läuft im Notlaufprogramm (festes Kennfeld!)
+Gemisch nicht optimal eingestellt!
+Bis zu +20-30% Mehrverbrauch!
+
+3. ABGASUNTERSUCHUNG (AU) NICHT BESTANDEN:
+
+Schlechte Abgaswerte!
+AU-Plakette wird nicht erteilt!
+
+
+WEITERFAHREN MÖGLICH?
+JA, ABER...
+✅ Kurzfristig: Weiterfahren möglich (Motor läuft!)
+❌ Langfristig: Katalysator-Schäden drohen! (teuer!)
+❌ Erhöhter Verbrauch! (+20-30%!)
+❌ AU nicht bestanden!
+
+EMPFEHLUNG:
+→ Baldmöglichst Werkstatt aufsuchen!
+→ Lambda-Sonde austauschen! (Kosten: 100-300 €)
+→ Nicht zu lange warten! (Katalysator-Schäden vermeiden!)
+
+ANTWORT:
+→ Kurzfristig weiterfahren möglich, ABER:
+→ Katalysator-Schäden drohen! (Überhitzung durch zu fettes Gemisch!)
+→ Erhöhter Verbrauch! (+20-30%!)
+→ AU nicht bestanden!
+→ Empfehlung: Baldmöglichst Lambda-Sonde austauschen! (100-300 €)</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: KATALYSATOR &amp; LAMBDA-SONDE (60 Min)<br>Einstieg (10 Min):<br>Methode: Schockfrage<br>Ablauf: "Wusstet ihr, dass bis zu 80% aller Emissionen in der Kaltstartphase entstehen?" Anwärter diskutieren. Überleitung: "Heute lernen wir, wie Abgasreinigung funktioniert - und warum sie so wichtig ist!"<br>Ziel: Interesse wecken, Relevanz verdeutlichen<br><br>Hauptteil (45 Min):<br>Phase 1: Katalysator (3-Wege vs. Oxidation) (20 Min)<br>Dozent erklärt: 3-Wege-Kat (Otto): Wandelt CO, HC, NOₓ um - NUR bei λ = 1,0 optimal! Oxidationskat (Diesel): Nur CO + HC! NOₓ → SCR (AdBlue!), Ruß → DPF! Betriebstemperatur: 300-800°C (Light-off 300°C!). Kaltstartphase: Bis 80% Emissionen! Praxisfall: Geruch nach faulen Eiern - defekter Katalysator!<br>Phase 2: Lambda-Sonde &amp; Lambda-Regelung (20 Min)<br>Dozent erklärt: λ = 1,0 = stöchiometrisch (14,7:1!), λ &lt; 1 = fett (mehr CO, HC!), λ &gt; 1 = mager (mehr NOₓ!). Sprungsonde vs. Breitband-Sonde (präziser!). Lambda-Regelung: Sonde misst O₂ → ECU korrigiert Einspritzmenge! Praxisfall: Defekte Sonde → erhöhter Verbrauch, Katalysator-Schäden!<br>Phase 3: Zusammenhang Katalysator + Lambda-Sonde (5 Min)<br>Dozent betont: 3-Wege-Kat braucht λ = 1,0! Ohne Lambda-Regelung → Katalysator funktioniert nicht optimal!<br><br>Schluss (5 Min):<br>Sicherung: "3-Wege-Kat optimal bei?" → λ = 1,0! "Kaltstartphase = ?" → 80% Emissionen!<br>Ausblick: "Nächste Stunde: DPF (Dieselpartikelfilter)!"<br><br>UNTERRICHTSEINHEIT 2: DIESELPARTIKELFILTER (DPF) (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Diesel braucht 3-Wege-Kat?" → NEIN! (läuft immer mager!)<br><br>Hauptteil (50 Min):<br>Phase 1: DPF - Aufbau &amp; Funktion (15 Min)<br>Dozent zeigt Schaubild: Wabenstruktur mit verschlossenen Kanälen → Abgas muss durch poröse Wände → Ruß bleibt hängen! Abscheiderate: &gt; 95%! Material: Siliziumkarbid (hitzebeständig bis 1.000°C!)<br>Phase 2: Regeneration (25 Min)<br>Dozent erklärt: Problem: Filter setzt zu! Lösung: Regeneration (Ruß abbrennen!)! Arten: Passiv (Autobahn, automatisch!), Aktiv (Nacheinspritzung, 10-20 Min.!), Stationär (Werkstatt!), Austausch (500-2.000 €!). Temperatur: 600-650°C! Wichtig: Regeneration nicht unterbrechen (Motor nicht abstellen!)! Praxisfall: DPF-Warnung - was tun? (Langstrecke fahren!)<br>Phase 3: DPF-Problem Nr. 1 - KURZSTRECKENVERKEHR! (10 Min)<br>Dozent betont: Diesel-PKW NICHT für Kurzstrecke geeignet! Filter setzt zu, keine Regeneration möglich! Warnung: "Partikelfilter voll" → sofort Langstrecke (30+ Min.)! Prävention: Regelmäßig Langstrecke, Regeneration nicht unterbrechen, Motoröl-Wechsel!<br><br>Schluss (5 Min):<br>Sicherung: "DPF-Regeneration braucht?" → 600-650°C! "DPF-Problem Nr. 1?" → Kurzstreckenverkehr!<br>Hausaufgabe: Erstelle Vergleichstabelle: 3-Wege-Kat vs. Oxidationskat vs. DPF (Funktion, Schadstoffe, Motortyp!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>λ = 1,0 für 3-Wege-Kat betonen! (nur Otto!)<br>Kaltstartphase = 80% Emissionen verdeutlichen!<br>DPF-Problem: Kurzstreckenverkehr! klar machen!<br>Diesel-PKW NICHT für Kurzstrecke! betonen!<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Diesel hat auch 3-Wege-Kat (NEIN! Nur Oxidationskat!)<br>Verwechseln λ &lt; 1 (fett) und λ &gt; 1 (mager)<br>Denken, DPF kann unbegrenzt Ruß speichern (NEIN! Regeneration nötig!)<br>Unterschätzen Kurzstreckenverkehr-Problem bei Diesel!<br><br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Schaubilder/Tabellen erstellen! (3-Wege-Kat, Lambda-Werte, DPF-Aufbau!)<br>Praxisfälle durchspielen! (DPF-Warnung, defekte Lambda-Sonde!)<br>80% Kaltstartphase einprägen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie die Funktion des 3-Wege-Katalysators beim Ottomotor. Warum ist λ = 1,0 notwendig?<br>Antwort: 3-Wege-Katalysator (Ottomotor): Funktion: Wandelt DREI Schadstoffe gleichzeitig um: 1. CO (Kohlenmonoxid) → CO₂ (Kohlendioxid), 2. HC (unverbrannte Kohlenwasserstoffe) → H₂O + CO₂, 3. NOₓ (Stickoxide) → N₂ + O₂. Chemische Reaktionen: Oxidation (CO + HC mit O₂ verbrennen) + Reduktion (NOₓ Sauerstoff entziehen). λ = 1,0 NOTWENDIG: 3-Wege-Kat arbeitet NUR bei λ = 1,0 optimal! Grund: Oxidation braucht Sauerstoff (für CO, HC), Reduktion braucht Sauerstoffmangel (für NOₓ). Bei λ = 1,0 (stöchiometrisches Gemisch): Genug Sauerstoff für Oxidation, wenig Sauerstoff für Reduktion → alle drei Schadstoffe optimal umgewandelt! Bei λ ≠ 1,0: λ &lt; 1 (fett) → zu wenig O₂ → CO, HC steigen! λ &gt; 1 (mager) → zu viel O₂ → NOₓ steigt! Wirkungsgrad bei λ = 1,0: &gt; 90-95% Schadstoffreduktion! Merksatz: "3-Wege-Kat: CO, HC, NOₓ umwandeln - NUR bei λ = 1,0 optimal!"<br><br>Frage 2: Warum hat der Dieselmotor keinen 3-Wege-Katalysator? Welches System wird stattdessen verwendet?<br>Antwort: Diesel hat KEINEN 3-Wege-Katalysator! Grund: Diesel läuft IMMER mager! (λ &gt; 1,0 - Luftüberschuss!). Warum? Dieselmotor regelt Leistung über Kraftstoffmenge, nicht über Luftmenge! Keine Drosselklappe! Luft immer maximal! → Immer mehr Luft als für stöchiometrische Verbrennung nötig! → Zu viel Sauerstoff im Abgas! Folge: 3-Wege-Kat kann NOₓ nicht reduzieren (braucht Sauerstoffmangel!)! STATTDESSEN: Oxidationskatalysator: Wandelt nur CO + HC um (Oxidation mit überschüssigem O₂!). Für NOₓ: SCR-Katalysator (Selective Catalytic Reduction) mit AdBlue (Harnstofflösung)! Für Ruß: Dieselpartikelfilter (DPF)! Merksatz: "Diesel = Oxidationskat (CO, HC!) + SCR (NOₓ mit AdBlue!) + DPF (Ruß!) - KEIN 3-Wege-Kat!"<br><br>Frage 3: Was bedeutet Lambda (λ)? Erklären Sie λ = 1,0, λ &lt; 1,0 und λ &gt; 1,0. Welcher Wert ist für den 3-Wege-Katalysator optimal?<br>Antwort: LAMBDA (λ): Verhältnis von tatsächlicher Luftmenge zu theoretisch notwendiger Luftmenge (für vollständige Verbrennung). λ = 1,0 - STÖCHIOMETRISCHES GEMISCH: Ideal! Exakt richtige Menge Luft + Kraftstoff! Verhältnis: ca. 14,7 kg Luft : 1 kg Kraftstoff (Otto), 14,5:1 (Diesel). Komplette Verbrennung! 3-Wege-Katalysator arbeitet optimal! λ &lt; 1,0 - FETTES GEMISCH: Zu viel Kraftstoff, zu wenig Luft! Unvollständige Verbrennung! Mehr CO und HC im Abgas! Höherer Verbrauch! Schwarzer Rauch (Ruß)! λ &gt; 1,0 - MAGERES GEMISCH: Zu wenig Kraftstoff, zu viel Luft! Luftüberschuss! Mehr NOₓ im Abgas! Weniger Leistung! Motor läuft evtl. heißer! OPTIMAL FÜR 3-WEGE-KAT: λ = 1,0! (nur so können alle drei Schadstoffe CO, HC, NOₓ optimal umgewandelt werden!). Merksatz: "λ = 1,0 = stöchiometrisch = ideal für 3-Wege-Kat! λ &lt; 1 = fett (mehr CO, HC!), λ &gt; 1 = mager (mehr NOₓ!)!"<br><br>Frage 4: Erklären Sie die Funktion der Lambda-Sonde und die Lambda-Regelung. Welche Arten von Lambda-Sonden gibt es?<br>Antwort: LAMBDA-SONDE: Funktion: Misst Sauerstoffgehalt im Abgas und meldet an Motorsteuergerät (ECU). Zweck: Regelung der Gemischzusammensetzung auf λ = 1,0 (nur Ottomotor!). Aufbau: Keramik (ZrO₂), Platin-Beschichtung, elektrische Heizung (300-600°C Betriebstemperatur!). Messprinzip: Vergleicht O₂-Gehalt im Abgas vs. Umgebungsluft (21% O₂) → Spannungssignal! LAMBDA-REGELUNG - REGELKREIS: 1. Lambda-Sonde misst O₂-Gehalt im Abgas, 2. Spannungssignal wird an ECU gesendet, 3. ECU vergleicht Ist-Wert mit Soll-Wert (λ = 1,0), 4. Einspritzmenge wird angepasst (fett → weniger Kraftstoff! mager → mehr Kraftstoff!), 5. Regelung läuft kontinuierlich (1-2x/Sek.). ARTEN: Sprungsonde (Zweipunkt): Erkennt nur "fett" oder "mager" (Spannungssprung bei λ = 1,0!), pendelt um λ = 1,0 (1-2 Hz), ältere Motoren. Breitband-Sonde (Weitbereich): Misst präzisen Lambda-Wert (kontinuierlich!), schnellere/präzisere Regelung, moderne Otto + Diesel. Merksatz: "Lambda-Sonde: Misst O₂ → ECU regelt Einspritzmenge → λ = 1,0 halten! Sprungsonde = fett/mager, Breitband = präziser Wert!"<br><br>Frage 5: Erklären Sie Aufbau, Funktion und Regeneration des Dieselpartikelfilters (DPF). Was ist das größte Problem beim DPF?<br>Antwort: DIESELPARTIKELFILTER (DPF): Funktion: Filtert Rußpartikel (Feinstaub) aus Dieselabgas! Abscheiderate: &gt; 95%! Aufbau: Wabenstruktur mit verschlossenen Kanälen. Eingangsseite: Kanäle offen - gegenüberliegende verschlossen. Ausgangsseite: Kanäle geschlossen - gegenüberliegende offen. Abgas muss durch poröse Wände strömen! Rußpartikel bleiben in Poren hängen! Material: Siliziumkarbid (SiC) oder Cordierit, hitzebeständig bis 1.000°C! REGENERATION (Ruß abbrennen!): Problem: Filter setzt zu → Gegendruck steigt → Leistungsverlust! Lösung: Regelmäßige Regeneration! Arten: 1. Passiv: Automatisch bei Autobahn (Abgastemperatur &gt; 600°C), Ruß verbrennt kontinuierlich. 2. Aktiv: Motorsteuerung erhöht Temperatur (Nacheinspritzung!), Abgas 600-650°C, dauert 10-20 Min., automatisch während Fahrt. 3. Stationär: In Werkstatt (Diagnosetool), bei extremer Beladung. 4. Austausch: Letzte Maßnahme, Kosten 500-2.000 €! Temperatur: Mindestens 550-600°C, optimal 600-650°C! GRÖßTES PROBLEM: KURZSTRECKENVERKEHR! Filter setzt zu, weil Regeneration nicht möglich (Motor erreicht nicht Betriebstemperatur, DPF nicht 600°C!)! Warnung: "Partikelfilter voll - Weiterfahrt empfohlen" → Langstrecke fahren (30+ Min.)! Diesel-PKW NICHT für reine Kurzstrecke geeignet! Merksatz: "DPF: Filtert Ruß (&gt; 95%), Regeneration ab 600°C, PROBLEM = KURZSTRECKE (keine Regeneration möglich!)!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767487375422" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
