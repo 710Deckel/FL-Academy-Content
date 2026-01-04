@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T00:42:56.923Z">
+    <meta name="last-updated" content="2026-01-04T00:54:56.363Z">
 </head>
 <body>
     <div id="academy-data">
@@ -3094,6 +3094,235 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767487375422" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Viertakt-Dieselmotor - Funktionsprinzip und Selbstzündung</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Funktionsprinzip des Viertakt-Dieselmotors verstehen</div>
+                    <div class="lernziel">Vier Arbeitstakte des Dieselmotors erklären können</div>
+                    <div class="lernziel">Selbstzündung beim Dieselmotor beherrschen</div>
+                    <div class="lernziel">Unterschied Otto vs. Diesel-Viertaktmotor kennen</div>
+                    <div class="lernziel">Verdichtungsverhältnis beim Diesel verstehen (16:1 bis 24:1)</div>
+                    <div class="lernziel">Innere Gemischbildung (Direkteinspritzung) erklären</div>
+                    <div class="lernziel">Zündverzug beim Dieselmotor kennen</div>
+                    <div class="lernziel">Vor- und Nachteile des Dieselmotors benennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. GRUNDPRINZIP DIESELMOTOR 🔧<br>WAS IST EIN DIESELMOTOR?<br>DEFINITION:<br>Ein Dieselmotor ist ein Verbrennungsmotor, der nach dem Selbstzündungsprinzip arbeitet.<br><br>🔥 SELBSTZÜNDUNG - DAS HERZSTÜCK<br>UNTERSCHIED ZUM OTTOMOTOR:<br>MerkmalOTTOMOTORDIESELMOTORZündungFremdzündung (Zündkerze!)Selbstzündung (keine Zündkerze!)Was wird angesaugt?Kraftstoff-Luft-GemischNur Luft (kein Kraftstoff!)VerdichtungGemisch (8:1 bis 13:1)Nur Luft (16:1 bis 24:1 - viel höher!)Zündung durchZündkerze (Funke)Hohe Verdichtungstemperatur (700-900°C!)KraftstoffeinspritzungVor oder während Ansaugen (oder Verdichtung bei Direkteinspritzung)Während Verdichtung (am Ende!)GemischbildungÄußere (Saugrohr) oder innere (Direkt)Immer innere (Direkteinspritzung!)<br><br>MERKSATZ<br>"Ottomotor = Fremdzündung (Zündkerze!), Dieselmotor = Selbstzündung (hohe Verdichtungstemperatur 700-900°C!)!"<br>"Dieselmotor saugt NUR Luft an - KEIN Kraftstoff! Kraftstoff wird erst am Ende der Verdichtung eingespritzt!"<br><br><br>2. DIE VIER ARBEITSTAKTE DES DIESELMOTORS 🔄<br>ÜBERSICHT<br>VIERTAKT-PRINZIP:<br>Wie beim Ottomotor arbeitet der Dieselmotor in vier Takten (= 2 Kurbelwellenumdrehungen = 720°):<br><br>ANSAUGEN<br>VERDICHTEN<br>ARBEITEN<br>AUSSCHIEBEN<br><br><br><br>1️⃣ TAKT: ANSAUGEN 🌬️<br>WAS PASSIERT?<br>Kolben bewegt sich von OT nach UT<br>Einlassventil: OFFEN ✅<br>Auslassventil: GESCHLOSSEN ❌<br>WICHTIG: NUR LUFT WIRD ANGESAUGT!<br>KEIN Kraftstoff! (Unterschied zu Otto!)<br><br>ABLAUF:<br><br>Kolben bewegt sich abwärts (von OT nach UT)<br>Unterdruck entsteht im Zylinder<br>Einlassventil öffnet<br>Frische Luft wird angesaugt (durch Luftfilter!)<br>Kein Kraftstoff dabei! (nur bei Diesel!)<br>Kolben erreicht UT<br>Einlassventil schließt<br><br><br>MERKMALE:<br><br>Keine Drosselklappe beim Diesel! (Luft immer maximal!)<br>Druck: Unterdruck (ca. 0,5-0,9 bar)<br>Temperatur: Umgebungstemperatur (ca. 20°C)<br><br><br>MERKSATZ<br>"1. Takt (Ansaugen): Kolben OT → UT, Einlassventil offen, NUR LUFT angesaugt (kein Kraftstoff!)!"<br><br><br>2️⃣ TAKT: VERDICHTEN 🔥<br>WAS PASSIERT?<br>Kolben bewegt sich von UT nach OT<br>Einlassventil: GESCHLOSSEN ❌<br>Auslassventil: GESCHLOSSEN ❌<br>NUR LUFT WIRD VERDICHTET!<br>EXTREM HOHE VERDICHTUNG!<br><br>ABLAUF:<br><br>Kolben bewegt sich aufwärts (von UT nach OT)<br>Beide Ventile geschlossen (Zylinder abgedichtet!)<br>Luft wird stark verdichtet (Verdichtungsverhältnis 16:1 bis 24:1!)<br>Druck steigt auf 30-55 bar! (viel höher als Otto: 10-20 bar!)<br>Temperatur steigt auf 700-900°C! (durch Verdichtung! - viel höher als Otto: 400-500°C!)<br>Kurz vor OT: Kraftstoff wird eingespritzt! (Common-Rail: 200-2.500 bar!)<br>Kraftstoff entzündet sich SOFORT an heißer Luft! (Selbstzündung!)<br><br><br>MERKMALE:<br>VERDICHTUNGSVERHÄLTNIS:<br>16:1 bis 24:1 (viel höher als Otto: 8:1 bis 13:1!)<br>DRUCK:<br>30-55 bar (Otto: 10-20 bar!)<br>TEMPERATUR:<br>700-900°C (Otto: 400-500°C!)<br>KRAFTSTOFFEINSPRITZUNG:<br>Kurz vor OT (am Ende der Verdichtung!)<br>SELBSTZÜNDUNG:<br>Kraftstoff entzündet sich automatisch an heißer Luft (700-900°C!) - KEINE Zündkerze nötig!<br><br>WARUM SO HOHE VERDICHTUNG?<br>GRUND:<br>Dieselkraftstoff hat niedrigere Zündtemperatur (ca. 220°C) als Ottokraftstoff (ca. 400-500°C), ABER:<br>Für sichere Selbstzündung braucht Diesel 700-900°C!<br>→ Hohe Verdichtung nötig (16:1 bis 24:1!)<br>→ Hoher Druck (30-55 bar!)<br>→ Hohe Temperatur (700-900°C!)<br>→ Kraftstoff entzündet sich sofort!<br><br>MERKSATZ<br>"2. Takt (Verdichten): Kolben UT → OT, beide Ventile zu, NUR LUFT verdichtet (16:1 bis 24:1!), Temperatur 700-900°C! Kraftstoff wird kurz vor OT eingespritzt → Selbstzündung!"<br><br><br>3️⃣ TAKT: ARBEITEN 💥<br>WAS PASSIERT?<br>Kolben bewegt sich von OT nach UT<br>Einlassventil: GESCHLOSSEN ❌<br>Auslassventil: GESCHLOSSEN ❌<br>VERBRENNUNG! KRAFTÜBERTRAGUNG!<br><br>ABLAUF:<br><br>Kraftstoff wurde kurz vor OT eingespritzt (Ende Verdichtungstakt!)<br>Selbstzündung: Kraftstoff entzündet sich an heißer Luft (700-900°C!)<br>Verbrennung: Kraftstoff verbrennt schlagartig!<br>Druck steigt auf 80-120 bar! (Verbrennungsdruck!)<br>Temperatur steigt auf 1.800-2.300°C! (Verbrennungstemperatur!)<br>Kolben wird nach unten gedrückt (von OT nach UT!)<br>Pleuel überträgt Kraft auf Kurbelwelle → Drehbewegung!<br>Arbeit wird verrichtet! (einziger Arbeitstakt!)<br><br><br>MERKMALE:<br>VERBRENNUNGSDRUCK:<br>80-120 bar (Otto: 50-80 bar!)<br>VERBRENNUNGSTEMPERATUR:<br>1.800-2.300°C (Otto: ca. 2.000-2.500°C - ähnlich!)<br>KRAFTÜBERTRAGUNG:<br>Über Pleuel auf Kurbelwelle<br>ZÜNDVERZUG:<br>0,5-2 Millisekunden (Zeit zwischen Einspritzung und Selbstzündung!)<br><br>ZÜNDVERZUG - WAS IST DAS?<br>DEFINITION:<br>Zündverzug ist die Zeit zwischen Kraftstoffeinspritzung und Beginn der Selbstzündung.<br>DAUER:<br>0,5-2 Millisekunden (ms)<br>WARUM GIBT ES ZÜNDVERZUG?<br><br>Kraftstoff wird eingespritzt<br>Kraftstoff muss sich verdampfen (flüssig → gasförmig!)<br>Kraftstoff muss sich mit Luft vermischen<br>Erst dann: Selbstzündung!<br><br>FOLGE:<br><br>Nicht gesamter Kraftstoff zündet gleichzeitig!<br>Zuerst eingespritzte Kraftstoffmenge zündet später als zuletzt eingespritzte!<br>Mehrfacheinspritzung (Common-Rail!) reduziert Zündverzug-Probleme!<br><br><br>TYPISCHES "NAGELN" DES DIESELS<br>URSACHE:<br>Zündverzug + schlagartige Verbrennung!<br><br>Kraftstoff wird eingespritzt<br>Zündverzug (0,5-2 ms)<br>Mehrere Kraftstofftröpfchen haben sich bereits angesammelt!<br>Alle zünden plötzlich gleichzeitig! (schlagartige Verbrennung!)<br>Druckwelle → "Nageln" (typisches Dieselgeräusch!)<br><br>LÖSUNG:<br>Mehrfacheinspritzung (Common-Rail!):<br><br>Voreinspritzung (1-3x): Kleine Menge → Brennraum vorwärmen → sanftere Hauptverbrennung!<br>Haupteinspritzung: Eigentliche Arbeit<br>Nacheinspritzung (1-2x): DPF-Regeneration, NOₓ-Reduktion<br><br>→ Weniger "Nageln"! (weicherer Motorlauf!)<br><br>MERKSATZ<br>"3. Takt (Arbeiten): Selbstzündung (700-900°C!), Verbrennung (80-120 bar, 1.800-2.300°C!), Kolben OT → UT, Kraft auf Kurbelwelle!"<br>"Zündverzug = Zeit zwischen Einspritzung und Selbstzündung (0,5-2 ms!) → 'Nageln' beim Diesel!"<br><br><br>4️⃣ TAKT: AUSSCHIEBEN 💨<br>WAS PASSIERT?<br>Kolben bewegt sich von UT nach OT<br>Einlassventil: GESCHLOSSEN ❌<br>Auslassventil: OFFEN ✅<br>VERBRANNTE GASE WERDEN AUSGESCHOBEN!<br><br>ABLAUF:<br><br>Kolben bewegt sich aufwärts (von UT nach OT)<br>Auslassventil öffnet<br>Verbrannte Abgase werden aus Zylinder herausgedrückt<br>Abgase strömen durch:<br><br>Abgaskrümmer<br>Turbolader (falls vorhanden - treibt Turbine an!)<br>Oxidationskatalysator (wandelt CO, HC um!)<br>SCR-Katalysator (wandelt NOₓ mit AdBlue um!)<br>Dieselpartikelfilter (DPF) (filtert Ruß!)<br>Endschalldämpfer<br><br><br>Kolben erreicht OT<br>Auslassventil schließt<br>Zyklus beginnt von vorne (Ansaugen!)<br><br><br>MERKMALE:<br>ABGASTEMPERATUR:<br>300-700°C (beim Ausschieben)<br>ABGASDRUCK:<br>1-3 bar (leichter Überdruck)<br><br>MERKSATZ<br>"4. Takt (Ausschieben): Kolben UT → OT, Auslassventil offen, verbrannte Abgase raus (über Turbo, Kat, DPF!)!"<br><br><br>3. VIER TAKTE IM ÜBERBLICK 📊<br>ZUSAMMENFASSUNG<br>TaktKolbenbewegungEinlassventilAuslassventilWas passiert?1. ANSAUGENOT → UT✅ OFFEN❌ GESCHLOSSENNUR LUFT wird angesaugt (kein Kraftstoff!)2. VERDICHTENUT → OT❌ GESCHLOSSEN❌ GESCHLOSSENNUR LUFT wird verdichtet (16:1 bis 24:1!), Temperatur 700-900°C! Kraftstoff wird kurz vor OT eingespritzt → Selbstzündung!3. ARBEITENOT → UT❌ GESCHLOSSEN❌ GESCHLOSSENVerbrennung (80-120 bar, 1.800-2.300°C!), Kolben wird nach unten gedrückt, Kraft auf Kurbelwelle!4. AUSSCHIEBENUT → OT❌ GESCHLOSSEN✅ OFFENVerbrannte Abgase werden ausgeschoben (über Turbo, Kat, DPF!)<br><br>WICHTIGE WERTE<br>VERDICHTUNGSVERHÄLTNIS:<br>16:1 bis 24:1 (viel höher als Otto: 8:1 bis 13:1!)<br>VERDICHTUNGSDRUCK:<br>30-55 bar (Otto: 10-20 bar!)<br>VERDICHTUNGSTEMPERATUR:<br>700-900°C (Otto: 400-500°C!)<br>VERBRENNUNGSDRUCK:<br>80-120 bar (Otto: 50-80 bar!)<br>VERBRENNUNGSTEMPERATUR:<br>1.800-2.300°C (Otto: 2.000-2.500°C - ähnlich!)<br>ZÜNDVERZUG:<br>0,5-2 Millisekunden<br><br>MERKSATZ<br>"4 Takte: 1. Ansaugen (nur Luft!), 2. Verdichten (16:1 bis 24:1, 700-900°C, Kraftstoff kurz vor OT!), 3. Arbeiten (Selbstzündung, 80-120 bar!), 4. Ausschieben (Abgase raus!)!"<br><br><br>4. UNTERSCHIED OTTO vs. DIESEL ⚡🔥<br>VERGLEICHSTABELLE<br>Merkmal⚡ OTTOMOTOR🔥 DIESELMOTORZündungFremdzündung (Zündkerze!)Selbstzündung (keine Zündkerze!)Was wird angesaugt?Kraftstoff-Luft-Gemisch (Saugrohr) ODER nur Luft (Direkteinspritzung)Nur Luft (kein Kraftstoff!)GemischbildungÄußere (Saugrohr) oder innere (Direkt)Immer innere (Direkteinspritzung!)Verdichtungsverhältnis8:1 bis 13:116:1 bis 24:1 (viel höher!)Verdichtungsdruck10-20 bar30-55 barVerdichtungstemperatur400-500°C700-900°CVerbrennungsdruck50-80 bar80-120 barKraftstoffeinspritzungVor/während Ansaugen (Saugrohr) ODER während Verdichtung (Direkt)Während Verdichtung (kurz vor OT!)Zündkerze✅ Ja (essentiell!)❌ Nein (nur Glühkerze zur Starthilfe!)Drosselklappe✅ Ja (regelt Luftmenge!)❌ Nein (Luft immer maximal!)LeistungsregelungLuftmenge (Drosselklappe!)Kraftstoffmenge (Einspritzmenge!)KraftstoffBenzin (Ottokraftstoff, ROZ 95/98)Diesel (Dieselkraftstoff, Cetanzahl min. 51)Wirkungsgrad30-37%35-45% (höher!)DrehmomentGeringer (bei höherer Drehzahl)Höher (bei niedrigerer Drehzahl!)VerbrauchHöherNiedriger (10-15% weniger!)EmissionenMehr CO, HCMehr NOₓ, Ruß (Feinstaub!)GeräuschLeiserLauter ("Nageln" durch Zündverzug!)BauweiseLeichterSchwerer (robuster wegen höherem Druck!)<br><br>MERKSATZ<br>"Otto = Fremdzündung (Zündkerze!), Gemisch angesaugt, 8:1-13:1 Verdichtung, Drosselklappe regelt Luft!"<br>"Diesel = Selbstzündung (700-900°C!), nur Luft angesaugt, 16:1-24:1 Verdichtung, Kraftstoffmenge regelt Leistung!"<br><br><br>5. VOR- UND NACHTEILE DIESELMOTOR ⚖️<br>✅ VORTEILE<br>1. HÖHERER WIRKUNGSGRAD (35-45%)<br><br>Bessere Energieausnutzung!<br>Höhere Verdichtung = bessere Verbrennung!<br><br>2. NIEDRIGERER VERBRAUCH (10-15% weniger als Otto)<br><br>Weniger Kraftstoff nötig!<br>Sparsamkeit besonders auf Langstrecken!<br><br>3. HÖHERES DREHMOMENT (bei niedrigerer Drehzahl)<br><br>Bessere Durchzugskraft!<br>Ideal für schwere Fahrzeuge, Anhänger, Autobahn!<br><br>4. LÄNGERE LEBENSDAUER<br><br>Robustere Bauweise (höherer Druck!)<br>Oft 300.000+ km ohne größere Reparaturen!<br><br>5. GÜNSTIGERER KRAFTSTOFF<br><br>Diesel oft günstiger als Benzin (regional unterschiedlich!)<br><br>6. KEIN KLOPFEN<br><br>Selbstzündung verhindert Klopfen!<br><br><br>❌ NACHTEILE<br>1. HÖHERE ANSCHAFFUNGSKOSTEN<br><br>Teurer in der Anschaffung (+2.000-5.000 €!)<br>Komplexere Technik (Turbo, DPF, SCR, AdBlue!)<br><br>2. HÖHERE EMISSIONEN (NOₓ, Ruß)<br><br>Mehr Stickoxide (NOₓ) → SCR-Katalysator (AdBlue!) nötig!<br>Mehr Rußpartikel (Feinstaub) → Dieselpartikelfilter (DPF!) nötig!<br><br>3. LAUTERER MOTORLAUF<br><br>"Nageln" durch Zündverzug + schlagartige Verbrennung!<br>Modernere Motoren (Common-Rail, Mehrfacheinspritzung) deutlich leiser!<br><br>4. SCHWERER, ROBUSTER BAU<br><br>Höherer Druck (80-120 bar!) → robustere Bauteile nötig!<br>Schwerer als vergleichbarer Ottomotor!<br><br>5. PROBLEME BEI KURZSTRECKEN<br><br>DPF verstopft (keine Regeneration möglich!)<br>Diesel-PKW NICHT für reine Kurzstrecke geeignet!<br><br>6. KOMPLEXERE ABGASREINIGUNG<br><br>Oxidationskatalysator (CO, HC)<br>SCR-Katalysator (NOₓ mit AdBlue!)<br>Dieselpartikelfilter (Ruß)<br>AdBlue-Nachfüllung nötig! (ca. alle 10.000 km)<br><br>7. KALTSTARTPROBLEME BEI NIEDRIGEN TEMPERATUREN<br><br>Glühkerzen nötig (Vorglühen!)<br>Bei extremer Kälte (&lt; -20°C): Diesel kann "stocken" (Paraffin kristallisiert!)<br><br><br>MERKSATZ<br>"Diesel: ✅ Sparsam, hohes Drehmoment, robust! ❌ Teurer, lauter, NOₓ/Ruß-Emissionen, NICHT für Kurzstrecke!"<br><br><br>6. WANN DIESEL, WANN OTTO? 🤔<br>DIESEL SINNVOLL FÜR:<br>✅ Vielfahrer (&gt; 20.000 km/Jahr)<br>✅ Langstreckenfahrer (Autobahn!)<br>✅ Schwere Fahrzeuge (SUV, Transporter!)<br>✅ Anhängerbetrieb (hohes Drehmoment!)<br>✅ Fahrer, die Verbrauch minimieren wollen<br><br>OTTO SINNVOLL FÜR:<br>✅ Wenigfahrer (&lt; 15.000 km/Jahr)<br>✅ Kurzstreckenfahrer (Stadt!)<br>✅ Leichtere Fahrzeuge (Kleinwagen, Kompaktklasse!)<br>✅ Fahrer, die Anschaffungskosten minimieren wollen<br>✅ Fahrer, die leiseren Motor wollen<br><br>MERKSATZ<br>"Diesel = Langstrecke, Vielfahrer, Anhänger! Otto = Kurzstrecke, Wenigfahrer, Stadt!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>DIESELMOTOR - SELBSTZÜNDUNG:<br>→ Selbstzündung durch hohe Verdichtungstemperatur (700-900°C!) - KEINE Zündkerze!<br>→ Nur Luft wird angesaugt (kein Kraftstoff!) - Unterschied zu Otto!<br>→ Kraftstoff wird kurz vor OT eingespritzt (während Verdichtung!) → entzündet sich sofort!<br>→ Immer innere Gemischbildung (Direkteinspritzung!) - kein Saugrohr-Gemisch!<br>VIER TAKTE DIESELMOTOR:<br>→ 1. Ansaugen: Kolben OT → UT, Einlassventil offen, NUR LUFT angesaugt!<br>→ 2. Verdichten: Kolben UT → OT, beide Ventile zu, nur Luft verdichtet (16:1 bis 24:1!), Temperatur 700-900°C! Kraftstoff kurz vor OT eingespritzt → Selbstzündung!<br>→ 3. Arbeiten: Verbrennung (80-120 bar, 1.800-2.300°C!), Kolben OT → UT, Kraft auf Kurbelwelle!<br>→ 4. Ausschieben: Kolben UT → OT, Auslassventil offen, Abgase raus!<br>VERDICHTUNG &amp; DRUCK:<br>→ Verdichtungsverhältnis: 16:1 bis 24:1 (Otto: 8:1-13:1!)<br>→ Verdichtungsdruck: 30-55 bar (Otto: 10-20 bar!)<br>→ Verdichtungstemperatur: 700-900°C (Otto: 400-500°C!)<br>→ Verbrennungsdruck: 80-120 bar (Otto: 50-80 bar!)<br>ZÜNDVERZUG &amp; "NAGELN":<br>→ Zündverzug: Zeit zwischen Einspritzung und Selbstzündung (0,5-2 ms!)<br>→ "Nageln": Typisches Dieselgeräusch durch Zündverzug + schlagartige Verbrennung!<br>→ Lösung: Mehrfacheinspritzung (Common-Rail!) → weniger "Nageln"!<br>OTTO vs. DIESEL:<br>→ Otto: Fremdzündung (Zündkerze!), Gemisch angesaugt, 8:1-13:1, Drosselklappe regelt Luft<br>→ Diesel: Selbstzündung (700-900°C!), nur Luft angesaugt, 16:1-24:1, Kraftstoffmenge regelt Leistung<br>→ Diesel: Höherer Wirkungsgrad (35-45%), niedrigerer Verbrauch, höheres Drehmoment, ABER: teurer, lauter, mehr NOₓ/Ruß, NICHT für Kurzstrecke!<br>VOR- &amp; NACHTEILE:<br>→ Vorteile: Sparsam (10-15% weniger Verbrauch!), hohes Drehmoment, robust, höherer Wirkungsgrad<br>→ Nachteile: Teurer (+2.000-5.000 €!), lauter ("Nageln"!), mehr NOₓ/Ruß (SCR, DPF!), Kurzstreckenproblem (DPF verstopft!)</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: WARUM SAUGT DIESEL NUR LUFT AN?
+SITUATION:
+Fahrschüler fragt: "Warum saugt der Dieselmotor nur Luft an und nicht direkt das Gemisch wie beim Otto?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+GRUND: SELBSTZÜNDUNG!
+ABLAUF:
+
+Diesel arbeitet nach Selbstzündungsprinzip!
+Kraftstoff entzündet sich automatisch bei Kontakt mit heißer Luft (700-900°C!)
+Problem: Wenn Kraftstoff bereits beim Ansaugen zugemischt würde:
+
+Gemisch würde sich während Verdichtung unkontrolliert entzünden! (zu früh!)
+Klopfen, Motorschäden!
+
+
+
+LÖSUNG:
+→ Nur Luft ansaugen!
+→ Luft allein verdichten (16:1 bis 24:1!)
+→ Temperatur steigt auf 700-900°C!
+→ Kraftstoff wird erst kurz vor OT eingespritzt! (wenn Temperatur hoch genug!)
+→ Sofortige Selbstzündung! (kontrolliert!)
+
+VERGLEICH OTTO:
+OTTOMOTOR:
+
+Gemisch kann angesaugt werden (Saugrohreinspritzung!)
+Grund: Ottokraftstoff zündet nicht durch Verdichtung allein! (Zündtemperatur 400-500°C!)
+Zündkerze entscheidet wann Gemisch zündet! (kontrolliert!)
+
+MODERNE OTTO-DIREKTEINSPRITZUNG:
+
+Auch hier: Kraftstoff wird während Verdichtung eingespritzt!
+Grund: Bessere Effizienz, präzisere Dosierung!
+ABER: Zündung trotzdem durch Zündkerze! (Fremdzündung!)
+
+
+ANTWORT:
+→ Diesel saugt nur Luft an, weil:
+→ Selbstzündung bei Kontakt mit heißer Luft (700-900°C!)
+→ Wenn Kraftstoff schon beim Ansaugen dabei wäre → unkontrollierte Frühzündung während Verdichtung! (Klopfen, Schäden!)
+→ Lösung: Nur Luft verdichten → Temperatur 700-900°C → Kraftstoff kurz vor OT einspritzen → sofortige, kontrollierte Selbstzündung!
+→ Otto: Gemisch kann angesaugt werden (zündet nicht durch Verdichtung allein - braucht Zündkerze!)</div>
+                        <div class="beispiel">BEISPIEL 2: DIESEL "NAGELT" - WARUM?
+SITUATION:
+Fahrschüler klagt: "Mein Diesel (älteres Modell) 'nagelt' laut - ist das normal?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+"NAGELN" = TYPISCHES DIESELGERÄUSCH!
+URSACHE:
+ZÜNDVERZUG + SCHLAGARTIGE VERBRENNUNG!
+ABLAUF:
+
+Kraftstoff wird eingespritzt (kurz vor OT)
+Zündverzug (0,5-2 ms):
+
+Kraftstoff muss verdampfen (flüssig → gasförmig!)
+Kraftstoff muss sich mit Luft vermischen!
+
+
+Mehrere Kraftstofftröpfchen haben sich angesammelt!
+Alle zünden plötzlich gleichzeitig! (schlagartige Verbrennung!)
+Druckwelle → "Nageln" (metallisches Klopfgeräusch!)
+
+
+IST DAS NORMAL?
+JA! (besonders bei älteren Dieselmotoren!)
+ÄLTERE DIESELMOTOREN:
+
+Einfacheres Einspritzsystem (Verteilereinspritzpumpe, Einzelpumpe!)
+Längerer Zündverzug!
+Stärkeres "Nageln"!
+
+MODERNE DIESELMOTOREN (COMMON-RAIL):
+
+Mehrfacheinspritzung:
+
+Voreinspritzung (1-3x): Kleine Menge → Brennraum vorwärmen!
+Haupteinspritzung: Eigentliche Arbeit!
+Nacheinspritzung (1-2x): DPF-Regeneration!
+
+
+Voreinspritzung reduziert Zündverzug-Probleme!
+Weicherer Motorlauf → weniger "Nageln"!
+
+
+IST ES SCHÄDLICH?
+NEIN! (solange Motor normal läuft!)
+"Nageln" ist charakteristisch für Dieselmotoren!
+ABER:
+
+Extrem lautes "Nageln" → evtl. Problem (Einspritzventile defekt, Einspritzzeitpunkt falsch!)
+Plötzlich stärkeres "Nageln" → Werkstatt aufsuchen!
+
+
+ANTWORT:
+→ "Nageln" = normal bei Diesel! (besonders ältere Modelle!)
+→ Ursache: Zündverzug (0,5-2 ms) + schlagartige Verbrennung → Druckwelle → "Nageln"!
+→ Moderne Diesel (Common-Rail): Mehrfacheinspritzung (Voreinspritzung!) → weniger "Nageln"!
+→ Nicht schädlich (charakteristisch!), ABER: Extrem lautes oder plötzlich stärkeres "Nageln" → Werkstatt!</div>
+                        <div class="beispiel">BEISPIEL 3: DIESEL ODER OTTO - WAS EMPFEHLEN?
+SITUATION:
+Fahrschüler fragt: "Ich fahre täglich 10 km zur Arbeit (Kurzstrecke, Stadt). Soll ich Diesel oder Otto kaufen?"
+FRAGE: Was rätst du?
+
+ANALYSE:
+FAHRPROFIL:
+
+10 km/Tag = ca. 3.650 km/Jahr (Arbeit + privat evtl. 5.000-10.000 km/Jahr)
+Kurzstrecke (Stadt!)
+Motor erreicht selten Betriebstemperatur!
+
+
+DIESEL - PROBLEME BEI KURZSTRECKE:
+1. DPF-VERSTOPFUNG:
+
+Dieselpartikelfilter setzt zu!
+Regeneration braucht 600-650°C! (mindestens 30+ Min. Langstrecke!)
+Bei Kurzstrecke: Regeneration nicht möglich!
+Folge: DPF verstopft → Warnung → Werkstatt → teurer Austausch (500-2.000 €!)
+
+2. MOTORSCHÄDEN:
+
+Motor erreicht nicht Betriebstemperatur!
+Öl verdünnt (Kraftstoff kondensiert im Öl!)
+Motorschäden durch Ölverdünnung!
+
+3. HÖHERE WARTUNGSKOSTEN:
+
+DPF-Reinigung/Austausch (500-2.000 €!)
+AdBlue-Nachfüllung (ca. alle 10.000 km)
+Komplexere Abgasreinigung (Oxidationskat, SCR, DPF!)
+
+4. LOHNT SICH NICHT:
+
+Diesel lohnt sich ab ca. 15.000-20.000 km/Jahr!
+Bei 5.000-10.000 km/Jahr: Mehrkosten (Anschaffung +2.000-5.000 €!) nicht durch Einsparung (Verbrauch 10-15% weniger!) amortisiert!
+
+
+OTTO - VORTEILE BEI KURZSTRECKE:
+1. KEINE DPF-PROBLEME:
+
+Otto hat keinen DPF (oder nur bei modernen Direkteinspritzern - GPF!)
+Weniger Kurzstreckenprobleme!
+
+2. GÜNSTIGERE ANSCHAFFUNG:
+
+2.000-5.000 € günstiger als vergleichbarer Diesel!
+
+3. EINFACHERE WARTUNG:
+
+Einfachere Abgasreinigung (3-Wege-Kat!)
+Kein AdBlue!
+
+4. LOHNT SICH BEI WENIGFAHRERN:
+
+Bei &lt; 15.000 km/Jahr: Otto meist günstiger (Anschaffung + Wartung!)
+
+
+EMPFEHLUNG:
+→ OTTO WÄHLEN!
+GRÜNDE:
+
+Kurzstrecke (Stadt, 10 km/Tag!)
+Geringe Jahresfahrleistung (ca. 5.000-10.000 km/Jahr!)
+Diesel würde sich NICHT lohnen! (DPF-Probleme, höhere Anschaffungskosten!)
+Otto: Günstiger, einfacher, weniger Kurzstreckenprobleme!
+
+
+ANTWORT:
+→ OTTO empfehlen!
+→ Gründe: Kurzstrecke (10 km/Tag, Stadt!), geringe Jahresfahrleistung (ca. 5.000-10.000 km/Jahr!)
+→ Diesel-Probleme bei Kurzstrecke: DPF verstopft (keine Regeneration!), Motorschäden (Ölverdünnung!), lohnt sich nicht (Mehrkosten nicht amortisiert!)
+→ Otto-Vorteile: Günstiger (-2.000-5.000 €!), keine DPF-Probleme, einfachere Wartung!
+→ Diesel lohnt sich ab ca. 15.000-20.000 km/Jahr + Langstrecke!
+</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: DIESELMOTOR-GRUNDLAGEN &amp; 4 TAKTE (60 Min)<br>Einstieg (10 Min):<br>Methode: Vergleichsfrage<br>Ablauf: "Was ist der wichtigste Unterschied zwischen Otto- und Dieselmotor?" Anwärter sammeln (Fremdzündung vs. Selbstzündung!). Überleitung: "Heute lernen wir, wie Selbstzündung funktioniert!"<br>Ziel: Vorwissen aktivieren, Interesse wecken<br><br>Hauptteil (45 Min):<br>Phase 1: Selbstzündung vs. Fremdzündung (10 Min)<br>Dozent erklärt: Ottomotor = Fremdzündung (Zündkerze!), Gemisch angesaugt. Dieselmotor = Selbstzündung (700-900°C!), nur Luft angesaugt! Wichtig: Kraftstoff wird kurz vor OT eingespritzt → sofortige Selbstzündung!<br>Phase 2: Vier Takte im Detail (30 Min)<br>Dozent zeigt Schaubild für jeden Takt: 1. Ansaugen (nur Luft!), 2. Verdichten (16:1 bis 24:1, 700-900°C, Kraftstoff kurz vor OT!), 3. Arbeiten (Selbstzündung, 80-120 bar!), 4. Ausschieben (Abgase raus!). Wichtig: Unterschiede zu Otto betonen! Praxisfall: Warum saugt Diesel nur Luft an? (Selbstzündung - sonst Frühzündung!)<br>Phase 3: Zündverzug &amp; "Nageln" (5 Min)<br>Dozent erklärt: Zündverzug = 0,5-2 ms (Zeit zwischen Einspritzung und Selbstzündung) → schlagartige Verbrennung → "Nageln"! Lösung: Common-Rail (Mehrfacheinspritzung!)<br><br>Schluss (5 Min):<br>Sicherung: "Diesel saugt an?" → Nur Luft! "Verdichtungsverhältnis?" → 16:1-24:1!<br>Ausblick: "Nächste Stunde: Otto vs. Diesel, Vor-/Nachteile!"<br><br>UNTERRICHTSEINHEIT 2: OTTO vs. DIESEL &amp; VOR-/NACHTEILE (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Dieselmotor = welche Zündung?" → Selbstzündung (700-900°C!)<br><br>Hauptteil (50 Min):<br>Phase 1: Otto vs. Diesel - Vergleich (20 Min)<br>Dozent zeigt Vergleichstabelle: Zündung (Fremd vs. Selbst!), Ansaugung (Gemisch vs. Luft!), Verdichtung (8:1-13:1 vs. 16:1-24:1!), Leistungsregelung (Drosselklappe vs. Kraftstoffmenge!). Wichtig: Diesel = höherer Wirkungsgrad (35-45%!), niedrigerer Verbrauch, höheres Drehmoment!<br>Phase 2: Vor- &amp; Nachteile Dieselmotor (20 Min)<br>Dozent erklärt: Vorteile: Sparsam (10-15% weniger!), hohes Drehmoment, robust! Nachteile: Teurer (+2.000-5.000 €!), lauter ("Nageln"!), mehr NOₓ/Ruß (SCR, DPF!), Kurzstreckenproblem (DPF verstopft!)! Praxisfall: Kunde will Diesel für Kurzstrecke - was raten? (NICHT empfehlen - DPF-Probleme!)<br>Phase 3: Wann Diesel, wann Otto? (10 Min)<br>Dozent zeigt Entscheidungshilfe: Diesel = Vielfahrer (&gt; 20.000 km/Jahr!), Langstrecke, Anhänger! Otto = Wenigfahrer (&lt; 15.000 km/Jahr!), Kurzstrecke, Stadt! Wichtig: Diesel lohnt sich nicht für Kurzstrecke!<br><br>Schluss (5 Min):<br>Sicherung: "Diesel-Vorteil?" → Sparsam, hohes Drehmoment! "Diesel-Problem?" → Kurzstrecke (DPF!)!<br>Hausaufgabe: Erstelle Entscheidungsbaum: Diesel oder Otto kaufen? (Fahrleistung, Fahrprofil, Kosten!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Selbstzündung (700-900°C!) klar machen!<br>Nur Luft ansaugen (kein Kraftstoff!) betonen!<br>Verdichtung 16:1-24:1 (viel höher als Otto!) verdeutlichen!<br>Kurzstreckenproblem bei Diesel betonen!<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Diesel saugt auch Gemisch an (NEIN! Nur Luft!)<br>Verwechseln Verdichtungsverhältnisse (Otto 8:1-13:1, Diesel 16:1-24:1!)<br>Unterschätzen Kurzstreckenprobleme bei Diesel<br>Denken, Diesel ist immer sparsamer (stimmt nur ab ca. 15.000-20.000 km/Jahr!)<br><br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Vergleichstabellen erstellen! (Otto vs. Diesel!)<br>Praxisfälle durchspielen! (Diesel für Kurzstrecke? "Nageln"?)<br>700-900°C Selbstzündungstemperatur einprägen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie das Funktionsprinzip der Selbstzündung beim Dieselmotor. Warum braucht der Dieselmotor keine Zündkerze?<br>Antwort: SELBSTZÜNDUNG BEIM DIESELMOTOR: Prinzip: Kraftstoff entzündet sich automatisch bei Kontakt mit heißer Luft! ABLAUF: 1. Ansaugen: Nur Luft wird angesaugt (kein Kraftstoff! - Unterschied zu Otto!). 2. Verdichten: Luft wird stark verdichtet (Verdichtungsverhältnis 16:1 bis 24:1!). Druck steigt auf 30-55 bar! Temperatur steigt auf 700-900°C! (durch Verdichtung! - viel höher als Otto: 400-500°C!). 3. Einspritzung: Kraftstoff wird kurz vor OT eingespritzt (Common-Rail: 200-2.500 bar!). 4. Selbstzündung: Kraftstoff entzündet sich sofort an heißer Luft (700-900°C!)! KEINE Zündkerze nötig! 5. Verbrennung: Druck steigt auf 80-120 bar, Temperatur auf 1.800-2.300°C! WARUM KEINE ZÜNDKERZE? Dieselkraftstoff hat niedrigere Zündtemperatur (ca. 220°C) als Ottokraftstoff (ca. 400-500°C). Verdichtungstemperatur (700-900°C) reicht vollkommen zur Selbstzündung! Kraftstoff entzündet sich automatisch bei Kontakt! Merksatz: "Diesel = Selbstzündung (700-900°C!) - KEINE Zündkerze nötig! Nur Glühkerze zur Starthilfe bei kaltem Motor!"<br><br>Frage 2: Beschreiben Sie die vier Arbeitstakte des Viertakt-Dieselmotors. Was sind die wichtigsten Unterschiede zum Ottomotor?<br>Antwort: VIER TAKTE DIESELMOTOR: 1. ANSAUGEN: Kolben OT → UT, Einlassventil offen, Auslassventil zu. NUR LUFT wird angesaugt (kein Kraftstoff! - Unterschied zu Otto!). Keine Drosselklappe! Luft immer maximal! 2. VERDICHTEN: Kolben UT → OT, beide Ventile zu. NUR LUFT wird verdichtet (Verdichtungsverhältnis 16:1 bis 24:1 - viel höher als Otto: 8:1-13:1!). Druck steigt auf 30-55 bar (Otto: 10-20 bar!), Temperatur auf 700-900°C (Otto: 400-500°C!). Kraftstoff wird kurz vor OT eingespritzt (Common-Rail: 200-2.500 bar!) → Selbstzündung sofort! 3. ARBEITEN: Verbrennung! Druck steigt auf 80-120 bar (Otto: 50-80 bar!), Temperatur auf 1.800-2.300°C. Kolben OT → UT, Kraft auf Kurbelwelle! 4. AUSSCHIEBEN: Kolben UT → OT, Auslassventil offen, Einlassventil zu. Verbrannte Abgase werden ausgeschoben (über Turbo, Oxidationskat, SCR, DPF!). WICHTIGSTE UNTERSCHIEDE ZU OTTO: Diesel saugt nur Luft an (Otto: Gemisch oder auch nur Luft bei Direkteinspritzung!). Viel höhere Verdichtung (16:1-24:1 vs. 8:1-13:1!). Selbstzündung (700-900°C!) statt Fremdzündung (Zündkerze!). Kraftstoffeinspritzung während Verdichtung (kurz vor OT!) statt vor/während Ansaugen. Immer innere Gemischbildung (Direkteinspritzung!). Merksatz: "4 Takte Diesel: 1. Nur Luft!, 2. Verdichten 16:1-24:1, Kraftstoff kurz vor OT!, 3. Selbstzündung 80-120 bar!, 4. Abgase raus!"<br><br>Frage 3: Warum saugt der Dieselmotor nur Luft an und nicht direkt ein Kraftstoff-Luft-Gemisch wie viele Ottomotoren?<br>Antwort: GRUND: SELBSTZÜNDUNG! PROBLEM BEI GEMISCH-ANSAUGUNG: Wenn Kraftstoff bereits beim Ansaugen zugemischt würde: 1. Kraftstoff-Luft-Gemisch wird verdichtet. 2. Während Verdichtung: Temperatur steigt kontinuierlich! 3. Bei Erreichen der Selbstzündungstemperatur (700-900°C!): Unkontrollierte Frühzündung! (vor OT!). 4. Folge: Klopfen, Motorschäden, unkontrollierte Verbrennung! LÖSUNG - NUR LUFT ANSAUGEN: 1. Nur Luft wird angesaugt (kein Kraftstoff!). 2. Luft allein wird verdichtet (16:1 bis 24:1!). 3. Temperatur steigt auf 700-900°C (Luft allein kann sich nicht entzünden - braucht Kraftstoff!). 4. Kraftstoff wird erst kurz vor OT eingespritzt! (wenn Temperatur bereits 700-900°C!). 5. Sofortige, kontrollierte Selbstzündung! (genau im richtigen Moment!). VERGLEICH OTTO: Ottomotor kann Gemisch ansaugen (Saugrohreinspritzung!), weil Ottokraftstoff nicht durch Verdichtung allein zündet (Zündtemperatur 400-500°C! - Verdichtungstemperatur Otto nur 400-500°C!). Zündkerze entscheidet wann Gemisch zündet (Fremdzündung!). Merksatz: "Diesel saugt nur Luft an → verhindert unkontrollierte Frühzündung! Kraftstoff erst kurz vor OT → sofortige, kontrollierte Selbstzündung!"<br><br>Frage 4: Was ist der Zündverzug beim Dieselmotor? Warum "nagelt" ein Dieselmotor?<br>Antwort: ZÜNDVERZUG: Definition: Zeit zwischen Kraftstoffeinspritzung und Beginn der Selbstzündung. Dauer: 0,5-2 Millisekunden (ms). WARUM GIBT ES ZÜNDVERZUG? 1. Kraftstoff wird eingespritzt (flüssig!). 2. Kraftstoff muss verdampfen (flüssig → gasförmig!). 3. Kraftstoff muss sich mit Luft vermischen. 4. Erst dann: Selbstzündung möglich! → Diese Vorgänge brauchen Zeit (0,5-2 ms!)! "NAGELN" BEIM DIESELMOTOR: Ursache: Zündverzug + schlagartige Verbrennung! Ablauf: 1. Kraftstoff wird eingespritzt. 2. Zündverzug (0,5-2 ms): Mehrere Kraftstofftröpfchen sammeln sich an (verdampfen, vermischen sich!). 3. Alle zünden plötzlich gleichzeitig! (schlagartige Verbrennung!). 4. Druckwelle entsteht! 5. "Nageln" (metallisches Klopfgeräusch! - typisch für Diesel!). LÖSUNG - COMMON-RAIL: Mehrfacheinspritzung: Voreinspritzung (1-3x): Kleine Kraftstoffmenge → Brennraum vorwärmen → reduziert Zündverzug! Haupteinspritzung: Eigentliche Arbeit. Nacheinspritzung (1-2x): DPF-Regeneration, NOₓ-Reduktion. Effekt: Weicherer Motorlauf, weniger "Nageln" (moderne Diesel deutlich leiser!)! Merksatz: "Zündverzug = 0,5-2 ms (Einspritzung → Selbstzündung) → schlagartige Verbrennung → 'Nageln'! Common-Rail (Voreinspritzung!) → weniger 'Nageln'!"<br><br>Frage 5: Nennen Sie Vor- und Nachteile des Dieselmotors im Vergleich zum Ottomotor. Für welches Fahrprofil ist ein Dieselmotor geeignet?<br>Antwort: VORTEILE DIESELMOTOR: ✅ Höherer Wirkungsgrad (35-45% vs. Otto 30-37%!) - bessere Energieausnutzung! ✅ Niedrigerer Verbrauch (10-15% weniger als Otto!) - sparsamer! ✅ Höheres Drehmoment (bei niedrigerer Drehzahl!) - bessere Durchzugskraft, ideal für schwere Fahrzeuge, Anhänger! ✅ Längere Lebensdauer (robustere Bauweise, oft 300.000+ km!). ✅ Günstigerer Kraftstoff (regional unterschiedlich!). ✅ Kein Klopfen (Selbstzündung!). NACHTEILE DIESELMOTOR: ❌ Höhere Anschaffungskosten (+2.000-5.000 € vs. Otto!). ❌ Höhere Emissionen (NOₓ, Ruß!) → SCR-Katalysator (AdBlue!), DPF nötig! ❌ Lauterer Motorlauf ("Nageln" durch Zündverzug! - moderne Common-Rail leiser!). ❌ Schwerer, robuster (höherer Druck → robustere Bauteile!). ❌ Probleme bei Kurzstrecken (DPF verstopft - keine Regeneration möglich!)! ❌ Komplexere Abgasreinigung (Oxidationskat, SCR, DPF, AdBlue!). ❌ Kaltstartprobleme bei niedrigen Temperaturen (Glühkerzen nötig!). DIESEL GEEIGNET FÜR: ✅ Vielfahrer (&gt; 20.000 km/Jahr!). ✅ Langstreckenfahrer (Autobahn!). ✅ Schwere Fahrzeuge (SUV, Transporter!). ✅ Anhängerbetrieb (hohes Drehmoment!). ✅ Fahrer, die Verbrauch minimieren wollen. OTTO GEEIGNET FÜR: ✅ Wenigfahrer (&lt; 15.000 km/Jahr!). ✅ Kurzstreckenfahrer (Stadt!). ✅ Leichtere Fahrzeuge (Kleinwagen!). ✅ Fahrer, die Anschaffungskosten minimieren wollen. Merksatz: "Diesel: ✅ Sparsam, hohes Drehmoment, robust! ❌ Teurer, lauter, NOₓ/Ruß, NICHT für Kurzstrecke! Geeignet: Vielfahrer, Langstrecke, Anhänger!"<br></div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767488094837" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
