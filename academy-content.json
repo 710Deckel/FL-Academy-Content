@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T10:51:16.818Z">
+    <meta name="last-updated" content="2026-01-04T11:16:30.394Z">
 </head>
 <body>
     <div id="academy-data">
@@ -4879,6 +4879,506 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767523875304" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Zündanlage, Zündkerzen und Glühkerzen - Unterschiede und Funktionen</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Unterschied zwischen Fremdzündung (Otto) und Selbstzündung (Diesel) verstehen</div>
+                    <div class="lernziel">Aufbau und Funktion der Zündanlage beim Ottomotor kennen</div>
+                    <div class="lernziel">Aufbau und Funktion der Zündkerze beherrschen</div>
+                    <div class="lernziel">Zündzeitpunkt und dessen Einfluss auf Motorleistung verstehen</div>
+                    <div class="lernziel">Glühkerzen beim Dieselmotor erklären können</div>
+                    <div class="lernziel">Unterschied Zündkerze vs. Glühkerze kennen</div>
+                    <div class="lernziel">Typische Fehler und Symptome bei Zündproblemen erkennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. FREMDZÜNDUNG vs. SELBSTZÜNDUNG ⚡<br>ZWEI GRUNDPRINZIPIEN<br>OTTOMOTOR:<br>FREMDZÜNDUNG = Kraftstoff-Luft-Gemisch wird durch Zündkerze (elektrischer Funke!) gezündet!<br>DIESELMOTOR:<br>SELBSTZÜNDUNG = Kraftstoff entzündet sich durch hohe Temperatur (Verdichtungswärme!) OHNE Zündkerze!<br><br>🔥 FREMDZÜNDUNG (OTTOMOTOR)<br>PRINZIP:<br><br>Ansaugen: Kraftstoff-Luft-Gemisch wird angesaugt (ca. 14,7:1 Luft zu Benzin!)<br>Verdichten: Gemisch wird verdichtet (Verdichtungsverhältnis ca. 10:1 bis 13:1)<br>ZÜNDEN: Zündkerze erzeugt elektrischen Funken (ca. 20.000-40.000 Volt!)<br>Verbrennung: Gemisch verbrennt, Druck steigt, Kolben wird nach unten gedrückt!<br>Ausschieben: Abgase werden ausgestoßen<br><br>WICHTIG:<br>OHNE Zündkerze → KEINE Verbrennung! (Gemisch zündet NICHT von selbst!)<br><br>🔥 SELBSTZÜNDUNG (DIESELMOTOR)<br>PRINZIP:<br><br>Ansaugen: NUR Luft wird angesaugt (kein Kraftstoff!)<br>Verdichten: Luft wird stark verdichtet (Verdichtungsverhältnis ca. 18:1 bis 22:1!)<br>Temperatur steigt: Durch hohe Verdichtung erhitzt sich Luft auf 700-900°C!<br>Einspritzen: Dieselkraftstoff wird eingespritzt (feiner Nebel!)<br>SELBSTZÜNDUNG: Diesel entzündet sich von selbst (durch hohe Temperatur!)<br>Verbrennung: Druck steigt, Kolben wird nach unten gedrückt!<br>Ausschieben: Abgase werden ausgestoßen<br><br>WICHTIG:<br>KEINE Zündkerze nötig! Diesel zündet durch Verdichtungswärme!<br><br>VERGLEICHSTABELLE<br>Merkmal🔵 OTTOMOTOR (Fremdzündung)🟢 DIESELMOTOR (Selbstzündung)ZündungElektrischer Funken (Zündkerze!)Selbstzündung (Verdichtungswärme!)GemischbildungKraftstoff + Luft gemischt (vor Verdichtung!)Nur Luft verdichtet, Kraftstoff später eingespritzt!VerdichtungCa. 10:1 bis 13:1 (niedriger!)Ca. 18:1 bis 22:1 (höher!)TemperaturCa. 300-500°C (Verdichtungsende)Ca. 700-900°C (Verdichtungsende!)Zündkerze✅ JA (notwendig!)❌ NEIN (nicht vorhanden!)Glühkerze❌ NEIN✅ JA (zum Kaltstart!)KraftstoffBenzin (Oktanzahl 91-100!)Diesel (Cetanzahl 51-70!)<br><br>MERKSATZ<br>"Ottomotor = Fremdzündung (Zündkerze nötig!). Dieselmotor = Selbstzündung (durch Verdichtungswärme, keine Zündkerze!)!"<br><br><br>2. ZÜNDANLAGE BEIM OTTOMOTOR ⚡<br>AUFGABE<br>Die Zündanlage erzeugt zum richtigen Zeitpunkt einen hochspannenden Funken an der Zündkerze, um das Kraftstoff-Luft-Gemisch zu zünden!<br><br>🔧 KOMPONENTEN DER ZÜNDANLAGE<br>KLASSISCHE ZÜNDANLAGE (VERTEILER-ZÜNDANLAGE - VERALTET!):<br><br>Batterie (12 Volt)<br>Zündschloss (schaltet Zündung ein/aus)<br>Zündspule (wandelt 12V in ca. 20.000-40.000V!)<br>Verteiler (verteilt Hochspannung auf richtige Zündkerze!)<br>Zündkabel (leitet Hochspannung zur Zündkerze!)<br>Zündkerzen (erzeugt Funken!)<br><br>MODERNE ZÜNDANLAGE (ELEKTRONISCHE ZÜNDANLAGE - STANDARD!):<br><br>Batterie (12 Volt)<br>Zündschloss<br>Motorsteuergerät (ECU - steuert Zündzeitpunkt!)<br>Zündspulen (eine pro Zylinder! - direkt auf Zündkerze!)<br>Zündkerzen<br><br><br>⚙️ FUNKTIONSPRINZIP<br>1. NIEDERSPANNUNG ERZEUGEN<br><br>Batterie liefert 12 Volt Gleichspannung<br><br>2. HOCHSPANNUNG ERZEUGEN<br><br>Zündspule wandelt 12V in ca. 20.000-40.000 Volt!<br>Prinzip: Elektromagnetische Induktion (Primärspule → Sekundärspule!)<br><br>3. HOCHSPANNUNG VERTEILEN (ALTE SYSTEME)<br><br>Verteiler leitet Hochspannung zur richtigen Zündkerze (je nach Zündreihenfolge!)<br>Moderne Systeme: Jede Zündkerze hat eigene Zündspule! (kein Verteiler nötig!)<br><br>4. FUNKE ERZEUGEN<br><br>Zündkerze erzeugt Funken zwischen Mittelelektrode und Masseelektrode!<br>Funkendauer: ca. 0,001 Sekunden! (1 Millisekunde!)<br>Temperatur des Funkens: ca. 2.000-3.000°C!<br><br><br>📐 ZÜNDZEITPUNKT<br>WAS IST DER ZÜNDZEITPUNKT?<br>Zeitpunkt, zu dem die Zündkerze den Funken erzeugt!<br>ANGABE:<br>In Grad Kurbelwellenwinkel VOR oberem Totpunkt (OT)!<br>Beispiel:<br>Zündzeitpunkt = 10° vor OT<br><br>Zündung erfolgt, wenn Kolben noch 10° vor oberem Totpunkt ist!<br>WARUM? Verbrennung braucht Zeit! (ca. 2-3 Millisekunden!)<br>Bis Kolben in OT ist, hat sich Gemisch entzündet → maximaler Druck genau bei OT!<br><br><br>🎯 OPTIMALER ZÜNDZEITPUNKT<br>ABHÄNGIG VON:<br>1. DREHZAHL:<br><br>Niedrige Drehzahl: Späte Zündung (z.B. 5° vor OT)<br>Hohe Drehzahl: Frühe Zündung (z.B. 35° vor OT)<br>Warum? Bei hoher Drehzahl bleibt weniger Zeit für Verbrennung → früher zünden!<br><br>2. LAST:<br><br>Volllast: Frühe Zündung (mehr Leistung!)<br>Teillast: Spätere Zündung (weniger Verbrauch!)<br><br>3. TEMPERATUR:<br><br>Kalter Motor: Späte Zündung (unvollständige Verbrennung!)<br>Warmer Motor: Optimale Zündung<br><br>MODERNE MOTOREN:<br>Motorsteuergerät (ECU) berechnet optimalen Zündzeitpunkt ständig (basierend auf Drehzahl, Last, Temperatur, Klopfsensor!)<br><br>MERKSATZ<br>"Zündanlage: Batterie (12V) → Zündspule (20.000-40.000V!) → Zündkerze (Funken!)! Zündzeitpunkt = Grad vor OT (abhängig von Drehzahl, Last, Temperatur!)!"<br><br><br>3. ZÜNDKERZE ⚡<br>AUFBAU<br>HAUPTKOMPONENTEN:<br>☁️ ANSCHLUSS (oben - für Zündkabel/Zündspule!)<br>    ↓<br>🔌 ISOLATOR (Keramik - isoliert Hochspannung!)<br>    ↓<br>⚡ MITTELELEKTRODE (Zentrum - führt Hochspannung!)<br>    ↓<br>🌡️ WÄRMEKEGEL (überträgt Wärme!)<br>    ↓<br>🔩 GEWINDE (zum Einschrauben in Zylinderkopf!)<br>    ↓<br>⚙️ MASSEELEKTRODE (L-förmig - Masse/Erde!)<br>    ↓<br>💥 FUNKENSTRECKE (zwischen Mittel- und Masseelektrode!)<br><br>KOMPONENTEN IM DETAIL<br>1. ANSCHLUSS:<br><br>Verbindung mit Zündkabel (alte Systeme!) oder Zündspule (modern!)<br>Überträgt Hochspannung zur Mittelelektrode<br><br>2. ISOLATOR (KERAMIK):<br><br>Isoliert Hochspannung (bis 40.000 Volt!)<br>Temperaturbeständig (bis 1.000°C!)<br>Wichtig: Muss sauber sein! (Verschmutzung → Kriechströme → kein Funke!)<br><br>3. MITTELELEKTRODE:<br><br>Zentrale Elektrode (führt Hochspannung!)<br>Material: Nickel-Legierung, Platin, Iridium (langlebig!)<br>Durchmesser: ca. 2-3 mm (dünn = bessere Zündung!)<br><br>4. MASSEELEKTRODE:<br><br>L-förmig gebogen<br>Verbunden mit Zündkerzengehäuse (Masse/Erde!)<br>Material: Nickel-Legierung<br><br>5. FUNKENSTRECKE:<br><br>Abstand zwischen Mittel- und Masseelektrode: ca. 0,6-1,0 mm!<br>Hier entsteht der Funke!<br>Temperatur: ca. 2.000-3.000°C!<br><br><br>⚡ FUNKTIONSPRINZIP<br>ABLAUF:<br><br>Hochspannung (20.000-40.000V!) kommt vom Anschluss<br>Fließt durch Mittelelektrode<br>Funkenstrecke: Spannung zu hoch → elektrischer Durchschlag!<br>Funke springt von Mittelelektrode zu Masseelektrode!<br>Kraftstoff-Luft-Gemisch wird gezündet!<br>Verbrennung beginnt!<br><br><br>🌡️ WÄRMEWERT DER ZÜNDKERZE<br>WAS IST DER WÄRMEWERT?<br>Fähigkeit der Zündkerze, Wärme abzuführen!<br>ZWEI TYPEN:<br>"KALTE" ZÜNDKERZE:<br><br>Kurzer Wärmekegel (führt Wärme schnell ab!)<br>Für: Hochleistungsmotoren, hohe Drehzahlen, Volllast!<br>Vorteil: Überhitzt nicht (keine Glühzündung!)<br>Nachteil: Kann verrußen bei Kurzstrecken!<br><br>"WARME" ZÜNDKERZE:<br><br>Langer Wärmekegel (führt Wärme langsam ab!)<br>Für: Stadtverkehr, niedrige Drehzahlen, Kurzstrecken!<br>Vorteil: Selbstreinigung (verbrennt Ruß!)<br>Nachteil: Kann überhitzen bei Volllast!<br><br>WICHTIG:<br>Falscher Wärmewert = Probleme!<br><br>Zu kalt → verrußt → Zündaussetzer!<br>Zu warm → überhitzt → Glühzündung, Motorschaden!<br><br><br>🔧 LEBENSDAUER &amp; WECHSELINTERVALLE<br>NORMALE ZÜNDKERZEN (KUPFER):<br><br>Lebensdauer: ca. 30.000-50.000 km<br>Wechselintervall: alle 30.000 km (Herstellervorgabe beachten!)<br><br>LANGLEBIGE ZÜNDKERZEN (PLATIN, IRIDIUM):<br><br>Lebensdauer: ca. 80.000-120.000 km<br>Wechselintervall: alle 80.000-100.000 km<br><br>SYMPTOME VERSCHLISSENER ZÜNDKERZEN:<br>❌ Zündaussetzer (Motor ruckelt!)<br>❌ Leistungsverlust (Motor zieht nicht!)<br>❌ Erhöhter Kraftstoffverbrauch (unvollständige Verbrennung!)<br>❌ Schwerer Start (besonders kalt!)<br>❌ Motor läuft unrund (ungleichmäßiger Leerlauf!)<br><br>MERKSATZ<br>"Zündkerze: Hochspannung (40.000V!) → Funke an Funkenstrecke (0,6-1,0 mm!) → zündet Gemisch! Wärmewert: Kalt (Hochleistung!), Warm (Stadtverkehr!)! Wechsel: 30.000 km (Kupfer!), 80.000 km (Platin/Iridium!)!"<br><br><br>4. GLÜHKERZEN BEIM DIESELMOTOR 🔥<br>AUFGABE<br>Glühkerzen erwärmen die Brennraumluft beim Kaltstart, damit Diesel sich besser entzündet!<br>WICHTIG:<br>Glühkerzen zünden NICHT den Kraftstoff! (Diesel zündet selbst!)<br>Glühkerzen erwärmen nur die Luft!<br><br>🔧 WARUM GLÜHKERZEN?<br>PROBLEM BEIM KALTSTART:<br><br>Kalter Motor (z.B. -10°C Außentemperatur!)<br>Luft wird verdichtet (Verdichtungsverhältnis 20:1)<br>Temperatur steigt auf ca. 400-500°C (statt 700-900°C bei warmem Motor!)<br>ZU KALT! Diesel zündet nicht (braucht mindestens 600°C!)<br>Motor startet nicht oder läuft schlecht!<br><br>LÖSUNG: GLÜHKERZEN!<br><br>Glühkerzen werden vor dem Start erhitzt (ca. 900-1.300°C!)<br>Erwärmen Luft im Brennraum<br>Temperatur steigt auf ausreichende Zündtemperatur (&gt; 600°C!)<br>Diesel zündet sich selbst!<br>Motor startet!<br><br><br>🔧 AUFBAU GLÜHKERZE<br>HAUPTKOMPONENTEN:<br>🔌 ANSCHLUSS (oben - für Stromzufuhr 12V!)<br>    ↓<br>🔩 GEWINDE (zum Einschrauben in Zylinderkopf!)<br>    ↓<br>🌀 HEIZWENDEL (Inneren - wird heiß!)<br>    ↓<br>🔥 GLÜHSTIFT (Spitze - ragt in Brennraum!)<br><br>FUNKTIONSPRINZIP<br>VORGLÜHEN:<br><br>Zündung EIN (Motor noch nicht gestartet!)<br>Glühkerzen werden erhitzt (ca. 900-1.300°C!)<br>Dauer: ca. 2-10 Sekunden (abhängig von Außentemperatur!)<br>Kontrollleuchte im Armaturenbrett (Spirale!) erlischt → fertig!<br>JETZT: Motor starten!<br><br>NACHGLÜHEN:<br><br>Nach dem Start: Glühkerzen bleiben noch ca. 1-3 Minuten aktiv!<br>Zweck: Besserer Warmlauf, weniger Emissionen, ruhigerer Motorlauf!<br><br><br>🌡️ TYPEN VON GLÜHKERZEN<br>1. STAHLGLÜHKERZEN (VERALTET):<br><br>Heizwendel aus Stahl<br>Aufheizzeit: ca. 10-20 Sekunden<br>Temperatur: ca. 900°C<br>Heute: kaum noch verbaut!<br><br>2. KERAMIK-GLÜHKERZEN (MODERN):<br><br>Heizwendel aus Keramik (Siliziumnitrid!)<br>Aufheizzeit: ca. 2-5 Sekunden! (sehr schnell!)<br>Temperatur: ca. 1.300°C!<br>Vorteile: Schneller, heißer, langlebiger!<br>Standard bei modernen Dieselmotoren!<br><br><br>🔧 LEBENSDAUER &amp; WECHSELINTERVALLE<br>LEBENSDAUER:<br><br>Ca. 100.000-150.000 km<br>Abhängig von: Häufigkeit Kaltstart, Kurzstrecken, Qualität!<br><br>SYMPTOME DEFEKTER GLÜHKERZEN:<br>❌ Schwerer Start (besonders bei Kälte!)<br>❌ Weißer Rauch beim Kaltstart (unverdampfter Diesel!)<br>❌ Motor läuft unrund beim Kaltstart!<br>❌ Glühkerzen-Kontrollleuchte blinkt!<br>❌ Erhöhter Verbrauch (unvollständige Verbrennung!)<br>WECHSEL:<br><br>Einzeln möglich (nur defekte Glühkerze!)<br>Empfohlen: Alle gleichzeitig wechseln! (gleiche Alterung!)<br>Kosten: ca. 10-30 € pro Glühkerze (Material!) + Arbeitszeit ca. 50-100 €<br><br><br>MERKSATZ<br>"Glühkerzen (NUR Diesel!): Erwärmen Luft beim Kaltstart (900-1.300°C!) → Diesel zündet besser! Vorglühen (2-10 Sek.), Nachglühen (1-3 Min.)! Keramik = modern (2-5 Sek., 1.300°C!)!"<br><br><br>5. VERGLEICH: ZÜNDKERZE vs. GLÜHKERZE 🔍<br>Merkmal⚡ ZÜNDKERZE (Otto)🔥 GLÜHKERZE (Diesel)MotorOttomotor (Fremdzündung!)Dieselmotor (Selbstzündung!)FunktionZÜNDET Kraftstoff-Luft-Gemisch! (elektrischer Funke!)ERWÄRMT Luft (für besseren Kaltstart!), zündet NICHT!Spannung20.000-40.000 Volt! (Hochspannung!)12 Volt (Batteriespannung!)TemperaturFunke: ca. 2.000-3.000°CGlühstift: ca. 900-1.300°CEinsatzStändig (jeder Arbeitstakt!)Nur beim Kaltstart (Vorglühen + Nachglühen!)AnzahlEine pro ZylinderEine pro ZylinderLebensdauer30.000-120.000 km (je nach Typ!)100.000-150.000 kmSymptome bei DefektZündaussetzer, Leistungsverlust, Motor ruckelt!Schwerer Kaltstart, weißer Rauch, Motor läuft unrund!AufheizzeitSofort (keine Vorheizung!)2-10 Sekunden Vorglühen!KontrollleuchteKeineJA (Spirale im Armaturenbrett!)<br><br>MERKSATZ<br>"Zündkerze (Otto!) = ZÜNDET Gemisch (40.000V Funke, ständig!)! Glühkerze (Diesel!) = ERWÄRMT Luft (12V, nur Kaltstart, 2-10 Sek. Vorglühen!)!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>FREMDZÜNDUNG vs. SELBSTZÜNDUNG:<br>→ Ottomotor = Fremdzündung: Zündkerze erzeugt elektrischen Funken (20.000-40.000V!) → zündet Kraftstoff-Luft-Gemisch!<br>→ Dieselmotor = Selbstzündung: Diesel zündet durch Verdichtungswärme (700-900°C!), KEINE Zündkerze!<br>→ Verdichtung: Otto ca. 10:1-13:1, Diesel ca. 18:1-22:1 (höher!)<br>ZÜNDANLAGE (OTTOMOTOR):<br>→ Komponenten: Batterie (12V) → Zündspule (wandelt in 20.000-40.000V!) → Zündkerze (Funken!)<br>→ Modern: Jede Zündkerze eigene Zündspule (kein Verteiler!), Motorsteuergerät (ECU) steuert Zündzeitpunkt!<br>→ Zündzeitpunkt: Grad vor OT (z.B. 10° vor OT), abhängig von Drehzahl (hoch = früh!), Last, Temperatur!<br>ZÜNDKERZE:<br>→ Aufbau: Anschluss → Isolator (Keramik!) → Mittelelektrode → Masseelektrode → Funkenstrecke (0,6-1,0 mm!)<br>→ Funke: 2.000-3.000°C, Dauer ca. 1 Millisekunde!<br>→ Wärmewert: Kalt (kurzer Wärmekegel - Hochleistung!), Warm (langer Wärmekegel - Stadtverkehr!)<br>→ Lebensdauer: Kupfer 30.000 km, Platin/Iridium 80.000-120.000 km!<br>→ Symptome Verschleiß: Zündaussetzer, Leistungsverlust, erhöhter Verbrauch, Motor ruckelt!<br>GLÜHKERZEN (DIESELMOTOR):<br>→ Funktion: ERWÄRMEN Luft beim Kaltstart (900-1.300°C!), ZÜNDEN NICHT (Diesel zündet selbst!)!<br>→ Vorglühen: 2-10 Sekunden (Kontrollleuchte Spirale erlischt!), Nachglühen: 1-3 Minuten nach Start!<br>→ Typen: Stahlglühkerzen (veraltet, 10-20 Sek.), Keramik (modern, 2-5 Sek., 1.300°C!)!<br>→ Lebensdauer: 100.000-150.000 km!<br>→ Symptome Defekt: Schwerer Kaltstart (besonders Kälte!), weißer Rauch, Motor läuft unrund!<br>UNTERSCHIED ZÜNDKERZE vs. GLÜHKERZE:<br>→ Zündkerze (Otto!): ZÜNDET Gemisch (40.000V Funke!), ständig im Einsatz!<br>→ Glühkerze (Diesel!): ERWÄRMT Luft (12V!), nur beim Kaltstart (Vorglühen!)!</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: MOTOR RUCKELT - ZÜNDAUSSETZER?
+SITUATION:
+Fahrschüler klagt: "Mein Ottomotor ruckelt beim Fahren, besonders bei Beschleunigung! Was könnte das sein?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+MOTOR RUCKELT = HÄUFIG ZÜNDAUSSETZER!
+URSACHEN:
+1. VERSCHLISSENE ZÜNDKERZEN:
+
+Funkenstrecke zu groß (&gt; 1,2 mm!) → Funke springt nicht mehr!
+Elektroden abgenutzt, verrußt!
+Symptome: Motor ruckelt, Leistungsverlust, erhöhter Verbrauch!
+
+2. DEFEKTE ZÜNDSPULE:
+
+Liefert keine/zu wenig Hochspannung!
+Symptom: Ein oder mehrere Zylinder zünden nicht!
+
+3. DEFEKTE ZÜNDKABEL (ALTE SYSTEME):
+
+Risse, Beschädigungen → Kriechströme!
+Hochspannung kommt nicht an Zündkerze!
+
+4. VERSCHMUTZUNG:
+
+Ölrückstände, Ruß auf Zündkerze!
+Kriechströme → kein Funke!
+
+
+DIAGNOSE:
+1. FEHLERSPEICHER AUSLESEN:
+
+OBD-Diagnose (Werkstatt!)
+Fehlercode: z.B. P0300 (Zündaussetzer!)
+
+2. ZÜNDKERZEN PRÜFEN:
+
+Ausbauen (Werkzeug nötig!)
+Optisch prüfen:
+
+✅ Hellbraun/grau = OK!
+❌ Schwarz verrußt = zu fett (Gemisch zu reich!)
+❌ Weiß = zu mager (Gemisch zu arm!) → GEFAHR! (Überhitzung!)
+❌ Ölig = Motorschaden (Kolbenringe defekt!)
+
+
+Funkenstrecke messen: Sollwert ca. 0,6-1,0 mm! (&gt; 1,2 mm = verschlissen!)
+
+3. ZÜNDSPULEN PRÜFEN:
+
+Widerstand messen (Multimeter!)
+Sollwert: Primärspule ca. 0,5-2 Ohm, Sekundärspule ca. 5.000-15.000 Ohm!
+Abweichung → Zündspule defekt!
+
+
+LÖSUNG:
+BEI VERSCHLISSENEN ZÜNDKERZEN:
+
+Wechseln (alle Zündkerzen gleichzeitig! - gleiche Alterung!)
+Kosten: ca. 10-50 € pro Zündkerze (je nach Typ!) + Arbeitszeit ca. 50-100 €
+
+BEI DEFEKTER ZÜNDSPULE:
+
+Wechseln (einzeln oder alle!)
+Kosten: ca. 50-150 € pro Zündspule + Arbeitszeit!
+
+
+ANTWORT:
+→ Motor ruckelt = häufig Zündaussetzer! (Zündkerzen verschlissen, Zündspule defekt!)
+→ Diagnose: Fehlerspeicher auslesen (P0300!), Zündkerzen prüfen (Farbe, Funkenstrecke!), Zündspulen prüfen!
+→ Lösung: Zündkerzen wechseln (alle gleichzeitig! - 10-50 € pro Stück!), evtl. Zündspulen wechseln (50-150 €!)
+→ Farbe Zündkerze: Hellbraun/grau = OK, Schwarz = zu fett, Weiß = zu mager (Gefahr!), Ölig = Motorschaden!
+</div>
+                        <div class="beispiel">BEISPIEL 2: DIESELMOTOR STARTET SCHWER BEI KÄLTE - GLÜHKERZEN?
+SITUATION:
+Fahrschüler klagt: "Mein Dieselmotor startet im Winter schwer, besonders bei -10°C! Woran liegt das?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+SCHWERER KALTSTART DIESEL = HÄUFIG DEFEKTE GLÜHKERZEN!
+WARUM?
+BEI KÄLTE:
+
+Kalter Motor (-10°C Außentemperatur!)
+Luft wird verdichtet (Verdichtungsverhältnis 20:1)
+Temperatur steigt nur auf ca. 400-500°C (statt 700-900°C!)
+ZU KALT! Diesel braucht mindestens 600°C zum Selbstzünden!
+
+OHNE FUNKTIONSFÄHIGE GLÜHKERZEN:
+
+Luft wird nicht ausreichend erwärmt!
+Diesel zündet schlecht oder gar nicht!
+Motor startet nicht oder läuft sehr schlecht!
+
+
+SYMPTOME DEFEKTER GLÜHKERZEN:
+❌ Schwerer Start bei Kälte (Motor dreht lange, bis er anspringt!)
+❌ Weißer Rauch beim Kaltstart (unverdampfter Diesel!)
+❌ Motor läuft unrund in ersten Sekunden/Minuten!
+❌ Glühkerzen-Kontrollleuchte blinkt (im Armaturenbrett - Spirale!)
+❌ Erhöhter Verbrauch (unvollständige Verbrennung!)
+
+DIAGNOSE:
+1. GLÜHKERZEN-KONTROLLLEUCHTE:
+
+Zündung EIN (Motor nicht starten!)
+Kontrollleuchte (Spirale!) leuchtet für 2-10 Sekunden!
+Erlischt → Glühkerzen fertig!
+Blinkt → Glühkerzen defekt!
+
+2. GLÜHKERZEN PRÜFEN:
+
+Widerstand messen (Multimeter!)
+Sollwert: ca. 0,5-2 Ohm (abhängig von Typ!)
+Kein Durchgang (unendlicher Widerstand!) → Glühkerze defekt!
+
+3. FEHLERSPEICHER AUSLESEN:
+
+OBD-Diagnose (Werkstatt!)
+Fehlercode: z.B. P0380 (Glühkerzen-Fehler!)
+
+
+LÖSUNG:
+GLÜHKERZEN WECHSELN:
+
+Empfohlen: Alle Glühkerzen gleichzeitig wechseln! (gleiche Alterung!)
+Kosten: ca. 10-30 € pro Glühkerze (Keramik teurer!) + Arbeitszeit ca. 50-150 € (je nach Zugänglichkeit!)
+
+ZUSÄTZLICH:
+
+Batterie prüfen! (Schwache Batterie → Glühkerzen werden nicht heiß genug!)
+Sollspannung: 12,4-12,8 Volt (bei stehendem Motor!)
+Schwache Batterie → laden oder wechseln!
+
+
+VORBEUGUNG:
+✅ Regelmäßige Wartung (Glühkerzen alle 100.000 km prüfen!)
+✅ Batterie pflegen (besonders Winter!)
+✅ Nicht zu lange Vorglühen (moderne Systeme: 2-5 Sek. reichen!)
+✅ Motor warmlaufen lassen (erste km schonend fahren!)
+
+ANTWORT:
+→ Schwerer Kaltstart Diesel (besonders bei Kälte!) = häufig defekte Glühkerzen!
+→ Symptome: Schwerer Start, weißer Rauch, Motor läuft unrund, Glühkerzen-Kontrollleuchte blinkt!
+→ Diagnose: Kontrollleuchte beobachten (blinkt = defekt!), Widerstand messen (sollte 0,5-2 Ohm sein!), Fehlerspeicher auslesen!
+→ Lösung: Glühkerzen wechseln (alle gleichzeitig! - 10-30 € pro Stück!), Batterie prüfen (schwache Batterie = Problem!)!
+→ Vorbeugung: Regelmäßige Wartung, Batterie pflegen, nicht zu lange vorglühen!</div>
+                        <div class="beispiel">BEISPIEL 3: ZÜNDKERZE SCHWARZ VERUSST - WAS BEDEUTET DAS?
+SITUATION:
+Fahrschüler fragt: "Ich habe meine Zündkerzen ausgebaut - sie sind schwarz verrußt! Was bedeutet das?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+SCHWARZE, VERUSSTE ZÜNDKERZE = GEMISCH ZU FETT!
+WAS BEDEUTET "ZU FETT"?
+Zu viel Kraftstoff im Verhältnis zur Luft!
+NORMAL:
+Kraftstoff-Luft-Verhältnis ca. 14,7:1 (14,7 kg Luft pro 1 kg Benzin!)
+ZU FETT:
+Z.B. 12:1 oder 10:1 → zu viel Kraftstoff!
+
+FOLGEN FETTES GEMISCH:
+1. UNVOLLSTÄNDIGE VERBRENNUNG:
+
+Zu viel Kraftstoff kann nicht vollständig verbrennen!
+Ruß entsteht! (schwarze Ablagerungen!)
+
+2. ZÜNDKERZE VERUSST:
+
+Ruß lagert sich auf Zündkerze ab!
+Isolator und Elektroden schwarz!
+Kriechströme → Funke springt nicht mehr → Zündaussetzer!
+
+3. WEITERE SYMPTOME:
+
+Schwarzer Rauch aus Auspuff!
+Erhöhter Verbrauch (Kraftstoff wird verschwendet!)
+Leistungsverlust (unvollständige Verbrennung!)
+Motor läuft unrund!
+
+
+URSACHEN FETTES GEMISCH:
+1. DEFEKTE LAMBDA-SONDE:
+
+Misst Sauerstoffgehalt im Abgas!
+Defekt → Motorsteuergerät weiß nicht, dass Gemisch zu fett!
+Spritzt zu viel Kraftstoff ein!
+
+2. VERSCHMUTZTE LUFTMASSENMESSER:
+
+Misst angesaugte Luftmenge!
+Verschmutzt → misst zu wenig Luft!
+Motorsteuergerät denkt: "Zu wenig Luft!" → spritzt mehr Kraftstoff ein!
+
+3. DEFEKTE EINSPRITZDÜSEN:
+
+Tropfen nach (schließen nicht richtig!)
+Zu viel Kraftstoff gelangt in Brennraum!
+
+4. KURZSTRECKEN:
+
+Motor wird nicht warm genug!
+Kaltstart-Gemisch ist immer fett (mehr Kraftstoff für besseren Start!)
+Bei Kurzstrecken bleibt Motor kalt → Gemisch bleibt fett → Ruß!
+
+
+LÖSUNG:
+1. URSACHE BEHEBEN:
+Lambda-Sonde prüfen/wechseln:
+
+Kosten: ca. 50-150 € (Material) + Arbeitszeit ca. 50-100 €
+
+Luftmassenmesser reinigen/wechseln:
+
+Reinigung: Spezialreiniger (ca. 10-20 €)
+Wechsel: ca. 100-300 € + Arbeitszeit
+
+Einspritzdüsen prüfen/reinigen:
+
+Werkstatt: Einspritzdüsen reinigen oder wechseln!
+Kosten: ca. 50-200 € pro Düse
+
+Fahrweise anpassen:
+
+Mehr Langstrecken (Motor warm fahren!)
+Höhere Drehzahlen (ab und zu!) → Selbstreinigung!
+
+2. ZÜNDKERZEN REINIGEN ODER WECHSELN:
+Reinigen:
+
+Drahtbürste + Bremsenreiniger
+Nur wenn Zündkerzen noch nicht zu alt!
+
+Wechseln:
+
+Empfohlen bei starker Verrußung!
+Kosten: ca. 10-50 € pro Zündkerze
+
+
+FARBE-TABELLE ZÜNDKERZEN:
+FarbeBedeutungUrsacheMaßnahmeHellbraun/Grau✅ OK! (ideal!)Gemisch optimal!Keine!Schwarz verrußt❌ Zu fett!Zu viel Kraftstoff, Lambda-Sonde defekt, Kurzstrecken!Ursache beheben, Zündkerzen reinigen/wechseln!Weiß/hell❌ Zu mager! (GEFAHR!)Zu wenig Kraftstoff, Lufteinlass undicht!SOFORT beheben! (Überhitzung → Motorschaden!)Ölig❌ Motorschaden!Öl gelangt in Brennraum (Kolbenringe, Ventilschaftdichtungen defekt!)Werkstatt! (Motorinstandsetzung nötig!)
+
+ANTWORT:
+→ Schwarze, verrußte Zündkerze = Gemisch zu fett! (zu viel Kraftstoff!)
+→ Folgen: Unvollständige Verbrennung, Ruß, Zündaussetzer, schwarzer Rauch, erhöhter Verbrauch!
+→ Ursachen: Lambda-Sonde defekt, Luftmassenmesser verschmutzt, Einspritzdüsen tropfen, Kurzstrecken!
+→ Lösung: Ursache beheben (Lambda-Sonde, Luftmassenmesser, Einspritzdüsen prüfen!), Zündkerzen reinigen/wechseln!
+→ Farbe-Tabelle: Hellbraun/Grau = OK, Schwarz = zu fett, Weiß = zu mager (Gefahr!), Ölig = Motorschaden!</div>
+                        <div class="beispiel">BEISPIEL 4: GLÜHKERZEN-KONTROLLLEUCHTE BLINKT - WAS TUN?
+SITUATION:
+Fahrschüler fragt: "Beim Fahren blinkt plötzlich die Glühkerzen-Kontrollleuchte (Spirale!)! Was bedeutet das?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+GLÜHKERZEN-KONTROLLLEUCHTE BLINKT = FEHLER IM GLÜHSYSTEM!
+NORMAL:
+Beim Starten:
+
+Zündung EIN (Motor noch nicht gestartet!)
+Kontrollleuchte leuchtet (Spirale!) für 2-10 Sekunden (Vorglühen!)
+Kontrollleuchte erlischt → Glühkerzen fertig → Motor starten!
+Nach Start: Kontrollleuchte AUS (evtl. Nachglühen im Hintergrund - nicht sichtbar!)
+
+FEHLER:
+KONTROLLLEUCHTE BLINKT:
+
+Während Fahrt: Fehler im Glühsystem erkannt!
+Beim Start: Glühkerzen funktionieren nicht richtig!
+
+
+MÖGLICHE URSACHEN:
+1. DEFEKTE GLÜHKERZE(N):
+
+Eine oder mehrere Glühkerzen ausgefallen!
+Kein Durchgang (Heizwendel durchgebrannt!)
+
+2. DEFEKTES GLÜHKERZEN-STEUERGERÄT:
+
+Steuert Vorglühen/Nachglühen!
+Defekt → Glühkerzen werden nicht angesteuert!
+
+3. KABELBRUCH / KONTAKTPROBLEM:
+
+Stromzufuhr zu Glühkerzen unterbrochen!
+Korrosion an Anschlüssen!
+
+4. BATTERIE SCHWACH:
+
+Spannung zu niedrig (&lt; 11 Volt!)
+Glühkerzen werden nicht heiß genug!
+
+
+WAS TUN?
+SOFORT:
+1. WERKSTATT AUFSUCHEN:
+
+Weiterfahrt meist möglich (wenn Motor läuft!)
+ABER: Bei Kälte könnte Motor beim nächsten Start nicht mehr starten!
+Nicht zu lange warten!
+
+2. FEHLER NICHT IGNORIEREN:
+
+Defekte Glühkerzen → Motor startet bei Kälte nicht mehr!
+Weitere Schäden möglich (z.B. Glühkerzen-Steuergerät!)
+
+IN DER WERKSTATT:
+1. FEHLERSPEICHER AUSLESEN:
+
+OBD-Diagnose
+Fehlercode: z.B. P0380 (Glühkerzen-Schaltkreis), P0381 (Glühkerzen-Hinweislampe)
+
+2. GLÜHKERZEN PRÜFEN:
+
+Widerstand messen (sollte 0,5-2 Ohm sein!)
+Defekte identifizieren!
+
+3. GLÜHKERZEN-STEUERGERÄT PRÜFEN:
+
+Ansteuerung prüfen (Oszilloskop!)
+Defekt → wechseln!
+
+4. BATTERIE PRÜFEN:
+
+Spannung messen (sollte 12,4-12,8 Volt sein!)
+Ladezustand prüfen (Lastest!)
+
+
+KOSTEN:
+GLÜHKERZEN WECHSELN:
+
+Material: ca. 10-30 € pro Glühkerze
+Arbeitszeit: ca. 50-150 € (alle Glühkerzen!)
+
+GLÜHKERZEN-STEUERGERÄT:
+
+Material: ca. 100-300 €
+Arbeitszeit: ca. 50-100 €
+
+BATTERIE:
+
+Material: ca. 50-150 €
+Arbeitszeit: ca. 20-50 €
+
+
+ANTWORT:
+→ Glühkerzen-Kontrollleuchte blinkt = Fehler im Glühsystem! (Glühkerzen defekt, Steuergerät defekt, Kabelbruch, Batterie schwach!)
+→ Normal: Leuchtet beim Starten 2-10 Sek. (Vorglühen!), erlischt dann!
+→ Sofort: Werkstatt aufsuchen (Weiterfahrt meist OK, aber bei Kälte könnte Motor nicht mehr starten!)!
+→ Diagnose: Fehlerspeicher auslesen (P0380/P0381!), Glühkerzen prüfen (Widerstand 0,5-2 Ohm!), Steuergerät/Batterie prüfen!
+→ Kosten: Glühkerzen 10-30 € pro Stück + Arbeit 50-150 €, Steuergerät 100-300 € + Arbeit!</div>
+                        <div class="beispiel">BEISPIEL 5: ZÜNDZEITPUNKT VERSTELLEN - MEHR LEISTUNG?
+SITUATION:
+Fahrschüler fragt: "Kann ich den Zündzeitpunkt verstellen, um mehr Leistung zu bekommen?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+ZÜNDZEITPUNKT VERSTELLEN = MÖGLICH, ABER...
+PRINZIP:
+FRÜHERER ZÜNDZEITPUNKT (z.B. 30° vor OT statt 10°):
+
+Mehr Zeit für Verbrennung
+Höherer Druck im Brennraum
+Mehr Leistung!
+
+SPÄTERER ZÜNDZEITPUNKT (z.B. 5° vor OT statt 10°):
+
+Weniger Zeit für Verbrennung
+Niedrigerer Druck im Brennraum
+Weniger Leistung, aber weniger Verbrauch!
+
+
+ABER: GEFAHR!
+ZU FRÜHER ZÜNDZEITPUNKT:
+❌ KLOPFEN (KLINGELN):
+
+Unkontrollierte Selbstzündung im Brennraum!
+Vor dem eigentlichen Funken entzündet sich Gemisch bereits!
+Zwei Flammfronten treffen aufeinander → Druckspitzen!
+Geräusch: Metallisches "Klingeln" oder "Klopfen"!
+GEFAHR: Motorschaden! (Kolben, Zylinderkopf können beschädigt werden!)
+
+❌ ÜBERHITZUNG:
+
+Gemisch verbrennt zu früh → höhere Temperaturen!
+Kolben und Zylinderkopf überhitzen!
+Motorschaden!
+
+
+ZU SPÄTER ZÜNDZEITPUNKT:
+❌ LEISTUNGSVERLUST:
+
+Gemisch verbrennt zu spät → Druck baut sich erst auf, wenn Kolben schon nach unten geht!
+Weniger Arbeit wird verrichtet!
+
+❌ ÜBERHITZUNG ABGASANLAGE:
+
+Gemisch verbrennt teilweise im Auspuff!
+Katalysator überhitzt! → Schaden!
+
+❌ ERHÖHTER VERBRAUCH:
+
+Energie verpufft (nicht optimal genutzt!)
+
+
+MODERNE MOTOREN:
+MOTORSTEUERGERÄT (ECU) REGELT ZÜNDZEITPUNKT AUTOMATISCH!
+BASIEREND AUF:
+
+Drehzahl (Drehzahlsensor!)
+Last (Luftmassenmesser, Drosselklappenstellung!)
+Temperatur (Kühlmitteltemperatur, Ansauglufttemperatur!)
+KLOPFSENSOR! (erkennt Klopfen → Zündzeitpunkt sofort später!)
+
+VORTEIL:
+
+Optimaler Zündzeitpunkt zu jedem Zeitpunkt!
+Maximale Leistung ohne Klopfen!
+Minimaler Verbrauch!
+
+
+KANN MAN ZÜNDZEITPUNKT VERSTELLEN?
+ALTE MOTOREN (VERTEILER-ZÜNDANLAGE):
+
+JA! Mechanische Verstellung möglich!
+ABER: Nur durch Fachmann! (Fehleinstellung → Motorschaden!)
+
+MODERNE MOTOREN (ELEKTRONISCHE ZÜNDANLAGE):
+
+NUR durch Chiptuning (Software-Änderung im Motorsteuergerät!)
+NICHT empfohlen!
+
+Garantie erlischt!
+Motorschaden möglich!
+TÜV-Probleme!
+
+
+
+
+EMPFEHLUNG:
+❌ NICHT selbst verstellen! (Gefahr Motorschaden!)
+✅ Motorsteuergerät arbeiten lassen (optimaler Zündzeitpunkt automatisch!)
+✅ Mehr Leistung gewünscht? Werkstatt/Tuning-Firma mit ABE (Allgemeine Betriebserlaubnis!)!
+
+ANTWORT:
+→ Zündzeitpunkt verstellen = theoretisch mehr Leistung, ABER GEFAHR!
+→ Zu früh: Klopfen (Motorschaden!), Überhitzung!
+→ Zu spät: Leistungsverlust, Katalysator überhitzt, erhöhter Verbrauch!
+→ Moderne Motoren: Motorsteuergerät regelt Zündzeitpunkt automatisch (optimal!)! Klopfsensor erkennt Klopfen → Zündzeitpunkt sofort später!
+→ Verstellen? Alte Motoren: Mechanisch möglich (nur Fachmann!), Moderne: Nur Chiptuning (nicht empfohlen - Garantie, Motorschaden, TÜV!)!
+→ Empfehlung: NICHT selbst verstellen! Werkstatt mit ABE!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: ZÜNDANLAGE &amp; ZÜNDKERZEN (60 Min)<br>Einstieg (10 Min):<br>Methode: Demonstration + Fragenstellen<br>Ablauf: Dozent zeigt zwei Motoren (Otto + Diesel) und fragt: "Beide Motoren verbrennen Kraftstoff - warum braucht nur einer eine Zündkerze?" Anwärter diskutieren (Vermutungen!). Auflösung: Fremdzündung vs. Selbstzündung! Überleitung: "Heute lernen wir, wie Zündung funktioniert!"<br>Ziel: Interesse wecken, Unterschied verdeutlichen<br><br>Hauptteil (45 Min):<br>Phase 1: Fremdzündung vs. Selbstzündung (10 Min)<br>Dozent erklärt: Otto = Fremdzündung (Zündkerze nötig! 40.000V Funken!), Diesel = Selbstzündung (durch Verdichtungswärme 700-900°C, KEINE Zündkerze!)! Verdichtung: Otto 10:1-13:1, Diesel 18:1-22:1! Wichtig: Diesel braucht höhere Verdichtung für Selbstzündung!<br>Phase 2: Zündanlage &amp; Zündzeitpunkt (15 Min)<br>Dozent zeigt Schaubild: Batterie (12V) → Zündspule (20.000-40.000V!) → Zündkerze (Funken!)! Modern: Jede Zündkerze eigene Zündspule! Zündzeitpunkt: Grad vor OT (abhängig von Drehzahl, Last, Temperatur!), Motorsteuergerät (ECU) regelt! Praxisfall: Zu früh = Klopfen (Motorschaden!)!<br>Phase 3: Aufbau Zündkerze (15 Min)<br>Dozent zeigt echte Zündkerze (zum Anfassen!): Anschluss → Isolator → Mittelelektrode → Masseelektrode → Funkenstrecke (0,6-1,0 mm!)! Funke: 2.000-3.000°C! Wärmewert: Kalt (Hochleistung!), Warm (Stadtverkehr!)! Praxisfall: Zündkerze schwarz verrußt - was bedeutet das? (Gemisch zu fett!)<br>Phase 4: Zusammenfassung (5 Min)<br>Dozent fasst zusammen: Zündanlage erzeugt Funken, Zündkerze zündet Gemisch, Zündzeitpunkt wichtig!<br><br>Schluss (5 Min):<br>Sicherung: "Ottomotor = welche Zündung?" → Fremdzündung! "Zündspule wandelt 12V in?" → 20.000-40.000V!<br>Ausblick: "Nächste Stunde: Glühkerzen beim Diesel!"<br><br>UNTERRICHTSEINHEIT 2: GLÜHKERZEN &amp; FEHLERDIAGNOSE (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Dieselmotor braucht Zündkerze?" → NEIN! (Selbstzündung!)<br><br>Hauptteil (50 Min):<br>Phase 1: Glühkerzen - Aufbau &amp; Funktion (15 Min)<br>Dozent erklärt: Glühkerzen ERWÄRMEN Luft beim Kaltstart (900-1.300°C!), ZÜNDEN NICHT! Diesel zündet selbst! Vorglühen: 2-10 Sek. (Kontrollleuchte Spirale!), Nachglühen: 1-3 Min.! Typen: Keramik (modern, 2-5 Sek., 1.300°C!)! Praxisfall: Schwerer Kaltstart bei Kälte - warum? (Glühkerzen defekt!)<br>Phase 2: Unterschied Zündkerze vs. Glühkerze (10 Min)<br>Dozent zeigt Vergleichstabelle: Zündkerze (Otto!) = ZÜNDET (40.000V!), ständig! Glühkerze (Diesel!) = ERWÄRMT (12V!), nur Kaltstart! Wichtig: NICHT verwechseln!<br>Phase 3: Fehlerdiagnose &amp; Symptome (20 Min)<br>Gruppenarbeit: Anwärter erhalten Fallbeispiele (Motor ruckelt, schwerer Kaltstart, Zündkerze schwarz, Kontrollleuchte blinkt!) und erarbeiten: 1. Symptome, 2. Mögliche Ursachen, 3. Diagnose, 4. Lösung! Präsentation im Plenum! Dozent ergänzt Farbe-Tabelle Zündkerzen (hellbraun = OK, schwarz = zu fett, weiß = zu mager, ölig = Motorschaden!)!<br>Phase 4: Praxistipps (5 Min)<br>Dozent gibt Tipps: Zündkerzen alle 30.000 km prüfen (Kupfer!), Glühkerzen alle 100.000 km! Farbe Zündkerze beachten! Kontrollleuchte nicht ignorieren!<br><br>Schluss (5 Min):<br>Sicherung: "Glühkerzen machen was?" → Erwärmen Luft (nicht zünden!)! "Zündkerze schwarz = ?" → Gemisch zu fett!<br>Hausaufgabe: Erstelle Merkkarte: Zündkerze vs. Glühkerze (Unterschiede!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Fremdzündung vs. Selbstzündung gut abgrenzen! (häufige Verwechslung!)<br>Zündkerze vs. Glühkerze NICHT verwechseln! (Glühkerzen zünden NICHT!)<br>Wärmewert ist abstrakt - Praxisbeispiele wichtig! (Hochleistung vs. Stadtverkehr!)<br>Farbe Zündkerze = wichtiges Diagnosewerkzeug! (Tabelle visualisieren!)<br>Klopfen erklären (unkontrollierte Selbstzündung = Motorschaden!)<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Glühkerzen zünden Diesel (FALSCH! Erwärmen nur Luft!)<br>Verwechseln Fremdzündung und Selbstzündung<br>Denken, Zündzeitpunkt ist fix (FALSCH! Abhängig von Drehzahl, Last, Temperatur!)<br>Unterschätzen Gefahr bei falschem Zündzeitpunkt (Klopfen = Motorschaden!)<br>Wärmewert Zündkerze nicht kennen (kalt vs. warm!)<br><br>Tipps &amp; Tricks:<br><br>Echte Zündkerzen zeigen! (zum Anfassen - verschiedene Typen!)<br>Farbe-Tabelle ausdrucken! (Hellbraun, Schwarz, Weiß, Ölig!)<br>Video zeigen: Zündkerze unter Hochgeschwindigkeitskamera (Funke sichtbar!)<br>Klopfen akustisch demonstrieren! (Audio-Datei oder Video!)<br>Merksätze auswendig lernen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie den Unterschied zwischen Fremdzündung (Ottomotor) und Selbstzündung (Dieselmotor).<br>Antwort: FREMDZÜNDUNG (OTTOMOTOR): Kraftstoff-Luft-Gemisch wird durch Zündkerze (elektrischer Funke, ca. 20.000-40.000 Volt!) gezündet! Ablauf: 1. Ansaugen Kraftstoff-Luft-Gemisch (ca. 14,7:1 Luft zu Benzin!), 2. Verdichten (Verdichtungsverhältnis ca. 10:1-13:1), 3. ZÜNDEN durch Zündkerze (elektrischer Funke!), 4. Verbrennung, 5. Ausschieben. OHNE Zündkerze → KEINE Verbrennung! SELBSTZÜNDUNG (DIESELMOTOR): Dieselkraftstoff entzündet sich durch hohe Temperatur (Verdichtungswärme!) OHNE Zündkerze! Ablauf: 1. Ansaugen NUR Luft (kein Kraftstoff!), 2. Stark verdichten (Verdichtungsverhältnis ca. 18:1-22:1!), 3. Temperatur steigt auf 700-900°C!, 4. Dieselkraftstoff eingespritzt (feiner Nebel!), 5. SELBSTZÜNDUNG (durch hohe Temperatur!), 6. Verbrennung, 7. Ausschieben. KEINE Zündkerze nötig! HAUPTUNTERSCHIED: Otto = Fremdzündung (Zündkerze nötig!), Diesel = Selbstzündung (durch Verdichtungswärme, keine Zündkerze!). Merksatz: "Otto = Fremdzündung (Zündkerze!). Diesel = Selbstzündung (Verdichtungswärme!)!"<br><br>Frage 2: Beschreiben Sie Aufbau und Funktion der Zündanlage beim Ottomotor. Wie wird Hochspannung erzeugt?<br>Antwort: ZÜNDANLAGE OTTOMOTOR: Erzeugt zum richtigen Zeitpunkt einen hochspannenden Funken an der Zündkerze, um Kraftstoff-Luft-Gemisch zu zünden! KOMPONENTEN MODERNE ZÜNDANLAGE: 1. Batterie (12 Volt), 2. Zündschloss (schaltet Zündung ein/aus), 3. Motorsteuergerät (ECU) (steuert Zündzeitpunkt!), 4. Zündspulen (eine pro Zylinder! - direkt auf Zündkerze!), 5. Zündkerzen (erzeugt Funken!). FUNKTIONSPRINZIP: 1. Batterie liefert 12 Volt Gleichspannung, 2. Zündspule wandelt 12V in ca. 20.000-40.000 Volt (elektromagnetische Induktion: Primärspule → Sekundärspule!), 3. Hochspannung direkt zur Zündkerze (moderne Systeme: jede Zündkerze eigene Zündspule! - kein Verteiler!), 4. Zündkerze erzeugt Funken zwischen Mittelelektrode und Masseelektrode (Funkendauer ca. 1 Millisekunde, Temperatur 2.000-3.000°C!), 5. Gemisch zündet! ZÜNDZEITPUNKT: Zeitpunkt, zu dem Zündkerze Funken erzeugt (in Grad Kurbelwellenwinkel VOR OT!). Beispiel: 10° vor OT = Zündung erfolgt, wenn Kolben noch 10° vor oberem Totpunkt ist! ABHÄNGIG VON: Drehzahl (hoch = früher!), Last (Volllast = früher!), Temperatur (kalt = später!). Moderne Motoren: Motorsteuergerät (ECU) berechnet optimalen Zündzeitpunkt ständig (basierend auf Sensoren: Drehzahl, Last, Temperatur, Klopfsensor!)! Merksatz: "Zündanlage: Batterie (12V) → Zündspule (20.000-40.000V!) → Zündkerze (Funken!)! Zündzeitpunkt = Grad vor OT (abhängig von Drehzahl, Last, Temperatur!)!"<br><br>Frage 3: Erklären Sie Aufbau und Funktion der Zündkerze. Was ist der Wärmewert?<br>Antwort: ZÜNDKERZE: Erzeugt elektrischen Funken, um Kraftstoff-Luft-Gemisch zu zünden! AUFBAU: 1. Anschluss (oben - für Zündkabel/Zündspule!), 2. Isolator (Keramik - isoliert Hochspannung bis 40.000 Volt!, temperaturbeständig bis 1.000°C!), 3. Mittelelektrode (Zentrum - führt Hochspannung!, Material: Nickel, Platin, Iridium!), 4. Masseelektrode (L-förmig - Masse/Erde!), 5. Funkenstrecke (Abstand zwischen Mittel- und Masseelektrode: ca. 0,6-1,0 mm! - hier entsteht Funke!). FUNKTIONSPRINZIP: 1. Hochspannung (20.000-40.000V!) kommt vom Anschluss, 2. Fließt durch Mittelelektrode, 3. Funkenstrecke: Spannung zu hoch → elektrischer Durchschlag!, 4. Funke springt von Mittelelektrode zu Masseelektrode (Temperatur 2.000-3.000°C!), 5. Kraftstoff-Luft-Gemisch wird gezündet! WÄRMEWERT: Fähigkeit der Zündkerze, Wärme abzuführen! "KALTE" ZÜNDKERZE: Kurzer Wärmekegel (führt Wärme schnell ab!), für Hochleistungsmotoren, hohe Drehzahlen, Volllast! Vorteil: Überhitzt nicht (keine Glühzündung!), Nachteil: Kann verrußen bei Kurzstrecken! "WARME" ZÜNDKERZE: Langer Wärmekegel (führt Wärme langsam ab!), für Stadtverkehr, niedrige Drehzahlen, Kurzstrecken! Vorteil: Selbstreinigung (verbrennt Ruß!), Nachteil: Kann überhitzen bei Volllast! WICHTIG: Falscher Wärmewert = Probleme! (Zu kalt → verrußt → Zündaussetzer! Zu warm → überhitzt → Glühzündung, Motorschaden!). LEBENSDAUER: Kupfer 30.000 km, Platin/Iridium 80.000-120.000 km! SYMPTOME VERSCHLEISS: Zündaussetzer, Leistungsverlust, erhöhter Verbrauch, Motor ruckelt! Merksatz: "Zündkerze: Funkenstrecke 0,6-1,0 mm, Funke 2.000-3.000°C! Wärmewert: Kalt (Hochleistung!), Warm (Stadtverkehr!)!"<br><br>Frage 4: Erklären Sie Aufgabe und Funktion von Glühkerzen beim Dieselmotor. Warum sind Glühkerzen beim Kaltstart notwendig?<br>Antwort: GLÜHKERZEN (NUR DIESELMOTOR): Erwärmen Brennraumluft beim Kaltstart, damit Diesel sich besser entzündet! WICHTIG: Glühkerzen zünden NICHT den Kraftstoff! (Diesel zündet selbst durch Selbstzündung!) Glühkerzen erwärmen nur die Luft! WARUM NÖTIG BEI KALTSTART? Problem: 1. Kalter Motor (z.B. -10°C Außentemperatur!), 2. Luft wird verdichtet (Verdichtungsverhältnis 20:1), 3. Temperatur steigt nur auf ca. 400-500°C (statt 700-900°C bei warmem Motor!), 4. ZU KALT! Diesel zündet nicht (braucht mindestens 600°C!), 5. Motor startet nicht oder läuft schlecht! Lösung Glühkerzen: 1. Glühkerzen werden vor dem Start erhitzt (ca. 900-1.300°C!), 2. Erwärmen Luft im Brennraum, 3. Temperatur steigt auf ausreichende Zündtemperatur (&gt; 600°C!), 4. Diesel zündet sich selbst, 5. Motor startet! FUNKTIONSPRINZIP: Vorglühen: 1. Zündung EIN (Motor noch nicht gestartet!), 2. Glühkerzen werden erhitzt (900-1.300°C!), 3. Dauer ca. 2-10 Sekunden (abhängig von Außentemperatur!), 4. Kontrollleuchte (Spirale!) erlischt → fertig!, 5. Motor starten! Nachglühen: Nach Start bleiben Glühkerzen noch ca. 1-3 Minuten aktiv (besserer Warmlauf, weniger Emissionen!). TYPEN: Stahlglühkerzen (veraltet, 10-20 Sek., 900°C), Keramik-Glühkerzen (modern, 2-5 Sek., 1.300°C! - Standard heute!). LEBENSDAUER: 100.000-150.000 km. SYMPTOME DEFEKT: Schwerer Kaltstart (besonders Kälte!), weißer Rauch, Motor läuft unrund, Kontrollleuchte blinkt! Merksatz: "Glühkerzen (Diesel!): ERWÄRMEN Luft beim Kaltstart (900-1.300°C!), ZÜNDEN NICHT! Vorglühen 2-10 Sek., Nachglühen 1-3 Min.!"<br><br>Frage 5: Nennen Sie die wichtigsten Unterschiede zwischen Zündkerze (Ottomotor) und Glühkerze (Dieselmotor).<br>Antwort: VERGLEICH ZÜNDKERZE vs. GLÜHKERZE: ZÜNDKERZE (OTTOMOTOR): Funktion: ZÜNDET Kraftstoff-Luft-Gemisch durch elektrischen Funken! Spannung: 20.000-40.000 Volt (Hochspannung!). Temperatur: Funke ca. 2.000-3.000°C. Einsatz: Ständig (jeder Arbeitstakt - pro Umdrehung bei 4-Takt!). Lebensdauer: 30.000-120.000 km (je nach Typ Kupfer/Platin/Iridium!). Symptome Defekt: Zündaussetzer, Leistungsverlust, Motor ruckelt, erhöhter Verbrauch! Kontrollleuchte: Keine. GLÜHKERZE (DIESELMOTOR): Funktion: ERWÄRMT Luft beim Kaltstart (für bessere Selbstzündung!), zündet NICHT! Spannung: 12 Volt (Batteriespannung!). Temperatur: Glühstift ca. 900-1.300°C. Einsatz: Nur beim Kaltstart (Vorglühen 2-10 Sek. + Nachglühen 1-3 Min.!). Lebensdauer: 100.000-150.000 km. Symptome Defekt: Schwerer Kaltstart (besonders Kälte!), weißer Rauch, Motor läuft unrund, Kontrollleuchte blinkt! Kontrollleuchte: JA (Spirale im Armaturenbrett!)! HAUPTUNTERSCHIEDE: 1. Motor: Zündkerze = Otto (Fremdzündung!), Glühkerze = Diesel (Selbstzündung!). 2. Funktion: Zündkerze = ZÜNDET, Glühkerze = ERWÄRMT! 3. Spannung: Zündkerze = 40.000V!, Glühkerze = 12V! 4. Einsatz: Zündkerze = ständig!, Glühkerze = nur Kaltstart! Merksatz: "Zündkerze (Otto!) = ZÜNDET (40.000V, ständig!)! Glühkerze (Diesel!) = ERWÄRMT (12V, nur Kaltstart!)!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767525389034" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
