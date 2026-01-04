@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T11:16:30.394Z">
+    <meta name="last-updated" content="2026-01-04T11:31:20.289Z">
 </head>
 <body>
     <div id="academy-data">
@@ -5379,6 +5379,298 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767525389034" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Abgasreinigungssysteme - Katalysator, Lambda-Sonde und Dieselpartikelfilter</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Schadstoffe im Abgas kennen und deren Entstehung verstehen</div>
+                    <div class="lernziel">Aufbau und Funktion des Drei-Wege-Katalysators beherrschen</div>
+                    <div class="lernziel">Funktion der Lambda-Sonde erklären können</div>
+                    <div class="lernziel">Oxidationskatalysator beim Dieselmotor verstehen</div>
+                    <div class="lernziel">Aufbau und Funktion des Dieselpartikelfilters kennen</div>
+                    <div class="lernziel">Regeneration des Partikelfilters erklären können</div>
+                    <div class="lernziel">SCR-System und AdBlue verstehen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. SCHADSTOFFE IM ABGAS ☠️<br>WARUM ABGASREINIGUNG?<br>VERBRENNUNG IM MOTOR:<br>IDEAL (THEORETISCH):<br>Kraftstoff + Sauerstoff → CO₂ + H₂O (Kohlendioxid + Wasser)<br>REALITÄT:<br><br>Verbrennung NICHT perfekt!<br>Schadstoffe entstehen!<br>Schädlich für Mensch und Umwelt!<br><br><br>🔥 HAUPTSCHADSTOFFE<br>1️⃣ KOHLENMONOXID (CO) - "GIFTGAS"<br>WAS IST DAS?<br><br>Farbloses, geruchloses Giftgas!<br>Entsteht bei unvollständiger Verbrennung (zu wenig Sauerstoff!)<br><br>WARUM GEFÄHRLICH?<br><br>Bindet sich an rote Blutkörperchen (statt Sauerstoff!)<br>Erstickungsgefahr! (Körper bekommt keinen Sauerstoff!)<br>Schon geringe Mengen tödlich! (0,1% in der Luft!)<br><br>WANN ENTSTEHT CO?<br><br>Fettes Gemisch (zu viel Kraftstoff, zu wenig Luft!)<br>Kalter Motor (unvollständige Verbrennung!)<br><br><br>2️⃣ KOHLENWASSERSTOFFE (HC) - "UNVERBRANNTER KRAFTSTOFF"<br>WAS IST DAS?<br><br>Unverbrannter oder teilverbrannter Kraftstoff!<br>Chemische Verbindungen aus Kohlenstoff + Wasserstoff<br><br>WARUM GEFÄHRLICH?<br><br>Krebserregend! (besonders aromatische HC!)<br>Smog-Bildung! (zusammen mit NOₓ!)<br><br>WANN ENTSTEHEN HC?<br><br>Kalter Motor (Verbrennung unvollständig!)<br>Defekte Zündung (Zündaussetzer!)<br>Verdampfung aus Tank (beim Tanken!)<br><br><br>3️⃣ STICKOXIDE (NOₓ) - "SAURER REGEN"<br>WAS IST DAS?<br><br>Stickstoffoxide (NO, NO₂)<br>Entstehen bei sehr hohen Temperaturen (&gt; 1.500°C!)<br><br>WARUM GEFÄHRLICH?<br><br>Atemwegserkrankungen! (Reizung Lunge!)<br>Saurer Regen! (NOₓ + Wasser → Salpetersäure!)<br>Sommersmog! (Ozonbildung!)<br><br>WANN ENTSTEHEN NOₓ?<br><br>Hohe Verbrennungstemperaturen! (Volllast, mageres Gemisch!)<br>Hochleistungsmotoren (Diesel, Turbomotoren!)<br><br><br>4️⃣ RUSS / FEINSTAUB (PM) - "SCHWARZER TOD"<br>WAS IST DAS?<br><br>Feste Partikel (Kohlenstoff, Asche!)<br>Sehr klein! (&lt; 10 µm = 0,01 mm!)<br><br>WARUM GEFÄHRLICH?<br><br>Lungenkrebs! (lagert sich in Lunge ab!)<br>Herz-Kreislauf-Erkrankungen!<br>Sichtbar als schwarzer Rauch!<br><br>WANN ENTSTEHT RUSS?<br><br>BESONDERS BEI DIESEL! (fettes Gemisch, kalter Motor!)<br>Alte Dieselmotoren ohne Filter!<br><br><br>5️⃣ KOHLENDIOXID (CO₂) - "TREIBHAUSGAS"<br>WAS IST DAS?<br><br>Hauptprodukt der Verbrennung (unvermeidbar!)<br>KEIN Schadstoff im klassischen Sinne (ungiftig!)<br><br>WARUM PROBLEM?<br><br>Treibhausgas! (Klimawandel!)<br>Je mehr Verbrauch → mehr CO₂!<br><br>KANN NICHT GEFILTERT WERDEN!<br><br>Nur durch weniger Verbrauch reduzieren!<br><br><br>MERKSATZ<br>"Hauptschadstoffe: CO (giftig!), HC (krebserregend!), NOₓ (saurer Regen!), Ruß (Lungenkrebs!), CO₂ (Klima!)!"<br><br><br>2. DREI-WEGE-KATALYSATOR (OTTOMOTOR) ⚗️<br>AUFGABE<br>Katalysator (kurz: Kat) reinigt Abgase von drei Hauptschadstoffen:<br><br>CO (Kohlenmonoxid)<br>HC (Kohlenwasserstoffe)<br>NOₓ (Stickoxide)<br><br>WICHTIG:<br>Katalysator ERZEUGT KEINE SCHADSTOFFE - er WANDELT sie um in unschädliche Stoffe!<br><br>🔧 AUFBAU<br>KOMPONENTEN:<br>🔥 ABGASE (vom Motor)<br>    ↓<br>🌡️ VORKAT (optional - direkt am Motor!)<br>    ↓<br>🏺 HAUPTKATALYSATOR<br>    ├─ Keramik-Monolith (Wabenstruktur!)<br>    ├─ Edelmetall-Beschichtung (Platin, Palladium, Rhodium!)<br>    └─ Gehäuse (Edelstahl - hitzebeständig!)<br>    ↓<br>📊 LAMBDA-SONDE (hinter Kat - Kontrolle!)<br>    ↓<br>🌬️ GEREINIGTE ABGASE<br>    ↓<br>🔇 AUSPUFF<br><br>AUFBAU IM DETAIL<br>1. KERAMIK-MONOLITH:<br><br>Wabenstruktur! (viele dünne Kanäle - wie Bienenwabe!)<br>Große Oberfläche! (ca. 20.000-50.000 m²! - so groß wie 3 Fußballfelder!)<br>Material: Cordierit (Keramik) oder Metall<br>Temperaturbeständig bis ca. 1.200°C!<br><br>2. EDELMETALL-BESCHICHTUNG:<br><br>Platin (Pt): Oxidiert CO + HC → CO₂ + H₂O<br>Palladium (Pd): Oxidiert CO + HC → CO₂ + H₂O<br>Rhodium (Rh): Reduziert NOₓ → N₂ + O₂<br><br>SEHR DÜNN!<br>Nur wenige Gramm Edelmetall pro Kat! (ca. 2-5 g!)<br>3. GEHÄUSE:<br><br>Edelstahl (rostfrei, hitzebeständig!)<br>Schützt Keramik-Monolith!<br><br><br>⚗️ FUNKTIONSPRINZIP<br>DREI REAKTIONEN GLEICHZEITIG:<br>REAKTION 1: OXIDATION VON CO<br>2 CO + O₂ → 2 CO₂<br>(Kohlenmonoxid + Sauerstoff → Kohlendioxid)<br>GIFTIG → UNGIFTIG!<br><br>REAKTION 2: OXIDATION VON HC<br>2 HC + O₂ → CO₂ + H₂O<br>(Kohlenwasserstoffe + Sauerstoff → Kohlendioxid + Wasser)<br>KREBSERREGEND → UNGIFTIG!<br><br>REAKTION 3: REDUKTION VON NOₓ<br>2 NOₓ → N₂ + O₂<br>(Stickoxide → Stickstoff + Sauerstoff)<br>SCHÄDLICH → UNGIFTIG! (Stickstoff ist Hauptbestandteil der Luft - 78%!)<br><br>🌡️ BETRIEBSTEMPERATUR - KRITISCH!<br>KATALYSATOR ARBEITET NUR BEI HOHER TEMPERATUR!<br>LIGHT-OFF-TEMPERATUR:<br>Ca. 300-400°C! (ab hier beginnt Kat zu arbeiten!)<br>OPTIMALE TEMPERATUR:<br>Ca. 400-800°C! (beste Reinigungsleistung!)<br>PROBLEM KALTSTART:<br><br>Kalter Kat (z.B. 20°C) → FUNKTIONIERT NICHT!<br>Erste 1-3 Minuten: Schadstoffe NICHT gefiltert!<br>90% der Schadstoffe entstehen in den ersten Minuten!<br><br>LÖSUNGEN:<br>1. VORKAT:<br><br>Kleiner Katalysator direkt am Motor! (wird schneller warm!)<br>Reduziert Schadstoffe in Warmlaufphase!<br><br>2. ELEKTRISCH BEHEIZBARER KAT:<br><br>Heizung im Kat (schaltet sich beim Start ein!)<br>Schnelleres Erreichen der Betriebstemperatur!<br>Modern (z.B. Hybridfahrzeuge!)<br><br><br>📊 LAMBDA-WERT - DER SCHLÜSSEL!<br>WAS IST LAMBDA (λ)?<br>Verhältnis zwischen tatsächlichem und theoretischem Luftverhältnis!<br>FORMEL:<br>λ = tatsächliche Luftmenge / theoretische Luftmenge<br>DREI BEREICHE:<br>λ &lt; 1: FETTES GEMISCH (zu viel Kraftstoff!)<br><br>Folge: Viel CO + HC, wenig NOₓ<br>Kat kann CO + HC NICHT vollständig oxidieren! (zu wenig O₂!)<br><br>λ = 1: STÖCHIOMETRISCHES GEMISCH (optimal!)<br><br>IDEAL FÜR KAT!<br>14,7 kg Luft auf 1 kg Benzin<br>Alle drei Reaktionen funktionieren optimal!<br><br>λ &gt; 1: MAGERES GEMISCH (zu viel Luft!)<br><br>Folge: Viel NOₓ, wenig CO + HC<br>Kat kann NOₓ NICHT vollständig reduzieren! (zu viel O₂!)<br><br><br>WICHTIG:<br>DREI-WEGE-KAT ARBEITET NUR BEI λ = 1 OPTIMAL!<br>LAMBDA-SONDE misst λ und regelt Gemisch auf λ = 1!<br><br>MERKSATZ<br>"Drei-Wege-Kat: Wandelt CO + HC + NOₓ um! Arbeitet nur bei 400-800°C und λ = 1 (stöchiometrisch!)! Lambda-Sonde regelt Gemisch!"<br><br><br>3. LAMBDA-SONDE 📊<br>AUFGABE<br>Lambda-Sonde misst Sauerstoffgehalt im Abgas und meldet an Motorsteuergerät:<br><br>Zu viel O₂ (λ &gt; 1) → Gemisch zu mager → mehr Kraftstoff einspritzen!<br>Zu wenig O₂ (λ &lt; 1) → Gemisch zu fett → weniger Kraftstoff einspritzen!<br><br>ZIEL:<br>λ = 1 (stöchiometrisches Gemisch!) → Katalysator arbeitet optimal!<br><br>🔧 AUFBAU &amp; TYPEN<br>ZWEI HAUPTTYPEN:<br>1️⃣ SPRUNGSONDE (ZWEIPUNKT-SONDE)<br>AUFBAU:<br><br>Keramik-Finger (Zirkoniumdioxid - ZrO₂!)<br>Außenseite: Im Abgas (misst O₂-Gehalt!)<br>Innenseite: An Umgebungsluft (Referenz - 21% O₂!)<br>Platin-Beschichtung (beidseitig!)<br>Heizung (elektrisch - schneller einsatzbereit!)<br><br>FUNKTIONSPRINZIP:<br><br>Unterschiedlicher O₂-Gehalt innen/außen → Spannung entsteht!<br>λ &lt; 1 (fett): Spannung hoch (ca. 0,8-1,0 Volt!)<br>λ = 1: Spannung springt (ca. 0,45 Volt!)<br>λ &gt; 1 (mager): Spannung niedrig (ca. 0,1-0,2 Volt!)<br><br>EINSATZ:<br>Standard bei älteren Fahrzeugen!<br><br>2️⃣ BREITBAND-SONDE (KONTINUIERLICHE SONDE)<br>AUFBAU:<br><br>Zwei Keramikzellen (Mess- und Pumpzelle!)<br>Präzise Messung von λ!<br><br>FUNKTIONSPRINZIP:<br><br>Kontinuierliche Messung (nicht nur Sprung bei λ = 1!)<br>Messbereich: λ = 0,65 bis 1,5 (breiter Bereich!)<br><br>VORTEILE:<br><br>✅ Präziser!<br>✅ Schneller!<br>✅ Auch für magere Konzepte geeignet (λ &gt; 1!)<br><br>EINSATZ:<br>Standard bei modernen Fahrzeugen!<br><br>📍 POSITION<br>VOR-KAT-SONDE (SONDE 1):<br><br>VOR dem Katalysator (nach Abgaskrümmer!)<br>Misst Ist-Zustand der Abgase!<br>Regelt Gemisch auf λ = 1!<br><br>NACH-KAT-SONDE (SONDE 2):<br><br>NACH dem Katalysator (nach Hauptkat!)<br>Überwacht Kat-Funktion!<br>Erkennt Kat-Alterung! (wenn Sonde 2 ähnlich wie Sonde 1 schwankt → Kat defekt!)<br><br>MODERNE FAHRZEUGE:<br>Zwei Sonden (VOR + NACH Kat!) → bessere Regelung + Kat-Überwachung!<br><br>🌡️ BETRIEBSTEMPERATUR<br>SONDE ARBEITET NUR BEI HOHER TEMPERATUR!<br>MINDESTTEMPERATUR:<br>Ca. 300-350°C!<br>LÖSUNG:<br>Elektrische Heizung in der Sonde! (schaltet sich beim Start ein!)<br>VORTEILE:<br><br>✅ Schneller einsatzbereit (nach ca. 20-30 Sekunden!)<br>✅ Funktioniert auch bei Kurzstrecken!<br><br><br>MERKSATZ<br>"Lambda-Sonde: Misst O₂-Gehalt im Abgas, regelt Gemisch auf λ = 1! Zwei Typen: Sprungsonde (alt!), Breitband-Sonde (modern, präziser!)! Position: VOR Kat (regelt!), NACH Kat (überwacht!)!"<br><br><br>4. OXIDATIONSKATALYSATOR (DIESELMOTOR) 🔥<br>UNTERSCHIED ZU DREI-WEGE-KAT<br>DREI-WEGE-KAT (OTTO):<br>Wandelt CO + HC + NOₓ um (braucht λ = 1!)<br>OXIDATIONSKATALYSATOR (DIESEL):<br>Wandelt NUR CO + HC um (NOₓ wird NICHT reduziert!)<br>WARUM?<br>DIESEL LÄUFT IMMER MAGER! (λ &gt; 1 - Luftüberschuss!)<br>→ Zu viel Sauerstoff für NOₓ-Reduktion!<br>→ NOₓ kann nicht reduziert werden! (braucht λ = 1!)<br><br>⚗️ FUNKTIONSPRINZIP<br>NUR ZWEI REAKTIONEN:<br>REAKTION 1: OXIDATION VON CO<br>2 CO + O₂ → 2 CO₂<br>REAKTION 2: OXIDATION VON HC<br>2 HC + O₂ → CO₂ + H₂O<br>KEIN PROBLEM:<br>Genug Sauerstoff vorhanden (λ &gt; 1!)<br><br>❌ NOₓ-PROBLEM BEIM DIESEL<br>OXIDATIONSKATALYSATOR KANN NOₓ NICHT REDUZIEREN!<br>LÖSUNGEN FÜR NOₓ:<br>1. SCR-SYSTEM (Selective Catalytic Reduction!)<br><br>AdBlue (Harnstofflösung!) wird eingespritzt!<br>NOₓ → N₂ + H₂O (unschädlich!)<br>Standard bei modernen Dieseln!<br><br>2. NOₓ-SPEICHERKATALYSATOR:<br><br>Speichert NOₓ bei magerem Betrieb!<br>Regeneration: Kurz fettes Gemisch → NOₓ wird reduziert!<br>Seltener als SCR!<br><br><br>MERKSATZ<br>"Oxidationskatalysator (Diesel!): Wandelt NUR CO + HC um! NOₓ NICHT (wegen λ &gt; 1!)! Lösung für NOₓ: SCR-System (AdBlue!)!"<br><br><br>5. DIESELPARTIKELFILTER (DPF) 🛡️<br>AUFGABE<br>Dieselpartikelfilter (kurz: DPF oder FAP) filtert Rußpartikel aus dem Abgas!<br>WICHTIG:<br>Pflicht für alle Diesel-PKW seit 2011 (Euro 5b!)<br><br>🔧 AUFBAU<br>FILTER-MONOLITH:<br><br>Wabenstruktur (ähnlich wie Kat!)<br>Kanäle abwechselnd verschlossen!<br><br>Eingangskanal offen → Ausgang zu<br>Eingangskanal zu → Ausgang offen<br><br><br>Abgas muss durch poröse Wand (Porengröße ca. 10-20 µm!)<br>Rußpartikel bleiben hängen! (zu groß für Poren!)<br><br>MATERIAL:<br><br>Siliziumkarbid (SiC) - sehr hitzebeständig (bis 1.500°C!)<br><br><br>🔥 FUNKTIONSPRINZIP<br>ZWEI PHASEN:<br>PHASE 1: FILTRATION<br>NORMAL:<br><br>Abgase strömen durch Filter<br>Rußpartikel bleiben in Wand hängen!<br>Gereinigte Abgase strömen weiter!<br><br>FILTERBELADUNG:<br><br>Mit der Zeit sammelt sich Ruß!<br>Gegendruck steigt! (Abgase fließen schlechter!)<br>Leistungsverlust! (Motor bekommt "Rückstau"!)<br><br><br>PHASE 2: REGENERATION (ABBRENNEN!)<br>PROBLEM:<br>Filter wird voll (nach ca. 300-1.000 km!)<br>LÖSUNG:<br>Ruß abbrennen! (Regeneration!)<br>ABLAUF:<br><br>Motorsteuergerät erkennt: Filter voll! (Differenzdrucksensor!)<br>Temperatur erhöhen auf ca. 600-800°C!<br>Ruß verbrennt! (C + O₂ → CO₂!)<br>Filter wieder frei!<br><br><br>🔥 ARTEN DER REGENERATION<br>1. PASSIVE REGENERATION:<br><br>Automatisch bei Autobahnfahrt!<br>Hohe Abgastemperatur (&gt; 600°C) → Ruß verbrennt!<br>Keine Aktion nötig!<br><br>2. AKTIVE REGENERATION:<br><br>Motorsteuergerät erhöht Temperatur absichtlich!<br>WIE?<br><br>Mehr Kraftstoff einspritzen (Nacheinspritzung!)<br>Kraftstoff verbrennt im Filter → Temperatur steigt!<br><br><br>Dauer: ca. 10-20 Minuten!<br>Häufigkeit: ca. alle 500-1.000 km (abhängig von Fahrweise!)<br><br>WICHTIG:<br>NICHT unterbrechen! (Motor sollte weiterlaufen!)<br>3. MANUELLE REGENERATION (WERKSTATT):<br><br>Wenn Filter zu voll (aktive Regeneration funktioniert nicht mehr!)<br>Werkstatt erhöht Temperatur manuell!<br>Oder: Filter ausbauen und reinigen!<br><br><br>⚠️ PROBLEME BEI KURZSTRECKEN<br>KURZSTRECKEN = FEIND DES DPF!<br>WARUM?<br><br>Motor wird nicht warm genug!<br>Regeneration findet nicht statt! (braucht 600°C!)<br>Filter setzt sich zu!<br>Kontrollleuchte (Abgasanlage!) leuchtet!<br>Notlaufprogramm! (Motor leistet weniger!)<br><br>LÖSUNG:<br>✅ Regelmäßig Autobahn fahren! (30-60 Min. am Stück!)<br>✅ Motor warm fahren vor dem Abstellen!<br>✅ Nicht nur Kurzstrecken! (mind. 1x pro Woche längere Strecke!)<br><br>💰 KOSTEN BEI DEFEKT<br>DPF VERSTOPFT / DEFEKT:<br>REINIGUNG:<br>Ca. 300-800 € (Filter ausbauen + professionell reinigen!)<br>NEUER FILTER:<br>Ca. 800-2.500 €! (Material + Arbeit!)<br>VERMEIDEN:<br>Regelmäßige Langstrecken! Regeneration nicht unterbrechen!<br><br>MERKSATZ<br>"Dieselpartikelfilter: Filtert Rußpartikel! Regeneration nötig (Ruß abbrennen bei 600-800°C!)! Kurzstrecken = Problem (Filter setzt zu!)! Lösung: Regelmäßig Autobahn!"<br><br><br>6. SCR-SYSTEM &amp; ADBLUE 💧<br>AUFGABE<br>SCR (Selective Catalytic Reduction) reduziert Stickoxide (NOₓ) beim Dieselmotor!<br>WARUM NÖTIG?<br>Oxidationskatalysator kann NOₓ NICHT reduzieren! (wegen λ &gt; 1!)<br>→ SCR-System = Lösung!<br><br>🔧 AUFBAU<br>KOMPONENTEN:<br>🔥 ABGASE (mit NOₓ!)<br>    ↓<br>💧 ADBLUE-EINSPRITZUNG (Harnstofflösung!)<br>    ↓<br>⚗️ SCR-KATALYSATOR (wandelt NOₓ um!)<br>    ↓<br>🌬️ GEREINIGTE ABGASE (N₂ + H₂O!)<br><br>KOMPONENTEN IM DETAIL<br>1. ADBLUE-TANK:<br><br>Separater Tank (ca. 10-25 Liter!)<br>Harnstofflösung (32,5% Harnstoff + 67,5% Wasser!)<br>Verbrauch: ca. 1-2 Liter pro 1.000 km!<br><br>2. ADBLUE-EINSPRITZDÜSE:<br><br>Spritzt AdBlue in Abgasstrom (vor SCR-Kat!)<br>Dosierung abhängig von NOₓ-Menge!<br><br>3. SCR-KATALYSATOR:<br><br>Spezielle Beschichtung (Titanoxid + Vanadium!)<br>Wandelt NOₓ um in N₂ + H₂O!<br><br><br>⚗️ FUNKTIONSPRINZIP<br>CHEMISCHE REAKTION:<br><br>AdBlue wird eingespritzt (vor SCR-Kat!)<br>Hitze (ca. 200-500°C!) zersetzt AdBlue → Ammoniak (NH₃)!<br><br>   (NH₂)₂CO + H₂O → 2 NH₃ + CO₂<br>   (Harnstoff + Wasser → Ammoniak + Kohlendioxid)<br><br>Ammoniak reagiert mit NOₓ im SCR-Katalysator:<br><br>   4 NH₃ + 4 NO + O₂ → 4 N₂ + 6 H₂O<br>   (Ammoniak + Stickoxide + Sauerstoff → Stickstoff + Wasser)<br><br>Ergebnis: NOₓ → N₂ (Stickstoff!) + H₂O (Wasser!) → ungiftig!<br><br><br>💧 ADBLUE - WICHTIGE INFOS<br>WAS IST ADBLUE?<br><br>Harnstofflösung (32,5% Harnstoff, 67,5% Wasser!)<br>Farblos, ungiftig (nicht trinkbar, aber ungefährlich!)<br>Gefriert bei ca. -11°C! (Tank beheizt!)<br><br>VERBRAUCH:<br><br>Ca. 1-2 Liter pro 1.000 km<br>Tankgröße: 10-25 Liter → Reichweite ca. 10.000-15.000 km!<br><br>NACHFÜLLEN:<br><br>An Tankstelle (eigene Zapfsäule!) oder Kanister (im Handel!)<br>Kosten: ca. 0,50-1,00 € pro Liter<br><br>WICHTIG:<br><br>AdBlue leer? → Motor startet NICHT mehr! (nach Warnung!)<br>Kontrollleuchte warnt ca. 2.000 km vorher!<br><br><br>⚠️ REICHWEITENBEGRENZUNG<br>GESETZLICHE PFLICHT:<br>WENN ADBLUE LEER:<br><br>Motor darf nicht mehr starten! (nach EU-Gesetz!)<br>Zweck: Sicherstellen, dass SCR-System funktioniert!<br><br>ABLAUF:<br><br>AdBlue-Stand niedrig (ca. 2.000 km Reichweite) → Kontrollleuchte + Warnung!<br>AdBlue fast leer (ca. 500 km) → Akustisches Signal + Warnung!<br>AdBlue komplett leer → Motor startet nach Abstellen NICHT mehr!<br><br>LÖSUNG:<br>AdBlue nachfüllen (vor dem Leerfahren!)<br><br>MERKSATZ<br>"SCR-System (Diesel!): AdBlue (Harnstofflösung!) eingespritzt → zersetzt zu Ammoniak (NH₃!) → reagiert mit NOₓ → N₂ + H₂O (ungiftig!)! Verbrauch: 1-2 L/1.000 km! AdBlue leer = Motor startet nicht!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>SCHADSTOFFE:<br>→ Hauptschadstoffe: CO (giftig!), HC (krebserregend!), NOₓ (saurer Regen!), Ruß/Feinstaub (Lungenkrebs!), CO₂ (Treibhausgas!)<br>→ Entstehung: CO/HC bei unvollständiger Verbrennung (fett!), NOₓ bei hohen Temperaturen (&gt; 1.500°C!), Ruß besonders bei Diesel!<br>DREI-WEGE-KATALYSATOR (OTTOMOTOR):<br>→ Wandelt um: CO + HC + NOₓ → CO₂ + H₂O + N₂ (ungiftig!)<br>→ Arbeitet nur bei: 400-800°C (Betriebstemperatur!) und λ = 1 (stöchiometrisch!)<br>→ Aufbau: Keramik-Monolith (Wabenstruktur!), Edelmetall-Beschichtung (Platin, Palladium, Rhodium!), große Oberfläche (20.000 m²!)<br>→ Problem Kaltstart: Erste 1-3 Minuten funktioniert Kat NICHT (90% Schadstoffe!)! Lösung: Vorkat (schneller warm!)<br>LAMBDA-SONDE:<br>→ Funktion: Misst O₂-Gehalt im Abgas, regelt Gemisch auf λ = 1!<br>→ Lambda-Wert: λ &lt; 1 = fett (zu viel Kraftstoff!), λ = 1 = optimal!, λ &gt; 1 = mager (zu viel Luft!)<br>→ Typen: Sprungsonde (alt - springt bei λ = 1!), Breitband-Sonde (modern - kontinuierlich, präziser!)<br>→ Position: VOR Kat (regelt Gemisch!), NACH Kat (überwacht Kat-Funktion!)<br>→ Betriebstemperatur: Min. 300°C (elektrische Heizung!)<br>OXIDATIONSKATALYSATOR (DIESELMOTOR):<br>→ Wandelt um: NUR CO + HC (NICHT NOₓ!)<br>→ Warum kein NOₓ? Diesel läuft immer mager (λ &gt; 1!) → zu viel Sauerstoff für NOₓ-Reduktion!<br>→ Lösung für NOₓ: SCR-System (AdBlue!)<br>DIESELPARTIKELFILTER (DPF):<br>→ Funktion: Filtert Rußpartikel aus Abgas! Pflicht seit 2011 (Euro 5b!)<br>→ Aufbau: Wabenstruktur, Kanäle abwechselnd verschlossen, Abgas muss durch poröse Wand → Ruß bleibt hängen!<br>→ Regeneration: Ruß abbrennen bei 600-800°C! Passiv: Automatisch bei Autobahn! Aktiv: Motorsteuergerät erhöht Temperatur (Nacheinspritzung!), Dauer 10-20 Min., alle 500-1.000 km!<br>→ Problem Kurzstrecken: Filter setzt zu (Regeneration findet nicht statt!)! Lösung: Regelmäßig Autobahn (30-60 Min.!)<br>→ Kosten Defekt: Reinigung 300-800 €, Neuer Filter 800-2.500 €!<br>SCR-SYSTEM &amp; ADBLUE (DIESELMOTOR):<br>→ Funktion: Reduziert NOₓ! AdBlue (Harnstofflösung 32,5%!) eingespritzt → zersetzt zu Ammoniak (NH₃!) → reagiert mit NOₓ → N₂ + H₂O (ungiftig!)<br>→ Verbrauch AdBlue: 1-2 L/1.000 km, Tankgröße 10-25 L, Reichweite ca. 10.000 km!<br>→ AdBlue leer: Motor startet NICHT mehr (nach Warnung 2.000 km vorher!)! Gesetzliche Pflicht!<br>→ Kosten: Ca. 0,50-1,00 € pro Liter AdBlue</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: MOTORLEUCHTE AN - KATALYSATOR DEFEKT?
+SITUATION:
+Fahrschüler klagt: "Die Motorleuchte (Check Engine) leuchtet! Werkstatt sagt: Katalysator defekt! Was bedeutet das?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+MOTORLEUCHTE = OBD-FEHLER!
+KATALYSATOR DEFEKT - URSACHEN:
+1. ALTERUNG:
+
+Edelmetall-Beschichtung abgenutzt! (nach ca. 120.000-200.000 km!)
+Wirkung lässt nach → Schadstoffe werden nicht mehr ausreichend umgewandelt!
+
+2. ÜBERHITZUNG:
+
+Zu hohe Temperaturen (&gt; 1.200°C!)
+Ursachen: Zündaussetzer (unverbrannter Kraftstoff verbrennt im Kat!), zu fettes Gemisch!
+Folge: Kat-Struktur schmilzt! (Keramik wird zerstört!)
+
+3. MECHANISCHE BESCHÄDIGUNG:
+
+Aufsetzen auf Bordstein! (Kat sitzt unten am Fahrzeug!)
+Steinschlag!
+Keramik-Monolith zerbricht!
+
+4. VERGIFTUNG:
+
+Bleihaltiges Benzin (verboten, aber in manchen Ländern noch verfügbar!)
+Motoröl im Brennraum (Kolbenringe defekt!)
+Edelmetall wird "vergiftet" → wirkt nicht mehr!
+
+
+SYMPTOME DEFEKTER KAT:
+❌ Motorleuchte leuchtet (OBD-Fehlercode: P0420 "Kat-Wirkungsgrad zu niedrig"!)
+❌ Leistungsverlust (Gegendruck zu hoch - Kat verstopft!)
+❌ Erhöhter Verbrauch (Motor arbeitet nicht optimal!)
+❌ Abgastest nicht bestanden (HU/AU!)
+❌ Rasselndes Geräusch (Keramik zerbrochen - Teile klappern!)
+
+DIAGNOSE:
+1. FEHLERSPEICHER AUSLESEN:
+
+OBD-Diagnose (Werkstatt!)
+Fehlercode: P0420/P0430 (Kat-Wirkungsgrad zu niedrig!)
+
+2. LAMBDA-SONDEN PRÜFEN:
+
+Nach-Kat-Sonde (Sonde 2!) sollte stabil sein!
+Wenn Sonde 2 schwankt wie Sonde 1 → Kat defekt! (lässt O₂ durch!)
+
+3. ABGASMESSUNG:
+
+Werkstatt misst Schadstoffwerte!
+Zu hoch? → Kat defekt!
+
+4. SICHTPRÜFUNG:
+
+Kat von unten anschauen (auf Hebebühne!)
+Beulen? Verfärbungen? Beschädigungen?
+
+
+KOSTEN KATALYSATOR-WECHSEL:
+MATERIAL:
+Ca. 300-1.500 € (je nach Fahrzeug! - Edelmetalle teuer!)
+ARBEITSZEIT:
+Ca. 100-300 € (Kat-Wechsel meist einfach!)
+GESAMT:
+Ca. 400-1.800 €!
+ALTERNATIVE:
+Gebrauchter Kat (ca. 100-500 €) - ABER: Nicht immer zulässig! (OEM-Kat Pflicht bei HU!)
+
+ANTWORT:
+→ Motorleuchte + Kat defekt = häufig! Ursachen: Alterung (120.000+ km!), Überhitzung (Zündaussetzer!), mechanische Beschädigung, Vergiftung!
+→ Symptome: Motorleuchte (P0420!), Leistungsverlust, erhöhter Verbrauch, Abgastest nicht bestanden, rasseln!
+→ Diagnose: Fehlerspeicher (P0420!), Lambda-Sonden prüfen (Sonde 2 schwankt = Kat defekt!), Abgasmessung!
+→ Kosten: 400-1.800 € (Material 300-1.500 € + Arbeit 100-300 €!)
+→ Vermeiden: Zündaussetzer beheben, nicht zu fett fahren, Motoröl-Verlust vermeiden!</div>
+                        <div class="beispiel">BEISPIEL 2: DPF-KONTROLLLEUCHTE LEUCHTET - WAS TUN?
+SITUATION:
+Fahrschüler fragt: "Die DPF-Kontrollleuchte (Abgasanlage!) leuchtet in meinem Diesel! Was soll ich tun?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+DPF-KONTROLLLEUCHTE = FILTER VOLL!
+BEDEUTUNG:
+Dieselpartikelfilter ist zu voll mit Ruß!
+Regeneration muss stattfinden!
+
+WAS TUN?
+STUFE 1: KONTROLLLEUCHTE LEUCHTET KONSTANT (GELB)
+BEDEUTUNG:
+Filter ca. 70-80% voll! Regeneration empfohlen!
+SOFORT:
+
+Autobahn fahren (30-60 Min. am Stück!)
+Drehzahl: ca. 2.500-3.500 U/min (nicht Leerlauf!)
+Geschwindigkeit: ca. 80-120 km/h (konstant!)
+Temperatur steigt → Regeneration startet automatisch! (Motorsteuergerät!)
+Dauer: ca. 10-20 Minuten
+Kontrollleuchte erlischt → Filter regeneriert!
+
+WICHTIG:
+NICHT unterbrechen! Motor weiterlaufen lassen bis Leuchte aus!
+
+STUFE 2: KONTROLLLEUCHTE BLINKT (GELB/ORANGE)
+BEDEUTUNG:
+Filter sehr voll! (ca. 90%!) Regeneration JETZT nötig!
+SOFORT:
+
+Autobahn fahren (wie oben!)
+Oder: Werkstatt aufsuchen (manuelle Regeneration!)
+
+WENN IGNORIERT:
+→ Notlaufprogramm! (Motor leistet weniger!)
+→ Langfristig: Filter verstopft komplett → teurer Austausch!
+
+STUFE 3: KONTROLLLEUCHTE ROT (MOTOR-SYMBOL)
+BEDEUTUNG:
+Filter komplett voll! Regeneration nicht mehr möglich!
+SOFORT:
+WERKSTATT AUFSUCHEN!
+Manuelle Regeneration oder Filter-Austausch nötig!
+KOSTEN:
+
+Manuelle Regeneration: ca. 100-300 €
+Filter-Reinigung: ca. 300-800 €
+Neuer Filter: ca. 800-2.500 €!
+
+
+VERMEIDEN:
+✅ Regelmäßig Autobahn fahren! (mind. 1x pro Woche 30-60 Min.!)
+✅ Motor warm fahren vor Abstellen!
+✅ Nicht nur Kurzstrecken!
+✅ Regeneration nicht unterbrechen! (Motor weiterlaufen lassen!)
+
+ANTWORT:
+→ DPF-Kontrollleuchte = Filter voll!
+→ Stufe 1 (Leuchtet konstant gelb): Filter 70-80% voll → Autobahn fahren 30-60 Min. (2.500-3.500 U/min!), Regeneration 10-20 Min., nicht unterbrechen!
+→ Stufe 2 (Blinkt): Filter sehr voll (90%!) → sofort Autobahn oder Werkstatt!
+→ Stufe 3 (Rot): Filter komplett voll → Werkstatt! Manuelle Regeneration oder Austausch (800-2.500 €!)
+→ Vermeiden: Regelmäßig Autobahn, nicht nur Kurzstrecken!</div>
+                        <div class="beispiel">BEISPIEL 3: ADBLUE NACHFÜLLEN - WIE UND WO?
+SITUATION:
+Fahrschüler fragt: "Meine AdBlue-Warnung leuchtet! Wo kann ich AdBlue nachfüllen und wie funktioniert das?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+ADBLUE-WARNUNG = TANK BALD LEER!
+ABLAUF:
+1. WARNUNG CA. 2.000 KM VORHER:
+
+Kontrollleuchte (meist blaues Symbol!) leuchtet!
+Anzeige: "AdBlue: Noch 2.400 km Reichweite"
+Bedeutung: AdBlue bald leer - nachfüllen empfohlen!
+
+2. WARNUNG CA. 500 KM VORHER:
+
+Akustisches Signal (Piepton!)
+Anzeige: "AdBlue: Noch 500 km Reichweite - Nachfüllen erforderlich!"
+
+3. TANK LEER:
+
+Motor startet nach Abstellen NICHT mehr! (gesetzlich vorgeschrieben!)
+Nur Lösung: AdBlue nachfüllen!
+
+
+WO NACHFÜLLEN?
+ZWEI MÖGLICHKEITEN:
+1. TANKSTELLE:
+
+Eigene AdBlue-Zapfsäule (meist neben Diesel!)
+Zapfpistole ähnlich wie Diesel (aber NICHT verwechseln!)
+Kosten: ca. 0,60-1,00 € pro Liter
+Tanken: Einfach wie Kraftstoff (Deckel auf, Zapfpistole rein, tanken!)
+
+2. KANISTER (BAUMARKT, TANKSTELLE, AUTOTEILE-HANDEL):
+
+AdBlue-Kanister (5-10 Liter!)
+Kosten: ca. 0,50-0,80 € pro Liter (günstiger als Zapfsäule!)
+Selbst nachfüllen: Einfüllstutzen (meist neben Kraftstofftank oder im Motorraum!)
+
+
+WIE NACHFÜLLEN?
+ABLAUF:
+
+AdBlue-Einfüllstutzen finden (meist blauer Deckel mit "AdBlue"-Aufschrift!)
+
+Neben Kraftstofftank (häufigste Position!)
+ODER im Motorraum (seltener!)
+
+
+Deckel öffnen
+AdBlue einfüllen (Zapfpistole oder Kanister mit Trichter!)
+
+NICHT überfüllen! (Tank fasst 10-25 Liter!)
+Tipp: Meist reichen 10 Liter für ca. 10.000 km!
+
+
+Deckel wieder zu
+Motor starten → Kontrollleuchte sollte erlöschen!
+
+
+WICHTIGE TIPPS:
+⚠️ NICHT MIT DIESEL VERWECHSELN!
+
+AdBlue = blauer Deckel, Diesel = schwarzer/grüner Deckel!
+AdBlue in Dieseltank = MOTORSCHADEN! (20.000+ € Reparatur!)
+Diesel in AdBlue-Tank = SCR-System defekt! (3.000-5.000 € Reparatur!)
+
+⚠️ ADBLUE GEFRIERT BEI -11°C!
+
+Tank ist beheizt (kein Problem!)
+ABER: Kanister im Kofferraum kann gefrieren! (im Winter im Auto lagern!)
+
+⚠️ ADBLUE IST ÄTZEND (LEICHT):
+
+Auf Lack: Sofort abwaschen! (kann Lack angreifen!)
+Auf Haut: Ungefährlich, aber abwaschen!
+
+
+KOSTEN:
+ADBLUE-VERBRAUCH:
+
+Ca. 1-2 Liter pro 1.000 km
+Tankgröße: 10-25 Liter
+Reichweite: ca. 10.000-15.000 km!
+
+KOSTEN PRO LITER:
+
+Tankstelle: ca. 0,60-1,00 €
+Kanister: ca. 0,50-0,80 € (günstiger!)
+
+KOSTEN PRO JAHR:
+
+Bei 15.000 km/Jahr: ca. 15-30 Liter AdBlue → ca. 10-30 €!
+
+
+ANTWORT:
+→ AdBlue nachfüllen: 1. Warnung 2.000 km vorher (Kontrollleuchte!), 2. Warnung 500 km (Piepton!), 3. Leer = Motor startet nicht!
+→ Wo? Tankstelle (AdBlue-Zapfsäule!) oder Kanister (Baumarkt!)
+→ Wie? AdBlue-Einfüllstutzen finden (blauer Deckel, meist neben Kraftstofftank!), einfüllen (10 L reichen für 10.000 km!), Deckel zu!
+→ NICHT mit Diesel verwechseln! AdBlue in Dieseltank = Motorschaden (20.000+ €!)
+→ Kosten: 0,50-1,00 €/L, Verbrauch 1-2 L/1.000 km → ca. 10-30 €/Jahr!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: SCHADSTOFFE &amp; DREI-WEGE-KATALYSATOR (60 Min)<br>Einstieg (10 Min):<br>Methode: Schockierendes Video + Diskussion<br>Ablauf: Dozent zeigt Video über Luftverschmutzung durch Verkehr (z.B. Smog in Großstädten!). Frage: "Welche Schadstoffe kommen aus dem Auspuff?" Anwärter sammeln (CO, NOₓ, Ruß!). Auflösung: 5 Hauptschadstoffe! Überleitung: "Heute lernen wir, wie Katalysator diese filtert!"<br>Ziel: Dramatik verdeutlichen, Umweltbewusstsein schaffen<br><br>Hauptteil (45 Min):<br>Phase 1: Schadstoffe (10 Min)<br>Dozent erklärt: 5 Hauptschadstoffe: CO (giftig!), HC (krebserregend!), NOₓ (saurer Regen!), Ruß (Lungenkrebs!), CO₂ (Klima!)! Entstehung: CO/HC bei unvollständiger Verbrennung (fett!), NOₓ bei hohen Temperaturen (&gt; 1.500°C!), Ruß besonders Diesel!<br>Phase 2: Drei-Wege-Katalysator (20 Min)<br>Dozent zeigt echten Katalysator (aufgeschnitten!): Wabenstruktur (20.000 m²!), Edelmetall-Beschichtung (Platin, Palladium, Rhodium!)! Funktionsprinzip: CO + HC + NOₓ → CO₂ + H₂O + N₂! Wichtig: Arbeitet nur bei 400-800°C und λ = 1! Problem Kaltstart: Erste 1-3 Min. funktioniert nicht (90% Schadstoffe!)!<br>Phase 3: Lambda-Sonde (10 Min)<br>Dozent erklärt: Misst O₂-Gehalt, regelt Gemisch auf λ = 1! Lambda-Wert: λ &lt; 1 = fett, λ = 1 = optimal, λ &gt; 1 = mager! Position: VOR Kat (regelt!), NACH Kat (überwacht!)! Praxisfall: Lambda-Sonde defekt - was passiert? (Gemisch nicht geregelt, Kat arbeitet nicht optimal, mehr Schadstoffe!)<br>Phase 4: Zusammenfassung (5 Min)<br>Dozent fasst zusammen: Schadstoffe entstehen, Kat wandelt um, Lambda-Sonde regelt!<br><br>Schluss (5 Min):<br>Sicherung: "Drei-Wege-Kat wandelt welche Schadstoffe um?" → CO + HC + NOₓ! "Lambda = 1 bedeutet?" → Stöchiometrisch (optimal!)<br>Ausblick: "Nächste Stunde: Dieselpartikelfilter + SCR-System!"<br><br>UNTERRICHTSEINHEIT 2: DPF &amp; SCR-SYSTEM (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Oxidationskatalysator beim Diesel wandelt welche Schadstoffe um?" → NUR CO + HC (NICHT NOₓ!)<br><br>Hauptteil (50 Min):<br>Phase 1: Dieselpartikelfilter (25 Min)<br>Dozent erklärt: DPF filtert Rußpartikel! Pflicht seit 2011! Aufbau: Wabenstruktur, Kanäle abwechselnd verschlossen, Ruß bleibt hängen! Regeneration: Ruß abbrennen bei 600-800°C! Passiv: Automatisch bei Autobahn! Aktiv: Motorsteuergerät erhöht Temperatur (10-20 Min.!), alle 500-1.000 km! Problem Kurzstrecken: Filter setzt zu! Praxisfall: DPF-Kontrollleuchte leuchtet - was tun? (Autobahn fahren 30-60 Min.!)<br>Phase 2: SCR-System &amp; AdBlue (20 Min)<br>Dozent zeigt AdBlue-Kanister (zum Anfassen!): SCR reduziert NOₓ! AdBlue (Harnstofflösung!) eingespritzt → zersetzt zu Ammoniak (NH₃!) → reagiert mit NOₓ → N₂ + H₂O! Verbrauch: 1-2 L/1.000 km! AdBlue leer: Motor startet nicht! Praxisfall: AdBlue nachfüllen - wie? (Einfüllstutzen finden, einfüllen, NICHT mit Diesel verwechseln!)<br>Phase 3: Vergleich Otto vs. Diesel (5 Min)<br>Dozent zeigt Vergleichstabelle: Otto: Drei-Wege-Kat (CO + HC + NOₓ!), Lambda-Sonde (λ = 1!)! Diesel: Oxidationskatalysator (nur CO + HC!), DPF (Ruß!), SCR (NOₓ mit AdBlue!)!<br><br>Schluss (5 Min):<br>Sicherung: "DPF regeneriert bei welcher Temperatur?" → 600-800°C! "AdBlue macht was?" → Reduziert NOₓ (mit Ammoniak!)<br>Hausaufgabe: Erstelle Übersicht: Abgasreinigung Otto vs. Diesel (Komponenten, Schadstoffe!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Lambda = 1 ist entscheidend für Drei-Wege-Kat! (immer betonen!)<br>DPF-Regeneration gut erklären! (viele Diesel-Fahrer kennen Problem!)<br>AdBlue NICHT mit Diesel verwechseln! (dramatische Folgen - 20.000 € Schaden!)<br>Umweltaspekt betonen! (Schadstoffe schädlich für Gesundheit!)<br>Echte Komponenten zeigen! (Katalysator aufgeschnitten, AdBlue-Kanister!)<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Oxidationskatalysator (Diesel!) wandelt auch NOₓ um (FALSCH! Nur CO + HC!)<br>Verwechseln Lambda &lt; 1 und &gt; 1 (fett vs. mager!)<br>Denken, DPF-Regeneration ist Defekt (NEIN! Normal alle 500-1.000 km!)<br>AdBlue = Diesel (FALSCH! Völlig unterschiedlich!)<br>Unterschätzen Wichtigkeit von λ = 1 für Drei-Wege-Kat!<br><br>Tipps &amp; Tricks:<br><br>Echten Katalysator zeigen! (aufgeschnitten - Wabenstruktur sichtbar!)<br>Video: DPF-Regeneration (Temperatur-Kamera - sieht man Hitze!)<br>AdBlue-Probe mitbringen! (zum Anfassen - riecht nach Urin!)<br>Lambda-Sonden verschiedene Typen zeigen! (Sprungsonde vs. Breitband!)<br>Merksätze auswendig lernen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Nennen Sie die fünf Hauptschadstoffe im Abgas und erklären Sie deren Gefährlichkeit.<br>Antwort: FÜNF HAUPTSCHADSTOFFE: 1. KOHLENMONOXID (CO): Farbloses, geruchloses Giftgas! Entsteht bei unvollständiger Verbrennung (zu wenig Sauerstoff, fettes Gemisch!). Gefährlich: Bindet sich an rote Blutkörperchen (statt Sauerstoff!) → Erstickungsgefahr! Schon geringe Mengen tödlich (0,1%!)! 2. KOHLENWASSERSTOFFE (HC): Unverbrannter/teilverbrannter Kraftstoff. Entsteht bei kaltem Motor, Zündaussetzern. Gefährlich: Krebserregend (besonders aromatische HC!), Smog-Bildung! 3. STICKOXIDE (NOₓ): Entstehen bei sehr hohen Temperaturen (&gt; 1.500°C!), besonders bei Volllast, mageres Gemisch. Gefährlich: Atemwegserkrankungen, saurer Regen (NOₓ + Wasser → Salpetersäure!), Sommersmog (Ozonbildung!)! 4. RUSS / FEINSTAUB (PM): Feste Partikel (Kohlenstoff, Asche!), sehr klein (&lt; 10 µm!). Besonders bei Diesel (fettes Gemisch, kalter Motor!). Gefährlich: Lungenkrebs (lagert sich in Lunge ab!), Herz-Kreislauf-Erkrankungen! 5. KOHLENDIOXID (CO₂): Hauptprodukt der Verbrennung (unvermeidbar!), KEIN Schadstoff im klassischen Sinne (ungiftig!). Problem: Treibhausgas (Klimawandel!)! Kann NICHT gefiltert werden - nur durch weniger Verbrauch reduzieren! Merksatz: "CO = giftig, HC = krebserregend, NOₓ = saurer Regen, Ruß = Lungenkrebs, CO₂ = Klima!"<br><br>Frage 2: Erklären Sie Aufbau und Funktionsprinzip des Drei-Wege-Katalysators beim Ottomotor. Warum heißt er "Drei-Wege"?<br>Antwort: DREI-WEGE-KATALYSATOR (OTTOMOTOR): Reinigt Abgase von drei Hauptschadstoffen: CO + HC + NOₓ → daher "Drei-Wege"! AUFBAU: 1. Keramik-Monolith: Wabenstruktur (viele dünne Kanäle wie Bienenwabe!), große Oberfläche (20.000-50.000 m²! - ca. 3 Fußballfelder!), Material: Cordierit (Keramik) oder Metall, temperaturbeständig bis 1.200°C! 2. Edelmetall-Beschichtung: Platin (Pt) + Palladium (Pd): Oxidiert CO + HC → CO₂ + H₂O. Rhodium (Rh): Reduziert NOₓ → N₂ + O₂. Nur wenige Gramm pro Kat (ca. 2-5 g!)! 3. Gehäuse: Edelstahl (rostfrei, hitzebeständig!), schützt Keramik. FUNKTIONSPRINZIP - DREI REAKTIONEN GLEICHZEITIG: Reaktion 1 - Oxidation CO: 2 CO + O₂ → 2 CO₂ (Kohlenmonoxid → Kohlendioxid - ungiftig!). Reaktion 2 - Oxidation HC: 2 HC + O₂ → CO₂ + H₂O (Kohlenwasserstoffe → Kohlendioxid + Wasser - ungiftig!). Reaktion 3 - Reduktion NOₓ: 2 NOₓ → N₂ + O₂ (Stickoxide → Stickstoff + Sauerstoff - ungiftig!)! BETRIEBSTEMPERATUR: Light-off-Temperatur: 300-400°C (ab hier beginnt Kat zu arbeiten!). Optimal: 400-800°C (beste Reinigungsleistung!). Problem Kaltstart: Kalter Kat funktioniert NICHT (erste 1-3 Min.)! 90% der Schadstoffe in ersten Minuten! Lösung: Vorkat (direkt am Motor - wird schneller warm!). LAMBDA-WERT KRITISCH: Kat arbeitet nur bei λ = 1 (stöchiometrisch!) optimal! λ &lt; 1 (fett): Zu wenig O₂ für Oxidation! λ &gt; 1 (mager): Zu viel O₂ für NOₓ-Reduktion! Lambda-Sonde regelt Gemisch auf λ = 1! Merksatz: "Drei-Wege-Kat: CO + HC + NOₓ → CO₂ + H₂O + N₂! Arbeitet nur bei 400-800°C und λ = 1!"<br><br>Frage 3: Was ist die Lambda-Sonde? Erklären Sie deren Funktion, Position und den Lambda-Wert.<br>Antwort: LAMBDA-SONDE: Misst Sauerstoffgehalt im Abgas, regelt Gemisch auf λ = 1 (stöchiometrisch!)! LAMBDA-WERT (λ): Verhältnis zwischen tatsächlichem und theoretischem Luftverhältnis! Formel: λ = tatsächliche Luftmenge / theoretische Luftmenge. DREI BEREICHE: λ &lt; 1: FETTES Gemisch (zu viel Kraftstoff!). Folge: Viel CO + HC, wenig NOₓ. Kat kann CO + HC NICHT vollständig oxidieren (zu wenig O₂!)! λ = 1: STÖCHIOMETRISCHES Gemisch (optimal!)! 14,7 kg Luft auf 1 kg Benzin! IDEAL FÜR KAT - alle drei Reaktionen funktionieren! λ &gt; 1: MAGERES Gemisch (zu viel Luft!). Folge: Viel NOₓ, wenig CO + HC. Kat kann NOₓ NICHT vollständig reduzieren (zu viel O₂!)! FUNKTION: Lambda-Sonde meldet an Motorsteuergerät: Zu viel O₂ (λ &gt; 1) → mehr Kraftstoff einspritzen! Zu wenig O₂ (λ &lt; 1) → weniger Kraftstoff einspritzen! Ziel: λ = 1 halten! TYPEN: Sprungsonde (Zweipunkt): Alt! Spannung springt bei λ = 1 (von 0,1V auf 1,0V!). Breitband-Sonde: Modern! Kontinuierliche Messung (λ = 0,65-1,5!), präziser, schneller! POSITION: Vor-Kat-Sonde (Sonde 1): VOR Katalysator (nach Abgaskrümmer!), misst Ist-Zustand, regelt Gemisch auf λ = 1! Nach-Kat-Sonde (Sonde 2): NACH Katalysator, überwacht Kat-Funktion! Wenn Sonde 2 ähnlich wie Sonde 1 schwankt → Kat defekt! BETRIEBSTEMPERATUR: Min. 300-350°C! Elektrische Heizung in Sonde (schneller einsatzbereit - nach 20-30 Sek.!)! Merksatz: "Lambda-Sonde: Misst O₂, regelt auf λ = 1! Typen: Sprungsonde (alt!), Breitband (modern!)! Position: VOR Kat (regelt!), NACH Kat (überwacht!)!"<br><br>Frage 4: Erklären Sie Aufbau, Funktion und Regeneration des Dieselpartikelfilters. Warum sind Kurzstrecken problematisch?<br>Antwort: DIESELPARTIKELFILTER (DPF): Filtert Rußpartikel aus Abgas! Pflicht für alle Diesel-PKW seit 2011 (Euro 5b!)! AUFBAU: Filter-Monolith: Wabenstruktur (wie Kat!), Kanäle abwechselnd verschlossen (Eingang offen → Ausgang zu, Eingang zu → Ausgang offen!). Abgas muss durch poröse Wand (Porengröße 10-20 µm!) → Rußpartikel bleiben hängen (zu groß!)! Material: Siliziumkarbid (SiC - sehr hitzebeständig bis 1.500°C!)! FUNKTIONSPRINZIP - ZWEI PHASEN: Phase 1 - Filtration: Abgase strömen durch Filter, Rußpartikel bleiben in Wand hängen, gereinigte Abgase strömen weiter. Mit der Zeit sammelt sich Ruß → Gegendruck steigt → Leistungsverlust! Phase 2 - Regeneration (Abbrennen!): Filter wird voll (nach ca. 300-1.000 km!) → Ruß muss abgebrannt werden! ARTEN DER REGENERATION: 1. PASSIV: Automatisch bei Autobahnfahrt! Hohe Abgastemperatur (&gt; 600°C) → Ruß verbrennt! Keine Aktion nötig! 2. AKTIV: Motorsteuergerät erhöht Temperatur absichtlich (600-800°C!)! WIE? Mehr Kraftstoff einspritzen (Nacheinspritzung!) → verbrennt im Filter → Temperatur steigt! Dauer ca. 10-20 Min.! Häufigkeit alle 500-1.000 km! WICHTIG: NICHT unterbrechen (Motor weiterlaufen lassen!)! 3. MANUELL (Werkstatt): Wenn Filter zu voll (aktive Regeneration funktioniert nicht!) → Werkstatt erhöht Temperatur manuell oder Filter ausbauen + reinigen! KURZSTRECKEN = PROBLEM! Warum? 1. Motor wird nicht warm genug! 2. Regeneration findet nicht statt (braucht 600°C!)! 3. Filter setzt sich zu! 4. Kontrollleuchte leuchtet! 5. Notlaufprogramm (Motor leistet weniger!)! Lösung: Regelmäßig Autobahn fahren (30-60 Min. am Stück!), Motor warm fahren vor Abstellen, nicht nur Kurzstrecken (mind. 1x/Woche längere Strecke!)! KOSTEN BEI DEFEKT: Reinigung 300-800 €, Neuer Filter 800-2.500 €! Merksatz: "DPF: Filtert Ruß! Regeneration bei 600-800°C (Ruß abbrennen!)! Kurzstrecken = Problem (Filter setzt zu!)! Lösung: Regelmäßig Autobahn!"<br><br>Frage 5: Was ist das SCR-System beim Dieselmotor? Erklären Sie die Funktion von AdBlue und die chemische Reaktion.<br>Antwort: SCR-SYSTEM (Selective Catalytic Reduction - Dieselmotor): Reduziert Stickoxide (NOₓ) beim Dieselmotor! WARUM NÖTIG? Oxidationskatalysator (Diesel!) kann NOₓ NICHT reduzieren (wegen λ &gt; 1 - Luftüberschuss, zu viel Sauerstoff!)! SCR-System = Lösung! AUFBAU: 1. AdBlue-Tank: Separater Tank (10-25 Liter!), Harnstofflösung (32,5% Harnstoff + 67,5% Wasser!), Verbrauch ca. 1-2 L/1.000 km! 2. AdBlue-Einspritzdüse: Spritzt AdBlue in Abgasstrom (vor SCR-Kat!), Dosierung abhängig von NOₓ-Menge! 3. SCR-Katalysator: Spezielle Beschichtung (Titanoxid + Vanadium!), wandelt NOₓ um in N₂ + H₂O! FUNKTIONSPRINZIP - CHEMISCHE REAKTION: 1. AdBlue wird eingespritzt (vor SCR-Kat!). 2. Hitze (200-500°C!) zersetzt AdBlue → Ammoniak (NH₃!): (NH₂)₂CO + H₂O → 2 NH₃ + CO₂ (Harnstoff + Wasser → Ammoniak + Kohlendioxid). 3. Ammoniak reagiert mit NOₓ im SCR-Katalysator: 4 NH₃ + 4 NO + O₂ → 4 N₂ + 6 H₂O (Ammoniak + Stickoxide + Sauerstoff → Stickstoff + Wasser). 4. Ergebnis: NOₓ → N₂ (Stickstoff!) + H₂O (Wasser!) → ungiftig! ADBLUE - WICHTIGE INFOS: Was ist AdBlue? Harnstofflösung (32,5% Harnstoff, 67,5% Wasser!), farblos, ungiftig (nicht trinkbar!), gefriert bei -11°C (Tank beheizt!)! Verbrauch: 1-2 L/1.000 km, Tankgröße 10-25 L → Reichweite ca. 10.000-15.000 km! Nachfüllen: Tankstelle (eigene Zapfsäule!) oder Kanister (Baumarkt!), Kosten ca. 0,50-1,00 €/L! WICHTIG: AdBlue leer → Motor startet NICHT mehr (nach Warnung 2.000 km vorher!)! Gesetzliche Pflicht! NICHT mit Diesel verwechseln! AdBlue in Dieseltank = Motorschaden (20.000+ €!)! Merksatz: "SCR (Diesel!): AdBlue → zersetzt zu NH₃ (Ammoniak!) → reagiert mit NOₓ → N₂ + H₂O (ungiftig!)! Verbrauch 1-2 L/1.000 km! AdBlue leer = Motor startet nicht!"<br><br>Frage 6: Vergleichen Sie die Abgasreinigung beim Ottomotor und beim Dieselmotor. Welche Unterschiede gibt es?<br>Antwort: ABGASREINIGUNG VERGLEICH OTTO vs. DIESEL: OTTOMOTOR: Schadstoffe: CO, HC, NOₓ (geringe Mengen Ruß!). Gemisch: λ = 1 (stöchiometrisch - 14,7:1 Luft zu Kraftstoff!). Abgasreinigung: Drei-Wege-Katalysator: Wandelt CO + HC + NOₓ um → CO₂ + H₂O + N₂! Arbeitet nur bei λ = 1 (stöchiometrisch!) und 400-800°C! Lambda-Sonde: Misst O₂-Gehalt, regelt Gemisch auf λ = 1! Zwei Sonden: VOR Kat (regelt!), NACH Kat (überwacht!)! Besonderheiten: Problem Kaltstart (erste 1-3 Min. funktioniert Kat nicht - 90% Schadstoffe!), Vorkat (wird schneller warm!). DIESELMOTOR: Schadstoffe: CO, HC, NOₓ (HOHE Mengen!), viel Ruß/Feinstaub (PM!)! Gemisch: λ &gt; 1 (immer mager - Luftüberschuss!)! Abgasreinigung: 1. Oxidationskatalysator: Wandelt NUR CO + HC um (NICHT NOₓ!)! Warum kein NOₓ? Zu viel Sauerstoff (λ &gt; 1!) - NOₓ-Reduktion braucht λ = 1! 2. Dieselpartikelfilter (DPF): Filtert Rußpartikel! Regeneration nötig (Ruß abbrennen bei 600-800°C!), passiv (Autobahn!) oder aktiv (Motorsteuergerät!). Problem Kurzstrecken (Filter setzt zu!)! Pflicht seit 2011! 3. SCR-System (für NOₓ!): AdBlue (Harnstofflösung!) eingespritzt → zersetzt zu Ammoniak (NH₃!) → reagiert mit NOₓ → N₂ + H₂O! Verbrauch AdBlue 1-2 L/1.000 km! AdBlue leer = Motor startet nicht! HAUPTUNTERSCHIEDE: 1. Gemisch: Otto λ = 1, Diesel λ &gt; 1 (immer mager!)! 2. Katalysator: Otto Drei-Wege (CO + HC + NOₓ!), Diesel Oxidationskatalysator (nur CO + HC!)! 3. NOₓ-Reduktion: Otto im Drei-Wege-Kat, Diesel braucht SCR-System (AdBlue!)! 4. Ruß: Otto kaum Problem, Diesel braucht DPF (filtert Ruß!)! 5. Lambda-Sonde: Otto ja (regelt auf λ = 1!), Diesel nein (läuft immer mager!)! Merksatz: "Otto: Drei-Wege-Kat (CO + HC + NOₓ!) + Lambda-Sonde (λ = 1!)! Diesel: Oxidationskatalysator (nur CO + HC!) + DPF (Ruß!) + SCR (NOₓ mit AdBlue!)!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767526278193" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
