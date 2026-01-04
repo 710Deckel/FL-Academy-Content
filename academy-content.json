@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T15:13:38.104Z">
+    <meta name="last-updated" content="2026-01-04T15:28:27.559Z">
 </head>
 <body>
     <div id="academy-data">
@@ -6140,6 +6140,230 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767539616436" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Kraftstoffe - Otto, Diesel, Oktanzahl, Cetanzahl und Biokraftstoffe</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Unterschiede zwischen Ottokraftstoff und Dieselkraftstoff verstehen</div>
+                    <div class="lernziel">Oktanzahl und deren Bedeutung kennen</div>
+                    <div class="lernziel">Cetanzahl und deren Bedeutung kennen</div>
+                    <div class="lernziel">Verschiedene Kraftstoffarten unterscheiden können</div>
+                    <div class="lernziel">Biokraftstoffe und deren Eigenschaften verstehen</div>
+                    <div class="lernziel">Kraftstofflagerung und -kennzeichnung kennen</div>
+                    <div class="lernziel">Auswirkungen falscher Betankung kennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. OTTOKRAFTSTOFF (BENZIN) ⛽<br>WAS IST OTTOKRAFTSTOFF?<br>BENZIN = Gemisch aus Kohlenwasserstoffen (hauptsächlich C₇-C₁₁!)<br>HERKUNFT:<br>Erdöl → Destillation (Raffination!) → verschiedene Fraktionen → Benzin<br>SIEDEBEREICH:<br>30-210°C (leichtverdampfend!)<br><br>🔢 OKTANZAHL (ROZ/MOZ)<br>WAS IST DIE OKTANZAHL?<br>OKTANZAHL = Maß für die Klopffestigkeit des Kraftstoffs!<br>JE HÖHER die Oktanzahl → desto klopffester der Kraftstoff!<br><br>ZWEI WERTE:<br>1. ROZ (Research-Oktanzahl):<br><br>Research = Forschung<br>Gemessen bei niedriger Drehzahl (600 U/min!)<br>Simuliert Stadt-/Landstraßenfahrt<br>WICHTIGSTER WERT! (wird an Tankstelle angegeben!)<br><br>2. MOZ (Motor-Oktanzahl):<br><br>Motor = Motor<br>Gemessen bei hoher Drehzahl (900 U/min + höhere Belastung!)<br>Simuliert Autobahn/Volllast<br>Niedriger als ROZ (ca. 8-10 Punkte!)<br><br>BEISPIEL:<br><br>Super: ROZ 95 / MOZ 85<br>Super Plus: ROZ 98 / MOZ 88<br><br><br>OKTANZAHL IN DEUTSCHLAND<br>BezeichnungROZMOZVerwendungNormal (veraltet!)9182Alte Motoren (heute kaum noch!)Super (E5)9585Standard für die meisten OttomotorenSuper Plus (E5)9888Hochleistungsmotoren, SportmotorenSuper E109585Standard (mit 10% Bioethanol!)Super Plus 10010090Racing-Kraftstoff (sehr selten!)<br>E5 vs. E10:<br><br>E5: Max. 5% Bioethanol<br>E10: Max. 10% Bioethanol<br>E10 nicht für alle Fahrzeuge geeignet! (ältere Dichtungen können angegriffen werden!)<br><br><br>WIE WIRD OKTANZAHL GEMESSEN?<br>PRÜFMOTOR:<br>Kraftstoff wird getestet gegen Referenzgemisch:<br><br>Iso-Oktan (C₈H₁₈) = Oktanzahl 100 (sehr klopffest!)<br>n-Heptan (C₇H₁₆) = Oktanzahl 0 (klopft sehr leicht!)<br><br>BEISPIEL:<br>Kraftstoff verhält sich wie Gemisch aus 95% Iso-Oktan + 5% n-Heptan<br>→ Oktanzahl = 95 (ROZ 95!)<br><br>WARUM IST OKTANZAHL WICHTIG?<br>HÖHERE OKTANZAHL = Höhere Klopffestigkeit<br>VORTEILE:<br>✅ Höhere Verdichtung möglich! (mehr Wirkungsgrad!)<br>✅ Mehr Leistung! (Motorsteuergerät kann Zündzeitpunkt optimieren!)<br>✅ Kein Klopfen! (Motor läuft runder!)<br>HERSTELLERVORGABE BEACHTEN!<br>Beispiel:<br><br>Motor mit Verdichtung 12:1 → Mind. ROZ 95!<br>Mit ROZ 91 → Klopfen → Motorschaden!<br><br><br>🌡️ EIGENSCHAFTEN OTTOKRAFTSTOFF<br>DICHTE:<br>0,72-0,78 kg/L (leichter als Wasser 1,0 kg/L!)<br>ENERGIEDICHTE:<br>Ca. 32 MJ/L (Megajoule pro Liter)<br>HEIZWERT:<br>Ca. 43 MJ/kg<br>SIEDEPUNKT:<br>30-210°C (leichtverdampfend!)<br>ZÜNDTEMPERATUR:<br>Ca. 500°C (braucht Zündkerze!)<br>SELBSTENTZÜNDUNGSTEMPERATUR:<br>Ca. 200-300°C (niedriger als Zündtemperatur! - Gefahr bei Klopfen!)<br><br>MERKSATZ<br>"Ottokraftstoff (Benzin): Oktanzahl = Klopffestigkeit! ROZ 95 = Standard! Höhere Oktanzahl = klopffester, höhere Verdichtung möglich! Dichte 0,72-0,78 kg/L, Energiedichte 32 MJ/L, Zündtemperatur 500°C!"<br><br><br>2. DIESELKRAFTSTOFF 🚛<br>WAS IST DIESELKRAFTSTOFF?<br>DIESEL = Gemisch aus Kohlenwasserstoffen (hauptsächlich C₉-C₂₂!)<br>HERKUNFT:<br>Erdöl → Destillation (Raffination!) → verschiedene Fraktionen → Diesel<br>SIEDEBEREICH:<br>180-370°C (schwerverdampfend! - höher als Benzin!)<br><br>🔢 CETANZAHL (CZ)<br>WAS IST DIE CETANZAHL?<br>CETANZAHL = Maß für die Zündwilligkeit des Kraftstoffs!<br>JE HÖHER die Cetanzahl → desto schneller zündet der Kraftstoff → desto besser!<br>GEGENTEIL VON OKTANZAHL!<br><br>Oktanzahl: Hoher Wert = SCHWER zündbar (klopffest!)<br>Cetanzahl: Hoher Wert = LEICHT zündbar (zündwillig!)<br><br><br>CETANZAHL IN DEUTSCHLAND<br>BezeichnungCetanzahl (CZ)VerwendungDiesel (Standard)Min. 51Alle modernen DieselfahrzeugePremium DieselCa. 55-60Bessere Verbrennung, ruhigerer Lauf<br>GESETZLICHE MINDEST-CETANZAHL:<br>CZ 51 (nach DIN EN 590!)<br>MODERNE DIESEL:<br>Typisch CZ 51-55<br>PREMIUM-DIESEL:<br>Ca. CZ 55-60 (Shell V-Power Diesel, Aral Ultimate Diesel, etc.!)<br><br>WIE WIRD CETANZAHL GEMESSEN?<br>PRÜFMOTOR:<br>Kraftstoff wird getestet gegen Referenzgemisch:<br><br>Cetan (C₁₆H₃₄) = Cetanzahl 100 (zündet sehr leicht!)<br>α-Methylnaphthalen = Cetanzahl 0 (zündet sehr schwer!)<br><br>BEISPIEL:<br>Kraftstoff verhält sich wie Gemisch aus 55% Cetan + 45% α-Methylnaphthalen<br>→ Cetanzahl = 55 (CZ 55!)<br><br>WARUM IST CETANZAHL WICHTIG?<br>HÖHERE CETANZAHL = Bessere Zündwilligkeit<br>VORTEILE:<br>✅ Schnellere Selbstzündung! (kürzerer Zündverzug!)<br>✅ Ruhigerer Motorlauf! (weniger "Nageln"!)<br>✅ Besserer Kaltstart! (besonders bei niedrigen Temperaturen!)<br>✅ Weniger Emissionen! (vollständigere Verbrennung!)<br>ZU NIEDRIGE CETANZAHL:<br>❌ Langer Zündverzug (Diesel zündet nicht sofort!)<br>❌ Lauter Motorlauf ("Nageln"!)<br>❌ Schwerer Kaltstart!<br>❌ Mehr Emissionen (unvollständige Verbrennung!)<br><br>🌡️ EIGENSCHAFTEN DIESELKRAFTSTOFF<br>DICHTE:<br>0,82-0,85 kg/L (schwerer als Benzin 0,72-0,78 kg/L!)<br>ENERGIEDICHTE:<br>Ca. 36 MJ/L (höher als Benzin 32 MJ/L! - ca. 10% mehr!)<br>HEIZWERT:<br>Ca. 43 MJ/kg (ähnlich wie Benzin!)<br>SIEDEPUNKT:<br>180-370°C (schwerverdampfend!)<br>ZÜNDTEMPERATUR:<br>Ca. 220-350°C (niedriger als Benzin 500°C!)<br>SELBSTENTZÜNDUNGSTEMPERATUR:<br>Ca. 220-350°C (gleich wie Zündtemperatur! - deshalb Selbstzündung!)<br><br>❄️ WINTER-DIESEL vs. SOMMER-DIESEL<br>PROBLEM: VERSULZUNG<br>DIESEL enthält PARAFFINE (Wachse!)<br>BEI KÄLTE:<br><br>Paraffinkristalle bilden sich!<br>Filter verstopft!<br>Motor bekommt keinen Kraftstoff → startet nicht!<br><br><br>LÖSUNG: VERSCHIEDENE SORTEN<br>SOMMER-DIESEL:<br><br>Filtrierbarkeitsgrenze: ca. -5 bis -10°C<br>Nur im Sommer verwenden!<br>Günstiger!<br><br>WINTER-DIESEL (Übergangszeit-Diesel):<br><br>Filtrierbarkeitsgrenze: ca. -20°C<br>Ab Oktober! (Tankstellen stellen um!)<br>Etwas teurer!<br><br>ARKTIS-DIESEL:<br><br>Filtrierbarkeitsgrenze: bis -30°C<br>Für extreme Kälte! (Skandinavien, Russland!)<br>Selten in Deutschland!<br><br><br>ZUSATZ: FLIESSVERBESSERER<br>DIESEL-ADDITIV:<br><br>Verhindert Kristallbildung!<br>Senkt Filtrierbarkeitsgrenze um ca. 10-15°C!<br>Nachträglich in Tank geben möglich!<br>Kosten: ca. 5-15 € pro Flasche (für 50-100 L Diesel!)<br><br>WICHTIG:<br>Vor dem Versulzen zugeben! (wirkt nicht, wenn bereits versulzt!)<br><br>MERKSATZ<br>"Dieselkraftstoff: Cetanzahl = Zündwilligkeit! CZ min. 51! Höhere Cetanzahl = schnellere Zündung, ruhigerer Lauf! Dichte 0,82-0,85 kg/L, Energiedichte 36 MJ/L (höher als Benzin!), Zündtemperatur 220-350°C! Winter-Diesel ab Oktober (versulzt bei -20°C!), Sommer-Diesel bei -5 bis -10°C!"<br><br><br>3. BIOKRAFTSTOFFE 🌱<br>WAS SIND BIOKRAFTSTOFFE?<br>BIOKRAFTSTOFFE = Kraftstoffe aus nachwachsenden Rohstoffen (Pflanzen!)<br>ZIEL:<br><br>✅ CO₂-neutral! (Pflanzen nehmen CO₂ beim Wachstum auf!)<br>✅ Unabhängigkeit von Erdöl!<br>✅ Nachwachsend!<br><br><br>🌾 BIOETHANOL (FÜR OTTOMOTOREN)<br>WAS IST BIOETHANOL?<br>ETHANOL (C₂H₅OH) = Alkohol aus Pflanzen!<br>HERSTELLUNG:<br><br>Rohstoffe: Zuckerrüben, Mais, Weizen, Kartoffeln!<br>Prozess: Fermentation (Vergärung!) + Destillation<br>Ergebnis: Reines Ethanol (99,9%!)<br><br><br>E5, E10, E85<br>E5:<br><br>5% Bioethanol + 95% Benzin<br>Standard in Deutschland! (Super E5!)<br>Für alle Fahrzeuge geeignet!<br><br>E10:<br><br>10% Bioethanol + 90% Benzin<br>Standard in Deutschland! (Super E10!)<br>Nicht für alle Fahrzeuge! (ältere Dichtungen können angegriffen werden!)<br>Liste prüfen: www.dat.de/e10liste<br><br>E85:<br><br>85% Bioethanol + 15% Benzin<br>Flex-Fuel-Fahrzeuge (FFV!) nötig!<br>Selten in Deutschland! (kaum Tankstellen!)<br>Vorteil: Höhere Oktanzahl (ca. ROZ 104!)<br>Nachteil: Höherer Verbrauch (ca. 20-30% mehr!)<br><br><br>EIGENSCHAFTEN BIOETHANOL<br>OKTANZAHL:<br>Ca. ROZ 109! (sehr klopffest!)<br>ENERGIEDICHTE:<br>Ca. 21 MJ/L (niedriger als Benzin 32 MJ/L!)<br>FOLGE:<br>Höherer Verbrauch! (ca. 30% mehr bei E85!)<br>VORTEILE:<br>✅ CO₂-neutral! (bei Verbrennung wird nur CO₂ freigesetzt, das Pflanze vorher aufgenommen hat!)<br>✅ Höhere Oktanzahl! (weniger Klopfen!)<br>✅ Nachwachsend!<br>NACHTEILE:<br>❌ Niedriger Energiegehalt → höherer Verbrauch!<br>❌ Kann Dichtungen angreifen! (ältere Fahrzeuge!)<br>❌ "Tank oder Teller"-Debatte! (Nahrungsmittel vs. Kraftstoff!)<br><br>🌻 BIODIESEL (FÜR DIESELMOTOREN)<br>WAS IST BIODIESEL?<br>BIODIESEL = Pflanzenöl-Methylester (FAME - Fatty Acid Methyl Ester!)<br>HERSTELLUNG:<br><br>Rohstoffe: Rapsöl, Sonnenblumenöl, Sojaöl, Palmöl!<br>Prozess: Umesterung (Pflanzenöl + Methanol!)<br>Ergebnis: Biodiesel (RME - Rapsöl-Methylester!)<br><br><br>B7, B10, B100<br>B7:<br><br>7% Biodiesel + 93% Diesel<br>Standard in Deutschland!<br>Für alle modernen Dieselfahrzeuge geeignet!<br><br>B10:<br><br>10% Biodiesel + 90% Diesel<br>Nicht für alle Fahrzeuge! (Herstellerfreigabe prüfen!)<br><br>B100:<br><br>100% Biodiesel (reiner Biodiesel!)<br>Nur für Spezialfahrzeuge! (Umrüstung nötig!)<br>Selten in Deutschland!<br><br><br>EIGENSCHAFTEN BIODIESEL<br>CETANZAHL:<br>Ca. CZ 51-54 (ähnlich wie Diesel!)<br>ENERGIEDICHTE:<br>Ca. 33 MJ/L (niedriger als Diesel 36 MJ/L!)<br>FOLGE:<br>Leicht höherer Verbrauch! (ca. 5-10% mehr!)<br>VORTEILE:<br>✅ CO₂-neutral!<br>✅ Nachwachsend!<br>✅ Biologisch abbaubar! (weniger Umweltschaden bei Leckage!)<br>✅ Bessere Schmiereigenschaften! (schont Einspritzsystem!)<br>NACHTEILE:<br>❌ Niedriger Energiegehalt → höherer Verbrauch!<br>❌ Kann Dichtungen angreifen! (ältere Fahrzeuge!)<br>❌ Versulzt früher! (schon bei ca. 0°C!)<br>❌ "Tank oder Teller"-Debatte!<br><br>🔬 SYNTHETISCHE KRAFTSTOFFE (E-FUELS)<br>WAS SIND E-FUELS?<br>E-FUELS = Synthetische Kraftstoffe aus Strom + CO₂ + Wasser!<br>HERSTELLUNG:<br><br>Wasserstoff (H₂) aus Elektrolyse (Wasser + Strom!)<br>CO₂ aus Luft oder Industrie!<br>Synthese: H₂ + CO₂ → synthetischer Kraftstoff (Power-to-Liquid!)<br><br><br>VORTEILE E-FUELS:<br>✅ CO₂-neutral! (wenn Strom aus Erneuerbaren!)<br>✅ Kompatibel mit bestehenden Motoren! (Drop-in-Fuel!)<br>✅ Lagerfähig! (besser als Wasserstoff!)<br>✅ Bestehendes Tankstellennetz nutzbar!<br>NACHTEILE E-FUELS:<br>❌ Sehr teuer! (ca. 4-5 €/L!) - noch in Entwicklung!<br>❌ Niedriger Wirkungsgrad! (Strom → E-Fuel → Motor nur ca. 10-15%!)<br>❌ Braucht viel Strom! (besser direkt in Batterie!)<br>STATUS:<br>Noch in Entwicklung! (Pilotprojekte!) - evtl. für Flugzeuge, Schiffe sinnvoll!<br><br>MERKSATZ<br>"Biokraftstoffe: Bioethanol (E5, E10, E85!) für Otto, Biodiesel (B7, B10, B100!) für Diesel! Vorteile: CO₂-neutral, nachwachsend! Nachteile: Niedriger Energiegehalt, höherer Verbrauch! E-Fuels: Synthetisch aus Strom + CO₂, noch sehr teuer!"<br><br><br>4. FALSCHE BETANKUNG ⚠️<br>BENZIN IN DIESELMOTOR ⛽➡️🚛<br>WAS PASSIERT?<br>BENZIN HAT KEINE SCHMIERWIRKUNG!<br>DIESEL = schmiert Einspritzsystem! (Hochdruckpumpe, Injektoren!)<br>BENZIN = KEINE Schmierwirkung!<br><br>FOLGEN:<br>SOFORT:<br>❌ Einspritzsystem läuft trocken!<br>❌ Hochdruckpumpe wird zerstört! (Metall auf Metall!)<br>❌ Injektoren werden zerstört!<br>❌ Motor läuft unrund oder gar nicht!<br>LANGFRISTIG:<br>❌ TOTALSCHADEN EINSPRITZSYSTEM!<br><br>Hochdruckpumpe: ca. 1.000-3.000 €!<br>Injektoren: ca. 200-500 € pro Stück! (4-6 Stück!)<br>Common Rail: ca. 500-1.500 €!<br>Kraftstofftank reinigen: ca. 500-1.000 €!<br><br>GESAMTKOSTEN:<br>5.000-15.000 €! (evtl. Motorschaden!)<br><br>WAS TUN?<br>MOTOR NICHT STARTEN!<br>✅ Sofort: Zündung AUS lassen!<br>✅ Tankstelle informieren!<br>✅ Pannendienst rufen! (ADAC, etc.!)<br>✅ Tank absaugen lassen! (Fachbetrieb!)<br>✅ Kraftstoffsystem spülen!<br>KOSTEN BEI FRÜHERKENNUNG:<br>Ca. 500-1.500 € (Tank absaugen + spülen!)<br>WICHTIG:<br>Je weniger Benzin, desto besser! (z.B. nur 5 Liter auf 50 Liter Diesel = evtl. noch OK!)<br><br>DIESEL IN OTTOMOTOR 🚛➡️⛽<br>WAS PASSIERT?<br>DIESEL ZÜNDET NICHT DURCH ZÜNDKERZE!<br>ZÜNDTEMPERATUR:<br><br>Benzin: ca. 500°C<br>Diesel: ca. 220-350°C<br><br>ZÜNDKERZE kann Diesel NICHT zünden! (Funke zu schwach!)<br><br>FOLGEN:<br>SOFORT:<br>❌ Motor startet nicht! (oder läuft sehr schlecht!)<br>❌ Zündkerzen verrußen! (schwarze Ablagerungen!)<br>❌ Katalysator verstopft! (unverdampfter Diesel!)<br>❌ Starker weißer Rauch! (unverdampfter Diesel!)<br>LANGFRISTIG:<br>❌ Katalysator defekt! (ca. 400-1.800 €!)<br>❌ Zündkerzen defekt! (ca. 50-200 €!)<br>❌ Lambda-Sonde defekt! (ca. 100-300 €!)<br>GESAMTKOSTEN:<br>1.000-3.000 €!<br><br>WAS TUN?<br>MOTOR NICHT STARTEN!<br>✅ Sofort: Zündung AUS lassen!<br>✅ Tankstelle informieren!<br>✅ Pannendienst rufen!<br>✅ Tank absaugen lassen!<br>✅ Kraftstoffsystem spülen!<br>KOSTEN BEI FRÜHERKENNUNG:<br>Ca. 300-1.000 € (Tank absaugen + spülen!)<br>WENIGER DRAMATISCH als Benzin in Diesel! (keine Schmier-Problematik!)<br><br>🛡️ VERWECHSLUNGSSCHUTZ<br>TANKSTUTZEN:<br>DIESEL:<br>Größer! (ca. 23-25 mm Durchmesser!)<br>BENZIN:<br>Kleiner! (ca. 21-23 mm Durchmesser!)<br>SCHUTZ:<br>Diesel-Zapfpistole passt NICHT in Benzin-Tank! (zu dick!)<br>Benzin-Zapfpistole passt IN Diesel-Tank! (zu dünn!)<br>MODERNE FAHRZEUGE:<br>Misfuel Prevention! (mechanische Sperre verhindert falsche Zapfpistole!)<br><br>MERKSATZ<br>"Falsche Betankung: Benzin in Diesel = SEHR TEUER! (5.000-15.000 €! - Einspritzsystem zerstört!), Diesel in Otto = TEUER! (1.000-3.000 €! - Kat defekt!). WICHTIG: Motor NICHT starten, Tank absaugen lassen!"<br><br><br>5. KRAFTSTOFFLAGERUNG &amp; KENNZEICHNUNG 📦<br>LAGERUNG ZUHAUSE<br>GESETZLICHE REGELUNG:<br>BENZIN:<br><br>Max. 20 Liter in Wohnung/Haus!<br>Max. 200 Liter in Garage (mit Entlüftung!)<br>Nur in zugelassenen Kanistern! (UN-zertifiziert!)<br><br>DIESEL:<br><br>Max. 200 Liter in Wohnung/Haus!<br>Max. 1.000 Liter in Garage!<br>Weniger gefährlich als Benzin! (höherer Flammpunkt!)<br><br><br>📦 KRAFTSTOFFKANISTER<br>FARBEN:<br>ROT:<br>Benzin (Ottokraftstoff!)<br>GELB:<br>Diesel!<br>GRÜN:<br>Gemisch (2-Takt!) oder AdBlue (selten!)<br>BLAU:<br>Wasser (kein Kraftstoff!) oder AdBlue!<br>WICHTIG:<br>Nicht verwechseln! (Farben können regional abweichen!)<br><br>⚠️ GEFAHRENSYMBOLE<br>BENZIN:<br>GHS02: Flamme (Hochentzündlich!)<br>GHS08: Gesundheitsgefahr (Krebserregend!)<br>GHS07: Ausrufezeichen (Reizend!)<br>GHS09: Umwelt (Gewässergefährdend!)<br>H-SÄTZE (GEFAHRENHINWEISE):<br><br>H224: Flüssigkeit und Dampf extrem entzündbar!<br>H304: Kann bei Verschlucken tödlich sein!<br>H315: Verursacht Hautreizungen!<br>H350: Kann Krebs erzeugen!<br><br>P-SÄTZE (SICHERHEITSHINWEISE):<br><br>P210: Von Hitze, Funken, offener Flamme fernhalten!<br>P280: Schutzhandschuhe tragen!<br>P301+P310: Bei Verschlucken sofort Arzt anrufen!<br><br><br>DIESEL:<br>GHS08: Gesundheitsgefahr (Krebserregend!)<br>GHS09: Umwelt (Gewässergefährdend!)<br>WENIGER GEFÄHRLICH als Benzin! (höherer Flammpunkt!)<br><br>🔥 FLAMMPUNKT<br>FLAMMPUNKT = Temperatur, bei der Kraftstoff bei Kontakt mit Zündquelle entflammt!<br>BENZIN:<br>Ca. -20°C! (extrem niedrig! - schon bei Zimmertemperatur gefährlich!)<br>DIESEL:<br>Ca. +55°C! (viel höher! - bei Zimmertemperatur NICHT entflammbar!)<br>FOLGE:<br>BENZIN = Hochentzündlich! (schon kleinste Funken → Explosion!)<br>DIESEL = Schwer entflammbar! (braucht hohe Temperatur!)<br><br>MERKSATZ<br>"Lagerung: Benzin max. 20 L (Wohnung!), Diesel max. 200 L! Kanister: ROT = Benzin, GELB = Diesel! Flammpunkt: Benzin -20°C (hochentzündlich!), Diesel +55°C (schwer entflammbar!)!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>OTTOKRAFTSTOFF (BENZIN):<br>→ Oktanzahl (ROZ) = Klopffestigkeit! ROZ 95 = Standard (Super!), ROZ 98 = Super Plus! Höhere Oktanzahl = klopffester, höhere Verdichtung möglich!<br>→ Gemessen: Prüfmotor gegen Referenzgemisch (Iso-Oktan = 100, n-Heptan = 0!)<br>→ E5 vs. E10: E5 = 5% Bioethanol, E10 = 10% Bioethanol (nicht für alle Fahrzeuge!)<br>→ Eigenschaften: Dichte 0,72-0,78 kg/L, Energiedichte 32 MJ/L, Siedepunkt 30-210°C, Zündtemperatur 500°C, Flammpunkt -20°C (hochentzündlich!)<br>DIESELKRAFTSTOFF:<br>→ Cetanzahl (CZ) = Zündwilligkeit! Min. CZ 51! Höhere Cetanzahl = schnellere Zündung, ruhigerer Lauf, besserer Kaltstart!<br>→ Gemessen: Prüfmotor gegen Referenzgemisch (Cetan = 100, α-Methylnaphthalen = 0!)<br>→ Winter-Diesel: Filtrierbarkeitsgrenze -20°C (ab Oktober!), Sommer-Diesel: -5 bis -10°C! Paraffinkristalle bei Kälte → Filter verstopft!<br>→ Eigenschaften: Dichte 0,82-0,85 kg/L, Energiedichte 36 MJ/L (höher als Benzin!), Siedepunkt 180-370°C, Zündtemperatur 220-350°C, Flammpunkt +55°C (schwer entflammbar!)<br>BIOKRAFTSTOFFE:<br>→ Bioethanol: E5 (5%), E10 (10%), E85 (85%!) für Ottomotoren! Oktanzahl ca. ROZ 109! Energiedichte 21 MJ/L (niedriger → 30% mehr Verbrauch bei E85!)<br>→ Biodiesel: B7 (7% - Standard!), B10 (10%), B100 (100%!) für Dieselmotoren! Cetanzahl ca. CZ 51-54! Energiedichte 33 MJ/L (niedriger → 5-10% mehr Verbrauch!)<br>→ Vorteile: CO₂-neutral, nachwachsend! Nachteile: Niedriger Energiegehalt, kann Dichtungen angreifen, "Tank oder Teller"!<br>→ E-Fuels: Synthetisch aus Strom + CO₂ + Wasser! Vorteil: CO₂-neutral, kompatibel! Nachteil: Sehr teuer (4-5 €/L!), niedriger Wirkungsgrad (10-15%!)<br>FALSCHE BETANKUNG:<br>→ Benzin in Diesel: SEHR TEUER! (5.000-15.000 €!) Benzin hat keine Schmierwirkung → Einspritzsystem zerstört (Hochdruckpumpe, Injektoren!)! Motor NICHT starten, Tank absaugen!<br>→ Diesel in Otto: TEUER! (1.000-3.000 €!) Diesel zündet nicht durch Zündkerze → Motor startet nicht, Kat verstopft, Zündkerzen verrußt! Motor NICHT starten, Tank absaugen!<br>→ Schutz: Diesel-Zapfpistole größer (passt nicht in Benzin-Tank!), moderne Fahrzeuge: Misfuel Prevention!<br>LAGERUNG &amp; KENNZEICHNUNG:<br>→ Lagerung: Benzin max. 20 L (Wohnung!), Diesel max. 200 L! Nur in zugelassenen Kanistern (UN-zertifiziert!)<br>→ Kanisterfarben: ROT = Benzin, GELB = Diesel, BLAU = AdBlue<br>→ Flammpunkt: Benzin -20°C (hochentzündlich!), Diesel +55°C (schwer entflammbar!)</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: TANKE IMMER SUPER PLUS - LOHNT SICH DAS?
+SITUATION:
+Fahrschüler fragt: "Ich tanke immer Super Plus (ROZ 98), obwohl mein Auto nur Super (ROZ 95) braucht. Lohnt sich das?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+KOMMT AUF DEN MOTOR AN!
+
+FALL 1: NORMALER MOTOR (VERDICHTUNG 10:1-11:1)
+HERSTELLERVORGABE: "Mind. ROZ 95"
+MIT SUPER PLUS (ROZ 98):
+VORTEILE:
+✅ Kein Klopfen (auch bei Volllast!)
+✅ Motor läuft evtl. etwas runder!
+NACHTEILE:
+❌ Teurer! (ca. 5-10 Cent/L mehr!)
+❌ Kaum Leistungsgewinn! (Motorsteuergerät ist auf ROZ 95 abgestimmt!)
+❌ Kaum Verbrauchsvorteil! (weniger als 1% Ersparnis!)
+FAZIT:
+Lohnt sich NICHT! (Mehrkosten höher als Einsparung!)
+
+FALL 2: HOCHLEISTUNGSMOTOR (VERDICHTUNG 12:1-13:1, TURBO)
+HERSTELLERVORGABE: "Mind. ROZ 98" oder "Empfohlen ROZ 98"
+MIT SUPER PLUS (ROZ 98):
+VORTEILE:
+✅ Motorsteuergerät kann Zündzeitpunkt optimieren!
+✅ Mehr Leistung! (ca. 3-5% mehr!)
+✅ Weniger Verbrauch! (ca. 2-5% weniger!)
+✅ Kein Klopfen!
+✅ Motor läuft runder!
+NACHTEILE:
+❌ Teurer! (ca. 5-10 Cent/L mehr!)
+FAZIT:
+Lohnt sich! (Mehrleistung + geringerer Verbrauch kompensiert Mehrkosten!)
+
+FALL 3: SPORTMOTOR (HOCHVERDICHTUNG, TUNING)
+HERSTELLERVORGABE: "Nur ROZ 98!" oder "Min. ROZ 98"
+MIT SUPER (ROZ 95):
+❌ Klopfen! (Motor ist für ROZ 98 ausgelegt!)
+❌ Motorschaden-Gefahr!
+❌ Leistungsverlust! (Klopfsensor erkennt Klopfen → Zündzeitpunkt später!)
+MIT SUPER PLUS (ROZ 98):
+✅ Kein Klopfen!
+✅ Volle Leistung!
+✅ Motor läuft optimal!
+FAZIT:
+MUSS sein! (keine Alternative!)
+
+ANTWORT:
+→ Kommt auf Motor an! Normaler Motor (Verdichtung 10:1-11:1, "Mind. ROZ 95"!) → Super Plus lohnt sich NICHT! (Mehrkosten höher als Vorteil!)
+→ Hochleistungsmotor (Verdichtung 12:1-13:1, Turbo, "Empfohlen ROZ 98"!) → Super Plus lohnt sich! (3-5% mehr Leistung, 2-5% weniger Verbrauch!)
+→ Sportmotor (Hochverdichtung, "Nur ROZ 98"!) → Super Plus MUSS sein! (sonst Klopfen → Motorschaden!)
+→ Herstellervorgabe prüfen! (Tankdeckel, Bedienungsanleitung!)</div>
+                        <div class="beispiel">BEISPIEL 2: E10 ODER E5 TANKEN?
+SITUATION:
+Fahrschüler fragt: "An der Tankstelle gibt es E10 (95) und Super E5 (95). Was ist der Unterschied? Welches soll ich tanken?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+UNTERSCHIED:
+E10:
+
+10% Bioethanol + 90% Benzin
+ROZ 95 (gleiche Oktanzahl wie Super E5!)
+Günstiger! (ca. 3-5 Cent/L!)
+
+SUPER E5:
+
+5% Bioethanol + 95% Benzin
+ROZ 95
+Teurer!
+
+
+VERTRÄGLICHKEIT PRÜFEN!
+E10 NICHT für alle Fahrzeuge geeignet!
+PROBLEM:
+Bioethanol kann Dichtungen angreifen! (besonders bei älteren Fahrzeugen!)
+LISTE PRÜFEN:
+www.dat.de/e10liste
+EINGABE:
+Hersteller + Modell + Baujahr
+ERGEBNIS:
+
+✅ Grün: E10 geeignet!
+❌ Rot: E10 NICHT geeignet! (nur E5!)
+
+
+E10 GEEIGNET:
+VORTEILE:
+✅ Günstiger! (ca. 3-5 Cent/L! - bei 50 L = 1,50-2,50 € gespart!)
+✅ Gleiche Oktanzahl! (ROZ 95!)
+✅ Umweltfreundlicher! (10% CO₂-neutral!)
+NACHTEILE:
+❌ Leicht höherer Verbrauch! (ca. 1-2% mehr! - Bioethanol hat weniger Energie!)
+FAZIT:
+E10 tanken! (günstiger, trotz leicht höherem Verbrauch!)
+
+E10 NICHT GEEIGNET:
+❌ Dichtungen können beschädigt werden!
+❌ Kraftstoffsystem kann defekt gehen!
+❌ Kosten: ca. 500-2.000 €!
+LÖSUNG:
+NUR E5 tanken! (auch wenn teurer!)
+
+ANTWORT:
+→ E10 vs. E5: Beide ROZ 95 (gleiche Oktanzahl!), Unterschied: E10 = 10% Bioethanol, E5 = 5%! E10 ca. 3-5 Cent/L günstiger!
+→ Verträglichkeit prüfen! www.dat.de/e10liste → Hersteller + Modell + Baujahr eingeben!
+→ E10 geeignet: E10 tanken! (günstiger, trotz 1-2% mehr Verbrauch!)
+→ E10 NICHT geeignet: NUR E5 tanken! (Bioethanol greift Dichtungen an → Schaden 500-2.000 €!)
+→ Faustregel: Fahrzeuge ab ca. 2012 meist E10-geeignet, ältere oft nicht!</div>
+                        <div class="beispiel">BEISPIEL 3: VERSEHENTLICH 5 LITER BENZIN IN DIESEL-TANK - WAS TUN?
+SITUATION:
+Fahrschüler hat 5 Liter Benzin in seinen Diesel-Tank (50 Liter Diesel bereits drin!) getankt! Motor noch nicht gestartet!
+FRAGE: Was tun?
+
+ANALYSE:
+MISCHUNG:
+5 Liter Benzin + 50 Liter Diesel = 55 Liter gesamt
+BENZIN-ANTEIL:
+5 / 55 = ca. 9%
+
+GRENZWERTE:
+BIS CA. 5% BENZIN:
+Evtl. noch tolerierbar! (moderner Diesel mit Common-Rail!)
+5-10% BENZIN:
+GRAUZONE! (kann gutgehen, kann schiefgehen!)
+ÜBER 10% BENZIN:
+GEFÄHRLICH! (Einspritzsystem wird beschädigt!)
+
+EMPFEHLUNG:
+BEI 9% BENZIN:
+OPTION 1: TANK ABSAUGEN (SICHER!)
+✅ Sofort: Pannendienst rufen! (ADAC, etc.!)
+✅ Tank absaugen lassen! (Fachbetrieb!)
+✅ Kraftstoffsystem spülen!
+✅ Mit Diesel nachfüllen!
+KOSTEN:
+Ca. 500-1.000 €
+VORTEIL:
+Kein Risiko! (Einspritzsystem bleibt intakt!)
+
+OPTION 2: VERDÜNNEN (RISKANT!)
+⚠️ Mit Diesel auffüllen!
+BEISPIEL:
+Tank voll machen (z.B. 65 Liter gesamt!)
+→ 5 Liter Benzin / 65 Liter = ca. 7,7%
+Noch mehr verdünnen:
+Gleich nach Tankstelle nochmal tanken (z.B. 80 Liter gesamt!)
+→ 5 Liter Benzin / 80 Liter = ca. 6,3%
+DANN:
+Motor vorsichtig starten!
+Aufmerksam fahren! (auf unrunde Motorlauf achten!)
+Nächste Tankstelle: Wieder volltanken (weiter verdünnen!)
+RISIKO:
+Einspritzsystem könnte trotzdem Schaden nehmen! (besonders bei älteren Dieseln!)
+
+FAZIT:
+SICHER:
+Tank absaugen lassen! (500-1.000 €!)
+RISKANT:
+Verdünnen + vorsichtig fahren! (evtl. Schaden 5.000-15.000 €!)
+EMPFEHLUNG:
+Tank absaugen! (Risiko nicht wert!)
+
+WICHTIG:
+MOTOR NICHT STARTEN, bevor Entscheidung getroffen!
+Warum?
+Sobald Motor läuft, wird Benzin durch Einspritzsystem gepumpt → Schaden!
+
+ANTWORT:
+→ 5 Liter Benzin in 50 Liter Diesel = 9% Benzin! Grauzone (5-10%!)
+→ Sicher: Tank absaugen lassen (Pannendienst!), Kraftstoffsystem spülen, Kosten 500-1.000 €! Vorteil: Kein Risiko!
+→ Riskant: Mit Diesel verdünnen (auf ca. 6-7%!), vorsichtig fahren! RISIKO: Einspritzsystem könnte Schaden nehmen (5.000-15.000 €!)
+→ Empfehlung: Tank absaugen! (Risiko nicht wert!)
+→ WICHTIG: Motor NICHT starten vor Entscheidung! (sonst Benzin durch System → Schaden!)</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: OTTOKRAFTSTOFF &amp; DIESELKRAFTSTOFF (60 Min)<br>Einstieg (10 Min):<br>Methode: Demonstration + Frage<br>Ablauf: Dozent zeigt zwei Kanister (rot = Benzin, gelb = Diesel) und fragt: "Was ist der Unterschied?" Anwärter sammeln (Farbe, Geruch, Verwendung!). Auflösung: Oktanzahl vs. Cetanzahl! Überleitung: "Heute lernen wir Kraftstoffe im Detail!"<br>Ziel: Interesse wecken, Vorwissen aktivieren<br><br>Hauptteil (45 Min):<br>Phase 1: Ottokraftstoff &amp; Oktanzahl (20 Min)<br>Dozent erklärt: Oktanzahl (ROZ) = Klopffestigkeit! ROZ 95 = Standard, ROZ 98 = Super Plus! Höhere Oktanzahl = klopffester, höhere Verdichtung möglich! Gemessen: Prüfmotor gegen Iso-Oktan (100) und n-Heptan (0)! E5 vs. E10: 5% vs. 10% Bioethanol! Eigenschaften: Dichte 0,72-0,78 kg/L, Energiedichte 32 MJ/L, Flammpunkt -20°C (hochentzündlich!)<br>Phase 2: Dieselkraftstoff &amp; Cetanzahl (20 Min)<br>Dozent erklärt: Cetanzahl (CZ) = Zündwilligkeit! Min. CZ 51! Höhere Cetanzahl = schnellere Zündung, ruhigerer Lauf! GEGENTEIL von Oktanzahl! (hoch = leicht zündbar vs. schwer zündbar!) Winter-Diesel: Filtrierbarkeitsgrenze -20°C, Sommer-Diesel -5 bis -10°C! Eigenschaften: Dichte 0,82-0,85 kg/L, Energiedichte 36 MJ/L (höher als Benzin!), Flammpunkt +55°C (schwer entflammbar!)<br>Phase 3: Vergleich (5 Min)<br>Dozent zeigt Vergleichstabelle: Oktanzahl vs. Cetanzahl, Dichte, Energiedichte, Flammpunkt! Wichtig: Diesel hat mehr Energie pro Liter (36 vs. 32 MJ/L!)<br><br>Schluss (5 Min):<br>Sicherung: "Oktanzahl = ?" → Klopffestigkeit! "Cetanzahl = ?" → Zündwilligkeit!<br>Ausblick: "Nächste Stunde: Biokraftstoffe + Falsche Betankung!"<br><br>UNTERRICHTSEINHEIT 2: BIOKRAFTSTOFFE &amp; FALSCHE BETANKUNG (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "ROZ 95 bedeutet?" → 95% Iso-Oktan, 5% n-Heptan!<br><br>Hauptteil (50 Min):<br>Phase 1: Biokraftstoffe (20 Min)<br>Dozent erklärt: Bioethanol (E5, E10, E85!) für Otto, Biodiesel (B7, B10, B100!) für Diesel! Vorteile: CO₂-neutral, nachwachsend! Nachteile: Niedriger Energiegehalt (30% mehr Verbrauch bei E85!), kann Dichtungen angreifen! E-Fuels: Synthetisch aus Strom + CO₂, noch sehr teuer (4-5 €/L!)!<br>Phase 2: Falsche Betankung (25 Min)<br>Gruppenarbeit: Anwärter erarbeiten: 1. Benzin in Diesel - was passiert? 2. Diesel in Otto - was passiert? 3. Kosten? 4. Was tun? Präsentation! Dozent ergänzt: Benzin in Diesel SEHR TEUER! (5.000-15.000 €! - Einspritzsystem zerstört!), Diesel in Otto TEUER! (1.000-3.000 €! - Kat defekt!), Motor NICHT starten, Tank absaugen!<br>Phase 3: Lagerung &amp; Kennzeichnung (5 Min)<br>Dozent erklärt: Lagerung: Benzin max. 20 L, Diesel max. 200 L! Kanister: ROT = Benzin, GELB = Diesel! Flammpunkt: Benzin -20°C (hochentzündlich!), Diesel +55°C!<br><br>Schluss (5 Min):<br>Sicherung: "E10 = ?" → 10% Bioethanol! "Benzin in Diesel = ?" → Einspritzsystem defekt (5.000-15.000 €!)<br>Hausaufgabe: Erstelle Tabelle: Otto vs. Diesel (Oktanzahl, Cetanzahl, Dichte, Energiedichte, Flammpunkt!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Oktanzahl vs. Cetanzahl klar unterscheiden! (gegenteiliger Bedeutung!)<br>Falsche Betankung dramatisch darstellen! (sehr teuer!)<br>E10-Verträglichkeit betonen! (nicht für alle Fahrzeuge!)<br>Winter-Diesel wichtig! (Versulzung bei Kälte!)<br>Praktische Beispiele nutzen! (Tanksituation!)<br><br>Häufige Fehler der Anwärter:<br><br>Verwechseln Oktanzahl und Cetanzahl (gegenteilig!)<br>Denken, E10 ist für alle Fahrzeuge OK (NEIN! Prüfen!)<br>Unterschätzen Kosten falscher Betankung (ist SEHR teuer!)<br>Denken, Diesel ist im Winter gleich (NEIN! Winter-Diesel nötig!)<br>Verwechseln Kanisterfarben (ROT = Benzin, GELB = Diesel!)<br><br>Tipps &amp; Tricks:<br><br>Kraftstoffproben zeigen! (Benzin vs. Diesel - Farbe, Geruch!)<br>Kanister zeigen! (verschiedene Farben!)<br>E10-Liste zeigen! (www.dat.de/e10liste!)<br>Falsche Betankung: Video zeigen! (Schaden am Motor!)<br>Merksätze auswendig lernen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Was ist die Oktanzahl? Wie wird sie gemessen und welche Werte gibt es in Deutschland?<br>Antwort: OKTANZAHL (ROZ): Maß für die Klopffestigkeit des Kraftstoffs! JE HÖHER die Oktanzahl → desto klopffester der Kraftstoff → desto höhere Verdichtung möglich! ZWEI WERTE: 1. ROZ (Research-Oktanzahl): Gemessen bei niedriger Drehzahl (600 U/min!), simuliert Stadt-/Landstraßenfahrt, WICHTIGSTER WERT (wird an Tankstelle angegeben!)! 2. MOZ (Motor-Oktanzahl): Gemessen bei hoher Drehzahl (900 U/min + höhere Belastung!), simuliert Autobahn/Volllast, niedriger als ROZ (ca. 8-10 Punkte!)! MESSUNG: Prüfmotor: Kraftstoff wird getestet gegen Referenzgemisch: Iso-Oktan (C₈H₁₈) = Oktanzahl 100 (sehr klopffest!), n-Heptan (C₇H₁₆) = Oktanzahl 0 (klopft sehr leicht!). Beispiel: Kraftstoff verhält sich wie Gemisch aus 95% Iso-Oktan + 5% n-Heptan → Oktanzahl = 95 (ROZ 95!)! WERTE IN DEUTSCHLAND: Normal (veraltet!): ROZ 91 / MOZ 82 (alte Motoren!), Super (E5): ROZ 95 / MOZ 85 (Standard für die meisten Ottomotoren!), Super Plus (E5): ROZ 98 / MOZ 88 (Hochleistungsmotoren, Sportmotoren!), Super E10: ROZ 95 / MOZ 85 (Standard mit 10% Bioethanol!), Super Plus 100: ROZ 100 / MOZ 90 (Racing-Kraftstoff - sehr selten!)! E5 vs. E10: E5 = max. 5% Bioethanol, E10 = max. 10% Bioethanol (nicht für alle Fahrzeuge geeignet!)! Merksatz: "Oktanzahl = Klopffestigkeit! ROZ 95 = Standard! Gemessen gegen Iso-Oktan (100) und n-Heptan (0)!"<br><br>Frage 2: Was ist die Cetanzahl? Wie unterscheidet sie sich von der Oktanzahl? Welche Werte gibt es?<br>Antwort: CETANZAHL (CZ): Maß für die Zündwilligkeit des Kraftstoffs! JE HÖHER die Cetanzahl → desto schneller zündet der Kraftstoff → desto besser (schnellere Selbstzündung, ruhigerer Lauf!)! UNTERSCHIED ZUR OKTANZAHL: GEGENTEIL VON OKTANZAHL! Oktanzahl: Hoher Wert = SCHWER zündbar (klopffest! - Benzin soll NICHT selbst zünden!), Cetanzahl: Hoher Wert = LEICHT zündbar (zündwillig! - Diesel soll schnell selbst zünden!)! MESSUNG: Prüfmotor: Kraftstoff wird getestet gegen Referenzgemisch: Cetan (C₁₆H₃₄) = Cetanzahl 100 (zündet sehr leicht!), α-Methylnaphthalen = Cetanzahl 0 (zündet sehr schwer!). Beispiel: Kraftstoff verhält sich wie Gemisch aus 55% Cetan + 45% α-Methylnaphthalen → Cetanzahl = 55 (CZ 55!)! WERTE IN DEUTSCHLAND: Diesel (Standard): Min. CZ 51 (gesetzliche Mindest-Cetanzahl nach DIN EN 590!), typisch CZ 51-55! Premium Diesel: Ca. CZ 55-60 (bessere Verbrennung, ruhigerer Lauf! - z.B. Shell V-Power Diesel, Aral Ultimate Diesel!)! WARUM WICHTIG? Höhere Cetanzahl: ✅ Schnellere Selbstzündung (kürzerer Zündverzug!), ruhigerer Motorlauf (weniger "Nageln"!), besserer Kaltstart (besonders bei niedrigen Temperaturen!), weniger Emissionen (vollständigere Verbrennung!)! Zu niedrige Cetanzahl: ❌ Langer Zündverzug (Diesel zündet nicht sofort!), lauter Motorlauf ("Nageln"!), schwerer Kaltstart, mehr Emissionen! Merksatz: "Cetanzahl = Zündwilligkeit! Min. CZ 51! GEGENTEIL Oktanzahl (hoch = leicht zündbar vs. schwer zündbar!)! Gemessen gegen Cetan (100)!"<br><br>Frage 3: Erklären Sie die Problematik von Winter- und Sommer-Diesel. Warum versulzt Diesel bei Kälte?<br>Antwort: PROBLEM: VERSULZUNG: Diesel enthält PARAFFINE (Wachse!)! BEI KÄLTE: Paraffinkristalle bilden sich! Filter verstopft! Motor bekommt keinen Kraftstoff → startet nicht! WARUM PARAFFINE? Paraffine sind natürlicher Bestandteil von Diesel (Kohlenwasserstoffe!). Bei normaler Temperatur: flüssig. Bei Kälte: kristallisieren (werden fest!)! Kristalle setzen sich im Kraftstofffilter ab → Filter verstopft! LÖSUNG: VERSCHIEDENE SORTEN: SOMMER-DIESEL: Filtrierbarkeitsgrenze ca. -5 bis -10°C (versulzt bei diesen Temperaturen!), nur im Sommer verwenden, günstiger! WINTER-DIESEL (Übergangszeit-Diesel): Filtrierbarkeitsgrenze ca. -20°C (versulzt erst bei -20°C!), ab Oktober (Tankstellen stellen um!), etwas teurer! ARKTIS-DIESEL: Filtrierbarkeitsgrenze bis -30°C, für extreme Kälte (Skandinavien, Russland!), selten in Deutschland! ZUSATZ: FLIESSVERBESSERER (DIESEL-ADDITIV): Verhindert Kristallbildung! Senkt Filtrierbarkeitsgrenze um ca. 10-15°C! Nachträglich in Tank geben möglich! Kosten ca. 5-15 € pro Flasche (für 50-100 L Diesel!)! WICHTIG: Vor dem Versulzen zugeben (wirkt nicht, wenn bereits versulzt!)! PRAKTISCHE BEDEUTUNG: Im Sommer mit Sommer-Diesel fahren (günstiger!). Ab Oktober: Automatisch Winter-Diesel an Tankstelle! Bei Urlaub im Süden (z.B. Spanien im Winter!): Evtl. Sommer-Diesel getankt → bei Rückkehr nach Deutschland (Kälte!) → versulzt! → Motor startet nicht! Lösung: Fließverbesserer mitführen oder Tank vor Heimfahrt leeren + Winter-Diesel tanken! Merksatz: "Diesel: Paraffine kristallisieren bei Kälte → Filter verstopft → Motor startet nicht! Sommer-Diesel -5 bis -10°C, Winter-Diesel -20°C (ab Oktober!)!"<br><br>Frage 4: Was sind Biokraftstoffe? Nennen Sie Beispiele für Otto- und Dieselmotoren sowie Vor- und Nachteile.<br>Antwort: BIOKRAFTSTOFFE: Kraftstoffe aus nachwachsenden Rohstoffen (Pflanzen!)! ZIEL: ✅ CO₂-neutral (Pflanzen nehmen CO₂ beim Wachstum auf!), Unabhängigkeit von Erdöl, nachwachsend! BIOETHANOL (FÜR OTTOMOTOREN): ETHANOL (C₂H₅OH) = Alkohol aus Pflanzen! Herstellung: Rohstoffe (Zuckerrüben, Mais, Weizen!), Prozess: Fermentation (Vergärung!) + Destillation! E5: 5% Bioethanol + 95% Benzin, Standard (Super E5!), für alle Fahrzeuge! E10: 10% Bioethanol + 90% Benzin, Standard (Super E10!), NICHT für alle Fahrzeuge (Liste prüfen: www.dat.de/e10liste!)! E85: 85% Bioethanol + 15% Benzin, Flex-Fuel-Fahrzeuge (FFV!) nötig, selten in Deutschland! Eigenschaften: Oktanzahl ca. ROZ 109 (sehr klopffest!), Energiedichte ca. 21 MJ/L (niedriger als Benzin 32 MJ/L!) → höherer Verbrauch (ca. 30% mehr bei E85!)! BIODIESEL (FÜR DIESELMOTOREN): BIODIESEL = Pflanzenöl-Methylester (FAME!)! Herstellung: Rohstoffe (Rapsöl, Sonnenblumenöl!), Prozess: Umesterung (Pflanzenöl + Methanol!)! B7: 7% Biodiesel + 93% Diesel, Standard in Deutschland! B10: 10% Biodiesel + 90% Diesel, nicht für alle Fahrzeuge! B100: 100% Biodiesel, nur für Spezialfahrzeuge (Umrüstung!)! Eigenschaften: Cetanzahl ca. CZ 51-54, Energiedichte ca. 33 MJ/L (niedriger als Diesel 36 MJ/L!) → leicht höherer Verbrauch (5-10%)! VORTEILE BIOKRAFTSTOFFE: ✅ CO₂-neutral (bei Verbrennung nur CO₂, das Pflanze vorher aufgenommen!), nachwachsend (unabhängig von Erdöl!), biologisch abbaubar (weniger Umweltschaden bei Leckage! - besonders Biodiesel!), Biodiesel: bessere Schmiereigenschaften (schont Einspritzsystem!)! NACHTEILE BIOKRAFTSTOFFE: ❌ Niedriger Energiegehalt → höherer Verbrauch (E85: +30%, Biodiesel: +5-10%!), kann Dichtungen angreifen (ältere Fahrzeuge!), "Tank oder Teller"-Debatte (Nahrungsmittel vs. Kraftstoff!), Biodiesel: versulzt früher (schon bei 0°C!)! E-FUELS (SYNTHETISCHE KRAFTSTOFFE): Aus Strom + CO₂ + Wasser! Vorteil: CO₂-neutral (bei Strom aus Erneuerbaren!), kompatibel mit Motoren! Nachteil: Sehr teuer (4-5 €/L!), niedriger Wirkungsgrad (10-15%!)! Noch in Entwicklung! Merksatz: "Biokraftstoffe: Bioethanol (E5, E10, E85!) für Otto, Biodiesel (B7!) für Diesel! Vorteil: CO₂-neutral! Nachteil: Niedriger Energiegehalt → mehr Verbrauch!"<br><br>Frage 5: Was passiert bei falscher Betankung (Benzin in Diesel bzw. Diesel in Otto)? Welche Folgen und Kosten entstehen?<br>Antwort: FALSCHE BETANKUNG: BENZIN IN DIESELMOTOR: WAS PASSIERT? Benzin hat KEINE Schmierwirkung! Diesel = schmiert Einspritzsystem (Hochdruckpumpe, Injektoren!), Benzin = KEINE Schmierwirkung! FOLGEN SOFORT: Einspritzsystem läuft trocken, Hochdruckpumpe wird zerstört (Metall auf Metall!), Injektoren werden zerstört, Motor läuft unrund oder gar nicht! LANGFRISTIG: TOTALSCHADEN EINSPRITZSYSTEM! Hochdruckpumpe ca. 1.000-3.000 €, Injektoren ca. 200-500 € pro Stück (4-6 Stück!), Common Rail ca. 500-1.500 €, Kraftstofftank reinigen ca. 500-1.000 €! GESAMTKOSTEN: 5.000-15.000 € (evtl. Motorschaden!)! DIESEL IN OTTOMOTOR: WAS PASSIERT? Diesel zündet NICHT durch Zündkerze! Zündtemperatur: Benzin ca. 500°C, Diesel ca. 220-350°C. Zündkerze kann Diesel NICHT zünden (Funke zu schwach!)! FOLGEN SOFORT: Motor startet nicht (oder läuft sehr schlecht!), Zündkerzen verrußen (schwarze Ablagerungen!), Katalysator verstopft (unverdampfter Diesel!), starker weißer Rauch! LANGFRISTIG: Katalysator defekt ca. 400-1.800 €, Zündkerzen defekt ca. 50-200 €, Lambda-Sonde defekt ca. 100-300 €! GESAMTKOSTEN: 1.000-3.000 €! WENIGER DRAMATISCH als Benzin in Diesel (keine Schmier-Problematik!)! WAS TUN BEI FALSCHER BETANKUNG? MOTOR NICHT STARTEN! (wichtigster Punkt!)! ✅ Sofort: Zündung AUS lassen! Tankstelle informieren! Pannendienst rufen (ADAC!), Tank absaugen lassen (Fachbetrieb!), Kraftstoffsystem spülen! KOSTEN BEI FRÜHERKENNUNG: Benzin in Diesel: ca. 500-1.500 € (Tank absaugen + spülen!), Diesel in Otto: ca. 300-1.000 €! WICHTIG: Je weniger Falschkraftstoff, desto besser! (z.B. nur 5 Liter Benzin auf 50 Liter Diesel = evtl. noch tolerierbar bei Verdünnung!)! SCHUTZ VOR VERWECHSLUNG: Tankstutzen: Diesel größer (ca. 23-25 mm!), Benzin kleiner (ca. 21-23 mm!) → Diesel-Zapfpistole passt NICHT in Benzin-Tank (zu dick!), Benzin-Zapfpistole passt IN Diesel-Tank (zu dünn!)! Moderne Fahrzeuge: Misfuel Prevention (mechanische Sperre!)! Merksatz: "Benzin in Diesel = SEHR TEUER (5.000-15.000 €! - Einspritzsystem!)! Diesel in Otto = TEUER (1.000-3.000 €! - Kat!)! Motor NICHT starten, Tank absaugen!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767540506109" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
