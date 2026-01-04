@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-04T00:54:56.363Z">
+    <meta name="last-updated" content="2026-01-04T01:02:33.408Z">
 </head>
 <body>
     <div id="academy-data">
@@ -3323,6 +3323,226 @@ ANTWORT:
 
             <div class="lektion" 
                  data-id="technik_1767488094837" 
+                 data-pruefung="false"
+                 data-dauer="120"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Viertakt-Ottomotor - Funktionsprinzip und Fremdzündung</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Funktionsprinzip des Viertakt-Ottomotors verstehen</div>
+                    <div class="lernziel">Vier Arbeitstakte des Ottomotors erklären können</div>
+                    <div class="lernziel">Fremdzündung beim Ottomotor beherrschen</div>
+                    <div class="lernziel">Unterschied Saugrohreinspritzung vs. Direkteinspritzung kennen</div>
+                    <div class="lernziel">Verdichtungsverhältnis beim Otto verstehen (8:1 bis 13:1)</div>
+                    <div class="lernziel">Äußere vs. innere Gemischbildung erklären</div>
+                    <div class="lernziel">Drosselklappe und Leistungsregelung verstehen</div>
+                    <div class="lernziel">Vor- und Nachteile des Ottomotors benennen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. GRUNDPRINZIP OTTOMOTOR ⚡<br>WAS IST EIN OTTOMOTOR?<br>DEFINITION:<br>Ein Ottomotor ist ein Verbrennungsmotor, der nach dem Fremdzündungsprinzip arbeitet und mit Ottokraftstoff (Benzin) betrieben wird.<br>BENANNT NACH: Nicolaus August Otto (1832-1891), deutscher Erfinder des Viertaktmotors (1876)<br><br>⚡ FREMDZÜNDUNG - DAS HERZSTÜCK<br>UNTERSCHIED ZUM DIESELMOTOR:<br>Merkmal⚡ OTTOMOTOR🔥 DIESELMOTORZündungFremdzündung (Zündkerze!)Selbstzündung (keine Zündkerze!)Zündkerze✅ Essentiell! (ohne → keine Verbrennung!)❌ Keine (nur Glühkerze zur Starthilfe!)Was wird angesaugt?Kraftstoff-Luft-Gemisch (Saugrohr) ODER nur Luft (Direkteinspritzung)Nur Luft (kein Kraftstoff!)VerdichtungGemisch (8:1 bis 13:1)Nur Luft (16:1 bis 24:1 - viel höher!)Verdichtungstemperatur400-500°C700-900°CZündung durchZündkerze (Funkenüberschlag 15.000-30.000V!)Hohe Verdichtungstemperatur (700-900°C!)GemischbildungÄußere (Saugrohr) oder innere (Direkt)Immer innere (Direkteinspritzung!)LeistungsregelungDrosselklappe (regelt Luftmenge!)Kraftstoffmenge (keine Drosselklappe!)<br><br>MERKSATZ<br>"Ottomotor = Fremdzündung (Zündkerze essentiell!), Dieselmotor = Selbstzündung (keine Zündkerze!)!"<br>"Otto regelt Leistung über Luftmenge (Drosselklappe!), Diesel über Kraftstoffmenge!"<br><br><br>2. DIE VIER ARBEITSTAKTE DES OTTOMOTORS 🔄<br>ÜBERSICHT<br>VIERTAKT-PRINZIP:<br>Der Ottomotor arbeitet in vier Takten (= 2 Kurbelwellenumdrehungen = 720°):<br><br>ANSAUGEN<br>VERDICHTEN<br>ARBEITEN<br>AUSSCHIEBEN<br><br><br><br>1️⃣ TAKT: ANSAUGEN 🌬️<br>WAS PASSIERT?<br>Kolben bewegt sich von OT nach UT<br>Einlassventil: OFFEN ✅<br>Auslassventil: GESCHLOSSEN ❌<br>KRAFTSTOFF-LUFT-GEMISCH ODER NUR LUFT WIRD ANGESAUGT!<br>(abhängig von Saugrohreinspritzung oder Direkteinspritzung!)<br><br>ABLAUF:<br><br>Kolben bewegt sich abwärts (von OT nach UT)<br>Unterdruck entsteht im Zylinder<br>Einlassventil öffnet<br>SAUGROHREINSPRITZUNG (MPI):<br><br>Kraftstoff-Luft-Gemisch wird angesaugt!<br>Gemisch wurde bereits im Saugrohr gebildet (Injektor vor Einlassventil!)<br><br><br>DIREKTEINSPRITZUNG (FSI/GDI):<br><br>Nur Luft wird angesaugt!<br>Kraftstoff wird später (während Verdichtung!) direkt in Brennraum eingespritzt!<br><br><br>Drosselklappe regelt Luftmenge!<br><br>Vollgas → Drosselklappe weit offen → viel Luft/Gemisch!<br>Teillast → Drosselklappe teilweise geschlossen → wenig Luft/Gemisch!<br><br><br>Kolben erreicht UT<br>Einlassventil schließt<br><br><br>MERKMALE:<br>DROSSELKLAPPE:<br><br>Regelt Luftmenge (und damit Gemischmenge!)<br>Vollgas: Drosselklappe weit offen (90-100%)<br>Leerlauf: Drosselklappe fast geschlossen (2-5%)<br><br>DRUCK:<br><br>Unterdruck (ca. 0,3-0,9 bar je nach Drosselklappenstellung!)<br>Vollgas: ca. 0,9 bar (fast Atmosphärendruck!)<br>Teillast: ca. 0,3-0,6 bar<br><br>TEMPERATUR:<br><br>Umgebungstemperatur (ca. 20°C)<br><br><br>MERKSATZ<br>"1. Takt (Ansaugen): Kolben OT → UT, Einlassventil offen, Gemisch (Saugrohr) ODER Luft (Direkt) angesaugt! Drosselklappe regelt Menge!"<br><br><br>2️⃣ TAKT: VERDICHTEN 🔥<br>WAS PASSIERT?<br>Kolben bewegt sich von UT nach OT<br>Einlassventil: GESCHLOSSEN ❌<br>Auslassventil: GESCHLOSSEN ❌<br>GEMISCH (ODER LUFT) WIRD VERDICHTET!<br><br>ABLAUF:<br><br>Kolben bewegt sich aufwärts (von UT nach OT)<br>Beide Ventile geschlossen (Zylinder abgedichtet!)<br>SAUGROHREINSPRITZUNG:<br><br>Kraftstoff-Luft-Gemisch wird verdichtet!<br>Verdichtungsverhältnis 8:1 bis 13:1<br><br><br>DIREKTEINSPRITZUNG:<br><br>Nur Luft wird verdichtet (zu Beginn!)<br>Während Verdichtung: Kraftstoff wird eingespritzt! (präzise dosiert!)<br>Verdichtungsverhältnis kann höher sein (10:1 bis 13:1!)<br><br><br>Druck steigt auf 10-20 bar!<br>Temperatur steigt auf 400-500°C!<br>Kurz vor OT: Zündkerze zündet! (Funkenüberschlag 15.000-30.000V!)<br>Gemisch entzündet sich! (Fremdzündung!)<br><br><br>MERKMALE:<br>VERDICHTUNGSVERHÄLTNIS:<br>8:1 bis 13:1 (niedriger als Diesel: 16:1 bis 24:1!)<br>WARUM NIEDRIGER ALS DIESEL?<br><br>Klopfgefahr! (unkontrollierte Selbstzündung!)<br>Ottokraftstoff hat höhere Zündtemperatur (400-500°C) als Diesel (220°C), ABER:<br>Bei zu hoher Verdichtung (&gt; 13:1): Selbstzündung möglich → Klopfen! → Motorschäden!<br>Lösung: Niedriges Verdichtungsverhältnis (8:1 bis 13:1) → Temperatur bleibt unter Selbstzündungstemperatur (&lt; 400°C bei normalem Betrieb!)<br><br>DRUCK:<br>10-20 bar (Diesel: 30-55 bar!)<br>TEMPERATUR:<br>400-500°C (Diesel: 700-900°C!)<br>ZÜNDZEITPUNKT:<br>Kurz vor OT (ca. 5-30° Kurbelwinkel vor OT - abhängig von Drehzahl, Last!)<br>FREMDZÜNDUNG:<br>Zündkerze erzeugt Funkenüberschlag (15.000-30.000V!) → Gemisch entzündet sich!<br><br>MERKSATZ<br>"2. Takt (Verdichten): Kolben UT → OT, beide Ventile zu, Gemisch/Luft verdichtet (8:1 bis 13:1!), Temperatur 400-500°C! Kurz vor OT: Zündkerze zündet (Fremdzündung!)!"<br><br><br>3️⃣ TAKT: ARBEITEN 💥<br>WAS PASSIERT?<br>Kolben bewegt sich von OT nach UT<br>Einlassventil: GESCHLOSSEN ❌<br>Auslassventil: GESCHLOSSEN ❌<br>VERBRENNUNG! KRAFTÜBERTRAGUNG!<br><br>ABLAUF:<br><br>Zündkerze hat kurz vor OT gezündet (Ende Verdichtungstakt!)<br>Fremdzündung: Gemisch entzündet sich durch Funkenüberschlag!<br>Verbrennung: Kraftstoff-Luft-Gemisch verbrennt schnell!<br>Flammenfront breitet sich aus (von Zündkerze ausgehend, ca. 10-30 m/s!)<br>Druck steigt auf 50-80 bar! (Verbrennungsdruck!)<br>Temperatur steigt auf 2.000-2.500°C! (Verbrennungstemperatur!)<br>Kolben wird nach unten gedrückt (von OT nach UT!)<br>Pleuel überträgt Kraft auf Kurbelwelle → Drehbewegung!<br>Arbeit wird verrichtet! (einziger Arbeitstakt!)<br><br><br>MERKMALE:<br>VERBRENNUNGSDRUCK:<br>50-80 bar (Diesel: 80-120 bar!)<br>VERBRENNUNGSTEMPERATUR:<br>2.000-2.500°C (Diesel: 1.800-2.300°C - ähnlich!)<br>FLAMMENFRONT-GESCHWINDIGKEIT:<br>10-30 m/s (abhängig von Gemischzusammensetzung, Turbulenz!)<br>KRAFTÜBERTRAGUNG:<br>Über Pleuel auf Kurbelwelle<br>VERBRENNUNGSDAUER:<br>2-5 Millisekunden (sehr schnell!)<br><br>UNTERSCHIED ZU DIESEL:<br>OTTOMOTOR:<br><br>Flammenfront breitet sich von Zündkerze aus (10-30 m/s!)<br>Kontrollierte Verbrennung (Zündkerze entscheidet wann!)<br>Geringerer Druck (50-80 bar vs. Diesel 80-120 bar!)<br><br>DIESELMOTOR:<br><br>Selbstzündung an mehreren Stellen gleichzeitig!<br>Schlagartige Verbrennung (Zündverzug → "Nageln"!)<br>Höherer Druck (80-120 bar!)<br><br><br>MERKSATZ<br>"3. Takt (Arbeiten): Fremdzündung (Zündkerze!), Verbrennung (50-80 bar, 2.000-2.500°C!), Flammenfront 10-30 m/s, Kolben OT → UT, Kraft auf Kurbelwelle!"<br><br><br>4️⃣ TAKT: AUSSCHIEBEN 💨<br>WAS PASSIERT?<br>Kolben bewegt sich von UT nach OT<br>Einlassventil: GESCHLOSSEN ❌<br>Auslassventil: OFFEN ✅<br>VERBRANNTE GASE WERDEN AUSGESCHOBEN!<br><br>ABLAUF:<br><br>Kolben bewegt sich aufwärts (von UT nach OT)<br>Auslassventil öffnet<br>Verbrannte Abgase werden aus Zylinder herausgedrückt<br>Abgase strömen durch:<br><br>Abgaskrümmer<br>Turbolader (falls vorhanden - treibt Turbine an!)<br>3-Wege-Katalysator (wandelt CO, HC, NOₓ um - nur bei λ = 1,0!)<br>Partikelfilter (GPF) (bei modernen Direkteinspritzern - filtert Ruß!)<br>Endschalldämpfer<br><br><br>Kolben erreicht OT<br>Auslassventil schließt<br>Zyklus beginnt von vorne (Ansaugen!)<br><br><br>MERKMALE:<br>ABGASTEMPERATUR:<br>600-900°C (beim Ausschieben - höher als Diesel: 300-700°C!)<br>ABGASDRUCK:<br>1-2 bar (leichter Überdruck)<br><br>MERKSATZ<br>"4. Takt (Ausschieben): Kolben UT → OT, Auslassventil offen, verbrannte Abgase raus (über Turbo, 3-Wege-Kat!)!"<br><br><br>3. VIER TAKTE IM ÜBERBLICK 📊<br>ZUSAMMENFASSUNG<br>TaktKolbenbewegungEinlassventilAuslassventilWas passiert?1. ANSAUGENOT → UT✅ OFFEN❌ GESCHLOSSENGemisch (Saugrohr) ODER Luft (Direkt) angesaugt! Drosselklappe regelt Menge!2. VERDICHTENUT → OT❌ GESCHLOSSEN❌ GESCHLOSSENGemisch/Luft verdichtet (8:1 bis 13:1!), Temperatur 400-500°C! Kurz vor OT: Zündkerze zündet (Fremdzündung!)3. ARBEITENOT → UT❌ GESCHLOSSEN❌ GESCHLOSSENVerbrennung (50-80 bar, 2.000-2.500°C!), Flammenfront 10-30 m/s, Kolben wird nach unten gedrückt, Kraft auf Kurbelwelle!4. AUSSCHIEBENUT → OT❌ GESCHLOSSEN✅ OFFENVerbrannte Abgase ausgeschoben (über Turbo, 3-Wege-Kat!)<br><br>WICHTIGE WERTE<br>VERDICHTUNGSVERHÄLTNIS:<br>8:1 bis 13:1 (niedriger als Diesel: 16:1 bis 24:1!)<br>VERDICHTUNGSDRUCK:<br>10-20 bar (Diesel: 30-55 bar!)<br>VERDICHTUNGSTEMPERATUR:<br>400-500°C (Diesel: 700-900°C!)<br>VERBRENNUNGSDRUCK:<br>50-80 bar (Diesel: 80-120 bar!)<br>VERBRENNUNGSTEMPERATUR:<br>2.000-2.500°C (Diesel: 1.800-2.300°C - ähnlich!)<br>ZÜNDZEITPUNKT:<br>5-30° Kurbelwinkel vor OT (abhängig von Drehzahl, Last!)<br><br>MERKSATZ<br>"4 Takte Otto: 1. Ansaugen (Gemisch/Luft, Drosselklappe!), 2. Verdichten (8:1-13:1, 400-500°C, Zündkerze zündet!), 3. Arbeiten (Fremdzündung, 50-80 bar!), 4. Ausschieben (Abgase raus!)!"<br><br><br>4. GEMISCHBILDUNG: SAUGROHR vs. DIREKT 🔧<br>1️⃣ SAUGROHREINSPRITZUNG (MPI)<br>FUNKTIONSPRINZIP<br>ÄUßERE GEMISCHBILDUNG<br>ABLAUF:<br><br>Kraftstoff wird ins Saugrohr eingespritzt (vor Einlassventil!)<br>Injektor sitzt im Saugrohr (ein Injektor pro Zylinder!)<br>Kraftstoff vermischt sich mit angesaugter Luft im Saugrohr<br>Fertiges Gemisch wird angesaugt (Takt 1: Ansaugen!)<br>Gemisch wird verdichtet (Takt 2!)<br>Zündkerze zündet (kurz vor OT!)<br>Verbrennung (Takt 3!)<br><br><br>MERKMALE<br>EINSPRITZDRUCK:<br>3-5 bar (niedrig!)<br>GEMISCHBILDUNG:<br>Äußere (im Saugrohr!)<br>VORTEILE:<br><br>✅ Einfacher Aufbau<br>✅ Zuverlässig, bewährt<br>✅ Gute Gemischverteilung<br>✅ Niedrigerer Druck (3-5 bar)<br>✅ Günstiger<br><br>NACHTEILE:<br><br>❌ Weniger effizient als Direkteinspritzung<br>❌ Höherer Verbrauch (+10-15%)<br>❌ Höhere Emissionen (CO₂)<br>❌ Kraftstoff kann sich an Saugrohrwänden niederschlagen<br>❌ Weniger Leistung<br><br>EINSATZ:<br>Ältere/einfachere Ottomotoren (vor ca. 2005)<br><br>MERKSATZ<br>"Saugrohreinspritzung (MPI): Äußere Gemischbildung im Saugrohr, 3-5 bar, einfach, veraltet!"<br><br><br>2️⃣ DIREKTEINSPRITZUNG (FSI/GDI/TFSI)<br>FUNKTIONSPRINZIP<br>INNERE GEMISCHBILDUNG<br>ABLAUF:<br><br>Nur Luft wird angesaugt (Takt 1: Ansaugen!)<br>Luft wird verdichtet (Takt 2: Verdichten!)<br>Während Verdichtung: Kraftstoff wird direkt in Brennraum eingespritzt!<br>Injektor sitzt im Zylinderkopf (direkt im Brennraum!)<br>Hochdruck-Einspritzung (bis 200 bar!)<br>Kraftstoff vermischt sich mit verdichteter Luft im Brennraum<br>Zündkerze zündet (kurz vor OT!)<br>Verbrennung (Takt 3!)<br><br><br>MERKMALE<br>EINSPRITZDRUCK:<br>Bis 200 bar (Hochdruck! - 40x höher als Saugrohr!)<br>PUMPEN:<br><br>Niederdruckpumpe im Tank (5-7 bar - Vorförderpumpe)<br>Hochdruckpumpe am Motor (bis 200 bar!)<br><br>GEMISCHBILDUNG:<br>Innere (im Brennraum!)<br>VORTEILE:<br><br>✅ 10-15% weniger Verbrauch! (höherer Wirkungsgrad!)<br>✅ Mehr Leistung! (+10-15% Drehmoment!)<br>✅ Niedrigere Emissionen (CO₂!)<br>✅ Präzisere Gemischbildung<br>✅ Höhere Klopffestigkeit (Gemisch kühlt Brennraum!)<br>✅ Bessere Verbrennung<br><br>NACHTEILE:<br><br>❌ Komplexer Aufbau (Hochdruckpumpe!)<br>❌ Höhere Kosten<br>❌ Rußbildung möglich (bei schlechter Verbrennung!)<br>❌ Partikelfilter nötig (GPF - Gasoline Particulate Filter!)<br><br>EINSATZ:<br>Moderne Ottomotoren (Standard seit ca. 2005+)<br>BEZEICHNUNGEN:<br><br>FSI (Fuel Stratified Injection - VW/Audi)<br>GDI (Gasoline Direct Injection - Hyundai, Kia, Mazda)<br>TFSI (Turbo FSI - VW/Audi mit Turbolader)<br><br><br>MERKSATZ<br>"Direkteinspritzung (FSI/GDI): Innere Gemischbildung im Brennraum, bis 200 bar, 10-15% weniger Verbrauch, modern!"<br><br><br>VERGLEICHSTABELLE<br>MerkmalSAUGROHREINSPRITZUNG (MPI)DIREKTEINSPRITZUNG (FSI/GDI)GemischbildungÄußere (im Saugrohr)Innere (im Brennraum)Einspritzdruck3-5 barBis 200 bar (Hochdruck!)Was wird angesaugt?Fertiges Gemisch (Kraftstoff + Luft)Nur LuftInjektor-PositionIm Saugrohr (vor Einlassventil)Im Zylinderkopf (direkt im Brennraum)VerbrauchHöher10-15% niedriger!LeistungStandardHöher (+10-15%!)Emissionen (CO₂)HöherNiedrigerRußbildungKaumMöglich (GPF nötig!)KomplexitätEinfachKomplex (Hochdruckpumpe!)KostenGünstigerTeurerEinsatzÄltere/einfache Motoren (vor 2005)Moderne Motoren (Standard heute!)<br><br>MERKSATZ<br>"Saugrohr = äußere Gemischbildung, 3-5 bar, einfach, veraltet! Direkt = innere Gemischbildung, 200 bar, 10-15% Ersparnis, modern!"<br><br><br>5. DROSSELKLAPPE &amp; LEISTUNGSREGELUNG 🎛️<br>FUNKTION DER DROSSELKLAPPE<br>DEFINITION:<br>Die Drosselklappe regelt die Luftmenge, die in den Motor strömt.<br>NUR BEIM OTTOMOTOR! (Diesel hat keine Drosselklappe!)<br><br>AUFBAU<br>POSITION:<br>Im Ansaugtrakt (zwischen Luftfilter und Einlassventilen!)<br>BAUART:<br><br>Drehklappe (Schmetterlingsklappe)<br>Öffnungswinkel: 0-90°<br>Gesteuert durch Gaspedal (früher: Seilzug, heute: elektronisch - "E-Gas"!)<br><br><br>FUNKTIONSPRINZIP<br>LEERLAUF:<br><br>Drosselklappe fast geschlossen (2-5° offen)<br>Wenig Luft strömt in Motor<br>Wenig Gemisch (bei Saugrohr) oder wenig Luft (bei Direkt)<br>Niedriger Unterdruck (ca. 0,3 bar)<br>Geringe Leistung (Motor läuft nur im Leerlauf!)<br><br>TEILLAST:<br><br>Drosselklappe teilweise geöffnet (10-70°)<br>Mittlere Luftmenge<br>Mittlerer Unterdruck (ca. 0,4-0,7 bar)<br>Mittlere Leistung (Stadtverkehr, konstante Fahrt!)<br><br>VOLLGAS:<br><br>Drosselklappe weit geöffnet (80-90°)<br>Maximale Luftmenge<br>Hoher Unterdruck (ca. 0,9 bar - fast Atmosphärendruck!)<br>Maximale Leistung (Beschleunigung, Bergauffahrt!)<br><br><br>LEISTUNGSREGELUNG BEIM OTTOMOTOR<br>PRINZIP:<br>Leistung wird über LUFTMENGE geregelt!<br>ABLAUF:<br><br>Fahrer tritt Gaspedal<br>Drosselklappe öffnet (elektronisch gesteuert - "E-Gas"!)<br>Mehr Luft strömt in Motor<br>Motorsteuergerät (ECU) misst Luftmenge (Luftmassenmesser!)<br>ECU passt Kraftstoffmenge an (λ = 1,0 halten!)<br>Mehr Gemisch → mehr Verbrennung → mehr Leistung!<br><br><br>UNTERSCHIED ZU DIESEL<br>OTTOMOTOR:<br><br>Drosselklappe regelt Luftmenge!<br>Kraftstoffmenge wird proportional angepasst (λ = 1,0!)<br>Gemischmenge variiert!<br><br>DIESELMOTOR:<br><br>Keine Drosselklappe!<br>Luft immer maximal! (keine Drosselung!)<br>Nur Kraftstoffmenge variiert!<br>Diesel läuft immer mager (λ &gt; 1,0 - Luftüberschuss!)<br><br><br>MERKSATZ<br>"Ottomotor: Drosselklappe regelt Luftmenge → Kraftstoffmenge wird angepasst (λ = 1,0!) → Leistungsregelung!"<br>"Dieselmotor: Keine Drosselklappe! Luft immer maximal! Nur Kraftstoffmenge variiert!"<br><br><br>6. VOR- UND NACHTEILE OTTOMOTOR ⚖️<br>✅ VORTEILE<br>1. GÜNSTIGERE ANSCHAFFUNGSKOSTEN<br><br>2.000-5.000 € günstiger als vergleichbarer Diesel!<br>Einfachere Technik (keine Hochdruck-Einspritzung beim Saugrohr-Otto!)<br><br>2. LEISER MOTORLAUF<br><br>Kein "Nageln" wie Diesel!<br>Weicher, ruhiger Lauf<br>Flammenfront statt schlagartiger Verbrennung!<br><br>3. HÖHERE DREHZAHLEN<br><br>Kann höher drehen (6.000-8.000 U/min vs. Diesel 4.000-5.500 U/min!)<br>Mehr Leistung bei höherer Drehzahl!<br><br>4. LEICHTER, KOMPAKTER BAU<br><br>Geringerer Druck (50-80 bar vs. Diesel 80-120 bar!)<br>Leichtere Bauteile möglich!<br><br>5. NIEDRIGERE EMISSIONEN (NOₓ, Ruß)<br><br>Weniger NOₓ als Diesel (3-Wege-Kat wandelt NOₓ um - bei λ = 1,0!)<br>Kein/kaum Ruß (außer bei Direkteinspritzung!)<br><br>6. KEINE KURZSTRECKENPROBLEME<br><br>Kein DPF (oder GPF bei Direkteinspritzung - aber weniger problematisch!)<br>Geeignet für Stadt- und Kurzstreckenverkehr!<br><br>7. EINFACHERE ABGASREINIGUNG<br><br>3-Wege-Katalysator (wandelt CO, HC, NOₓ um!)<br>Kein SCR-Katalysator (kein AdBlue!)<br>Kein/weniger Partikelfilter<br><br><br>❌ NACHTEILE<br>1. HÖHERER VERBRAUCH<br><br>10-15% mehr als Diesel!<br>Geringerer Wirkungsgrad (30-37% vs. Diesel 35-45%!)<br><br>2. NIEDRIGERER WIRKUNGSGRAD<br><br>Schlechtere Energieausnutzung als Diesel!<br>Niedrigere Verdichtung (8:1-13:1 vs. Diesel 16:1-24:1!)<br><br>3. GERINGERES DREHMOMENT<br><br>Weniger Durchzugskraft als Diesel (besonders bei niedriger Drehzahl!)<br>Muss höher drehen für Leistung!<br><br>4. KLOPFGEFAHR<br><br>Bei zu hoher Verdichtung oder zu niedriger Oktanzahl!<br>Unkontrollierte Selbstzündung → Motorschäden!<br>Klopfregelung nötig (Klopfsensor!)<br><br>5. HÖHERE EMISSIONEN (CO₂)<br><br>Höherer Verbrauch → mehr CO₂!<br><br>6. TEURER KRAFTSTOFF<br><br>Benzin oft teurer als Diesel (regional unterschiedlich!)<br><br>7. RUSZBILDUNG BEI DIREKTEINSPRITZUNG<br><br>Moderne Direkteinspritzer produzieren Ruß!<br>GPF (Gasoline Particulate Filter) nötig!<br><br><br>MERKSATZ<br>"Ottomotor: ✅ Günstig, leise, keine Kurzstreckenprobleme, weniger NOₓ! ❌ Höherer Verbrauch, geringeres Drehmoment, Klopfgefahr!"<br><br><br>7. WANN OTTO, WANN DIESEL? 🤔<br>OTTO SINNVOLL FÜR:<br>✅ Wenigfahrer (&lt; 15.000 km/Jahr)<br>✅ Kurzstreckenfahrer (Stadt!)<br>✅ Leichtere Fahrzeuge (Kleinwagen, Kompaktklasse!)<br>✅ Fahrer, die Anschaffungskosten minimieren wollen<br>✅ Fahrer, die leiseren Motor wollen<br>✅ Stadt- und Kurzstreckenverkehr (kein DPF-Problem!)<br><br>DIESEL SINNVOLL FÜR:<br>✅ Vielfahrer (&gt; 20.000 km/Jahr)<br>✅ Langstreckenfahrer (Autobahn!)<br>✅ Schwere Fahrzeuge (SUV, Transporter!)<br>✅ Anhängerbetrieb (hohes Drehmoment!)<br>✅ Fahrer, die Verbrauch minimieren wollen<br>✅ Langstreckenverkehr (DPF-Regeneration möglich!)<br><br>MERKSATZ<br>"Otto = Wenigfahrer, Kurzstrecke, Stadt, günstig! Diesel = Vielfahrer, Langstrecke, Anhänger, sparsam!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br>🎯 MERKE FÜR DIE PRÜFUNG<br>OTTOMOTOR - FREMDZÜNDUNG:<br>→ Fremdzündung durch Zündkerze (Funkenüberschlag 15.000-30.000V!) - essentiell! (ohne → keine Verbrennung!)<br>→ Gemisch (Saugrohr) ODER Luft (Direkt) wird angesaugt<br>→ Drosselklappe regelt Luftmenge (Leistungsregelung!)<br>→ Zündkerze zündet kurz vor OT (5-30° Kurbelwinkel vor OT!)<br>VIER TAKTE OTTOMOTOR:<br>→ 1. Ansaugen: Kolben OT → UT, Einlassventil offen, Gemisch/Luft angesaugt! Drosselklappe regelt Menge!<br>→ 2. Verdichten: Kolben UT → OT, beide Ventile zu, Gemisch/Luft verdichtet (8:1-13:1!), Temperatur 400-500°C! Kurz vor OT: Zündkerze zündet (Fremdzündung!)<br>→ 3. Arbeiten: Verbrennung (50-80 bar, 2.000-2.500°C!), Flammenfront 10-30 m/s, Kolben OT → UT, Kraft auf Kurbelwelle!<br>→ 4. Ausschieben: Kolben UT → OT, Auslassventil offen, Abgase raus!<br>VERDICHTUNG &amp; DRUCK:<br>→ Verdichtungsverhältnis: 8:1 bis 13:1 (Diesel: 16:1-24:1!)<br>→ Verdichtungsdruck: 10-20 bar (Diesel: 30-55 bar!)<br>→ Verdichtungstemperatur: 400-500°C (Diesel: 700-900°C!)<br>→ Verbrennungsdruck: 50-80 bar (Diesel: 80-120 bar!)<br>SAUGROHR vs. DIREKT:<br>→ Saugrohreinspritzung (MPI): Äußere Gemischbildung (Saugrohr!), 3-5 bar, einfach, veraltet<br>→ Direkteinspritzung (FSI/GDI): Innere Gemischbildung (Brennraum!), bis 200 bar, 10-15% weniger Verbrauch, modern!<br>DROSSELKLAPPE &amp; LEISTUNGSREGELUNG:<br>→ Nur Ottomotor hat Drosselklappe! (Diesel: keine!)<br>→ Drosselklappe regelt Luftmenge → Kraftstoffmenge wird angepasst (λ = 1,0!) → Leistungsregelung!<br>→ Diesel: Keine Drosselklappe! Luft immer maximal! Nur Kraftstoffmenge variiert!<br>VOR- &amp; NACHTEILE:<br>→ Vorteile: Günstiger (-2.000-5.000 €!), leiser, höhere Drehzahlen, weniger NOₓ, keine Kurzstreckenprobleme!<br>→ Nachteile: Höherer Verbrauch (+10-15%!), geringerer Wirkungsgrad, geringeres Drehmoment, Klopfgefahr</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: WARUM BRAUCHT OTTO ZÜNDKERZE?
+SITUATION:
+Fahrschüler fragt: "Warum braucht der Ottomotor eine Zündkerze, der Diesel aber nicht?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+GRUND: UNTERSCHIEDLICHE ZÜNDTEMPERATUREN!
+OTTOMOTOR:
+ZÜNDTEMPERATUR OTTOKRAFTSTOFF: ca. 400-500°C
+VERDICHTUNGSTEMPERATUR OTTO: ca. 400-500°C
+→ Problem: Verdichtungstemperatur reicht knapp zur Selbstzündung!
+→ ABER: Sehr klopfgefahr-anfällig! (unkontrollierte Selbstzündung!)
+→ Lösung: Niedrigere Verdichtung (8:1-13:1!) → Temperatur bleibt unter Selbstzündungstemperatur!
+→ Zündkerze ist nötig für kontrollierte Fremdzündung (entscheidet wann Gemisch zündet!)
+DIESELMOTOR:
+ZÜNDTEMPERATUR DIESELKRAFTSTOFF: ca. 220°C (viel niedriger!)
+VERDICHTUNGSTEMPERATUR DIESEL: ca. 700-900°C (viel höher!)
+→ Lösung: Hohe Verdichtung (16:1-24:1!) → Temperatur weit über Selbstzündungstemperatur!
+→ Kraftstoff entzündet sich automatisch bei Kontakt mit heißer Luft (700-900°C!)
+→ Keine Zündkerze nötig! (Selbstzündung!)
+
+ZUSAMMENFASSUNG:
+OTTO:
+
+Zündtemperatur 400-500°C
+Verdichtung 8:1-13:1 → Temperatur 400-500°C (zu niedrig für sichere Selbstzündung!)
+Zündkerze nötig für kontrollierte Fremdzündung!
+
+DIESEL:
+
+Zündtemperatur 220°C
+Verdichtung 16:1-24:1 → Temperatur 700-900°C (weit über Selbstzündungstemperatur!)
+Keine Zündkerze nötig (Selbstzündung!)
+
+
+ANTWORT:
+→ Otto braucht Zündkerze, weil:
+→ Verdichtungstemperatur (400-500°C) reicht nicht sicher zur Selbstzündung! (Klopfgefahr!)
+→ Niedrige Verdichtung (8:1-13:1) verhindert unkontrollierte Selbstzündung!
+→ Zündkerze entscheidet wann Gemisch zündet (Fremdzündung!)
+→ Diesel braucht keine Zündkerze, weil:
+→ Hohe Verdichtung (16:1-24:1) → Temperatur 700-900°C → weit über Zündtemperatur (220°C!)
+→ Kraftstoff entzündet sich automatisch (Selbstzündung!)</div>
+                        <div class="beispiel">BEISPIEL 2: DIREKTEINSPRITZUNG - LOHNT SICH DAS?
+SITUATION:
+Fahrschüler fragt: "Ich will ein neues Auto kaufen. Soll ich Direkteinspritzung oder Saugrohreinspritzung nehmen?"
+FRAGE: Was rätst du?
+
+ANALYSE:
+SAUGROHREINSPRITZUNG (MPI):
+VORTEILE:
+
+✅ Einfacher, günstiger
+✅ Zuverlässig, bewährt
+✅ Keine Rußbildung (kein GPF nötig!)
+
+NACHTEILE:
+
+❌ Höherer Verbrauch (+10-15%)
+❌ Höhere Emissionen (CO₂)
+❌ Weniger Leistung
+
+EINSATZ:
+Ältere/einfachere Motoren (vor 2005)
+
+DIREKTEINSPRITZUNG (FSI/GDI):
+VORTEILE:
+
+✅ 10-15% weniger Verbrauch! (spart Geld!)
+✅ Mehr Leistung! (+10-15% Drehmoment!)
+✅ Niedrigere Emissionen (CO₂!)
+✅ Präzisere Gemischbildung
+✅ Standard bei modernen Autos!
+
+NACHTEILE:
+
+❌ Komplexer (Hochdruckpumpe!)
+❌ Teurer (aber Standard!)
+❌ Rußbildung möglich (GPF nötig!)
+
+EINSATZ:
+Moderne Ottomotoren (Standard seit ca. 2005+)
+
+EMPFEHLUNG:
+→ DIREKTEINSPRITZUNG NEHMEN!
+GRÜNDE:
+
+Standard bei modernen Autos! (Saugrohreinspritzung = veraltet!)
+10-15% Ersparnis beim Verbrauch! (langfristig günstiger!)
+Mehr Leistung! (+10-15% Drehmoment!)
+Niedrigere Emissionen (CO₂!)
+Höherer Wiederverkaufswert (moderne Technik!)
+
+ABER:
+
+Evtl. teurer in Anschaffung
+GPF-Wartung beachten (bei modernen Direkteinspritzern!)
+
+
+ANTWORT:
+→ Direkteinspritzung empfehlen!
+→ Gründe: 10-15% weniger Verbrauch (spart langfristig Geld!), mehr Leistung, niedrigere Emissionen, Standard bei modernen Autos!
+→ Saugrohreinspritzung: Veraltet (vor 2005!), höherer Verbrauch, weniger Leistung
+→ Direkteinspritzung lohnt sich! (auch wenn evtl. etwas teurer!)</div>
+                        <div class="beispiel">BEISPIEL 3: WARUM HAT OTTOMOTOR DROSSELKLAPPE?
+SITUATION:
+Fahrschüler fragt: "Warum hat der Ottomotor eine Drosselklappe, der Dieselmotor aber nicht?"
+FRAGE: Was antwortest du?
+
+ANALYSE:
+LEISTUNGSREGELUNG - UNTERSCHIEDLICHE PRINZIPIEN!
+OTTOMOTOR:
+PRINZIP:
+Leistung wird über Luftmenge geregelt!
+WARUM?
+
+λ = 1,0 muss eingehalten werden! (für 3-Wege-Katalysator!)
+Stöchiometrisches Gemisch (14,7 kg Luft : 1 kg Kraftstoff!)
+Wenn Luftmenge variiert → Kraftstoffmenge muss proportional variiert werden!
+
+ABLAUF:
+
+Fahrer tritt Gaspedal
+Drosselklappe öffnet → mehr Luft!
+Motorsteuergerät misst Luftmenge (Luftmassenmesser!)
+Kraftstoffmenge wird angepasst (λ = 1,0 halten!)
+Mehr Gemisch → mehr Leistung!
+
+DROSSELKLAPPE IST NÖTIG, um Luftmenge zu regeln!
+
+DIESELMOTOR:
+PRINZIP:
+Leistung wird über Kraftstoffmenge geregelt!
+WARUM?
+
+Diesel läuft immer mager (λ &gt; 1,0 - Luftüberschuss!)
+Keine Drosselklappe nötig!
+Luft immer maximal (kein λ = 1,0 erforderlich!)
+
+ABLAUF:
+
+Fahrer tritt Gaspedal
+Mehr Kraftstoff wird eingespritzt (mehr Einspritzmenge!)
+Luftmenge bleibt konstant maximal!
+Mehr Kraftstoff → mehr Leistung!
+
+KEINE DROSSELKLAPPE NÖTIG, weil Luft immer maximal!
+
+ZUSAMMENFASSUNG:
+OTTO:
+
+λ = 1,0 erforderlich (3-Wege-Kat!)
+Luftmenge variiert (Drosselklappe!) → Kraftstoffmenge wird angepasst!
+Drosselklappe ist nötig!
+
+DIESEL:
+
+λ &gt; 1,0 (immer mager!)
+Luftmenge konstant maximal (keine Drosselklappe!) → nur Kraftstoffmenge variiert!
+Keine Drosselklappe nötig!
+
+
+ANTWORT:
+→ Otto hat Drosselklappe, weil:
+→ λ = 1,0 muss eingehalten werden! (für 3-Wege-Kat!)
+→ Leistung wird über Luftmenge geregelt (Drosselklappe!) → Kraftstoffmenge wird proportional angepasst!
+→ Diesel hat keine Drosselklappe, weil:
+→ Diesel läuft immer mager (λ &gt; 1,0 - Luftüberschuss!)
+→ Leistung wird über Kraftstoffmenge geregelt! → Luftmenge konstant maximal!
+→ Keine Drosselklappe nötig!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (120 Min)<br>UNTERRICHTSEINHEIT 1: OTTOMOTOR-GRUNDLAGEN &amp; 4 TAKTE (60 Min)<br>Einstieg (10 Min):<br>Methode: Brainstorming<br>Ablauf: "Was sind die wichtigsten Unterschiede zwischen Otto- und Dieselmotor?" Anwärter sammeln an Tafel (Fremdzündung vs. Selbstzündung, Drosselklappe, Verdichtung!). Überleitung: "Heute lernen wir den Ottomotor im Detail!"<br>Ziel: Vorwissen aktivieren, Interesse wecken<br><br>Hauptteil (45 Min):<br>Phase 1: Fremdzündung vs. Selbstzündung (10 Min)<br>Dozent erklärt: Ottomotor = Fremdzündung (Zündkerze essentiell!), Dieselmotor = Selbstzündung (700-900°C!). Wichtig: Otto braucht Zündkerze, weil Verdichtungstemperatur (400-500°C) nicht sicher zur Selbstzündung reicht! Klopfgefahr!<br>Phase 2: Vier Takte im Detail (30 Min)<br>Dozent zeigt Schaubild für jeden Takt: 1. Ansaugen (Gemisch/Luft, Drosselklappe!), 2. Verdichten (8:1-13:1, 400-500°C, Zündkerze zündet kurz vor OT!), 3. Arbeiten (Fremdzündung, 50-80 bar, Flammenfront 10-30 m/s!), 4. Ausschieben (Abgase raus!). Wichtig: Unterschiede zu Diesel betonen! Praxisfall: Warum braucht Otto Zündkerze? (Verdichtungstemperatur reicht nicht!)<br>Phase 3: Vergleich Otto vs. Diesel (5 Min)<br>Dozent zeigt Vergleichstabelle: Zündung (Fremd vs. Selbst!), Verdichtung (8:1-13:1 vs. 16:1-24:1!), Druck (10-20 bar vs. 30-55 bar!), Temperatur (400-500°C vs. 700-900°C!)<br><br>Schluss (5 Min):<br>Sicherung: "Otto = welche Zündung?" → Fremdzündung! "Verdichtung?" → 8:1-13:1!<br>Ausblick: "Nächste Stunde: Saugrohr vs. Direkt, Drosselklappe!"<br><br>UNTERRICHTSEINHEIT 2: GEMISCHBILDUNG, DROSSELKLAPPE &amp; VOR-/NACHTEILE (60 Min)<br>Einstieg (5 Min):<br>Wiederholung: "Otto hat Zündkerze?" → JA! (essentiell!)<br><br>Hauptteil (50 Min):<br>Phase 1: Saugrohr vs. Direkteinspritzung (20 Min)<br>Dozent zeigt Vergleichstabelle: Saugrohr (äußere Gemischbildung, 3-5 bar, veraltet!) vs. Direkt (innere Gemischbildung, 200 bar, 10-15% Ersparnis, modern!). Wichtig: Direkteinspritzung = Standard heute! Praxisfall: Welche Einspritzung kaufen? (Direkt empfehlen!)<br>Phase 2: Drosselklappe &amp; Leistungsregelung (15 Min)<br>Dozent erklärt: Nur Otto hat Drosselklappe! (Diesel: keine!) Drosselklappe regelt Luftmenge → Kraftstoffmenge wird angepasst (λ = 1,0!) → Leistungsregelung! Diesel: Keine Drosselklappe! Luft immer maximal! Nur Kraftstoffmenge variiert! Praxisfall: Warum hat Otto Drosselklappe? (λ = 1,0 für 3-Wege-Kat!)<br>Phase 3: Vor- &amp; Nachteile Ottomotor (15 Min)<br>Dozent erklärt: Vorteile: Günstiger (-2.000-5.000 €!), leiser, höhere Drehzahlen, keine Kurzstreckenprobleme! Nachteile: Höherer Verbrauch (+10-15%!), geringeres Drehmoment, Klopfgefahr! Praxisfall: Kunde will Auto für Kurzstrecke - Otto oder Diesel? (OTTO empfehlen!)<br><br>Schluss (5 Min):<br>Sicherung: "Direkteinspritzung spart?" → 10-15%! "Otto für Kurzstrecke?" → JA! (kein DPF-Problem!)<br>Hausaufgabe: Erstelle Vergleichstabelle: Ottomotor vs. Dieselmotor (alle Merkmale!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">Worauf achten?<br><br>Fremdzündung (Zündkerze essentiell!) betonen!<br>Drosselklappe nur bei Otto (nicht bei Diesel!) klar machen!<br>Direkteinspritzung = 10-15% Ersparnis verdeutlichen!<br>Otto für Kurzstrecke geeignet (kein DPF-Problem!) betonen!<br><br>Häufige Fehler der Anwärter:<br><br>Denken, Diesel hat auch Drosselklappe (NEIN! Nur Otto!)<br>Verwechseln Verdichtungsverhältnisse (Otto 8:1-13:1, Diesel 16:1-24:1!)<br>Denken, Otto ist immer teurer (Anschaffung ja, aber günstiger als Diesel!)<br>Unterschätzen Vorteile Direkteinspritzung (10-15% Ersparnis!)<br><br>Tipps &amp; Tricks:<br><br>Merksätze auswendig lernen!<br>Vergleichstabellen erstellen! (Otto vs. Diesel, Saugrohr vs. Direkt!)<br>Praxisfälle durchspielen! (Welche Einspritzung? Otto für Kurzstrecke?)<br>λ = 1,0 für 3-Wege-Kat einprägen!</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie das Funktionsprinzip der Fremdzündung beim Ottomotor. Warum braucht der Ottomotor eine Zündkerze?<br>Antwort: FREMDZÜNDUNG BEIM OTTOMOTOR: Prinzip: Kraftstoff-Luft-Gemisch wird durch Zündkerze (externer Funke!) entzündet! ABLAUF: 1. Ansaugen: Gemisch (Saugrohr!) ODER Luft (Direkt!) wird angesaugt. 2. Verdichten: Gemisch/Luft wird verdichtet (8:1-13:1!). Druck steigt auf 10-20 bar, Temperatur auf 400-500°C. 3. Zündung: Kurz vor OT: Zündkerze zündet (Funkenüberschlag 15.000-30.000V!)! 4. Verbrennung: Gemisch entzündet sich, Flammenfront breitet sich aus (10-30 m/s!), Druck steigt auf 50-80 bar! WARUM ZÜNDKERZE NÖTIG? Ottokraftstoff hat Zündtemperatur ca. 400-500°C. Verdichtungstemperatur Otto (400-500°C) reicht knapp zur Selbstzündung, ABER: Sehr klopfgefahr-anfällig! (unkontrollierte Selbstzündung → Motorschäden!) Lösung: Niedrigere Verdichtung (8:1-13:1!) → Temperatur bleibt unter Selbstzündungstemperatur! Zündkerze ist nötig für kontrollierte Fremdzündung (entscheidet wann Gemisch zündet - genau im richtigen Moment!)! Ohne Zündkerze: Keine Verbrennung möglich! Merksatz: "Otto = Fremdzündung (Zündkerze essentiell!) - ohne Zündkerze keine Verbrennung! Diesel = Selbstzündung (700-900°C!)"<br><br>Frage 2: Beschreiben Sie die vier Arbeitstakte des Viertakt-Ottomotors. Was sind die wichtigsten Unterschiede zum Dieselmotor?<br>Antwort: VIER TAKTE OTTOMOTOR: 1. ANSAUGEN: Kolben OT → UT, Einlassventil offen, Auslassventil zu. Saugrohr: Kraftstoff-Luft-Gemisch angesaugt. Direkt: Nur Luft angesaugt. Drosselklappe regelt Luftmenge! (Vollgas: weit offen, Leerlauf: fast zu!) 2. VERDICHTEN: Kolben UT → OT, beide Ventile zu. Gemisch/Luft verdichtet (Verdichtungsverhältnis 8:1-13:1). Druck steigt auf 10-20 bar, Temperatur auf 400-500°C. Kurz vor OT: Zündkerze zündet (Funkenüberschlag 15.000-30.000V!) → Fremdzündung! 3. ARBEITEN: Verbrennung! Flammenfront breitet sich aus (10-30 m/s!), Druck steigt auf 50-80 bar, Temperatur auf 2.000-2.500°C. Kolben OT → UT, Kraft auf Kurbelwelle! 4. AUSSCHIEBEN: Kolben UT → OT, Auslassventil offen, Einlassventil zu. Verbrannte Abgase ausgeschoben (über Turbo, 3-Wege-Kat!). WICHTIGSTE UNTERSCHIEDE ZU DIESEL: Otto: Gemisch/Luft angesaugt (Diesel: nur Luft!). Drosselklappe regelt Luftmenge (Diesel: keine Drosselklappe!). Niedrigere Verdichtung (8:1-13:1 vs. Diesel 16:1-24:1!). Fremdzündung (Zündkerze!) statt Selbstzündung. Niedrigerer Druck/Temperatur (10-20 bar, 400-500°C vs. Diesel 30-55 bar, 700-900°C!). Flammenfront statt schlagartiger Verbrennung. Merksatz: "4 Takte Otto: 1. Gemisch/Luft ansaugen (Drosselklappe!), 2. Verdichten 8:1-13:1 + Zündkerze zündet!, 3. Fremdzündung 50-80 bar!, 4. Abgase raus!"<br><br>Frage 3: Vergleichen Sie Saugrohreinspritzung und Direkteinspritzung beim Ottomotor. Welche ist besser und warum?<br>Antwort: SAUGROHREINSPRITZUNG (MPI): Gemischbildung: Äußere (im Saugrohr!). Funktionsprinzip: Kraftstoff wird ins Saugrohr eingespritzt (vor Einlassventil!) → vermischt sich mit Luft → fertiges Gemisch wird angesaugt. Einspritzdruck: 3-5 bar (niedrig!). Vorteile: Einfacher Aufbau, zuverlässig, günstig, keine Rußbildung. Nachteile: Höherer Verbrauch (+10-15%!), höhere Emissionen (CO₂!), weniger Leistung. Einsatz: Ältere/einfachere Motoren (vor 2005 - veraltet!). DIREKTEINSPRITZUNG (FSI/GDI): Gemischbildung: Innere (im Brennraum!). Funktionsprinzip: Nur Luft wird angesaugt → Luft wird verdichtet → während Verdichtung: Kraftstoff wird direkt in Brennraum eingespritzt! Einspritzdruck: Bis 200 bar (Hochdruck!). Vorteile: 10-15% weniger Verbrauch! (höherer Wirkungsgrad!), mehr Leistung (+10-15%!), niedrigere Emissionen (CO₂!), präzisere Gemischbildung. Nachteile: Komplexer (Hochdruckpumpe!), teurer, Rußbildung möglich (GPF nötig!). Einsatz: Moderne Ottomotoren (Standard seit ca. 2005!). WELCHE IST BESSER? Direkteinspritzung ist besser! Gründe: 10-15% Ersparnis beim Verbrauch (spart langfristig Geld!), mehr Leistung, niedrigere Emissionen, Standard bei modernen Autos!, höherer Wiederverkaufswert. Saugrohreinspritzung: Veraltet, höherer Verbrauch, weniger Leistung. Merksatz: "Saugrohr = äußere Gemischbildung, 3-5 bar, veraltet! Direkt = innere Gemischbildung, 200 bar, 10-15% Ersparnis, modern - BESSER!"<br><br>Frage 4: Erklären Sie die Funktion der Drosselklappe beim Ottomotor. Warum hat der Dieselmotor keine Drosselklappe?<br>Antwort: DROSSELKLAPPE BEIM OTTOMOTOR: Funktion: Regelt die Luftmenge, die in Motor strömt! Position: Im Ansaugtrakt (zwischen Luftfilter und Einlassventilen!). Bauart: Drehklappe (Schmetterlingsklappe), Öffnungswinkel 0-90°, gesteuert durch Gaspedal (elektronisch - "E-Gas"!). LEISTUNGSREGELUNG: Prinzip: Leistung wird über Luftmenge geregelt! Ablauf: 1. Fahrer tritt Gaspedal, 2. Drosselklappe öffnet (mehr Luft!), 3. Motorsteuergerät misst Luftmenge (Luftmassenmesser!), 4. Kraftstoffmenge wird proportional angepasst (λ = 1,0 halten!), 5. Mehr Gemisch → mehr Leistung! POSITIONEN: Leerlauf: fast geschlossen (2-5°, wenig Luft!), Teillast: teilweise geöffnet (10-70°), Vollgas: weit geöffnet (80-90°, maximale Luft!). WARUM HAT DIESEL KEINE DROSSELKLAPPE? Grund: Diesel läuft immer mager (λ &gt; 1,0 - Luftüberschuss!)! Leistungsregelung Diesel: Leistung wird über Kraftstoffmenge geregelt (nicht über Luftmenge!)! Luftmenge konstant maximal (keine Drosselung!)! Nur Kraftstoffmenge variiert (mehr Kraftstoff → mehr Leistung!). WARUM UNTERSCHIED? Otto: λ = 1,0 muss eingehalten werden (für 3-Wege-Katalysator!)! Luftmenge variiert (Drosselklappe!) → Kraftstoffmenge wird angepasst! Diesel: λ &gt; 1,0 (immer Luftüberschuss!)! Keine λ = 1,0 erforderlich! Luftmenge konstant → nur Kraftstoffmenge variiert! Merksatz: "Otto: Drosselklappe regelt Luftmenge (λ = 1,0!) → Leistungsregelung! Diesel: Keine Drosselklappe (läuft immer mager!) → Kraftstoffmenge regelt Leistung!"<br><br>Frage 5: Nennen Sie Vor- und Nachteile des Ottomotors im Vergleich zum Dieselmotor. Für welches Fahrprofil ist ein Ottomotor geeignet?<br>Antwort: VORTEILE OTTOMOTOR: ✅ Günstigere Anschaffungskosten (2.000-5.000 € günstiger!). ✅ Leiser Motorlauf (kein "Nageln"! - Flammenfront statt schlagartiger Verbrennung!). ✅ Höhere Drehzahlen (6.000-8.000 U/min vs. Diesel 4.000-5.500!). ✅ Leichter, kompakter (geringerer Druck 50-80 bar vs. Diesel 80-120!). ✅ Niedrigere Emissionen (NOₓ, Ruß!) - 3-Wege-Kat wandelt NOₓ um (bei λ = 1,0!)! ✅ Keine Kurzstreckenprobleme! (kein/weniger DPF! - geeignet für Stadt!). ✅ Einfachere Abgasreinigung (3-Wege-Kat, kein SCR, kein AdBlue!). NACHTEILE OTTOMOTOR: ❌ Höherer Verbrauch (10-15% mehr als Diesel!). ❌ Niedrigerer Wirkungsgrad (30-37% vs. Diesel 35-45%!). ❌ Geringeres Drehmoment (bei niedrigerer Drehzahl! - muss höher drehen!). ❌ Klopfgefahr (unkontrollierte Selbstzündung! - Klopfregelung nötig!). ❌ Höhere Emissionen (CO₂! - wegen höherem Verbrauch!). ❌ Teurer Kraftstoff (Benzin oft teurer als Diesel!). ❌ Rußbildung bei Direkteinspritzung (GPF nötig!). OTTO GEEIGNET FÜR: ✅ Wenigfahrer (&lt; 15.000 km/Jahr!). ✅ Kurzstreckenfahrer (Stadt! - kein DPF-Problem!). ✅ Leichtere Fahrzeuge (Kleinwagen!). ✅ Fahrer, die Anschaffungskosten minimieren wollen. ✅ Fahrer, die leiseren Motor wollen. ✅ Stadt- und Kurzstreckenverkehr! Merksatz: "Otto: ✅ Günstig, leise, höhere Drehzahlen, KEINE Kurzstreckenprobleme! ❌ Höherer Verbrauch, geringeres Drehmoment! Geeignet: Wenigfahrer, Kurzstrecke, Stadt!"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767488551871" 
                  data-pruefung="false"
                  data-dauer="90"
                  data-status-justin="false"
