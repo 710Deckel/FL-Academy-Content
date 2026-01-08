@@ -1,15 +1,14 @@
 {
   "moduleId": "technik",
   "moduleName": "🔧 Technik & Fahrzeugkunde",
-  "moduleDescription": "Fahrzeugtechnik, Bremsen, Beleuchtung, Elektrische Anlage, Hybrid & Elektro",
   "version": "3.0.0",
-  "lastUpdate": "2026-01-08T21:45:00Z",
+  "lastUpdate": "2026-01-08T21:05:22.592Z",
   "lektionen": [
     {
       "id": "tech_063",
       "title": "Lektion 63: Elektrische Anlage - Batterie, Bordnetz & Startvorgang",
       "dauer": 90,
-      "pruefungsrelevant": true,
+      "pruefungsrelevant": false,
       "lernziele": [
         "Die 6 Phasen des elektrischen Ablaufs erklären können",
         "Unterschied zwischen 12V-Bordnetz und Hochvolt-System verstehen",
@@ -27,7 +26,7 @@
       "id": "tech_064",
       "title": "Lektion 64: Motorsteuerung & Fahrbetrieb (elektrisch)",
       "dauer": 90,
-      "pruefungsrelevant": true,
+      "pruefungsrelevant": false,
       "lernziele": [
         "Funktion des Motorsteuergeräts (ECU) verstehen",
         "Wichtigste Sensoren und ihre Aufgaben kennen",
@@ -45,7 +44,7 @@
       "id": "tech_065",
       "title": "Lektion 65: Hybrid & Elektrofahrzeuge - Hochvolt-System",
       "dauer": 90,
-      "pruefungsrelevant": true,
+      "pruefungsrelevant": false,
       "lernziele": [
         "Unterschied zwischen 12V und 400V System verstehen",
         "Sicherheitsregeln bei Hochvolt-Fahrzeugen kennen",
