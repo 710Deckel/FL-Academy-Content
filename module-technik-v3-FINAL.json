@@ -1,0 +1,63 @@
+{
+  "moduleId": "technik",
+  "moduleName": "🔧 Technik & Fahrzeugkunde",
+  "moduleDescription": "Fahrzeugtechnik, Bremsen, Beleuchtung, Elektrische Anlage, Hybrid & Elektro",
+  "version": "3.0.0",
+  "lastUpdate": "2026-01-08T21:45:00Z",
+  "lektionen": [
+    {
+      "id": "tech_063",
+      "title": "Lektion 63: Elektrische Anlage - Batterie, Bordnetz & Startvorgang",
+      "dauer": 90,
+      "pruefungsrelevant": true,
+      "lernziele": [
+        "Die 6 Phasen des elektrischen Ablaufs erklären können",
+        "Unterschied zwischen 12V-Bordnetz und Hochvolt-System verstehen",
+        "Funktion von Batterie, Lichtmaschine und Anlasser beschreiben",
+        "Klemmenbezeichnungen (15, 30, 31, 50) zuordnen können"
+      ],
+      "inhalt": "PHASE 0: BATTERIE IM RUHEZUSTAND\n\nDie Batterie speichert elektrische Energie (12V, 60 Ah). Im Ruhezustand versorgt sie Standby-Verbraucher mit 20-50 mA.\n\nPHASE 1: ZÜNDUNG EIN (KLEMME 15)\n\nBei Zündung EIN werden Steuergeräte aktiviert, Kontrollleuchten leuchten auf, Kraftstoffpumpe läuft.\n\nKLEMMENBEZEICHNUNGEN:\n- Klemme 30: Dauerplus (immer 12V)\n- Klemme 31: Masse (Minus)\n- Klemme 15: Zündung Plus (nur bei Zündung EIN)\n- Klemme 50: Anlasser\n\nPHASE 2: STARTVORGANG (ANLASSER)\n\nDer Anlasser zieht 150-400 Ampere und dreht die Kurbelwelle, bis Motor anspringt.\n\nPHASE 3-6: MOTOR LÄUFT, FAHRBETRIEB, ABSTELLEN\n\nLichtmaschine übernimmt Stromversorgung (14V), lädt Batterie, versorgt alle Verbraucher.",
+      "praxisbeispiele": [
+        "Starthilfe bei leerer Batterie",
+        "Lichtmaschine defekt - Warnleuchte leuchtet",
+        "Kurzstrecken entladen Batterie"
+      ]
+    },
+    {
+      "id": "tech_064",
+      "title": "Lektion 64: Motorsteuerung & Fahrbetrieb (elektrisch)",
+      "dauer": 90,
+      "pruefungsrelevant": true,
+      "lernziele": [
+        "Funktion des Motorsteuergeräts (ECU) verstehen",
+        "Wichtigste Sensoren und ihre Aufgaben kennen",
+        "Aktuatoren und ihre Steuerung erklären können",
+        "Regelkreis von Sensoren über ECU zu Aktuatoren verstehen"
+      ],
+      "inhalt": "PHASE 3: MOTOR LÄUFT IM LEERLAUF\n\nDas Motorsteuergerät (ECU) regelt:\n- Einspritzmenge\n- Zündzeitpunkt\n- Leerlaufdrehzahl (ca. 800-1.000 U/min)\n\nWICHTIGE SENSOREN:\n- Luftmassenmesser (wie viel Luft?)\n- Drosselklappensensor (wie weit Gas?)\n- Kurbelwellensensor (Motordrehzahl)\n- Nockenwellensensor (Ventilsteuerung)\n- Lambda-Sonde (Abgaszusammensetzung)\n- Motortemperatursensor\n\nPHASE 4: FAHRBETRIEB - GAS GEBEN\n\nBeim Beschleunigen:\n- Fahrer drückt Gaspedal\n- Drosselklappe öffnet\n- Mehr Luft strömt ein\n- ECU erhöht Einspritzmenge\n- Motor beschleunigt\n\nREGELKREIS:\nSensor → ECU → Aktuator → Wirkung → Sensor misst → ECU passt an\n\nPHASE 5: LASTSTEUERUNG & NEBENAGGREGATE\n\nECU steuert:\n- Klimakompressor\n- Lüfter\n- Kraftstoffpumpe\n- Leerlaufregelung\n\nPHASE 6: ABGAS-NACHBEHANDLUNG\n\n- Katalysator (300-800°C)\n- Partikelfilter (bei Diesel)\n- Lambda-Regelung (optimales Gemisch)\n- NOx-Katalysator",
+      "praxisbeispiele": [
+        "Motor geht im Leerlauf aus - Leerlaufregler defekt",
+        "Motorstörung - Sensor ausgefallen",
+        "Katalysator-Warnleuchte - Lambda-Sonde defekt"
+      ]
+    },
+    {
+      "id": "tech_065",
+      "title": "Lektion 65: Hybrid & Elektrofahrzeuge - Hochvolt-System",
+      "dauer": 90,
+      "pruefungsrelevant": true,
+      "lernziele": [
+        "Unterschied zwischen 12V und 400V System verstehen",
+        "Sicherheitsregeln bei Hochvolt-Fahrzeugen kennen",
+        "Funktion von E-Motor und Leistungselektronik erklären",
+        "Hybridtypen (Mild, Voll, Plug-In) unterscheiden können"
+      ],
+      "inhalt": "HOCHVOLT-SYSTEM (400V)\n\nUnterschied zu normalem 12V-Bordnetz:\n- 12V: Batterie, Anlasser, Licht, Steuergeräte\n- 400V: E-Motor, HV-Batterie, Leistungselektronik\n\nLEBENSGEFAHR!\n- 400V können TÖDLICH sein!\n- NIEMALS HV-Komponenten berühren!\n- Orange Kabel = Hochvolt\n- Nur Fachpersonal mit HV-Schulung!\n\nKOMPONENTEN:\n\n1. HV-BATTERIE\n- 300-800 Volt\n- 20-100 kWh Kapazität\n- 200-500 kg Gewicht\n- Lithium-Ionen-Zellen\n\n2. E-MOTOR\n- 50-300 kW Leistung\n- Drehmoment sofort verfügbar\n- Kein Getriebe nötig (meist)\n- Rekuperation (Bremsenergierückgewinnung)\n\n3. LEISTUNGSELEKTRONIK (INVERTER)\n- Wandelt Gleichstrom (DC) → Wechselstrom (AC)\n- Regelt Motorleistung\n- Steuert Rekuperation\n\nHYBRIDTYPEN:\n\n1. MILD-HYBRID (48V)\n- Start-Stopp-System\n- Bremsenergierückgewinnung\n- Anfahrhilfe\n- KEIN rein elektrisches Fahren!\n\n2. VOLL-HYBRID (HV)\n- Kurze Strecken rein elektrisch (1-3 km)\n- Automatischer Wechsel\n- Keine Ladesäule nötig\n\n3. PLUG-IN-HYBRID (PHEV)\n- 30-80 km rein elektrisch\n- An Steckdose/Ladesäule laden\n- Benzin + Elektro kombiniert\n\n4. VOLLELEKTRISCH (BEV)\n- NUR Elektromotor\n- 300-600 km Reichweite\n- Ladesäule zwingend nötig",
+      "praxisbeispiele": [
+        "HV-Batterie leer - Fahrzeug fährt nur noch mit Benzin",
+        "Rekuperation - Bremsen ohne Bremspedal",
+        "Laden an Ladesäule - AC vs. DC"
+      ]
+    }
+  ]
+}
