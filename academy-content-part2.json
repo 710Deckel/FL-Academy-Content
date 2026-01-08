@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-08T21:05:17.679Z">
+    <meta name="last-updated" content="2026-01-08T21:06:03.673Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -4413,7 +4413,7 @@ ANTWORT:
                  data-status-justin="false"
                  data-status-dozent="false">
                 
-                <h3>Lektion 63: Elektrische Anlage - Batterie, Bordnetz &amp; Startvorgang</h3>
+                <h3>Lektion 22: Elektrische Anlage - Batterie, Bordnetz &amp; Startvorgang</h3>
                 
                 <div class="lernziele">
                     <div class="lernziel">Die 6 Phasen des elektrischen Ablaufs erklären können</div>
@@ -4450,7 +4450,7 @@ ANTWORT:
                  data-status-justin="false"
                  data-status-dozent="false">
                 
-                <h3>Lektion 64: Motorsteuerung &amp; Fahrbetrieb (elektrisch)</h3>
+                <h3>Lektion 23: Motorsteuerung &amp; Fahrbetrieb (elektrisch)</h3>
                 
                 <div class="lernziele">
                     <div class="lernziel">Funktion des Motorsteuergeräts (ECU) verstehen</div>
@@ -4487,7 +4487,7 @@ ANTWORT:
                  data-status-justin="false"
                  data-status-dozent="false">
                 
-                <h3>Lektion 65: Hybrid &amp; Elektrofahrzeuge - Hochvolt-System</h3>
+                <h3>Lektion 24: Hybrid &amp; Elektrofahrzeuge - Hochvolt-System</h3>
                 
                 <div class="lernziele">
                     <div class="lernziel">Unterschied zwischen 12V und 400V System verstehen</div>
