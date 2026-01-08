@@ -2,11 +2,11 @@
   "moduleId": "technik",
   "moduleName": "🔧 Technik & Fahrzeugkunde",
   "version": "3.0.0",
-  "lastUpdate": "2026-01-08T21:05:22.592Z",
+  "lastUpdate": "2026-01-08T21:06:10.493Z",
   "lektionen": [
     {
       "id": "tech_063",
-      "title": "Lektion 63: Elektrische Anlage - Batterie, Bordnetz & Startvorgang",
+      "title": "Lektion 22: Elektrische Anlage - Batterie, Bordnetz & Startvorgang",
       "dauer": 90,
       "pruefungsrelevant": false,
       "lernziele": [
@@ -24,7 +24,7 @@
     },
     {
       "id": "tech_064",
-      "title": "Lektion 64: Motorsteuerung & Fahrbetrieb (elektrisch)",
+      "title": "Lektion 23: Motorsteuerung & Fahrbetrieb (elektrisch)",
       "dauer": 90,
       "pruefungsrelevant": false,
       "lernziele": [
@@ -42,7 +42,7 @@
     },
     {
       "id": "tech_065",
-      "title": "Lektion 65: Hybrid & Elektrofahrzeuge - Hochvolt-System",
+      "title": "Lektion 24: Hybrid & Elektrofahrzeuge - Hochvolt-System",
       "dauer": 90,
       "pruefungsrelevant": false,
       "lernziele": [
