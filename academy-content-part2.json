@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T22:17:48.352Z">
+    <meta name="last-updated" content="2026-01-09T22:33:38.619Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -4501,6 +4501,145 @@ E-Autos haben natürlichen Vorteil bei Fahrdynamik durch tiefe Batterie!
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie die drei Achsen der Fahrzeugbewegung. Nennen Sie jeweils ein Beispiel.<br><br>Antwort:<br>**1. NICKEN (PITCH):**<br>→ Bewegung um Querachse (links-rechts)<br>→ Fahrzeug kippt nach vorne oder hinten<br>→ Beispiel: Beim Bremsen taucht Front ein, Heck hebt sich<br><br>**2. WANKEN (ROLL):**<br>→ Bewegung um Längsachse (vorne-hinten)<br>→ Fahrzeug neigt sich zur Seite<br>→ Beispiel: In Linkskurve neigt sich Auto nach rechts (Fliehkräfte!)<br><br>**3. GIEREN (YAW):**<br>→ Bewegung um Hochachse (vertikal)<br>→ Fahrzeug dreht sich<br>→ Beispiel: Beim Lenken dreht sich Auto in gewünschte Richtung<br><br><br>Frage 2: Warum ist der Schwerpunkt für das Wanken so wichtig? Erklären Sie am Beispiel SUV vs. Sportwagen.<br><br>Antwort:<br>**SCHWERPUNKT UND HEBELWIRKUNG:**<br>→ Je höher der Schwerpunkt, desto größer die Hebelwirkung<br>→ Größere Hebelwirkung = mehr Wanken<br><br>**SUV:**<br>→ Hoher Schwerpunkt (ca. 70 cm Höhe)<br>→ Große Hebelwirkung<br>→ In Kurve: Fliehkräfte wirken am hohen Schwerpunkt<br>→ Großes Kippmoment → viel Wanken (15-20°)<br>→ KIPPGEFAHR bei zu schneller Kurvenfahrt!<br><br>**SPORTWAGEN:**<br>→ Tiefer Schwerpunkt (ca. 40 cm Höhe)<br>→ Kleine Hebelwirkung<br>→ In Kurve: Gleiche Fliehkräfte, aber kurzer Hebel<br>→ Kleines Kippmoment → wenig Wanken (5-8°)<br>→ Sehr stabil!<br><br>**GEGENMASSNAMEN:**<br>→ Stabilisatoren (reduzieren Wanken)<br>→ Harte Federn<br>→ Tieferer Schwerpunkt (Batterie im Boden bei E-Autos!)<br><br><br>Frage 3: Was passiert bei einer Kurvenfahrt mit gleichzeitigem Bremsen hinsichtlich Nicken, Wanken und Gieren?<br><br>Antwort:<br>ALLE DREI BEWEGUNGEN TRETEN GLEICHZEITIG AUF:<br><br>**GIEREN:**<br>→ Auto dreht in Kurvenrichtung (durch Lenkung)<br>→ Gewollte Drehung um Hochachse<br><br>**WANKEN:**<br>→ Fliehkräfte drücken Auto nach außen<br>→ Auto neigt sich zur Kurvenaußenseite<br>→ Kurvenäußere Räder stark belastet<br>→ Kurveninnere Räder schwach belastet<br><br>**NICKEN:**<br>→ Beim Bremsen taucht Front ein<br>→ Vorderachse stark belastet<br>→ Hinterachse schwach belastet<br><br>**RESULTAT:**<br>→ Komplexe Lastverteilung auf alle 4 Räder!<br>→ Beispiel Linkskurve mit Bremsen:<br>  - Vorne rechts: MEISTE Last (Bremsen + Wanken!)<br>  - Hinten links: WENIGSTE Last (kann abheben!)<br><br>**ESP/ABS:**<br>→ Müssen jedes Rad individuell regeln<br>→ Berücksichtigen unterschiedliche Belastung<br>→ 100x pro Sekunde neu berechnen!</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767997890532" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Differenzial (Ausgleichsgetriebe) - Funktion, Notwendigkeit, Sperrdifferenzial</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Die Funktion des Differenzials verstehen</div>
+                    <div class="lernziel">Erklären können, warum ein Differenzial notwendig ist</div>
+                    <div class="lernziel">Das Problem in Kurvenfahrt ohne Differenzial kennen</div>
+                    <div class="lernziel">Die Bauteile des Differenzials benennen können</div>
+                    <div class="lernziel">Sperrdifferenzial verstehen und Anwendungsfälle kennen</div>
+                    <div class="lernziel">Elektronische Differenzialsperre (EDS/XDS) erklären können</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WAS IST EIN DIFFERENZIAL? - DEFINITION! ⚙️<br><br>DIFFERENZIAL = AUSGLEICHSGETRIEBE<br>(auch: Achsgetriebe)<br><br>DEFINITION:<br>→ Mechanische Vorrichtung im Antriebsstrang<br>→ Verteilt Antriebskraft auf ZWEI Räder<br>→ Ermöglicht UNTERSCHIEDLICHE Drehzahlen der Räder<br>→ Sitzt in der Mitte zwischen linkem und rechtem Rad<br><br>ANDERE NAMEN:<br>→ Ausgleichsgetriebe<br>→ Achsgetriebe<br>→ Differential (englisch)<br><br>WO SITZT DAS DIFFERENZIAL?<br><br>**FRONTANTRIEB:**<br>→ Vorne in der Mitte<br>→ Zwischen linkem und rechtem Vorderrad<br>→ Oft im Getriebegehäuse integriert<br><br>**HECKANTRIEB:**<br>→ Hinten in der Mitte<br>→ Zwischen linkem und rechtem Hinterrad<br>→ In separatem Achsgehäuse (Hinterachsdifferenzial)<br><br>**ALLRADANTRIEB:**<br>→ 3 Differentiale!<br>→ 1x vorne (zwischen linken/rechten Vorderrädern)<br>→ 1x hinten (zwischen linken/rechten Hinterrädern)<br>→ 1x Mittendifferenzial (zwischen Vorder- und Hinterachse)<br><br><br>2. WARUM BRAUCHEN WIR EIN DIFFERENZIAL? - DAS PROBLEM! 🤔<br><br>**PROBLEM: UNTERSCHIEDLICHE RADWEGE IN KURVEN!**<br><br>SITUATION:<br>→ Auto fährt Linkskurve<br>→ Linkes Rad: Kurveninnere (kurzer Weg!)<br>→ Rechtes Rad: Kurvenaußen (langer Weg!)<br><br>BEISPIEL LINKSKURVE (Radius 10m):<br><br>**LINKES RAD (INNEN):**<br>→ Radius: 9,5 m (enger!)<br>→ Umfang: 2 × π × 9,5 m = 59,7 m<br>→ Bei Radumfang 2 m: 59,7 ÷ 2 = **29,9 Umdrehungen**<br><br>**RECHTES RAD (AUSSEN):**<br>→ Radius: 10,5 m (weiter!)<br>→ Umfang: 2 × π × 10,5 m = 65,9 m<br>→ Bei Radumfang 2 m: 65,9 ÷ 2 = **33,0 Umdrehungen**<br><br>**DIFFERENZ:**<br>→ Rechtes Rad macht 3,1 Umdrehungen MEHR!<br>→ Rechtes Rad muss SCHNELLER drehen!<br>→ Unterschied: ca. 10%!<br><br><br>**OHNE DIFFERENZIAL:**<br><br>Beide Räder fest verbunden → gleiche Drehzahl!<br><br>FOLGEN:<br>❌ Ein Rad wird gebremst (inneres!)<br>❌ Anderes Rad wird geschleift (äußeres!)<br>❌ Extremer Reifenverschleiß!<br>❌ Hohe Belastung auf Antriebswelle!<br>❌ Schlechtes Kurvenverhalten!<br>❌ Hoher Kraftstoffverbrauch!<br>❌ Verspannungen im Antriebsstrang!<br><br>**MIT DIFFERENZIAL:**<br><br>Beide Räder können unterschiedlich schnell drehen!<br><br>FOLGEN:<br>✅ Inneres Rad: Langsamer<br>✅ Äußeres Rad: Schneller<br>✅ Beide Räder rollen sauber ab!<br>✅ Kein Verschleiß!<br>✅ Gutes Kurvenverhalten!<br>✅ Keine Verspannungen!<br><br>MERKSATZ:<br>"Differenzial = Unterschiedliche Drehzahlen möglich!"<br><br><br>3. WIE FUNKTIONIERT EIN DIFFERENZIAL? - DIE BAUTEILE! 🔧<br><br>HAUPTBAUTEILE:<br><br>**1. TELLERRAD (KRONENRAD):**<br>→ Großes Zahnrad<br>→ Wird vom Motor angetrieben (über Antriebswelle/Kardanwelle)<br>→ Dreht Differenzialkorb<br><br>**2. RITZEL (ANTRIEBSRITZEL):**<br>→ Kleines Zahnrad auf Antriebswelle<br>→ Treibt Tellerrad an<br>→ Übersetzung ins Langsame (z.B. 1:4)<br><br>**3. DIFFERENZIALKORB (GEHÄUSE):**<br>→ Dreht sich mit Tellerrad<br>→ Enthält Ausgleichskegelräder<br>→ Trägt alles<br><br>**4. AUSGLEICHSKEGELRÄDER (PLANETENRÄDER):**<br>→ 2-4 kleine Kegelräder<br>→ Laufen im Differenzialkorb<br>→ Verbinden linke und rechte Seitenwelle<br>→ Ermöglichen Drehzahlausgleich!<br><br>**5. ACHSWELLENRÄDER (SONNENRÄDER):**<br>→ 2 Stück (links und rechts)<br>→ Fest mit Achswellen verbunden<br>→ Werden von Ausgleichskegelrädern angetrieben<br><br><br>FUNKTION:<br><br>**GERADEAUSFAHRT:**<br>→ Motor dreht Ritzel<br>→ Ritzel dreht Tellerrad<br>→ Tellerrad dreht Differenzialkorb<br>→ Differenzialkorb dreht BEIDE Achswellenräder GLEICH SCHNELL<br>→ Ausgleichskegelräder drehen sich NICHT um eigene Achse!<br>→ Linkes Rad = Rechtes Rad (gleiche Drehzahl!)<br><br>**KURVENFAHRT (z.B. LINKSKURVE):**<br>→ Motor dreht Ritzel<br>→ Ritzel dreht Tellerrad<br>→ Tellerrad dreht Differenzialkorb<br>→ Ausgleichskegelräder beginnen sich um EIGENE ACHSE zu drehen!<br>→ Linkes Achswellenrad: LANGSAMER (innere Kurve!)<br>→ Rechtes Achswellenrad: SCHNELLER (äußere Kurve!)<br>→ Summe bleibt gleich! (wenn links -10%, dann rechts +10%!)<br><br>WICHTIG:<br>→ Die Summe der Drehzahlen bleibt KONSTANT!<br>→ Wenn ein Rad langsamer wird, wird das andere schneller!<br><br><br>4. DAS PROBLEM DES OFFENEN DIFFERENZIALS! ⚠️<br><br>**PROBLEM: DURCHDREHENDES RAD!**<br><br>SITUATION:<br>→ Ein Rad auf Eis (kein Grip!)<br>→ Anderes Rad auf Asphalt (viel Grip!)<br><br>WAS PASSIERT?<br><br>**OFFENES DIFFERENZIAL:**<br>→ Verteilt Kraft GLEICHMÄSSIG auf beide Räder!<br>→ Rad auf Eis: Wenig Widerstand → dreht durch!<br>→ Rad auf Asphalt: Viel Widerstand → steht still!<br>→ PROBLEM: Motor treibt nur durchdrehendes Rad an!<br>→ Fahrzeug kommt NICHT vom Fleck!<br><br>PHYSIK:<br>→ Offenes Differenzial überträgt nur so viel Kraft, wie das RAD MIT GERINGSTER HAFTUNG aufnehmen kann!<br>→ Wenn ein Rad durchdreht, steht das andere still!<br>→ Auto kommt nicht vorwärts!<br><br>TYPISCHE SITUATIONEN:<br>→ Ein Rad auf Eis, eins auf Asphalt<br>→ Ein Rad auf Schlamm, eins auf trockenem Boden<br>→ Ein Rad hebt ab (unebenes Gelände)<br>→ Starke Beschleunigung (Sportwagen) → inneres Rad hebt ab<br><br><br>MERKSATZ:<br>"Offenes Differenzial = Faul! Nimmt immer den Weg des geringsten Widerstands!"<br><br><br>5. LÖSUNG: SPERRDIFFERENZIAL (LSD)! 🔒<br><br>LSD = LIMITED SLIP DIFFERENTIAL = SPERRDIFFERENZIAL<br><br>DEFINITION:<br>→ Differenzial, das sich "sperren" kann<br>→ Verhindert zu großen Drehzahlunterschied<br>→ Sorgt dafür, dass BEIDE Räder Kraft bekommen<br><br>ARTEN:<br><br>**1. MECHANISCHES SPERRDIFFERENZIAL:**<br><br>**1A. LAMELLENSPERRDIFFERENZIAL:**<br>→ Lamellen (Scheiben) zwischen Differenzialkorb und Achswellenrädern<br>→ Bei Drehzahlunterschied: Lamellen werden zusammengedrückt<br>→ Reibung bremst durchdrehendes Rad<br>→ Kraft geht auf anderes Rad!<br>→ Automatisch wirkend!<br>→ Typisch: Sportwagen, Geländewagen<br><br>**1B. SELBSTSPERRENDES DIFFERENZIAL (TORSEN):**<br>→ Nutzt Schneckengetriebe<br>→ Sperrt sich automatisch bei Kraftunterschied<br>→ Sehr effektiv!<br>→ Typisch: Audi quattro, Subaru<br><br>**2. ELEKTRONISCHE DIFFERENZIALSPERRE (EDS/XDS):**<br>→ Nutzt ABS/ESP-System!<br>→ Kein mechanisches Sperrdifferenzial nötig!<br>→ FUNKTIONIERT SO:<br>  - Sensor erkennt: Ein Rad dreht durch!<br>  - EDS bremst durchdrehendes Rad gezielt ab!<br>  - Motor gibt mehr Gas<br>  - Kraft geht automatisch auf anderes Rad!<br>→ Sehr effektiv und kostengünstig!<br>→ Standard in modernen Autos!<br><br>**3. ZUSCHALTBARE DIFFERENZIALSPERRE:**<br>→ Kann manuell vom Fahrer aktiviert werden<br>→ Knopf im Cockpit<br>→ Sperrt Differenzial komplett (100%)<br>→ Beide Räder fest verbunden!<br>→ Nur bei Geländewagen!<br><br><br>VORTEILE SPERRDIFFERENZIAL:<br><br>✅ Bessere Traktion auf rutschigem Untergrund!<br>✅ Kein Durchdrehen eines Rades!<br>✅ Besseres Anfahren auf Eis/Schnee!<br>✅ Bessere Beschleunigung aus Kurven (Sportwagen!)<br>✅ Geländetauglichkeit!<br><br>NACHTEILE:<br><br>❌ Teurer in der Herstellung<br>❌ Mehr Verschleiß<br>❌ Bei 100% Sperre: Schlechtes Kurvenverhalten!<br>❌ Höherer Kraftstoffverbrauch (wenn aktiv)<br><br><br>6. ELEKTRONISCHE DIFFERENZIALSPERRE (EDS/XDS)! 💻<br><br>EDS = ELEKTRONISCHE DIFFERENZIALSPERRE<br>(englisch: Electronic Differential Lock)<br><br>FUNKTIONSPRINZIP:<br><br>**OHNE EDS:**<br>→ Rechtes Rad auf Eis → dreht durch!<br>→ Linkes Rad auf Asphalt → steht still!<br>→ Auto kommt nicht vom Fleck!<br><br>**MIT EDS:**<br><br>**SCHRITT 1: ERKENNUNG**<br>→ Raddrehzahlsensor erkennt: Rechtes Rad dreht viel schneller!<br>→ ESP-Steuergerät: "Durchdrehen erkannt!"<br><br>**SCHRITT 2: BREMSENEINGRIFF**<br>→ EDS bremst rechtes Rad gezielt ab!<br>→ Bremskraft: 50-200 Nm<br><br>**SCHRITT 3: KRAFTUMVERTEILUNG**<br>→ Durchdrehendes Rad gebremst = mehr Widerstand!<br>→ Kraft geht automatisch auf anderes Rad (Differenzial!)<br>→ Linkes Rad bekommt Antriebskraft!<br>→ Auto fährt los!<br><br>**WICHTIG:**<br>→ EDS nutzt normale Radbremsen!<br>→ Kein extra Bauteil nötig!<br>→ Funktioniert mit vorhandenem ABS/ESP!<br>→ Sehr kostengünstig!<br><br><br>XDS = ERWEITERTE VERSION (VW GROUP)<br><br>**XDS = ELEKTRONISCHES QUERDIFFERENZIAL**<br>(englisch: Electronic Cross Differential System)<br><br>ZUSATZFUNKTION:<br>→ In Kurvenfahrt: Kurveninneres Rad neigt zum Durchdrehen<br>→ XDS bremst kurveninneres Rad leicht ab!<br>→ Kraft geht auf kurvenäußeres Rad<br>→ Besseres Kurvenverhalten!<br>→ Weniger Untersteuern!<br><br>TYPISCH BEI:<br>→ VW Golf GTI, Audi S3, Seat Leon Cupra<br><br><br>7. MITTENDIFFERENZIAL (BEI ALLRAD)! 4️⃣<br><br>BEI ALLRADANTRIEB: 3 DIFFERENTIALE!<br><br>**1. VORDERACHS-DIFFERENZIAL:**<br>→ Zwischen linkem und rechtem Vorderrad<br><br>**2. HINTERACHS-DIFFERENZIAL:**<br>→ Zwischen linkem und rechtem Hinterrad<br><br>**3. MITTENDIFFERENZIAL:** ⭐ NEU!<br>→ Zwischen Vorder- und Hinterachse!<br>→ Verteilt Kraft auf vorne/hinten!<br><br>WARUM MITTENDIFFERENZIAL NÖTIG?<br><br>**PROBLEM OHNE MITTENDIFFERENZIAL:**<br>→ Kurvenfahrt: Vorderachse fährt engeren Radius als Hinterachse!<br>→ Vorderräder drehen langsamer als Hinterräder!<br>→ Ohne Mittendifferenzial: Verspannungen!<br>→ Schlechtes Handling, Verschleiß!<br><br>**MIT MITTENDIFFERENZIAL:**<br>→ Vorderachse kann langsamer drehen als Hinterachse!<br>→ Keine Verspannungen!<br>→ Gutes Kurvenverhalten!<br><br>ARTEN:<br><br>**OFFENES MITTENDIFFERENZIAL:**<br>→ Gleiche Funktion wie normales Differenzial<br>→ Problem: Wenn eine Achse durchdreht (z.B. Vorderachse auf Eis), steht andere Achse still!<br><br>**GESPERRTES MITTENDIFFERENZIAL:**<br>→ Torsen-Differenzial (Audi quattro)<br>→ Lamellensperrdifferenzial<br>→ Elektronisch gesteuert (Haldex bei VW/Audi)<br>→ Bessere Traktion!<br><br><br>8. ALLRAD-SYSTEME IM VERGLEICH! 🚙<br><br>**PERMANENTER ALLRAD:**<br>→ Mittendifferenzial immer aktiv<br>→ Kraft immer auf alle 4 Räder<br>→ Beispiele: Audi quattro, Subaru Symmetrical AWD<br>→ Vorteil: Immer Traktion!<br>→ Nachteil: Höherer Verbrauch<br><br>**ZUSCHALTBARER ALLRAD:**<br>→ Normalerweise nur eine Achse angetrieben<br>→ Bei Bedarf: Zweite Achse wird zugeschaltet<br>→ Beispiele: VW 4Motion (Haldex), Mercedes 4MATIC<br>→ Vorteil: Geringerer Verbrauch!<br>→ Nachteil: Verzögerung beim Zuschalten (0,1-0,5s)<br><br>**ELEKTRONISCH GEREGELTER ALLRAD:**<br>→ Computer verteilt Kraft optimal<br>→ Ständige Anpassung (100x pro Sekunde!)<br>→ Berücksichtigt: Lenkwinkel, Geschwindigkeit, Beschleunigung<br>→ Beispiele: BMW xDrive, Mercedes 4MATIC+<br>→ Vorteil: Optimale Traktion + Handling!<br><br><br>9. ANTRIEBSARTEN IM VERGLEICH! 🔄<br><br>| MERKMAL | FRONTANTRIEB | HECKANTRIEB | ALLRADANTRIEB |<br>|---------|-------------|-------------|---------------|<br>| **Differentiale** | 1 (vorne) | 1 (hinten) | 3 (vorne, hinten, Mitte) |<br>| **Traktion** | Gut (Motor über Antriebsrädern) | Mittel | Sehr gut |<br>| **Kurvenverhalten** | Untersteuern | Übersteuern | Neutral |<br>| **Gewicht** | Leicht | Mittel | Schwer |<br>| **Verbrauch** | Niedrig | Mittel | Hoch |<br>| **Kosten** | Günstig | Mittel | Teuer |<br>| **Typische Autos** | Golf, Polo, A3 | BMW 3er, Mercedes C | Audi quattro, Subaru |<br><br>**FRONTANTRIEB:**<br>→ Vorteil: Günstig, geringer Verbrauch, gute Traktion (Motor lastet auf Antriebsrädern)<br>→ Nachteil: Neigt zu Untersteuern, schlechte Gewichtsverteilung<br><br>**HECKANTRIEB:**<br>→ Vorteil: Sportliches Handling, gute Gewichtsverteilung, hohe Anhängelast<br>→ Nachteil: Schlechtere Traktion bergauf/bei Schnee (wenig Last auf Hinterachse)<br><br>**ALLRADANTRIEB:**<br>→ Vorteil: Beste Traktion, sicher bei Schnee/Eis, gutes Handling<br>→ Nachteil: Schwer, teuer, hoher Verbrauch, komplex<br><br><br>10. DIFFERENZIAL IN DER PRAXIS! 🚗<br><br>**TYPISCHE SITUATIONEN:**<br><br>**SITUATION 1: ANFAHREN AUF EISGLÄTTE (μ-SPLIT)**<br>→ Linkes Rad auf Eis (μ = 0,1)<br>→ Rechtes Rad auf Asphalt (μ = 0,8)<br><br>OHNE SPERRDIFFERENZIAL/EDS:<br>→ Linkes Rad dreht durch<br>→ Rechtes Rad steht still<br>→ Auto kommt nicht vom Fleck!<br><br>MIT EDS:<br>→ EDS bremst linkes Rad ab<br>→ Kraft geht auf rechtes Rad<br>→ Auto fährt los!<br><br>**SITUATION 2: KURVENFAHRT**<br>→ Linkskurve, Radius 20m, 50 km/h<br>→ Rechtes Rad muss weiter fahren als linkes Rad<br>→ Differenzial ermöglicht unterschiedliche Drehzahlen<br>→ Sauberes Abrollen!<br><br>**SITUATION 3: SPORTWAGEN BESCHLEUNIGUNG AUS KURVE**<br>→ Porsche 911, Linkskurve, Vollgas!<br>→ Kurveninneres Hinterrad hebt ab (Wanken!)<br>→ Offenes Differenzial: Inneres Rad würde durchdrehen!<br><br>MIT SPERRDIFFERENZIAL:<br>→ Lamellen sperren Differenzial teilweise<br>→ Kraft geht auch auf äußeres Rad<br>→ Maximale Beschleunigung!<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>DEFINITION:<br>→ Differenzial = Ausgleichsgetriebe<br>→ Verteilt Kraft auf zwei Räder<br>→ Ermöglicht unterschiedliche Drehzahlen<br><br>NOTWENDIGKEIT:<br>→ In Kurven: Unterschiedliche Radwege!<br>→ Äußeres Rad fährt weiter als inneres<br>→ Ohne Differenzial: Verschleiß, Verspannungen!<br><br>BAUTEILE:<br>→ Tellerrad + Ritzel (Antrieb)<br>→ Differenzialkorb<br>→ Ausgleichskegelräder (ermöglichen Drehzahlausgleich!)<br>→ Achswellenräder (links/rechts)<br><br>PROBLEM OFFENES DIFFERENZIAL:<br>→ Durchdrehendes Rad bekommt alle Kraft!<br>→ Rad mit Grip steht still!<br><br>LÖSUNG:<br>→ Sperrdifferenzial (mechanisch)<br>→ EDS/XDS (elektronisch mit ABS/ESP!)<br>→ Bremst durchdrehendes Rad ab<br><br>ALLRAD:<br>→ 3 Differentiale (vorne, hinten, Mitte!)<br>→ Mittendifferenzial zwischen Vorder-/Hinterachse<br><br>ANTRIEBSARTEN:<br>→ Front: 1 Differenzial (vorne)<br>→ Heck: 1 Differenzial (hinten)<br>→ Allrad: 3 Differentiale</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: WARUM DREHT DAS RAD DURCH? (μ-SPLIT)
+
+SITUATION:
+Golf, Frontantrieb, Winter. Linkes Vorderrad auf Eisplatte, rechtes auf Asphalt. Fahrer gibt Gas.
+
+WAS PASSIERT:
+
+**PHYSIK:**
+→ Linkes Rad auf Eis: μ = 0,1 → Maximale Kraft = 50 N
+→ Rechtes Rad auf Asphalt: μ = 0,8 → Maximale Kraft = 400 N
+
+**OFFENES DIFFERENZIAL:**
+→ Verteilt Kraft GLEICHMÄSSIG!
+→ Kann nur so viel Kraft übertragen, wie schwächstes Rad aufnehmen kann!
+→ Schwächstes Rad (links): 50 N
+→ BEIDE Räder bekommen 50 N!
+→ Linkes Rad: 50 N → Grenze erreicht → dreht durch!
+→ Rechtes Rad: 50 N → Könnte 400 N aufnehmen → steht still!
+→ Auto kommt nicht vom Fleck!
+
+**MIT EDS:**
+→ EDS erkennt: Linkes Rad dreht durch!
+→ EDS bremst linkes Rad mit 100 N ab
+→ Widerstand steigt auf 150 N (50 N Haftung + 100 N Bremse)
+→ Differenzial kann jetzt 150 N auf JEDES Rad übertragen!
+→ Rechtes Rad: 150 N → Kraft reicht → Auto fährt los!
+
+LERNEFFEKT:
+Offenes Differenzial = schwächstes Glied bestimmt! EDS = Bremst schwächstes Glied ab!</div>
+                        <div class="beispiel">BEISPIEL 2: KURVENRADIEN BERECHNEN
+
+AUFGABE:
+Auto fährt Linkskurve mit Radius 10m (gemessen in Fahrzeugmitte). Spurweite 1,5m. Berechne die Radien für linkes und rechtes Rad. Wie viel Prozent schneller muss das äußere Rad drehen?
+
+LÖSUNG:
+
+**RADIEN:**
+→ Linkes Rad (innen): 10m - 0,75m = 9,25m
+→ Rechtes Rad (außen): 10m + 0,75m = 10,75m
+
+**UMFÄNGE (bei vollem Kreis):**
+→ Linkes Rad: 2 × π × 9,25m = 58,1m
+→ Rechtes Rad: 2 × π × 10,75m = 67,5m
+
+**DIFFERENZ:**
+→ 67,5m - 58,1m = 9,4m Unterschied pro Runde!
+→ Prozentual: 9,4m ÷ 58,1m × 100% = 16,2%
+→ **Rechtes Rad muss 16% SCHNELLER drehen!**
+
+**BEI RADUMFANG 2m:**
+→ Linkes Rad: 58,1m ÷ 2m = 29,1 Umdrehungen
+→ Rechtes Rad: 67,5m ÷ 2m = 33,8 Umdrehungen
+→ Differenz: 4,7 Umdrehungen mehr!
+
+LERNEFFEKT:
+Je enger die Kurve, desto größer der Unterschied! Ohne Differenzial = Katastrophe!</div>
+                        <div class="beispiel">BEISPIEL 3: WARUM PORSCHE SCHNELLER AUS KURVE BESCHLEUNIGT
+
+FRAGE:
+Warum kann ein Porsche 911 mit Sperrdifferenzial schneller aus Kurven beschleunigen als ein Golf ohne?
+
+ANTWORT:
+
+**SITUATION:**
+→ Scharfe Rechtskurve, Vollgas!
+→ Auto wankt nach links (Kurvenaußenseite!)
+→ Kurveninneres Hinterrad (rechts) hebt teilweise ab!
+
+**GOLF (OHNE SPERRDIFFERENZIAL):**
+→ Frontantrieb, offenes Differenzial vorne
+→ In Kurve: Kurveninneres Vorderrad (rechts) weniger belastet
+→ Vollgas: Rechtes Rad neigt zum Durchdrehen!
+→ Offenes Differenzial: Kraft geht auf durchdrehendes Rad!
+→ Linkes Rad (außen, viel Last) bekommt kaum Kraft!
+→ Beschleunigung limitiert!
+
+**PORSCHE 911 (MIT SPERRDIFFERENZIAL):**
+→ Heckantrieb, Sperrdifferenzial hinten
+→ In Kurve: Kurveninneres Hinterrad (rechts) hebt ab
+→ Vollgas: Rechtes Rad würde durchdrehen
+→ **ABER:** Sperrdifferenzial greift ein!
+→ Lamellen klemmen → mehr Kraft auf linkes Rad (außen)!
+→ Linkes Rad: Viel Last + viel Kraft = maximale Traktion!
+→ Volle Beschleunigung möglich!
+
+ZAHLEN:
+→ Golf: Max. 30% Motorleistung in Kurve nutzbar (Durchdrehen!)
+→ Porsche: 80-90% Motorleistung in Kurve nutzbar (Sperrdifferenzial!)
+
+LERNEFFEKT:
+Sperrdifferenzial = Mehr Kraft auf Rad mit Grip = Schnellere Kurvenausfahrt!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Experiment<br>→ Ablauf: Zwei Spielzeugautos. Eins mit freien Rädern (simuliert Differenzial), eins mit verklebten Rädern (ohne Differenzial). In Kurve schieben. Frage: "Welches rollt besser?" Überleitung: "Heute lernen wir, warum!"<br>→ Ziel: Problem ohne Differenzial visualisieren<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: NOTWENDIGKEIT (15 Min)<br>→ Kurvenfahrt: Unterschiedliche Radwege!<br>→ Rechnung an Tafel: Kurvenradien berechnen<br>→ Problem ohne Differenzial: Verschleiß, Verspannungen<br>→ Mit Differenzial: Unterschiedliche Drehzahlen möglich!<br><br>PHASE 2: AUFBAU &amp; FUNKTION (20 Min)<br>→ Bauteile durchgehen (Tellerrad, Ritzel, Ausgleichskegelräder)<br>→ Geradeausfahrt vs. Kurvenfahrt<br>→ Wenn möglich: Schnittmodell zeigen!<br>→ Video: "Differenzial in Aktion"<br><br>PHASE 3: PROBLEM OFFENES DIFFERENZIAL (15 Min)<br>→ μ-Split erklären (ein Rad auf Eis!)<br>→ Durchdrehendes Rad bekommt alle Kraft!<br>→ Physik: Schwächstes Glied bestimmt!<br>→ Video: "Auto auf Eis - ein Rad dreht durch"<br><br>PHASE 4: SPERRDIFFERENZIAL &amp; EDS (15 Min)<br>→ Mechanisches Sperrdifferenzial (Lamellen, Torsen)<br>→ EDS: Nutzt ABS/ESP! (bremst durchdrehendes Rad!)<br>→ XDS: Besseres Kurvenverhalten<br>→ Sehr effektiv und kostengünstig!<br><br>PHASE 5: ALLRAD (5 Min)<br>→ 3 Differentiale (vorne, hinten, Mitte!)<br>→ Mittendifferenzial zwischen Achsen<br>→ Permanenter vs. zuschaltbarer Allrad<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Warum Differenzial?" → Unterschiedliche Radwege in Kurve!<br>→ "Problem offenes Differenzial?" → Durchdrehendes Rad bekommt Kraft!<br>→ "Lösung?" → Sperrdifferenzial/EDS!<br>→ Hausaufgabe: Welche Antriebsart hat dein Auto?<br><br></div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ Differenzial ist mechanisch komplex - viel visualisieren!<br>→ Kurvenradien-Berechnung wichtig (Verständnis!)<br>→ μ-Split-Situation gut erklären (typisches Problem!)<br>→ EDS ist wichtig (moderne Lösung!)<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Denken Differenzial verteilt Kraft 50:50 (NEIN - gleich viel, aber Rad mit weniger Widerstand dreht!)<br>→ Vergessen dass in Kurve unterschiedliche Radwege<br>→ Verwechseln Sperrdifferenzial und EDS<br>→ Wissen nicht warum 3 Differentiale bei Allrad<br><br>TIPPS &amp; TRICKS:<br>→ Schnittmodell Differenzial zeigen (wenn vorhanden!)<br>→ YouTube: "How a differential works" (sehr gute Animation!)<br>→ YouTube: "Car stuck on ice - one wheel spinning"<br>→ Eselsbrücke: "Differenzial = Unterschiedlich!"<br>→ Zeichnung Kurvenradien (wichtig!)</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Warum benötigt ein Auto ein Differenzial? Erklären Sie das Problem in Kurvenfahrt.<br><br>Antwort:<br>**PROBLEM IN KURVENFAHRT:**<br>→ Kurveninneres Rad fährt kürzeren Weg als kurvenäußeres Rad<br>→ Inneres Rad muss LANGSAMER drehen als äußeres Rad<br>→ Beispiel: 10-20% Unterschied in scharfer Kurve!<br><br>**OHNE DIFFERENZIAL:**<br>→ Beide Räder fest verbunden → gleiche Drehzahl!<br>→ Ein Rad wird gebremst, anderes geschleift<br>→ Extreme Belastung auf Antriebswelle<br>→ Extremer Reifenverschleiß<br>→ Verspannungen im Antriebsstrang<br>→ Schlechtes Kurvenverhalten<br><br>**MIT DIFFERENZIAL:**<br>→ Ermöglicht unterschiedliche Drehzahlen!<br>→ Inneres Rad: Langsamer<br>→ Äußeres Rad: Schneller<br>→ Beide rollen sauber ab<br>→ Kein Verschleiß, keine Verspannungen<br><br><br>Frage 2: Erklären Sie das Problem des offenen Differenzials bei μ-Split (ein Rad auf Eis, eins auf Asphalt). Wie löst EDS dieses Problem?<br><br>Antwort:<br>**PROBLEM OFFENES DIFFERENZIAL:**<br>→ Verteilt Kraft gleichmäßig auf beide Räder<br>→ Kann nur so viel Kraft übertragen, wie Rad mit GERINGSTER HAFTUNG aufnehmen kann!<br>→ Beispiel: Linkes Rad auf Eis (μ=0,1), rechtes auf Asphalt (μ=0,8)<br>→ Linkes Rad: Kann nur 50N aufnehmen → dreht durch!<br>→ Rechtes Rad: Könnte 400N aufnehmen → bekommt aber nur 50N → steht still!<br>→ Auto kommt nicht vom Fleck!<br><br>**LÖSUNG MIT EDS (ELEKTRONISCHE DIFFERENZIALSPERRE):**<br><br>SCHRITT 1: Erkennung<br>→ Raddrehzahlsensor: Linkes Rad dreht viel schneller!<br><br>SCHRITT 2: Bremseneingriff<br>→ EDS bremst linkes Rad gezielt ab (z.B. mit 100N)<br>→ Widerstand erhöht sich auf 150N (50N Haftung + 100N Bremse)<br><br>SCHRITT 3: Kraftumverteilung<br>→ Differenzial kann jetzt 150N auf jedes Rad übertragen!<br>→ Rechtes Rad: 150N Antriebskraft → Fährt los!<br><br>**VORTEIL EDS:**<br>→ Nutzt vorhandenes ABS/ESP-System<br>→ Kein extra Bauteil nötig → kostengünstig!<br><br><br>Frage 3: Wie viele Differentiale hat ein Allradfahrzeug und wo sitzen diese?<br><br>Antwort:<br>**ALLRADFAHRZEUG HAT 3 DIFFERENTIALE:**<br><br>**1. VORDERACHS-DIFFERENZIAL:**<br>→ Sitzt vorne in der Mitte<br>→ Zwischen linkem und rechtem Vorderrad<br>→ Ermöglicht unterschiedliche Drehzahlen in Kurven<br><br>**2. HINTERACHS-DIFFERENZIAL:**<br>→ Sitzt hinten in der Mitte<br>→ Zwischen linkem und rechtem Hinterrad<br>→ Ermöglicht unterschiedliche Drehzahlen in Kurven<br><br>**3. MITTENDIFFERENZIAL (VERTEILERGETRIEBE):**<br>→ Sitzt zwischen Vorder- und Hinterachse<br>→ Verteilt Kraft auf vorne und hinten<br>→ NOTWENDIG weil: In Kurven fährt Vorderachse engeren Radius als Hinterachse!<br>→ Ohne Mittendifferenzial: Verspannungen zwischen Achsen!<br><br>**ARTEN MITTENDIFFERENZIAL:**<br>→ Offenes Differenzial (selten)<br>→ Torsen-Differenzial (Audi quattro)<br>→ Elektronisch geregeltes Differenzial (BMW xDrive, Haldex)</div>
                     </div>
 
                 </div>
