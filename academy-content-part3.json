@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T08:42:14.759Z">
+    <meta name="last-updated" content="2026-01-09T08:48:29.260Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: DIDAKTIK & METHODIK -->
@@ -673,42 +673,6 @@ Selbstständige Übung (15 Min): Fahrschüler macht es selbst, Fahrlehrer greift
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Nennen Sie schülerzentrierte Methoden.<br>Antwort: Gruppenarbeit, Diskussion, Partnerarbeit, Einzelarbeit. (Weitere: Projektarbeit, Rollenspiel, Stationenlernen)<br><br>Frage 2: Erklären Sie den Unterschied zwischen Didaktik und Methodik.<br>Antwort: Didaktik = "WAS" und "WARUM" (Inhalte, Ziele). Methodik = "WIE" (Vermittlung, Wege). Merksatz: "Didaktik sagt, WOHIN du willst. Methodik sagt, WIE du hinkommst!"<br><br>Frage 3: Warum ist Methodenwechsel wichtig?<br>Antwort: Methodenwechsel fördert Aufmerksamkeit (Abwechslung!), spricht verschiedene Lerntypen an, hält Motivation hoch, vermeidet Ermüdung. 90 Min nur Vortrag = Einschlafen!<br><br>Frage 4: Nennen Sie Vor- und Nachteile von Gruppenarbeit.<br>Antwort: Vorteile: Hohe Aktivität, soziales Lernen, Perspektivenwechsel, Selbstständigkeit. Nachteile: Zeitaufwendig, Ergebnisse variieren, Trittbrettfahrer-Effekt möglich.<br><br>Frage 5: Welche Methode eignet sich für welches Lernziel? Geben Sie 3 Beispiele.<br>Antwort:<br><br>Kognitiv (Wissen): Vortrag, Lehrgespräch, Einzelarbeit<br>Affektiv (Einstellungen): Diskussion, Gruppenarbeit, Rollenspiel<br>Psychomotorisch (Können): Demonstration, Übung, praktische Arbeit<br><br><br>Frage 6: Planen Sie eine 60-Min-Theorieeinheit zum Thema "Vorfahrt" mit Methodenwechsel.<br>Antwort:<br><br>0-10 Min: Vortrag (Grundlagen erklären)<br>10-25 Min: Gruppenarbeit (Vorfahrtsregeln erarbeiten)<br>25-35 Min: Präsentation (Gruppen stellen vor)<br>35-50 Min: Partnerarbeit (Fallbeispiele lösen)<br>50-60 Min: Lehrgespräch (Fragen klären)<br>→ 5 Methoden in 60 Min!</div>
                     </div>
-
-                </div>
-            </div>
-
-            <div class="lektion" 
-                 data-id="ausbilden_1767947964407" 
-                 data-pruefung="false"
-                 data-dauer="90"
-                 data-status-justin="true"
-                 data-status-dozent="false">
-                
-                <h3>Test Didaktik</h3>
-                
-                <div class="lernziele">
-                    <div class="lernziel">test</div>
-                </div>
-                
-                <div class="anwaerter">
-                    <h4>Inhalt für Anwärter</h4>
-                    <div class="inhalt">test</div>
-                    
-                    <div class="beispiele">
-                        <h5>Praxisbeispiele</h5>
-                        <div class="beispiel">test</div>
-                    </div>
-                </div>
-                
-                <div class="dozent">
-                    <h4>Inhalt für Dozenten</h4>
-                    
-                    <div class="unterrichtsentwurf">
-                        <h5>Unterrichtsentwurf</h5>
-                        <div class="inhalt">test</div>
-                    </div>
-
-
 
                 </div>
             </div>
