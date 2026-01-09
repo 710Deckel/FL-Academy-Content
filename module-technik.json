@@ -2,7 +2,7 @@
   "moduleId": "technik",
   "moduleName": "🔧 Technik & Fahrzeugkunde",
   "version": "3.0.0",
-  "lastUpdate": "2026-01-09T18:15:43.484Z",
+  "lastUpdate": "2026-01-09T18:17:47.360Z",
   "lektionen": [
     {
       "id": "technik_1767353149333",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "technik_1767981508480",
-      "title": "remssystem - Scheibenbremsen, Trommelbremsen, ABS & ESP",
+      "title": "Bremssystem - Scheibenbremsen, Trommelbremsen, ABS & ESP",
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
