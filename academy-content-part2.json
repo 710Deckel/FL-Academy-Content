@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T21:25:21.036Z">
+    <meta name="last-updated" content="2026-01-09T21:32:28.740Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -3976,6 +3976,144 @@ MERKSATZ:
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie das Prinzip der hydraulischen Bremse. Welche Komponenten sind beteiligt?<br><br>Antwort:<br>PRINZIP:<br>Hydraulische Bremse nutzt Pascalsches Gesetz: Druck in Flüssigkeit breitet sich gleichmäßig in alle Richtungen aus!<br><br>ABLAUF:<br>1. Fahrer tritt auf Bremspedal<br>2. Bremskraftverstärker verstärkt (3-8x)<br>3. Hauptbremszylinder wandelt Kraft in Druck (bis 180 bar)<br>4. Druck breitet sich in Leitungen aus<br>5. Radbremszylinder wandeln Druck in Kraft<br>6. Beläge drücken auf Scheiben → Auto bremst!<br><br>KOMPONENTEN:<br>→ Bremspedal<br>→ Bremskraftverstärker (BKV)<br>→ Hauptbremszylinder (Tandem-HBZ, 2 Kreise!)<br>→ Ausgleichsbehälter<br>→ Bremsleitungen (starr + flexibel)<br>→ Radbremszylinder/Bremssättel<br><br><br>Frage 2: Erklären Sie die X-Aufteilung der Bremskreise. Warum ist sie vorteilhaft?<br><br>Antwort:<br>X-AUFTEILUNG (DIAGONAL):<br>→ Kreis 1: Vorne links + Hinten rechts<br>→ Kreis 2: Vorne rechts + Hinten links<br><br>EINSATZ:<br>→ Standard bei frontgetriebenen PKW (heute 99%)<br><br>VORTEIL BEI AUSFALL EINES KREISES:<br>→ Je 1 Vorderrad + 1 Hinterrad funktioniert noch<br>→ Fahrzeug bleibt geradeaus bremsbar!<br>→ Keine Gierbewegung (kein Ausbrechen)<br>→ Ca. 70% Restbremswirkung<br>→ Fahrzeug ist noch kontrollierbar!<br><br>VERGLEICH II-AUFTEILUNG:<br>→ Bei Ausfall Vorderachse: Nur 30% Bremskraft (schlecht!)<br>→ X-Aufteilung ist SICHERER!<br><br><br>Frage 3: Warum muss Bremsflüssigkeit alle 2 Jahre gewechselt werden? Was passiert sonst?<br><br>Antwort:<br>GRUND:<br>Bremsflüssigkeit (DOT 3/4/5.1) ist **hygroskopisch** = zieht Wasser aus der Luft an!<br><br>WASSERAUFNAHME:<br>→ Nach 2 Jahren: ca. 3-4% Wasser<br>→ Nach 3 Jahren: ca. 5-6% Wasser<br><br>FOLGEN VON WASSER:<br><br>1. **SIEDEPUNKT SINKT DRASTISCH:**<br>   → DOT 4 neu: 230°C Siedepunkt<br>   → DOT 4 mit 3,5% Wasser: nur 155°C! (-75°C!)<br><br>2. **VAPOR LOCK (Dampfblasenbildung):**<br>   → Bei starker Bremsung: Temperatur &gt; 155°C<br>   → Wasser kocht → Dampfblasen!<br>   → Pedal wird schwammig → BREMSE FÄLLT AUS!<br><br>3. **KORROSION:**<br>   → Wasser + Metall = Rost<br>   → Radbremszylinder, Leitungen rosten<br><br>WECHSELINTERVALL:<br>✅ Alle 2 Jahre wechseln! (Unabhängig von km!)<br>✅ Kosten: 50-100€ → Kleine Investition für große Sicherheit!</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767994134567" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Bremsfading - Ursachen, Arten, Gegenmaßnahmen</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Was ist Bremsfading und wie entsteht es?</div>
+                    <div class="lernziel">Die beiden Arten von Fading unterscheiden können (Belag vs. Flüssigkeit)</div>
+                    <div class="lernziel">Ursachen und Risikosituationen für Fading kennen</div>
+                    <div class="lernziel">Symptome von Fading erkennen können</div>
+                    <div class="lernziel">Gegenmaßnahmen und Fahrweise zur Vermeidung kennen</div>
+                    <div class="lernziel">Richtiges Verhalten bei Fading im Ernstfall</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WAS IST BREMSFADING? - DEFINITION! 🔥<br><br>BREMSFADING (englisch "fade" = verblassen, nachlassen):<br>→ Die ABNAHME der Bremswirkung durch ÜBERHITZUNG der Bremsanlage!<br><br>ANDERS GESAGT:<br>→ Bremsschwund<br>→ Nachlassen der Bremswirkung<br>→ Bremse funktioniert schlechter oder gar nicht mehr!<br><br>WAS PASSIERT?<br>→ Bremsen werden zu heiß (&gt; 600°C!)<br>→ Reibwert sinkt<br>→ Bremskraft wird schwächer<br>→ Bremsweg wird LÄNGER!<br>→ Im Extremfall: Bremse versagt komplett!<br><br>WARUM IST DAS GEFÄHRLICH?<br>⚠️ LEBENSGEFAHR!<br>→ Auto lässt sich nicht mehr abbremsen<br>→ Besonders kritisch bei Bergabfahrten<br>→ Auffahrunfälle, Ausfahrt verpasst<br>→ Kann tödlich enden!<br><br>WANN TRITT FADING AUF?<br>→ Lange Bergabfahrten (z.B. Alpen!)<br>→ Sporteinsatz (Rennstrecke)<br>→ Schwer beladenes Fahrzeug<br>→ Dauerhafte Bremsung ohne Pause<br>→ Falsche Fahrweise (keine Motorbremse!)<br><br><br>2. DIE 2 ARTEN VON FADING! 📊<br><br>ES GIBT 2 VERSCHIEDENE ARTEN:<br><br>**1️⃣ BELAG-FADING (Reibbelag-Fading)**<br>**2️⃣ FLÜSSIGKEITS-FADING (Vapor Lock)**<br><br>BEIDE HABEN UNTERSCHIEDLICHE URSACHEN UND SYMPTOME!<br><br><br>3. BELAG-FADING - WENN DER BELAG ZU HEISS WIRD! 🔥<br><br>WAS IST BELAG-FADING?<br>→ Bremsbeläge werden zu heiß (&gt; 400-600°C)<br>→ Bindemittel im Belag zersetzt sich (Ausgasung!)<br>→ Gasfilm bildet sich zwischen Belag und Scheibe<br>→ Reibwert sinkt drastisch (von 0,4 auf 0,1!)<br>→ Bremswirkung lässt nach<br><br>ABLAUF:<br><br>**NORMALE BREMSUNG:**<br>→ Belag: 200-300°C<br>→ Reibwert: μ = 0,4<br>→ Bremse funktioniert normal<br><br>**BEI ÜBERHITZUNG (&gt; 400°C):**<br>→ Bindemittel im Belag verdampfen (Ausgasung!)<br>→ Gase können nicht entweichen<br>→ Gasfilm zwischen Belag und Scheibe<br>→ Reibwert sinkt: μ = 0,1 (75% weniger!)<br>→ Bremswirkung nur noch 25%!<br><br>WAS SIND BINDEMITTEL?<br>→ Beläge bestehen aus: Reibmaterial + Bindemittel<br>→ Bindemittel = "Kleber" der alles zusammenhält<br>→ Bei Hitze: Bindemittel verdampfen (Phenolharze!)<br>→ Gase bilden "Luftpolster" → weniger Reibung<br><br>TEMPERATURBEREICH:<br>→ Normal: 100-300°C → Alles OK!<br>→ Kritisch: 400-500°C → Fading beginnt!<br>→ Extrem: &gt; 600°C → Starkes Fading!<br><br>SYMPTOME VON BELAG-FADING:<br>→ Bremswirkung lässt nach (allmählich!)<br>→ Bremsweg wird länger<br>→ Verbrannter Geruch (Phenolharze!)<br>→ Pedal fühlt sich normal an (nicht schwammig!)<br>→ Bei gleicher Pedalkraft: Weniger Bremswirkung<br><br>WICHTIG:<br>→ REVERSIBEL! (Nach Abkühlung funktioniert Bremse wieder!)<br>→ Keine bleibenden Schäden (wenn nicht zu oft!)<br><br>DAUER BIS ABKÜHLUNG:<br>→ 10-30 Minuten (je nach Ausgangstemperatur)<br><br><br>4. FLÜSSIGKEITS-FADING (VAPOR LOCK) - WENN DIE FLÜSSIGKEIT KOCHT! 💧<br><br>WAS IST FLÜSSIGKEITS-FADING?<br>→ Bremsflüssigkeit wird zu heiß (&gt; 180-260°C je nach DOT!)<br>→ Wasser in der Bremsflüssigkeit verdampft<br>→ Dampfblasen entstehen im System<br>→ Dampf ist KOMPRESSIBEL (Flüssigkeit nicht!)<br>→ Pedal wird schwammig<br>→ Bremswirkung lässt nach oder fällt komplett aus!<br><br>ABLAUF:<br><br>**NORMALE SITUATION:**<br>→ Bremsflüssigkeit: 60-80°C<br>→ Siedepunkt DOT 4: 230°C (trocken)<br>→ Alles flüssig → Druck wird übertragen<br><br>**BEI ÜBERHITZUNG:**<br>→ Lange Bergabfahrt → Bremsen sehr heiß<br>→ Wärme geht auf Bremsflüssigkeit über<br>→ Temperatur steigt auf &gt; 180°C<br>→ Wasser in Flüssigkeit (3-5%) verdampft!<br>→ Dampfblasen entstehen<br>→ Dampf ist kompressibel → Pedal wird weich!<br><br>WARUM ENTSTEHT DAMPF?<br><br>**PROBLEM WASSER:**<br>→ Bremsflüssigkeit ist hygroskopisch (zieht Wasser!)<br>→ Nach 2 Jahren: ca. 3-5% Wasser<br>→ Wasser senkt Siedepunkt drastisch!<br>→ DOT 4 neu: 230°C Siedepunkt<br>→ DOT 4 alt (3,5% Wasser): nur 155°C! (-75°C!)<br><br>**BEI 155°C:**<br>→ Wasser kocht → Dampf entsteht!<br>→ Dampfblasen im Bremssystem<br>→ Fahrer tritt aufs Pedal → Dampf wird zusammengepresst (kompressibel!)<br>→ KEIN Druck auf Radbremszylinder!<br>→ Bremse funktioniert nicht!<br><br>SYMPTOME VON FLÜSSIGKEITS-FADING:<br>→ Pedal wird WEICH/SCHWAMMIG! (Hauptsymptom!)<br>→ Pedal muss tiefer getreten werden<br>→ Pedal sinkt langsam durch (bei konstanter Kraft)<br>→ Bremswirkung lässt plötzlich stark nach<br>→ Im Extremfall: Pedal geht bis Bodenblech → KEINE Bremse!<br><br>WICHTIG:<br>⚠️ LEBENSGEFAHR!<br>→ NICHT reversibel während Fahrt!<br>→ Erst nach Abkühlung + Entlüftung wieder OK<br>→ Deutlich gefährlicher als Belag-Fading!<br><br>DAUER BIS BEHEBUNG:<br>→ 15-30 Minuten Abkühlzeit<br>→ Dann: Bremssystem entlüften (Werkstatt!)<br>→ Bremsflüssigkeit wechseln (zwingend!)<br><br><br>5. VERGLEICH: BELAG-FADING vs. FLÜSSIGKEITS-FADING! ⚖️<br><br>| MERKMAL | BELAG-FADING | FLÜSSIGKEITS-FADING |<br>|---------|--------------|---------------------|<br>| **Ursache** | Beläge &gt; 400-600°C | Bremsflüssigkeit &gt; 155-180°C |<br>| **Mechanismus** | Ausgasung, Gasfilm | Dampfblasenbildung |<br>| **Pedalverhalten** | Normal (hart) | SCHWAMMIG/WEICH |<br>| **Bremswirkung** | Allmählich schwächer | PLÖTZLICH schwächer |<br>| **Reversibel?** | Ja (nach Abkühlung) | Nein (Entlüftung nötig!) |<br>| **Geruch** | Verbrannt (Phenol) | Kein spezieller Geruch |<br>| **Gefahr** | Mittel | SEHR HOCH! |<br>| **Häufigkeit** | Häufiger | Seltener (nur bei alter Flüssigkeit) |<br><br>WICHTIG:<br>→ Beide können GLEICHZEITIG auftreten!<br>→ Z.B. bei langer Bergabfahrt: Erst Belag-Fading, dann zusätzlich Flüssigkeits-Fading!<br><br><br>6. URSACHEN FÜR FADING - WANN PASSIERT ES? 🏔️<br><br>**1. LANGE BERGABFAHRTEN:** (Hauptursache!)<br>→ Dauerhafte Bremsung über mehrere Kilometer<br>→ Bremsen haben keine Zeit zum Abkühlen<br>→ Temperatur steigt kontinuierlich<br>→ Beispiel: Alpenpass, Gebirgsstraße<br><br>**2. SPORTEINSATZ / RENNSTRECKE:**<br>→ Wiederholte Vollbremsungen<br>→ Sehr hohe Geschwindigkeiten<br>→ Kurze Zeitabstände zwischen Bremsungen<br>→ Normale Bremsbeläge nicht ausreichend!<br><br>**3. ÜBERLADUNG / SCHWERES FAHRZEUG:**<br>→ Mehr Gewicht = mehr kinetische Energie<br>→ Mehr Bremsarbeit = mehr Wärme<br>→ Bremsen werden stärker belastet<br>→ Beispiel: Wohnwagen, vollbeladener Transporter<br><br>**4. FALSCHE FAHRWEISE:**<br>→ "Schleifbremsung" (dauerhaft leicht bremsen)<br>→ Keine Motorbremse nutzen<br>→ Zu hohe Geschwindigkeit bergab<br>→ Zu spätes Bremsen (dann Vollbremsung nötig)<br><br>**5. ALTE BREMSFLÜSSIGKEIT:**<br>→ Mehr als 2 Jahre alt<br>→ Hoher Wassergehalt (&gt; 3%)<br>→ Niedriger Siedepunkt (&lt; 160°C)<br>→ Vapor Lock sehr wahrscheinlich!<br><br>**6. VERSCHLISSENE BELÄGE:**<br>→ Dünne Beläge erhitzen schneller<br>→ Weniger Material zum Wärmespeichern<br>→ Metallträger wird direkt heiß<br>→ Fading-Gefahr steigt!<br><br><br>7. SYMPTOME - WORAN ERKENNE ICH FADING? ⚠️<br><br>**FRÜHE WARNZEICHEN:**<br>→ Verbrannter Geruch (Phenolharze aus Belägen)<br>→ Bremsen "rauchen" (Dampf durch Hitze)<br>→ Leicht längerer Bremsweg<br>→ Pedal fühlt sich anders an<br><br>**DEUTLICHE SYMPTOME:**<br>→ Bremspedal wird weich/schwammig (Flüssigkeits-Fading!)<br>→ Pedal muss tiefer getreten werden<br>→ Bremswirkung lässt spürbar nach<br>→ Längerer Bremsweg (bis zu 100% länger!)<br>→ Mehr Pedalkraft nötig für gleiche Wirkung<br><br>**KRITISCHE SYMPTOME:**<br>⚠️ EXTREME GEFAHR!<br>→ Pedal geht fast bis zum Bodenblech<br>→ Bremse reagiert kaum noch<br>→ Im Extremfall: Kompletter Bremsausfall!<br><br>WICHTIG:<br>Bei ersten Symptomen SOFORT reagieren!<br><br><br>8. GEGENMASNAHMEN - WAS TUN BEI FADING? 🛑<br><br>**VORBEUGUNG (BEVOR ES PASSIERT):**<br><br>**1. MOTORBREMSE NUTZEN!** ⭐ WICHTIGSTE MASSNAHME!<br>→ Bei Bergabfahrt: Niedrigen Gang einlegen!<br>→ Gang so wählen, dass Motor zwischen 2.000-3.000 U/min läuft<br>→ Motor bremst mit → Bremsen werden entlastet!<br>→ Bis zu 80% weniger Bremsarbeit!<br><br>FAUSTREGELN:<br>→ "Bergab mit dem gleichen Gang wie bergauf!"<br>→ "Je steiler, desto niedriger der Gang!"<br>→ Vor langer Abfahrt: Gang runterschalten (NICHT während!)<br><br>**2. INTERMITTIERENDES BREMSEN:**<br>→ NICHT dauerhaft leicht bremsen (Schleifbremsung!)<br>→ SONDERN: Kurz und kräftig bremsen, dann Pause!<br>→ Bremsen haben Zeit zum Abkühlen<br>→ Beispiel: 3 Sekunden bremsen, 10 Sekunden Pause<br><br>**3. GESCHWINDIGKEIT VOR ABFAHRT REDUZIEREN:**<br>→ VOR der Bergabfahrt bereits langsamer fahren!<br>→ Nicht erst auf dem Berg abbremsen<br>→ Weniger Geschwindigkeit = weniger Bremsarbeit<br><br>**4. BREMSFLÜSSIGKEIT ALLE 2 JAHRE WECHSELN:**<br>→ Verhindert Flüssigkeits-Fading!<br>→ Siedepunkt bleibt hoch (230°C statt 155°C!)<br>→ Wichtigste Wartungsmaßnahme!<br><br>**5. HOCHLEISTUNGSBELÄGE BEI SPORTEINSATZ:**<br>→ Spezielle Beläge für hohe Temperaturen (bis 800°C!)<br>→ Keramikbeläge, Carbon-Beläge<br>→ Höhere Reibwerte auch bei Hitze<br><br><br>**VERHALTEN BEI AUFGETRETENEM FADING:**<br><br>**SOFORTMASSNAHMEN:**<br>1. ✅ **RUHE BEWAHREN!** (Panik verschlimmert alles!)<br>2. ✅ **GANG RUNTERSCHALTEN!** (Motorbremse nutzen!)<br>3. ✅ **WARNBLINKANLAGE EINSCHALTEN!** (Warnung für andere!)<br>4. ✅ **GESCHWINDIGKEIT REDUZIEREN!** (So viel wie möglich!)<br>5. ✅ **SICHEREN PLATZ SUCHEN!** (Parkplatz, Pannenbucht!)<br><br>**WAS TUN NACH DEM ANHALTEN:**<br>1. ✅ **MOTOR LAUFEN LASSEN!** (Kühlsystem arbeitet weiter!)<br>2. ✅ **BREMSEN ABKÜHLEN LASSEN!** (15-30 Minuten warten!)<br>3. ❌ **NICHT MIT WASSER KÜHLEN!** (Scheiben können reißen!)<br>4. ✅ **VORSICHTIG WEITERFAHREN!** (Niedrige Geschwindigkeit, Motorbremse!)<br>5. ✅ **WERKSTATT AUFSUCHEN!** (Bremsflüssigkeit wechseln, Beläge prüfen!)<br><br>**WAS NIEMALS TUN:**<br>❌ NIEMALS Schleifbremsung (dauerhaft leicht bremsen)!<br>❌ NIEMALS heisse Bremsen mit Wasser kühlen! (Scheiben platzen!)<br>❌ NIEMALS weiterfahren ohne Abkühlung!<br>❌ NIEMALS Handbremse als Ersatz (überhitzt auch!)<br><br><br>9. RICHTIGE FAHRWEISE AM BERG - FADING VERMEIDEN! 🏔️<br><br>**VOR DER BERGABFAHRT:**<br>→ Geschwindigkeit bereits reduzieren (50-70 km/h)<br>→ Gang runterschalten (z.B. vom 5. in den 3. Gang)<br>→ Motor sollte 2.000-3.000 U/min haben<br>→ Fuß leicht auf Bremse (Bremsbereitschaft!)<br><br>**WÄHREND DER BERGABFAHRT:**<br><br>**RICHTIG ✅:**<br>→ Niedrigen Gang (Motor bremst mit!)<br>→ Intermittierendes Bremsen (kurz-kräftig-Pause)<br>→ Geschwindigkeit konstant halten (30-50 km/h)<br>→ Vorausschauend fahren<br>→ Bei Symptomen: Sofort anhalten!<br><br>**FALSCH ❌:**<br>→ Hoher Gang (Motor bremst nicht!)<br>→ Dauerhafte Schleifbremsung<br>→ Zu schnell fahren (70-100 km/h)<br>→ Erst am Ende der Abfahrt bremsen<br>→ Symptome ignorieren!<br><br>**GANGWAHL-TABELLE:**<br><br>| STEIGUNG | EMPFOHLENER GANG | MOTOR-DREHZAHL |<br>|----------|------------------|----------------|<br>| 5-8% | 4. Gang | 2.000-2.500 U/min |<br>| 8-12% | 3. Gang | 2.500-3.000 U/min |<br>| 12-18% | 2. Gang | 3.000-3.500 U/min |<br>| &gt; 18% | 1. Gang | 3.000-4.000 U/min |<br><br><br>10. SONDERFÄLLE UND ZUSATZWISSEN! 💡<br><br>**FADING BEI LKW:**<br>→ Deutlich häufiger als bei PKW!<br>→ Höheres Gewicht (40 Tonnen!)<br>→ Längere Bremswege<br>→ Zusätzliche Maßnahmen:<br>  - Retarder (verschleißfreie Dauerbremse)<br>  - Motorbremse (Auspuffklappe)<br>  - Dauerbremstafeln (Verkehrszeichen)<br><br>**FADING BEI ELEKTROAUTOS:**<br>→ SEHR SELTEN!<br>→ Rekuperation (Motor bremst elektrisch)<br>→ Bis zu 90% der Bremsarbeit durch Motor!<br>→ Normale Bremsen kaum genutzt<br>→ Rekuperation überhitzt nicht (elektrisch!)<br><br>**BREMSENTEMPERATUR MESSEN:**<br>→ Mit Infrarot-Thermometer (berührungslos)<br>→ Normal: 100-200°C (nach Bremsung)<br>→ Kritisch: &gt; 400°C<br>→ Extrem: &gt; 600°C (Fading garantiert!)<br><br>**WARNSCHILDER AM BERG:**<br>→ Dauerbremsstrecke (Zeichen 108)<br>→ Steigung in % (z.B. "12% - 8 km")<br>→ Hinweis: "Motor als Bremse verwenden!"<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>DEFINITION:<br>→ Fading = Abnahme der Bremswirkung durch Überhitzung<br><br>2 ARTEN:<br>→ **Belag-Fading:** Beläge &gt; 400°C, Ausgasung, Gasfilm<br>→ **Flüssigkeits-Fading:** Flüssigkeit &gt; 155°C, Dampfblasen, schwammiges Pedal!<br><br>URSACHEN:<br>→ Lange Bergabfahrten (Hauptursache!)<br>→ Falsche Fahrweise (keine Motorbremse!)<br>→ Alte Bremsflüssigkeit (&gt; 2 Jahre)<br>→ Sporteinsatz, Überladung<br><br>SYMPTOME:<br>→ Verbrannter Geruch<br>→ Schwammiges Pedal (Flüssigkeits-Fading!)<br>→ Längerer Bremsweg<br>→ Im Extremfall: Bremse versagt!<br><br>GEGENMASNAHMEN:<br>→ **Motorbremse nutzen!** (niedrigen Gang!)<br>→ Intermittierendes Bremsen (kurz-kräftig-Pause)<br>→ Bremsflüssigkeit alle 2 Jahre wechseln<br>→ Bei Symptomen: SOFORT anhalten + abkühlen lassen!<br><br>WICHTIGSTE REGEL:<br>"Bergab IMMER Motorbremse nutzen - Fußbremse nur zur Unterstützung!"</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: ALPENPASS - TYPISCHES FADING-SZENARIO
+
+SITUATION:
+Familie fährt vollbeladen (4 Personen + Gepäck) von Brenner nach Italien. 12 km Abfahrt, 10% Gefälle. Fahrer nutzt nur Fußbremse, 5. Gang, 80 km/h.
+
+ABLAUF:
+**KM 0-4:**
+→ Bremsen erwärmen sich (200°C → 400°C)
+→ Noch alles OK
+
+**KM 4-8:**
+→ Beläge zu heiß (&gt; 500°C)
+→ Ausgasung beginnt
+→ Bremsweg wird länger
+→ Fahrer muss stärker treten
+→ **Belag-Fading!**
+
+**KM 8-12:**
+→ Wärme auf Bremsflüssigkeit übertragen
+→ Flüssigkeit alt (3 Jahre, 4% Wasser!)
+→ Siedepunkt nur 150°C → Wasser kocht!
+→ Dampfblasen entstehen
+→ Pedal wird plötzlich schwammig!
+→ **Flüssigkeits-Fading!**
+→ ⚠️ BREMSE VERSAGT FAST KOMPLETT!
+
+WAS HÄTTE RICHTIG SEIN MÜSSEN:
+✅ 3. Gang einlegen (Motor bremst mit!)
+✅ 50 km/h statt 80 km/h
+✅ Intermittierendes Bremsen
+✅ Bremsflüssigkeit vorher wechseln
+
+LERNEFFEKT:
+Motorbremse ist PFLICHT am Berg! Fußbremse nur Unterstützung!</div>
+                        <div class="beispiel">BEISPIEL 2: SCHWAMMIGES PEDAL - VAPOR LOCK ERKENNEN
+
+SITUATION:
+Nach 10 km Bergabfahrt wird das Bremspedal plötzlich weich und schwammig. Was ist passiert?
+
+DIAGNOSE:
+→ **FLÜSSIGKEITS-FADING (Vapor Lock)!**
+→ Symptom: Schwammiges Pedal = eindeutig!
+→ Bremsflüssigkeit zu heiß
+→ Dampfblasen im System
+
+URSACHE:
+→ Bremsflüssigkeit zu alt (wahrscheinlich &gt; 2 Jahre)
+→ Hoher Wassergehalt (&gt; 3%)
+→ Siedepunkt zu niedrig (&lt; 160°C)
+
+SOFORTMASSNAHMEN:
+1. Gang runterschalten (Motorbremse!)
+2. Warnblinker an!
+3. Nächsten Parkplatz ansteuern
+4. SOFORT anhalten!
+5. Motor laufen lassen, Bremsen abkühlen (20-30 Min)
+
+NACH ABKÜHLUNG:
+→ Vorsichtig zur nächsten Werkstatt fahren
+→ Bremsflüssigkeit SOFORT wechseln!
+→ Bremssystem entlüften!
+
+LERNEFFEKT:
+Schwammiges Pedal = Vapor Lock = LEBENSGEFAHR!
+Bremsflüssigkeit IMMER alle 2 Jahre wechseln!</div>
+                        <div class="beispiel">BEISPIEL 3: RICHTIGE GANGWAHL AM BERG
+
+FRAGE:
+Du fährst einen 12 km langen Pass mit 10% Gefälle hinab. Welchen Gang solltest du wählen?
+
+ANTWORT:
+**10% GEFÄLLE → 3. GANG!**
+
+BEGRÜNDUNG:
+→ Bei 10% Gefälle: 3. Gang ideal
+→ Motor läuft bei 2.500-3.000 U/min
+→ Motor bremst mit ca. 50-80% der Bremsarbeit
+→ Fußbremse nur noch zur Unterstützung
+
+GESCHWINDIGKEIT:
+→ 40-50 km/h (nicht schneller!)
+
+BREMSTECHNIK:
+→ Intermittierend: 3 Sek bremsen, 10 Sek Pause
+→ NICHT dauerhaft Fuß auf Bremse!
+
+MERKSATZ:
+"Bergab mit dem gleichen Gang wie bergauf!"
+Wenn du bergauf im 3. Gang fahren würdest → Bergab auch 3. Gang!
+</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Schockierendes Video<br>→ Ablauf: YouTube-Video zeigen: "LKW mit Bremsfading - Unfall"<br>→ Fragen: "Was ist passiert?" "Warum?"<br>→ Ziel: Dramatik und Gefahr von Fading verdeutlichen<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: DEFINITION &amp; ARTEN (15 Min)<br>→ Was ist Fading? (Nachlassen der Bremswirkung)<br>→ 2 Arten: Belag-Fading vs. Flüssigkeits-Fading<br>→ Tabelle erstellen (Vergleich beider Arten)<br>→ Pedalverhalten: Hart vs. Schwammig!<br><br>PHASE 2: BELAG-FADING (15 Min)<br>→ Ablauf erklären: Hitze → Ausgasung → Gasfilm<br>→ Temperaturbereich: 400-600°C kritisch<br>→ Zeichnung: Belag mit Gasfilm<br>→ Reversibel nach Abkühlung!<br><br>PHASE 3: FLÜSSIGKEITS-FADING (15 Min)<br>→ Ablauf: Hitze → Wasser kocht → Dampfblasen<br>→ Warum Wasser? (Hygroskopisch!)<br>→ Siedepunkt: Trocken 230°C, Nass 155°C<br>→ NICHT reversibel (Entlüftung nötig!)<br><br>PHASE 4: URSACHEN &amp; SYMPTOME (10 Min)<br>→ 6 Ursachen durchgehen (Bergabfahrt, Sporteinsatz, etc.)<br>→ Symptome: Geruch, schwammiges Pedal, längerer Bremsweg<br>→ Wann besonders gefährlich?<br><br>PHASE 5: GEGENMASNAHMEN (15 Min)<br>→ **Motorbremse nutzen!** (Hauptmaßnahme!)<br>→ Gangwahl-Tabelle erstellen<br>→ Intermittierendes Bremsen erklären<br>→ 2-Jahres-Wechsel betonen!<br>→ Was tun bei aufgetretenem Fading?<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Was ist Fading?" → Bremsschwund durch Hitze!<br>→ "Schwammiges Pedal?" → Flüssigkeits-Fading!<br>→ "Wichtigste Maßnahme?" → Motorbremse!<br>→ Hausaufgabe: Recherchiere Alpenpass-Unfälle (Fading!)<br></div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ Fading ist LEBENSGEFÄHRLICH - Dramatik vermitteln!<br>→ Unterschied Belag/Flüssigkeit gut erklären (Pedal!)<br>→ Motorbremse ist KERNBOTSCHAFT!<br>→ Video zeigen (wirkt besser als Worte!)<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Verwechseln Belag- und Flüssigkeits-Fading<br>→ Denken Motorbremse schädigt Motor (FALSCH!)<br>→ Unterschätzen Gefahr von altem Bremsflüssigkeit<br>→ Wissen nicht wie man richtig intermittierend bremst<br><br>TIPPS &amp; TRICKS:<br>→ YouTube-Video: "Bremsfading Alpenpass LKW"<br>→ Eselsbrücke: "Schwammig = Vapor Lock!"<br>→ Gangwahl-Tabelle ausdrucken (zum Mitnehmen!)<br>→ Wenn möglich: Praxis-Demonstration (kontrolliert!)<br></div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie den Unterschied zwischen Belag-Fading und Flüssigkeits-Fading.<br><br>Antwort:<br>**BELAG-FADING:**<br>→ Ursache: Beläge &gt; 400-600°C<br>→ Mechanismus: Bindemittel verdampfen (Ausgasung), Gasfilm zwischen Belag und Scheibe<br>→ Symptom: Bremswirkung lässt allmählich nach, Pedal bleibt HART<br>→ Reversibel: Ja, nach Abkühlung<br>→ Geruch: Verbrannt (Phenolharze)<br><br>**FLÜSSIGKEITS-FADING (Vapor Lock):**<br>→ Ursache: Bremsflüssigkeit &gt; 155-180°C (Wasser kocht!)<br>→ Mechanismus: Dampfblasen entstehen, Dampf ist kompressibel<br>→ Symptom: Pedal wird SCHWAMMIG/WEICH, Bremswirkung lässt plötzlich nach<br>→ Reversibel: Nein, Entlüftung nötig<br>→ Gefahr: SEHR HOCH (Lebensgefahr!)<br><br><br>Frage 2: Welche Maßnahmen verhindern Bremsfading bei Bergabfahrten?<br><br>Antwort:<br>**VORBEUGUNG:**<br>1. **Motorbremse nutzen** (niedrigen Gang einlegen!)<br>   → Bei 10% Gefälle: 3. Gang<br>   → Motor sollte 2.000-3.000 U/min haben<br><br>2. **Intermittierendes Bremsen:**<br>   → Kurz und kräftig bremsen, dann Pause<br>   → NICHT dauerhaft leicht bremsen!<br><br>3. **Geschwindigkeit reduzieren:**<br>   → VOR der Abfahrt bereits langsamer (40-50 km/h)<br><br>4. **Bremsflüssigkeit alle 2 Jahre wechseln:**<br>   → Verhindert Flüssigkeits-Fading<br><br>5. **Hochleistungsbeläge bei Sporteinsatz**<br><br>**BEI AUFGETRETENEM FADING:**<br>→ Gang runterschalten (Motorbremse!)<br>→ Warnblinker an<br>→ Nächsten Parkplatz ansteuern<br>→ Anhalten, Bremsen abkühlen lassen (15-30 Min)<br>→ NICHT mit Wasser kühlen!<br><br><br>Frage 3: Was passiert beim Flüssigkeits-Fading und warum ist es so gefährlich?<br><br>Antwort:<br>**WAS PASSIERT:**<br>→ Bremsflüssigkeit wird zu heiß (&gt; 155-180°C)<br>→ Wasser in der Flüssigkeit verdampft (Bremsflüssigkeit ist hygroskopisch!)<br>→ Dampfblasen entstehen im Bremssystem<br>→ Dampf ist kompressibel (Flüssigkeit nicht!)<br>→ Wenn Fahrer aufs Pedal tritt: Dampf wird zusammengepresst<br>→ KEIN Druck auf Radbremszylinder<br>→ Bremse funktioniert nicht mehr!<br><br>**WARUM SO GEFÄHRLICH:**<br>→ Pedal geht bis zum Boden durch<br>→ Bremse versagt komplett oder fast komplett<br>→ NICHT reversibel während Fahrt<br>→ Besonders kritisch bei Bergabfahrten<br>→ Kann zu schweren Unfällen führen<br><br>**VORBEUGUNG:**<br>→ Bremsflüssigkeit alle 2 Jahre wechseln!<br>→ Alte Flüssigkeit hat viel Wasser → niedriger Siedepunkt!<br>→ DOT 4 neu: 230°C / DOT 4 alt: 155°C (-75°C!)</div>
                     </div>
 
                 </div>
