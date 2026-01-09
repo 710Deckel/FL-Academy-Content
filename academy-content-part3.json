@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T08:39:31.958Z">
+    <meta name="last-updated" content="2026-01-09T08:41:21.615Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: DIDAKTIK & METHODIK -->
@@ -681,7 +681,7 @@ Selbstständige Übung (15 Min): Fahrschüler macht es selbst, Fahrlehrer greift
                  data-id="ausbilden_1767947964407" 
                  data-pruefung="false"
                  data-dauer="90"
-                 data-status-justin="false"
+                 data-status-justin="true"
                  data-status-dozent="false">
                 
                 <h3>Test Didaktik</h3>
