@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T21:32:28.740Z">
+    <meta name="last-updated" content="2026-01-09T21:52:21.109Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -4114,6 +4114,121 @@ Wenn du bergauf im 3. Gang fahren würdest → Bergab auch 3. Gang!
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie den Unterschied zwischen Belag-Fading und Flüssigkeits-Fading.<br><br>Antwort:<br>**BELAG-FADING:**<br>→ Ursache: Beläge &gt; 400-600°C<br>→ Mechanismus: Bindemittel verdampfen (Ausgasung), Gasfilm zwischen Belag und Scheibe<br>→ Symptom: Bremswirkung lässt allmählich nach, Pedal bleibt HART<br>→ Reversibel: Ja, nach Abkühlung<br>→ Geruch: Verbrannt (Phenolharze)<br><br>**FLÜSSIGKEITS-FADING (Vapor Lock):**<br>→ Ursache: Bremsflüssigkeit &gt; 155-180°C (Wasser kocht!)<br>→ Mechanismus: Dampfblasen entstehen, Dampf ist kompressibel<br>→ Symptom: Pedal wird SCHWAMMIG/WEICH, Bremswirkung lässt plötzlich nach<br>→ Reversibel: Nein, Entlüftung nötig<br>→ Gefahr: SEHR HOCH (Lebensgefahr!)<br><br><br>Frage 2: Welche Maßnahmen verhindern Bremsfading bei Bergabfahrten?<br><br>Antwort:<br>**VORBEUGUNG:**<br>1. **Motorbremse nutzen** (niedrigen Gang einlegen!)<br>   → Bei 10% Gefälle: 3. Gang<br>   → Motor sollte 2.000-3.000 U/min haben<br><br>2. **Intermittierendes Bremsen:**<br>   → Kurz und kräftig bremsen, dann Pause<br>   → NICHT dauerhaft leicht bremsen!<br><br>3. **Geschwindigkeit reduzieren:**<br>   → VOR der Abfahrt bereits langsamer (40-50 km/h)<br><br>4. **Bremsflüssigkeit alle 2 Jahre wechseln:**<br>   → Verhindert Flüssigkeits-Fading<br><br>5. **Hochleistungsbeläge bei Sporteinsatz**<br><br>**BEI AUFGETRETENEM FADING:**<br>→ Gang runterschalten (Motorbremse!)<br>→ Warnblinker an<br>→ Nächsten Parkplatz ansteuern<br>→ Anhalten, Bremsen abkühlen lassen (15-30 Min)<br>→ NICHT mit Wasser kühlen!<br><br><br>Frage 3: Was passiert beim Flüssigkeits-Fading und warum ist es so gefährlich?<br><br>Antwort:<br>**WAS PASSIERT:**<br>→ Bremsflüssigkeit wird zu heiß (&gt; 155-180°C)<br>→ Wasser in der Flüssigkeit verdampft (Bremsflüssigkeit ist hygroskopisch!)<br>→ Dampfblasen entstehen im Bremssystem<br>→ Dampf ist kompressibel (Flüssigkeit nicht!)<br>→ Wenn Fahrer aufs Pedal tritt: Dampf wird zusammengepresst<br>→ KEIN Druck auf Radbremszylinder<br>→ Bremse funktioniert nicht mehr!<br><br>**WARUM SO GEFÄHRLICH:**<br>→ Pedal geht bis zum Boden durch<br>→ Bremse versagt komplett oder fast komplett<br>→ NICHT reversibel während Fahrt<br>→ Besonders kritisch bei Bergabfahrten<br>→ Kann zu schweren Unfällen führen<br><br>**VORBEUGUNG:**<br>→ Bremsflüssigkeit alle 2 Jahre wechseln!<br>→ Alte Flüssigkeit hat viel Wasser → niedriger Siedepunkt!<br>→ DOT 4 neu: 230°C / DOT 4 alt: 155°C (-75°C!)</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767994459076" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>ABS (Antiblockiersystem) - Funktion, Komponenten, Schlupf</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Die Funktion des ABS verstehen und erklären können</div>
+                    <div class="lernziel">Das Problem blockierender Räder erkennen</div>
+                    <div class="lernziel">Den Begriff Schlupf verstehen und berechnen können</div>
+                    <div class="lernziel">Die 4 Komponenten des ABS benennen können</div>
+                    <div class="lernziel">Den Regelzyklus (Druckhalten-Druckabbau-Druckaufbau) kennen</div>
+                    <div class="lernziel">Richtiges Verhalten mit ABS bei Notbremsung</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WAS IST ABS? - DEFINITION! 🔒<br><br>ABS = ANTIBLOCKIERSYSTEM<br>(englisch: Anti-lock Braking System)<br><br>DEFINITION:<br>→ ABS verhindert das BLOCKIEREN der Räder bei einer Vollbremsung!<br>→ Hält die Räder im optimalen Schlupfbereich (10-30%)<br>→ Elektronisches Sicherheitssystem<br><br>SEIT WANN PFLICHT?<br>→ Seit 2004 Pflicht in der EU (Neuwagen!)<br>→ Vorher: Optional (ab 1978 verfügbar)<br>→ Heute: Standard in jedem Auto!<br><br>WAS MACHT ABS?<br>→ Verhindert, dass Räder blockieren (= komplett stehen bleiben)<br>→ Pumpt automatisch die Bremse (4-20x pro Sekunde!)<br>→ Regelt jedes Rad EINZELN!<br>→ Hält Räder am Drehen (mit optimalem Schlupf)<br><br><br>2. WARUM IST BLOCKIEREN SCHLECHT? - DAS PROBLEM! ❌<br><br>WAS BEDEUTET "BLOCKIEREN"?<br>→ Rad steht komplett still (0 U/min)<br>→ Wird über Straße geschleift<br>→ Rutscht nur noch (keine Rollbewegung!)<br><br>WARUM IST DAS GEFÄHRLICH?<br><br>**1. KEINE SEITENFÜHRUNG MEHR!** ⚠️ HAUPTPROBLEM!<br>→ Blockiertes Rad kann NICHT mehr lenken!<br>→ Fahrzeug ist NICHT MEHR LENKBAR!<br>→ Egal wohin Fahrer lenkt → Auto fährt geradeaus!<br>→ Ausweichen unmöglich!<br><br>PHYSIKALISCHER GRUND:<br>→ Seitenführung braucht Haftreibung zwischen Reifen und Straße<br>→ Blockiertes Rad: Nur Gleitreibung (rutscht!)<br>→ Gleitreibung: Keine Seitenführungskraft!<br><br>**2. LÄNGERER BREMSWEG!**<br>→ Haftreibung (Rad dreht sich) &gt; Gleitreibung (Rad blockiert)<br>→ Haftreibung: μ = 0,8<br>→ Gleitreibung: μ = 0,6<br>→ 25% längerer Bremsweg!<br><br>**3. PLATTSTELLENDE REIFEN!**<br>→ Blockiertes Rad: Immer gleiche Stelle auf Asphalt<br>→ Reifen wird an einer Stelle abgeschliffen (platt!)<br>→ Unwucht → Neuer Reifen nötig (100-200€!)<br><br>**4. INSTABILES FAHRVERHALTEN!**<br>→ Auto kann ausbrechen<br>→ Schleudern möglich<br>→ Unkontrollierbar!<br><br>MERKSATZ:<br>"Blockiertes Rad = Unkontrollierbares Auto!"<br><br><br>3. WAS IST SCHLUPF? - DER OPTIMALE BEREICH! 📊<br><br>SCHLUPF = Differenz zwischen Fahrzeuggeschwindigkeit und Radgeschwindigkeit<br><br>FORMEL:<br>Schlupf (%) = (Vfahrzeug - Vrad) / Vfahrzeug × 100%<br><br>BEISPIELE:<br><br>**BEISPIEL 1: KEIN SCHLUPF (0%)**<br>→ Fahrzeug: 100 km/h<br>→ Rad: 100 km/h (dreht sich normal)<br>→ Schlupf = (100 - 100) / 100 × 100% = 0%<br>→ Keine Bremsung!<br><br>**BEISPIEL 2: OPTIMALER SCHLUPF (15%)**<br>→ Fahrzeug: 100 km/h<br>→ Rad: 85 km/h (dreht sich langsamer, wird gebremst!)<br>→ Schlupf = (100 - 85) / 100 × 100% = 15%<br>→ Optimale Bremswirkung!<br><br>**BEISPIEL 3: RAD BLOCKIERT (100%)**<br>→ Fahrzeug: 100 km/h<br>→ Rad: 0 km/h (steht still!)<br>→ Schlupf = (100 - 0) / 100 × 100% = 100%<br>→ Blockiert! Keine Seitenführung!<br><br><br>DER OPTIMALE SCHLUPFBEREICH:<br><br>**SCHLUPF 0%:** (Keine Bremsung)<br>→ Rad dreht frei<br>→ Keine Bremswirkung<br><br>**SCHLUPF 10-30%:** ⭐ OPTIMAL!<br>→ Beste Bremswirkung!<br>→ Beste Seitenführung!<br>→ Auto bleibt lenkbar!<br>→ HIER arbeitet ABS!<br><br>**SCHLUPF 30-80%:** (Zu viel!)<br>→ Rad dreht zu langsam<br>→ Bremswirkung nimmt ab<br>→ Seitenführung nimmt ab<br><br>**SCHLUPF 100%:** (Blockiert!)<br>→ Rad steht still<br>→ Schlechte Bremswirkung (Gleitreibung!)<br>→ KEINE Seitenführung mehr!<br>→ Auto NICHT lenkbar!<br><br>WICHTIG:<br>ABS hält Schlupf bei 10-30% → Optimale Bremsung + Lenkbar!<br><br><br>4. WIE FUNKTIONIERT ABS? - DIE 4 KOMPONENTEN! ⚙️<br><br>**1. RADDREHZAHLSENSOREN:** (4 Stück, an jedem Rad!)<br><br>AUFGABE:<br>→ Messen Drehzahl jedes Rades (U/min)<br>→ Überwachen kontinuierlich<br>→ Senden Daten an ABS-Steuergerät<br><br>FUNKTION:<br>→ Induktiv-Sensor (magnetisch)<br>→ Oder Hall-Sensor (elektronisch)<br>→ Messen ca. 100x pro Sekunde!<br><br>WAS WIRD ERKANNT:<br>→ Rad dreht zu langsam → Blockierneigung!<br>→ Rad steht still → Blockiert!<br><br>**2. ABS-STEUERGERÄT (ECU):**<br><br>AUFGABE:<br>→ Wertet Sensordaten aus<br>→ Berechnet Schlupf jedes Rades<br>→ Vergleicht mit optimalen 10-30%<br>→ Steuert Magnetventile<br><br>FUNKTION:<br>→ Hochleistungscomputer<br>→ Reaktionszeit &lt; 10 ms! (0,01 Sekunden!)<br>→ Berechnet bis zu 100x pro Sekunde!<br><br>BERECHNUNG:<br>→ Vergleicht Raddrehzahlen untereinander<br>→ Erkennt: "Rad X wird zu langsam → blockiert gleich!"<br>→ Gibt Befehl: "Bremsdruck an Rad X reduzieren!"<br><br>**3. HYDRAULIKEINHEIT (ABS-Pumpe):**<br><br>AUFGABE:<br>→ Regelt Bremsdruck für jedes Rad einzeln!<br>→ Kann Druck halten, abbauen oder aufbauen<br><br>KOMPONENTEN:<br>→ **Einlassventil** (pro Rad): Lässt Bremsdruck zu<br>→ **Auslassventil** (pro Rad): Lässt Bremsdruck ab<br>→ **Rückförderpumpe**: Pumpt Bremsflüssigkeit zurück<br>→ **Druckspeicher**: Speichert überschüssige Flüssigkeit<br><br>WICHTIG:<br>→ 4 Räder = 8 Ventile (je 1 Einlass + 1 Auslass pro Rad)<br>→ Jedes Rad wird SEPARAT geregelt!<br><br>**4. WARNLEUCHTE (im Cockpit):**<br><br>AUSSEHEN:<br>→ Gelbes Symbol "ABS"<br>→ Im Kombiinstrument<br><br>BEDEUTUNG:<br>→ **Leuchtet beim Starten:** Selbsttest (normal!)<br>→ **Geht aus nach 2 Sek:** System OK!<br>→ **Bleibt an:** ABS defekt! (Normale Bremse funktioniert noch!)<br>→ **Blinkt während Fahrt:** ABS regelt gerade!<br><br><br>5. DER REGELZYKLUS - WIE ABS REGELT! 🔄<br><br>ABS regelt in 3 PHASEN (4-20x pro Sekunde!):<br><br>**PHASE 1: DRUCKHALTEN** 🔴<br><br>SITUATION:<br>→ Rad neigt zum Blockieren (Schlupf &gt; 30%)<br>→ Sensor meldet: "Rad wird zu langsam!"<br><br>AKTION:<br>→ Einlassventil SCHLIESSEN!<br>→ Bremsdruck bleibt konstant<br><br>EFFEKT:<br>→ Rad bremst nicht stärker<br>→ Aber auch nicht schwächer<br>→ Beobachten was passiert<br><br>DAUER:<br>→ Millisekunden<br><br><br>**PHASE 2: DRUCKABBAU** 🟢<br><br>SITUATION:<br>→ Rad blockiert weiter (Schlupf &gt; 50%)<br>→ Sensor meldet: "Rad dreht zu langsam!"<br><br>AKTION:<br>→ Auslassventil ÖFFNEN!<br>→ Bremsdruck sinkt<br>→ Rückförderpumpe pumpt Flüssigkeit zurück zum Hauptbremszylinder<br><br>EFFEKT:<br>→ Rad wird weniger gebremst<br>→ Rad beschleunigt wieder<br>→ Rad dreht sich wieder schneller<br><br>DAUER:<br>→ Millisekunden<br><br><br>**PHASE 3: DRUCKAUFBAU** 🟡<br><br>SITUATION:<br>→ Rad dreht sich wieder (Schlupf &lt; 10%)<br>→ Sensor meldet: "Rad dreht wieder normal!"<br><br>AKTION:<br>→ Einlassventil ÖFFNEN!<br>→ Bremsdruck steigt wieder<br><br>EFFEKT:<br>→ Rad wird wieder stärker gebremst<br>→ Bremswirkung steigt<br>→ Zyklus beginnt von vorn!<br><br>DAUER:<br>→ Bis Rad wieder blockiert → Phase 1!<br><br><br>GESAMTZYKLUS:<br>→ Druckhalten → Druckabbau → Druckaufbau → Druckhalten → ...<br>→ 4-20 Mal PRO SEKUNDE!<br>→ PRO RAD SEPARAT!<br><br>WAHRNEHMBARES FEEDBACK:<br><br>**FÜR DEN FAHRER SPÜRBAR:**<br>→ 🦶 **Pulsierendes Bremspedal** (Druckänderungen!)<br>→ 🔊 **Ratterndes Geräusch** (Ventile schalten schnell!)<br>→ ✅ **DAS IST NORMAL!** Nicht erschrecken!<br><br><br>6. VORTEILE VON ABS! ✅<br><br>**1. FAHRZEUG BLEIBT LENKBAR!** ⭐ WICHTIGSTER VORTEIL!<br>→ Räder drehen sich weiter (Schlupf 10-30%)<br>→ Seitenführung bleibt erhalten!<br>→ Fahrer kann Hindernis UMFAHREN!<br>→ Lenken + Bremsen gleichzeitig möglich!<br><br>OHNE ABS:<br>→ Räder blockieren<br>→ Auto rutscht geradeaus<br>→ Lenken bringt NICHTS!<br><br>MIT ABS:<br>→ Räder drehen sich (10-30% Schlupf)<br>→ Lenken funktioniert!<br>→ Ausweichen möglich!<br><br>**2. OPTIMALE BREMSWIRKUNG!**<br>→ ABS hält Räder im idealen Schlupfbereich (10-30%)<br>→ Maximale Haftreibung = maximale Bremskraft<br>→ Kürzester Bremsweg (auf Asphalt!)<br><br>**3. KÜRZERER BREMSWEG (auf den meisten Untergründen)!**<br>→ Asphalt: 10-15% kürzer!<br>→ Nass: 20-30% kürzer!<br>→ Eis: 40-50% kürzer!<br><br>**4. STABILERES FAHRVERHALTEN!**<br>→ Auto bleibt in der Spur<br>→ Kein Ausbrechen<br>→ Kein Schleudern<br><br>**5. KEINE REIFENSCHÄDEN!**<br>→ Kein Plattbremsen (Unwucht)<br>→ Reifen bleiben rund<br>→ Längere Lebensdauer<br><br><br>7. NACHTEILE / EINSCHRÄNKUNGEN VON ABS! ⚠️<br><br>**1. AUF LOSEM UNTERGRUND: LÄNGERER BREMSWEG!**<br><br>BEISPIELE:<br>→ Kies<br>→ Schnee (Tiefschnee!)<br>→ Sand<br><br>WARUM?<br>→ Blockierte Räder würden sich "eingraben"<br>→ Dadurch entsteht ein "Keil" aus Material<br>→ Dieser Keil wirkt als zusätzliche Bremse!<br>→ ABS verhindert Blockieren → kein Eingraben → längerer Bremsweg!<br><br>ABER:<br>→ Fahrzeug bleibt trotzdem lenkbar!<br>→ Sicherheit wichtiger als kurzer Bremsweg!<br><br>**2. ABS KANN PHYSIKALISCHE GRENZEN NICHT ÜBERWINDEN!**<br>→ Auf Eis: Trotzdem langer Bremsweg (Physik!)<br>→ Zu schnell in Kurve: Trotzdem Schleudern möglich!<br>→ ABS ist KEIN Wundermittel!<br><br>**3. KOSTENINTENSIVER IN REPARATUR!**<br>→ Sensoren können ausfallen (100-200€ pro Stück)<br>→ Hydraulikeinheit defekt (1.000-2.000€!)<br>→ Steuergerät defekt (500-1.500€!)<br><br><br>8. RICHTIGES VERHALTEN MIT ABS! 💡<br><br>**BEI NOTBREMSUNG:**<br><br>**RICHTIG ✅:**<br>1. **Pedal VOLL DURCHTRETEN!**<br>   → Volle Kraft auf Pedal!<br>   → So stark wie möglich!<br>   <br>2. **Pedal HALTEN!**<br>   → NICHT loslassen!<br>   → NICHT "pumpen"! (ABS pumpt automatisch!)<br>   <br>3. **LENKEN!**<br>   → Hindernis umfahren!<br>   → Auto ist lenkbar!<br><br>4. **PULSIEREN IST NORMAL!**<br>   → Pedal pulsiert → ABS arbeitet!<br>   → Rattern ist normal!<br>   → NICHT erschrecken!<br><br>**FALSCH ❌:**<br>1. ❌ **Pedal "pumpen"** (ABS pumpt selbst!)<br>2. ❌ **Pedal loslassen** (bei Pulsieren)<br>3. ❌ **Nur geradeaus schauen** (Hindernis umfahren!)<br>4. ❌ **Panik!** (Ruhe bewahren!)<br><br>MERKSATZ:<br>"Voll drauf, drauf lassen, lenken!"<br><br><br>**AUF LOSEM UNTERGRUND:**<br><br>KIES / SCHNEE / SAND:<br>→ ABS kann Bremsweg verlängern<br>→ Trotzdem NICHT ausschalten!<br>→ Lenkbarkeit wichtiger!<br><br>BEI MODERNER TECHNIK:<br>→ Viele Autos haben "Off-Road-ABS"<br>→ Erkennt losen Untergrund<br>→ Lässt mehr Schlupf zu (40-60%)<br>→ Räder können sich leicht eingraben<br><br><br>9. ABS-FEHLER UND WARNLEUCHTE! ⚠️<br><br>**WARNLEUCHTE LEUCHTET DAUERHAFT:**<br><br>BEDEUTUNG:<br>→ ABS ist defekt!<br>→ Normale Bremse funktioniert noch!<br>→ Aber: Räder können bei Vollbremsung blockieren!<br><br>MÖGLICHE URSACHEN:<br>→ Raddrehzahlsensor defekt (häufigste Ursache!)<br>→ Kabel beschädigt<br>→ Steuergerät defekt<br>→ Hydraulikeinheit defekt<br>→ Sicherung durchgebrannt<br><br>WAS TUN:<br>→ Vorsichtig fahren (längere Bremswege!)<br>→ Werkstatt aufsuchen (nicht zu lange warten!)<br>→ Fehler auslesen (OBD-Diagnose)<br><br>WICHTIG:<br>→ Normale Bremse funktioniert IMMER noch!<br>→ ABS ist "zusätzliche" Sicherheit<br>→ Ohne ABS wie früher (vor 2004)<br><br><br>**TYPISCHE FEHLERCODES:**<br><br>→ C0035: "Raddrehzahlsensor vorne links - Signal fehlt"<br>→ C0040: "Raddrehzahlsensor vorne rechts - Signal fehlt"<br>→ C0050: "ABS-Hydraulikeinheit - Fehler"<br>→ C1095: "ABS-Pumpe - Defekt"<br><br><br>10. ABS IM ALLTAG - WANN REGELT ES? 🚗<br><br>**TYPISCHE SITUATIONEN:**<br><br>**1. NOTBREMSUNG BEI REGEN:**<br>→ Nasse Fahrbahn, geringe Haftung<br>→ Bei Vollbremsung würden Räder blockieren<br>→ ABS regelt → Auto bleibt lenkbar!<br><br>**2. AUSWEICHMANÖVER:**<br>→ Plötzlich Hindernis auf Straße (z.B. Tier!)<br>→ Fahrer bremst UND lenkt gleichzeitig<br>→ ABS ermöglicht Lenken während Bremsen!<br><br>**3. UNGLEICHER UNTERGRUND:**<br>→ Linke Spur nass, rechte Spur trocken<br>→ Ohne ABS: Auto würde zur nassen Seite ziehen (Räder blockieren ungleich)<br>→ Mit ABS: Jedes Rad wird separat geregelt → geradeaus!<br><br>**4. VOLLBREMSUNG AUF AUTOBAHN:**<br>→ 130 km/h → Stauende!<br>→ Vollbremsung!<br>→ ABS verhindert Blockieren<br>→ Kürzester Bremsweg + lenkbar!<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>DEFINITION:<br>→ ABS = Antiblockiersystem<br>→ Verhindert Blockieren der Räder bei Vollbremsung<br><br>PROBLEM BLOCKIEREN:<br>→ Keine Seitenführung → NICHT lenkbar!<br>→ Längerer Bremsweg (Gleitreibung &lt; Haftreibung)<br>→ Plattstellende Reifen<br><br>SCHLUPF:<br>→ Schlupf = (Vfahrzeug - Vrad) / Vfahrzeug × 100%<br>→ **Optimal: 10-30% Schlupf**<br>→ 100% Schlupf = blockiert!<br><br>KOMPONENTEN:<br>→ 4 Raddrehzahlsensoren<br>→ ABS-Steuergerät (ECU)<br>→ Hydraulikeinheit (Ventile + Pumpe)<br>→ Warnleuchte<br><br>REGELZYKLUS:<br>→ Druckhalten → Druckabbau → Druckaufbau<br>→ 4-20x pro Sekunde!<br>→ Pro Rad separat!<br><br>VORTEILE:<br>→ **Fahrzeug bleibt lenkbar!** (wichtigster Vorteil!)<br>→ Optimale Bremswirkung<br>→ Kürzerer Bremsweg (Asphalt)<br>→ Stabileres Fahrverhalten<br><br>RICHTIGES VERHALTEN:<br>→ Pedal VOLL durchtreten!<br>→ Pedal HALTEN! (nicht pumpen!)<br>→ Lenken! (Hindernis umfahren!)<br>→ Pulsieren ist normal!</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: NOTBREMSUNG MIT ABS
+
+SITUATION:
+Autobahn, 100 km/h. Plötzlich Stauende! Fahrer macht Vollbremsung.
+
+**OHNE ABS:**
+→ Fahrer tritt voll aufs Pedal
+→ Alle 4 Räder blockieren sofort
+→ Auto rutscht geradeaus (Gleitreibung!)
+→ Fahrer lenkt → KEINE Reaktion! (keine Seitenführung!)
+→ Auto rutscht trotzdem geradeaus
+→ Auffahrunfall!
+
+**MIT ABS:**
+→ Fahrer tritt voll aufs Pedal
+→ Räder wollen blockieren
+→ ABS erkennt: "Schlupf &gt; 30%!"
+→ Hydraulikeinheit regelt Bremsdruck (4-20x/Sek!)
+→ Räder drehen sich weiter (Schlupf 10-30%)
+→ Auto bleibt lenkbar!
+→ Fahrer lenkt auf Standstreifen → Ausweichen erfolgreich!
+→ Kein Unfall!
+
+LERNEFFEKT:
+ABS rettet Leben! Lenkbarkeit ist wichtiger als 2m kürzerer Bremsweg!</div>
+                        <div class="beispiel">BEISPIEL 2: SCHLUPF BERECHNEN
+
+AUFGABE:
+Ein Auto fährt 80 km/h. Bei Bremsung dreht sich das Rad mit 60 km/h. Berechne den Schlupf!
+
+LÖSUNG:
+Schlupf = (Vfahrzeug - Vrad) / Vfahrzeug × 100%
+Schlupf = (80 - 60) / 80 × 100%
+Schlupf = 20 / 80 × 100%
+Schlupf = 0,25 × 100%
+Schlupf = 25%
+
+BEWERTUNG:
+→ 25% Schlupf = IM OPTIMALEN BEREICH (10-30%)!
+→ ABS arbeitet perfekt!
+→ Beste Bremswirkung + Lenkbar!</div>
+                        <div class="beispiel">BEISPIEL 3: WARUM PULSIERT DAS PEDAL?
+
+FRAGE:
+Bei Vollbremsung pulsiert das Bremspedal stark und es rattert. Ist die Bremse kaputt?
+
+ANTWORT:
+**NEIN! Das ist NORMAL!**
+
+WAS PASSIERT:
+→ ABS regelt Bremsdruck (4-20x pro Sekunde!)
+→ Ventile öffnen und schließen schnell
+→ Bremsdruck schwankt → Pedal pulsiert!
+→ Ventile klappern → Rattern hörbar!
+
+DAS IST:
+→ Zeichen dass ABS arbeitet!
+→ Völlig normal!
+→ Kein Defekt!
+
+WAS TUN:
+→ Pedal HALTEN! (nicht loslassen!)
+→ Weiter voll durchtreten!
+→ ABS macht seine Arbeit!
+
+LERNEFFEKT:
+Pulsieren = ABS arbeitet = GUT! Nicht loslassen!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Experiment<br>→ Ablauf: Dozent zeigt Gummistück auf Tisch. Zieht es langsam → bleibt haften. Zieht es schnell → rutscht! Frage: "Was ist besser beim Bremsen? Haften oder Rutschen?" Antwärter: "Haften!" Überleitung: "Genau! ABS verhindert Rutschen!"<br>→ Ziel: Haftreibung vs. Gleitreibung verstehen<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: PROBLEM BLOCKIEREN (15 Min)<br>→ Warum ist Blockieren schlecht? (4 Gründe!)<br>→ Haftreibung &gt; Gleitreibung (μ = 0,8 vs. 0,6)<br>→ Keine Seitenführung! (wichtigster Punkt!)<br>→ Video zeigen: "Ausweichmanöver mit/ohne ABS"<br><br>PHASE 2: SCHLUPF (15 Min)<br>→ Formel: Schlupf = (Vfzg - Vrad) / Vfzg × 100%<br>→ Rechenbeispiele an Tafel (3-4 Beispiele!)<br>→ Optimaler Bereich: 10-30%<br>→ Anwärter rechnen selbst (Partnerarbeit)<br><br>PHASE 3: KOMPONENTEN (15 Min)<br>→ 4 Komponenten durchgehen<br>→ Raddrehzahlsensoren (wo sind die?)<br>→ Hydraulikeinheit (Ventile!)<br>→ Wenn vorhanden: Echten Sensor zeigen!<br><br>PHASE 4: REGELZYKLUS (15 Min)<br>→ 3 Phasen zeichnen: Druckhalten-Druckabbau-Druckaufbau<br>→ 4-20x pro Sekunde!<br>→ Warum pulsiert Pedal? (Druckänderungen!)<br><br>PHASE 5: RICHTIGES VERHALTEN (10 Min)<br>→ "Voll drauf, drauf lassen, lenken!"<br>→ NICHT pumpen!<br>→ Pulsieren ist normal!<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Warum ABS?" → Lenkbar bleiben!<br>→ "Optimaler Schlupf?" → 10-30%!<br>→ Ausblick: "Nächste Stunde: ESP!"<br>→ Hausaufgabe: Hat dein Auto ABS? (Warnleuchte beim Start!)</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ Lenkbarkeit ist KERNBOTSCHAFT (wichtiger als Bremsweg!)<br>→ Schlupf ist abstrakt - viele Rechenbeispiele!<br>→ Regelzyklus mit Zeichnung visualisieren!<br>→ Video zeigen (Ausweichmanöver mit/ohne ABS!)<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Denken ABS verkürzt immer Bremsweg (NEIN - auf Kies länger!)<br>→ Glauben Bremse ist kaputt bei Pulsieren<br>→ Vergessen dass jedes Rad separat geregelt wird<br>→ Wissen nicht wie man Schlupf berechnet<br><br>TIPPS &amp; TRICKS:<br>→ YouTube-Video: "ABS Test - mit/ohne ABS"<br>→ Eselsbrücke: "Schlupf 30% = Super!"<br>→ Schlupf-Tabelle ausdrucken (zum Mitnehmen!)<br>→ Wenn möglich: Praxis auf Übungsplatz (kontrolliert!)</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie die Funktion des ABS. Warum ist es wichtig?<br><br>Antwort:<br>FUNKTION:<br>ABS (Antiblockiersystem) verhindert das Blockieren der Räder bei einer Vollbremsung und hält die Räder im optimalen Schlupfbereich von 10-30%.<br><br>ABLAUF:<br>→ Raddrehzahlsensoren messen Drehzahl jedes Rades<br>→ ABS-Steuergerät berechnet Schlupf<br>→ Bei Blockierneigung: Hydraulikeinheit regelt Bremsdruck<br>→ Regelzyklus: Druckhalten → Druckabbau → Druckaufbau (4-20x/Sek!)<br><br>WICHTIGKEIT:<br>**Fahrzeug bleibt lenkbar!** (wichtigster Vorteil!)<br>→ Blockierte Räder = keine Seitenführung → nicht lenkbar!<br>→ Mit ABS: Ausweichen während Bremsen möglich!<br>→ Rettet Leben!<br><br>WEITERE VORTEILE:<br>→ Optimale Bremswirkung (Haftreibung statt Gleitreibung)<br>→ Kürzerer Bremsweg (auf Asphalt)<br>→ Stabileres Fahrverhalten<br><br><br>Frage 2: Was ist Schlupf? Berechnen Sie den Schlupf für folgende Situation: Fahrzeug 100 km/h, Rad 70 km/h.<br><br>Antwort:<br>DEFINITION SCHLUPF:<br>Schlupf ist die Differenz zwischen Fahrzeuggeschwindigkeit und Radgeschwindigkeit in Prozent.<br><br>FORMEL:<br>Schlupf (%) = (Vfahrzeug - Vrad) / Vfahrzeug × 100%<br><br>BERECHNUNG:<br>Schlupf = (100 - 70) / 100 × 100%<br>Schlupf = 30 / 100 × 100%<br>Schlupf = 30%<br><br>BEWERTUNG:<br>→ 30% Schlupf = GRENZBEREICH (optimal: 10-30%)<br>→ ABS würde gleich eingreifen<br>→ Bei weiterer Verzögerung: Blockiergefahr!<br><br>OPTIMALER BEREICH:<br>→ 10-30% = Beste Bremswirkung + Lenkbar<br>→ 0% = Keine Bremsung<br>→ 100% = Blockiert (Rad steht!)<br><br><br>Frage 3: Beschreiben Sie das richtige Verhalten bei einer Notbremsung mit ABS.<br><br>Antwort:<br>RICHTIGES VERHALTEN:<br><br>1. **PEDAL VOLL DURCHTRETEN:**<br>   → Volle Kraft auf Bremspedal!<br>   → So stark wie möglich!<br><br>2. **PEDAL HALTEN:**<br>   → NICHT loslassen!<br>   → NICHT "pumpen"! (ABS pumpt selbst!)<br>   → Auch wenn Pedal pulsiert!<br><br>3. **LENKEN:**<br>   → Hindernis umfahren wenn möglich!<br>   → Auto bleibt lenkbar durch ABS!<br>   → Lenken + Bremsen gleichzeitig möglich!<br><br>4. **RUHIG BLEIBEN:**<br>   → Pulsieren des Pedals ist NORMAL!<br>   → Ratterndes Geräusch ist NORMAL!<br>   → Zeichen dass ABS arbeitet!<br><br>MERKSATZ:<br>"Voll drauf, drauf lassen, lenken!"<br><br>FALSCH:<br>❌ Pedal pumpen (ABS regelt selbst!)<br>❌ Bei Pulsieren loslassen<br>❌ In Panik geraten</div>
                     </div>
 
                 </div>
