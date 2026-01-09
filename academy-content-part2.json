@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T21:11:24.668Z">
+    <meta name="last-updated" content="2026-01-09T21:25:21.036Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -3854,6 +3854,128 @@ Diesel bekommt aber: 22 kg Luft (λ = 1,5!)
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie Funktion und Zweck der Abgasrückführung (AGR).<br><br>Antwort:<br>FUNKTION:<br>Bei der AGR wird ein Teil der Abgase (10-50%) zurück in den Ansaugtrakt geleitet und erneut verbrannt.<br><br>ABLAUF:<br>1. Abgasentnahme nach Auslassventil<br>2. Kühlung im AGR-Kühler (600°C → 100°C)<br>3. Rückführung über AGR-Ventil in Ansaugtrakt<br>4. Erneute Verbrennung mit Frischluft<br><br>ZWECK:<br>→ NOₓ-REDUKTION (bis 50%!)<br>→ Abgase senken Verbrennungstemperatur um 100-200°C<br>→ NOₓ entsteht ab 1.500°C → AGR verhindert das!<br><br>ZUSÄTZLICH (nur Otto):<br>→ Verbrauchssenkung bis 5% (geringere Drosselverluste)<br><br><br>Frage 2: Nennen Sie die Komponenten des AGR-Systems und ihre Aufgaben.<br><br>Antwort:<br>1. **AGR-VENTIL:**<br>   → Regelt Abgasmenge (0-50%)<br>   → Elektronisch gesteuert (ECU)<br>   → Öffnet/schließt je nach Betriebszustand<br><br>2. **AGR-KÜHLER:**<br>   → Kühlt Abgase von 600-700°C auf 100-200°C<br>   → Verwendet Motorkühlwasser<br>   → Wichtig für Temperatursenkung im Brennraum<br><br>3. **AGR-LEITUNG:**<br>   → Verbindet Abgas- mit Ansaugseite<br>   → Transportiert gekühlte Abgase<br><br>4. **MOTORSTEUERGERÄT (ECU):**<br>   → Steuert AGR-Ventil<br>   → Bestimmt AGR-Rate (0-50%)<br>   → Abhängig von: Drehzahl, Last, Temperatur<br><br><br>Frage 3: Erklären Sie den Unterschied zwischen AGR bei Otto- und Dieselmotoren.<br><br>Antwort:<br>| MERKMAL | OTTOMOTOR | DIESELMOTOR |<br>|---------|-----------|-------------|<br>| **AGR-Rate** | 10-25% | Bis 50% |<br>| **Hauptziel** | NOₓ + Verbrauch | Nur NOₓ |<br>| **Verschmutzung** | Gering | Hoch (Ruß!) |<br>| **Wartungsintervall** | 100.000-150.000 km | 50.000-100.000 km |<br><br>WARUM KANN DIESEL MEHR AGR?<br>→ Dieselmotor arbeitet mit Luftüberschuss (λ = 1,3-1,5)<br>→ 30-50% mehr Luft als theoretisch nötig!<br>→ Kann bis zu 50% Abgas vertragen<br>→ Genug Sauerstoff bleibt für Verbrennung<br><br>OTTO:<br>→ Arbeitet bei λ = 1,0 (stöchiometrisch)<br>→ Keine Sauerstoff-Reserve!<br>→ Nur 10-25% AGR möglich<br>→ Sonst zu wenig Sauerstoff!</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767993389392" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Hydraulisches Bremssystem - Hauptbremszylinder, Bremsflüssigkeit, Bremskreise</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Das Prinzip der hydraulischen Bremse verstehen</div>
+                    <div class="lernziel">Die Komponenten des Bremssystems benennen können</div>
+                    <div class="lernziel">Die Funktion des Hauptbremszylinders erklären können</div>
+                    <div class="lernziel">Die Bremskreisaufteilung (X, II, LL) kennen und unterscheiden können</div>
+                    <div class="lernziel">Bremsflüssigkeit (DOT-Klassen) und ihre Eigenschaften verstehen</div>
+                    <div class="lernziel">Die Wichtigkeit des 2-Jahres-Wechsels erklären können</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WARUM HYDRAULISCHE BREMSE? - DAS PRINZIP! 💧<br><br>DAS PROBLEM:<br>→ Fahrer sitzt vorne, will 4 Räder bremsen<br>→ Bremskraft muss auf alle 4 Räder übertragen werden<br>→ Mechanische Seile wären zu kompliziert und ungenau<br><br>DIE LÖSUNG: HYDRAULIK!<br>→ Druck in Flüssigkeit breitet sich gleichmäßig aus<br>→ PASCALSCHES GESETZ: Druck wirkt in alle Richtungen gleich!<br>→ 1 Pedal → 1 Zylinder → 4 Bremsen!<br><br>WIE FUNKTIONIERT HYDRAULIK?<br><br>PRINZIP:<br>1. Fahrer tritt aufs Bremspedal<br>2. Kolben im Hauptbremszylinder wird bewegt<br>3. Bremsflüssigkeit wird zusammengepresst<br>4. Druck entsteht (bis 180 bar!)<br>5. Druck breitet sich in ALLEN Leitungen gleichmäßig aus<br>6. An allen 4 Rädern: Radbremszylinder werden gedrückt<br>7. Beläge drücken auf Scheiben/Trommeln<br>8. Auto bremst!<br><br>PASCALSCHES GESETZ:<br>"Druck in einer Flüssigkeit breitet sich gleichmäßig in alle Richtungen aus!"<br><br>BEISPIEL:<br>→ Pedalkraft: 500 N<br>→ Bremskraftverstärker: x 5 = 2.500 N<br>→ Hauptbremszylinder: 2.500 N → Druck 180 bar<br>→ Druck 180 bar an ALLEN 4 Rädern gleichzeitig!<br>→ Radbremszylinder: 180 bar → 8.000 N Bremskraft pro Rad!<br><br><br>2. DIE 6 KOMPONENTEN DES HYDRAULISCHEN BREMSSYSTEMS! 🔧<br><br>**1. BREMSPEDAL:**<br>→ Eingabe der Bremskraft durch Fahrer<br>→ Mit Bremskraftverstärker verbunden<br>→ Hebelwirkung: Pedalkraft wird verstärkt<br><br>**2. BREMSKRAFTVERSTÄRKER (BKV):**<br>→ Unterdruck-Servobremse<br>→ Verstärkt Pedalkraft 3-8 fach!<br>→ Nutzt Motorunterdruck (Ansaugrohr)<br>→ Membran-Prinzip<br>→ WICHTIG: Bei stehendem Motor funktioniert BKV nicht → viel mehr Kraft nötig!<br><br>BEISPIEL:<br>→ Ohne BKV: 500 N Pedalkraft nötig<br>→ Mit BKV: Nur 100 N Pedalkraft nötig → 5x leichter!<br><br>**3. HAUPTBREMSZYLINDER (HBZ):**<br>→ **KERNKOMPONENTE!**<br>→ Wandelt Pedalkraft in hydraulischen Druck<br>→ **Tandem-HBZ** = Zwei Druckkammern (für 2 Bremskreise!)<br>→ Druckaufbau bis 180 bar<br><br>AUFBAU:<br>→ 2 Kolben hintereinander (Tandem!)<br>→ Kolben 1 → Bremskreis 1<br>→ Kolben 2 → Bremskreis 2<br>→ Bei Ausfall eines Kreises: Andere Kammer funktioniert weiter!<br><br>**4. AUSGLEICHSBEHÄLTER:**<br>→ Vorratsbehälter für Bremsflüssigkeit<br>→ Druckausgleich<br>→ MIN/MAX Markierung<br>→ Verschleißreserve (Beläge werden dünner → mehr Flüssigkeit im System)<br>→ Transparentes Gehäuse (Füllstand prüfbar)<br><br>**5. BREMSLEITUNGEN:**<br>→ **Starre Stahlleitungen** (am Fahrzeugrahmen)<br>→ **Flexible Bremsschläuche** (zu den Rädern, Lenkbewegung!)<br>→ Korrosionsgeschützt (beschichtet)<br>→ Druckfest bis 180 bar<br>→ WICHTIG: Leitungen müssen dicht sein!<br><br>**6. RADBREMSZYLINDER / BREMSSATTEL:**<br>→ Wandelt hydraulischen Druck in mechanische Kraft<br>→ Drückt Beläge gegen Scheibe (Scheibenbremse)<br>→ Drückt Backen gegen Trommel (Trommelbremse)<br>→ 1-8 Kolben pro Sattel (je nach Fahrzeug)<br><br><br>3. DER ABLAUF BEIM BREMSEN - SCHRITT FÜR SCHRITT! 🚗<br><br>SCHRITT 1: FAHRER TRITT AUFS PEDAL<br>→ Pedalkraft: z.B. 100 N<br><br>SCHRITT 2: BREMSKRAFTVERSTÄRKER VERSTÄRKT<br>→ BKV verstärkt: 100 N × 5 = 500 N<br><br>SCHRITT 3: HAUPTBREMSZYLINDER BAUT DRUCK AUF<br>→ 500 N auf Kolben (Fläche 5 cm²)<br>→ Druck = Kraft / Fläche = 500 N / 5 cm² = 100 N/cm² = 100 bar<br><br>SCHRITT 4: DRUCK BREITET SICH AUS<br>→ 100 bar in ALLEN Leitungen<br>→ Gleichzeitig an allen 4 Rädern!<br><br>SCHRITT 5: RADBREMSZYLINDER DRÜCKEN BELÄGE<br>→ 100 bar × Kolbenfläche 40 cm² = 4.000 N Anpresskraft pro Rad<br><br>SCHRITT 6: BELÄGE DRÜCKEN AUF SCHEIBEN<br>→ Reibung zwischen Belag und Scheibe<br>→ Scheibe wird abgebremst<br>→ Rad wird abgebremst<br>→ Auto bremst!<br><br>GESAMTZEIT: Nur 0,1-0,2 Sekunden!<br><br><br>4. BREMSKREISAUFTEILUNG - WARUM 2 KREISE? ⚙️<br><br>WARUM ZWEI BREMSKREISE?<br>→ **SICHERHEIT!**<br>→ Bei Ausfall eines Kreises (Leck, Leitungsbruch) bleibt zweiter Kreis funktionsfähig!<br>→ Ohne 2 Kreise: Bei Leck KEINE Bremswirkung mehr → LEBENSGEFAHR!<br><br>GESETZLICHE VORSCHRIFT:<br>→ Seit 1968 Pflicht: Zweikreis-Bremsanlage!<br>→ StVZO §41: "Kraftfahrzeuge müssen zwei voneinander unabhängige Bremskreise haben"<br><br>DIE 3 ARTEN DER BREMSKREISAUFTEILUNG:<br><br>**X-AUFTEILUNG (DIAGONAL):** ⭐ STANDARD HEUTE!<br><br>AUFTEILUNG:<br>→ Kreis 1: Vorne links + Hinten rechts (diagonal!)<br>→ Kreis 2: Vorne rechts + Hinten links (diagonal!)<br><br>EINSATZ:<br>→ Standard bei frontgetriebenen PKW (99% aller Autos!)<br>→ Moderne Fahrzeuge<br><br>VORTEIL:<br>→ Bei Ausfall eines Kreises: Je 1 Vorder- + 1 Hinterradbremse funktioniert noch<br>→ Fahrzeug bleibt geradeaus bremsbar!<br>→ Keine Gierbewegung (Ausbrechen)<br>→ Ca. 70% Restbremswirkung<br><br>BEISPIEL AUSFALL:<br>→ Kreis 1 fällt aus (Leck!)<br>→ Kreis 2 funktioniert: Vorne rechts + Hinten links<br>→ Auto bremst schräg → BLEIBT aber geradeaus!<br><br><br>**II-AUFTEILUNG (SCHWARZ-WEISS / VORNE-HINTEN):**<br><br>AUFTEILUNG:<br>→ Kreis 1: Beide Vorderräder<br>→ Kreis 2: Beide Hinterräder<br><br>EINSATZ:<br>→ Ältere Fahrzeuge (bis ca. 1990)<br>→ Heckgetriebene Fahrzeuge<br>→ Heute selten!<br><br>NACHTEIL:<br>→ Bei Ausfall Vorderachse: Nur noch 30% Bremskraft! (Hinterachse allein!)<br>→ Bei Ausfall Hinterachse: 70% Bremskraft (akzeptabel)<br>→ Problem: Vorderachse macht 70% der Bremskraft!<br><br>**LL-AUFTEILUNG (LINKS-RECHTS):**<br><br>AUFTEILUNG:<br>→ Kreis 1: Vorne links + Hinten links<br>→ Kreis 2: Vorne rechts + Hinten rechts<br><br>EINSATZ:<br>→ Sehr selten!<br>→ Spezielle Fahrzeuge (z.B. manche LKW)<br><br>NACHTEIL:<br>→ Bei Ausfall eines Kreises: Fahrzeug bremst nur auf einer Seite!<br>→ Starke Gierbewegung (Ausbrechen!)<br>→ Sehr schwer kontrollierbar!<br><br>VERGLEICH:<br><br>| TYP | KREIS 1 | KREIS 2 | EINSATZ | VORTEIL |<br>|-----|---------|---------|---------|---------|<br>| **X (Diagonal)** | VL + HR | VR + HL | **Standard heute** | Geradeaus bremsbar! |<br>| **II (Schwarz-Weiß)** | Vorne | Hinten | Älter, selten | Einfach |<br>| **LL (Links-Rechts)** | Links | Rechts | Sehr selten | - |<br><br><br>5. BREMSFLÜSSIGKEIT - DAS LEBENSELIXIER DES SYSTEMS! 💧<br><br>ANFORDERUNGEN AN BREMSFLÜSSIGKEIT:<br><br>✅ **Hoher Siedepunkt** (180-260°C je nach Typ!)<br>→ Warum? Bei Bremsen wird Flüssigkeit heiß!<br>→ Darf NICHT kochen (sonst Dampfblasen = kein Druck!)<br><br>✅ **Niedriger Gefrierpunkt** (-40°C)<br>→ Muss auch im Winter funktionieren!<br><br>✅ **Nicht kompressibel**<br>→ Druck muss sofort übertragen werden<br>→ Luft/Dampf wäre kompressibel = weiches Pedal!<br><br>✅ **Korrosionsschutz**<br>→ Schützt Metallteile vor Rost<br><br>✅ **Verträglich mit Gummi**<br>→ Dichtungen dürfen nicht aufquellen/schrumpfen<br><br>✅ **Schmiereigenschaften**<br>→ Schmiert bewegliche Teile<br><br><br>DIE DOT-KLASSEN:<br><br>DOT = Department of Transportation (US-Norm)<br><br>| DOT-KLASSE | TROCKENSIEDEPUNKT | NASSSIEDEPUNKT | VERWENDUNG |<br>|------------|-------------------|----------------|------------|<br>| **DOT 3** | ≥ 205°C | ≥ 140°C | Ältere Fahrzeuge |<br>| **DOT 4** | ≥ 230°C | ≥ 155°C | **Standard heute** |<br>| **DOT 5.1** | ≥ 260°C | ≥ 180°C | Hochleistung, ABS/ESP |<br>| **DOT 5** | ≥ 260°C | ≥ 180°C | **SILIKON! Nicht mischbar!** |<br><br>WICHTIGE UNTERSCHIEDE:<br><br>**DOT 3/4/5.1:**<br>→ Glykolbasis (chemisch ähnlich)<br>→ **Untereinander mischbar!**<br>→ Hygroskopisch (zieht Wasser an!)<br>→ Standard in PKW<br><br>**DOT 5:**<br>→ **Silikonbasis** (völlig anders!)<br>→ **NICHT mit DOT 3/4/5.1 mischbar!**<br>→ NICHT hygroskopisch (zieht kein Wasser!)<br>→ Nur Oldtimer, Militär<br>→ **NICHT für ABS geeignet!** (kompressibel!)<br><br><br>6. DAS WASSER-PROBLEM - WARUM ALLE 2 JAHRE WECHSELN? ⚠️<br><br>HYGROSKOPISCH = ZIEHT WASSER AN!<br><br>Bremsflüssigkeit (DOT 3/4/5.1) ist **hygroskopisch**:<br>→ Zieht Wasser aus der Luft an!<br>→ Durch Bremsschläuche (mikroskopisch durchlässig!)<br>→ Beim Öffnen des Ausgleichsbehälters<br><br>WASSERAUFNAHME IM ZEITVERLAUF:<br>→ Nach 1 Jahr: ca. 2% Wasser<br>→ Nach 2 Jahren: ca. 3-4% Wasser<br>→ Nach 3 Jahren: ca. 5-6% Wasser<br><br>FOLGEN VON WASSER IN BREMSFLÜSSIGKEIT:<br><br>**1. SIEDEPUNKT SINKT DRASTISCH!**<br>→ DOT 4 neu: 230°C Siedepunkt<br>→ DOT 4 mit 3,5% Wasser: nur noch 155°C! (-75°C!)<br>→ Das ist der "Nasssiedepunkt"!<br><br>**2. DAMPFBLASENBILDUNG (VAPOR LOCK)!**<br>→ Bei starker Bremsung: Temperatur &gt; 155°C<br>→ Wasser kocht → Dampfblasen!<br>→ Dampf ist kompressibel → Pedal wird schwammig!<br>→ **BREMSE FÄLLT AUS!**<br><br>**3. KORROSION IM BREMSSYSTEM!**<br>→ Wasser + Metall = Rost!<br>→ Radbremszylinder, Leitungen rosten von innen<br>→ Teure Reparaturen!<br><br>**4. BREMSWIRKUNG LÄSST NACH!**<br>→ Schlechtere Kraftübertragung<br>→ Längerer Bremsweg<br><br>WECHSELINTERVALL:<br><br>✅ **ALLE 2 JAHRE WECHSELN!**<br>→ Unabhängig von Kilometerstand!<br>→ Auch bei wenig Nutzung!<br>→ Auch wenn Farbe noch gut aussieht!<br><br>WARUM 2 JAHRE?<br>→ Nach 2 Jahren: ca. 3-4% Wasser<br>→ Nasssiedepunkt deutlich gesunken<br>→ Sicherheitsrisiko steigt!<br><br>KOSTEN:<br>→ 50-100€ (inkl. Arbeit)<br>→ Kleine Investition für GROSSE Sicherheit!<br><br><br>7. WICHTIGE REGELN FÜR BREMSFLÜSSIGKEIT! ✅<br><br>**BEIM NACHFÜLLEN:**<br>✅ Nur geschlossene Gebinde verwenden<br>✅ Angebrochene Flaschen nicht lange lagern (zieht Wasser!)<br>✅ DOT 3/4/5.1 sind untereinander mischbar<br>❌ DOT 5 (Silikon) NICHT mit anderen mischen!<br>✅ Immer Herstellervorgabe beachten (im Handbuch!)<br>✅ Sauber arbeiten (kein Schmutz ins System!)<br><br>**BEIM WECHSELN:**<br>✅ Alle 2 Jahre komplett wechseln<br>✅ Entlüften nötig (Luft raus!)<br>✅ Von Werkstatt machen lassen (Spezialgerät!)<br>✅ Alte Flüssigkeit entsorgen (Sondermüll!)<br><br>**SYMPTOME FÜR SCHLECHTE BREMSFLÜSSIGKEIT:**<br>❌ Weiches/schwammiges Bremspedal<br>❌ Pedal sinkt langsam durch (bei Vollbremsung)<br>❌ Längerer Bremsweg<br>❌ Dunkle Verfärbung der Flüssigkeit<br>❌ Flüssigkeitsstand sinkt (Leck!)<br><br>**GEFAHREN:**<br>⚠️ NIEMALS Bremsflüssigkeit auf Lack verschütten! (Lack löst sich auf!)<br>⚠️ Gesundheitsschädlich (Handschuhe tragen!)<br>⚠️ Umweltschädlich (nicht in Kanalisation!)<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>HYDRAULISCHES PRINZIP:<br>→ Druck in Flüssigkeit breitet sich gleichmäßig aus (Pascal!)<br>→ 1 Pedal → 4 Räder gleichzeitig<br><br>KOMPONENTEN:<br>→ Bremspedal → BKV (3-8x Verstärkung) → Hauptbremszylinder (Tandem!) → Leitungen → Radbremszylinder<br><br>BREMSKREISE:<br>→ **2 Kreise Pflicht** (seit 1968!)<br>→ **X-Aufteilung** (diagonal) = Standard heute!<br>→ II-Aufteilung (vorne-hinten) = älter<br>→ Bei Ausfall 1 Kreis: 2. Kreis funktioniert weiter!<br><br>BREMSFLÜSSIGKEIT:<br>→ **DOT 4 = Standard** (Siedepunkt 230°C)<br>→ DOT 3/4/5.1 untereinander mischbar<br>→ DOT 5 (Silikon) NICHT mischbar!<br><br>WASSER-PROBLEM:<br>→ Bremsflüssigkeit ist **hygroskopisch** (zieht Wasser!)<br>→ Wasser senkt Siedepunkt (-75°C!)<br>→ **Alle 2 Jahre wechseln!** (Pflicht!)<br><br>SIEDEPUNKTE:<br>→ Trockensiedepunkt: Neue Flüssigkeit (230°C bei DOT 4)<br>→ Nasssiedepunkt: Mit 3,5% Wasser (155°C bei DOT 4)<br></div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: SCHWAMMIGES BREMSPEDAL
+
+SITUATION:
+Nach einer langen Bergabfahrt (Alpen!) wird das Bremspedal plötzlich schwammig und weich. Der Bremsweg wird länger!
+
+URSACHE:
+→ **Vapor Lock** (Dampfblasenbildung!)
+→ Bremsflüssigkeit ist alt (3 Jahre, 5% Wasser)
+→ Nasssiedepunkt nur noch 140°C
+→ Bei Bergabfahrt: Viel bremsen → Temperatur steigt auf 160°C
+→ Wasser kocht → Dampfblasen entstehen!
+→ Dampf ist kompressibel → Pedal wird weich!
+
+WAS TUN?
+→ SOFORT anhalten! (Notbremsung vorbereiten!)
+→ Motor laufen lassen, Bremsen abkühlen lassen (10-15 Min)
+→ Vorsichtig weiterfahren (niedrige Geschwindigkeit!)
+→ Nächste Werkstatt: Bremsflüssigkeit SOFORT wechseln!
+
+VORBEUGUNG:
+→ Bremsflüssigkeit alle 2 Jahre wechseln!
+→ Bei Bergfahrten: Motorbremse nutzen (niedriger Gang!)
+
+LERNEFFEKT:
+Alte Bremsflüssigkeit = LEBENSGEFAHR! Nie über 2 Jahre fahren!</div>
+                        <div class="beispiel">BEISPIEL 2: BREMSKREIS FÄLLT AUS
+
+SITUATION:
+Bei der Fahrt platzt plötzlich eine Bremsleitung (Rost!). Das Bremspedal geht fast bis zum Boden durch. Kontrollleuchte leuchtet!
+
+WAS PASSIERT?
+→ Bremskreis 1 fällt aus (Flüssigkeit läuft raus!)
+→ Hauptbremszylinder: Kolben 1 geht bis Anschlag (kein Druck!)
+→ ABER: Kolben 2 baut noch Druck auf → Bremskreis 2 funktioniert!
+→ Bei X-Aufteilung: z.B. Vorne rechts + Hinten links bremsen noch!
+
+WAS TUN?
+→ **Stark auf Pedal treten** (viel Kraft nötig!)
+→ Bremsweg ist LÄNGER (nur 70% Bremskraft!)
+→ Motorbremse nutzen (runterschalten!)
+→ SOFORT Werkstatt ansteuern (Notfall!)
+→ **NICHT weiterfahren!** (nur bis nächste Werkstatt!)
+
+WARUM FUNKTIONIERT NOCH WAS?
+→ Dank Zweikreis-Bremse!
+→ Ohne 2 Kreise: GAR KEINE Bremse mehr!
+
+LERNEFFEKT:
+Zweikreis-Bremse rettet Leben! Deshalb seit 1968 Pflicht!
+</div>
+                        <div class="beispiel">BEISPIEL 3: DOT 3 UND DOT 4 GEMISCHT - IST DAS OK?
+
+FRAGE:
+Im Ausgleichsbehälter steht "DOT 4". Ich habe nur DOT 3 dabei. Kann ich nachfüllen?
+
+ANTWORT:
+**JA, grundsätzlich mischbar!**
+
+ABER:
+→ DOT 3 hat niedrigeren Siedepunkt (205°C vs. 230°C)
+→ Gemisch hat dann auch niedrigeren Siedepunkt!
+→ Nicht optimal, aber im Notfall OK
+
+BESSER:
+→ DOT 4 oder DOT 5.1 nachfüllen (höherer Siedepunkt!)
+→ Niemals "downgraden" (von DOT 4 zu DOT 3)
+→ Immer "upgraden" (von DOT 3 zu DOT 4) ist OK!
+
+NIEMALS:
+→ DOT 5 (Silikon) mit DOT 3/4/5.1 mischen!
+→ **ZERSTÖRT Bremssystem!**
+
+MERKSATZ:
+"DOT 3/4/5.1 sind Freunde (mischbar). DOT 5 ist Einzelgänger (Silikon)!"</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Demonstration<br>→ Ablauf: Dozent zeigt Fahrrad-Bremse (Seilzug). Fragt: "Was ist Problem bei 4 Rädern?" Antwärter: "Zu kompliziert!" Dozent: "Richtig! Deshalb Hydraulik - 1 Druck für alle!"<br>→ Ziel: Problem verstehen, Lösung Hydraulik<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: HYDRAULISCHES PRINZIP (15 Min)<br>→ Pascalsches Gesetz erklären (Druck gleichmäßig!)<br>→ Zeichnung: Pedal → HBZ → Leitungen → Radbremszylinder<br>→ Zahlenbeispiel: 100 N Pedal → 500 N (BKV) → 100 bar → 4.000 N pro Rad<br><br>PHASE 2: KOMPONENTEN (15 Min)<br>→ 6 Komponenten durchgehen (Pedal, BKV, HBZ, Behälter, Leitungen, Radbremszylinder)<br>→ Tandem-HBZ erklären (2 Kolben!)<br>→ Wenn vorhanden: Echten HBZ zeigen!<br><br>PHASE 3: BREMSKREISE (20 Min)<br>→ Warum 2 Kreise? (Sicherheit!)<br>→ X-Aufteilung zeichnen (diagonal!) → Standard!<br>→ II-Aufteilung zeichnen (vorne-hinten) → älter<br>→ Was passiert bei Ausfall? (70% Restbremswirkung bei X!)<br><br>PHASE 4: BREMSFLÜSSIGKEIT (15 Min)<br>→ DOT-Klassen: Tabelle erstellen (DOT 3/4/5.1/5)<br>→ Siedepunkte: Trocken vs. Nass<br>→ Hygroskopisch erklären (zieht Wasser!)<br>→ Warum alle 2 Jahre? (Wasser senkt Siedepunkt!)<br><br>PHASE 5: PRAXISFALL (5 Min)<br>→ "Bremspedal wird schwammig am Berg - warum?"<br>→ Antwort: Vapor Lock! (Dampfblasen!)<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Warum 2 Bremskreise?" → Sicherheit!<br>→ "Bremsflüssigkeit alle?" → 2 Jahre!<br>→ Ausblick: "Nächste Stunde: Bremsfading!"<br>→ Hausaufgabe: Prüfe Bremsflüssigkeitsstand an deinem Auto!<br></div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ Hydraulisches Prinzip ist abstrakt - mit Zeichnung arbeiten!<br>→ Bremskreise gut erklären (X-Aufteilung ist Standard!)<br>→ 2-Jahres-Wechsel ist KERNBOTSCHAFT!<br>→ Vapor Lock ist lebensbedrohlich - betonen!<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Verwechseln X- und II-Aufteilung<br>→ Denken DOT 5 ist besser (NEIN - Silikon, nicht für ABS!)<br>→ Vergessen dass BKV nur bei laufendem Motor funktioniert<br>→ Unterschätzen Wichtigkeit 2-Jahres-Wechsel<br><br>TIPPS &amp; TRICKS:<br>→ Echten Hauptbremszylinder mitbringen (aufgeschnitten!)<br>→ YouTube-Video: "Vapor Lock - schwammiges Bremspedal"<br>→ DOT-Tabelle ausdrucken (jeder bekommt eine!)<br>→ Eselsbrücke: "X = eXtra sicher (diagonal!)"<br></div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie das Prinzip der hydraulischen Bremse. Welche Komponenten sind beteiligt?<br><br>Antwort:<br>PRINZIP:<br>Hydraulische Bremse nutzt Pascalsches Gesetz: Druck in Flüssigkeit breitet sich gleichmäßig in alle Richtungen aus!<br><br>ABLAUF:<br>1. Fahrer tritt auf Bremspedal<br>2. Bremskraftverstärker verstärkt (3-8x)<br>3. Hauptbremszylinder wandelt Kraft in Druck (bis 180 bar)<br>4. Druck breitet sich in Leitungen aus<br>5. Radbremszylinder wandeln Druck in Kraft<br>6. Beläge drücken auf Scheiben → Auto bremst!<br><br>KOMPONENTEN:<br>→ Bremspedal<br>→ Bremskraftverstärker (BKV)<br>→ Hauptbremszylinder (Tandem-HBZ, 2 Kreise!)<br>→ Ausgleichsbehälter<br>→ Bremsleitungen (starr + flexibel)<br>→ Radbremszylinder/Bremssättel<br><br><br>Frage 2: Erklären Sie die X-Aufteilung der Bremskreise. Warum ist sie vorteilhaft?<br><br>Antwort:<br>X-AUFTEILUNG (DIAGONAL):<br>→ Kreis 1: Vorne links + Hinten rechts<br>→ Kreis 2: Vorne rechts + Hinten links<br><br>EINSATZ:<br>→ Standard bei frontgetriebenen PKW (heute 99%)<br><br>VORTEIL BEI AUSFALL EINES KREISES:<br>→ Je 1 Vorderrad + 1 Hinterrad funktioniert noch<br>→ Fahrzeug bleibt geradeaus bremsbar!<br>→ Keine Gierbewegung (kein Ausbrechen)<br>→ Ca. 70% Restbremswirkung<br>→ Fahrzeug ist noch kontrollierbar!<br><br>VERGLEICH II-AUFTEILUNG:<br>→ Bei Ausfall Vorderachse: Nur 30% Bremskraft (schlecht!)<br>→ X-Aufteilung ist SICHERER!<br><br><br>Frage 3: Warum muss Bremsflüssigkeit alle 2 Jahre gewechselt werden? Was passiert sonst?<br><br>Antwort:<br>GRUND:<br>Bremsflüssigkeit (DOT 3/4/5.1) ist **hygroskopisch** = zieht Wasser aus der Luft an!<br><br>WASSERAUFNAHME:<br>→ Nach 2 Jahren: ca. 3-4% Wasser<br>→ Nach 3 Jahren: ca. 5-6% Wasser<br><br>FOLGEN VON WASSER:<br><br>1. **SIEDEPUNKT SINKT DRASTISCH:**<br>   → DOT 4 neu: 230°C Siedepunkt<br>   → DOT 4 mit 3,5% Wasser: nur 155°C! (-75°C!)<br><br>2. **VAPOR LOCK (Dampfblasenbildung):**<br>   → Bei starker Bremsung: Temperatur &gt; 155°C<br>   → Wasser kocht → Dampfblasen!<br>   → Pedal wird schwammig → BREMSE FÄLLT AUS!<br><br>3. **KORROSION:**<br>   → Wasser + Metall = Rost<br>   → Radbremszylinder, Leitungen rosten<br><br>WECHSELINTERVALL:<br>✅ Alle 2 Jahre wechseln! (Unabhängig von km!)<br>✅ Kosten: 50-100€ → Kleine Investition für große Sicherheit!</div>
                     </div>
 
                 </div>
