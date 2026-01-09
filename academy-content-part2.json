@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T19:17:52.961Z">
+    <meta name="last-updated" content="2026-01-09T19:23:46.327Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -3633,6 +3633,105 @@ MOTOR C:
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie die Begriffe OT und UT. Was ist der Kolbenhub?<br><br>Antwort:<br>OT (Oberer Totpunkt): Höchste Position des Kolbens im Zylinder. Kleinster Raum = Kompressionsraum.<br><br>UT (Unterer Totpunkt): Tiefste Position des Kolbens im Zylinder. Größter Raum.<br><br>KOLBENHUB (s): Der Weg, den der Kolben zwischen OT und UT zurücklegt. 1 Hub = 180° Kurbelwellendrehung.<br><br>Beispiel: Hub s = 86 mm bedeutet, der Kolben bewegt sich 86 mm zwischen OT und UT.<br><br><br>Frage 2: Berechnen Sie den Hubraum eines 4-Zylinder-Motors mit folgenden Daten: Bohrung 82 mm, Hub 90 mm.<br><br>Antwort:<br>GEGEBEN:<br>→ Bohrung d = 82 mm = 8,2 cm<br>→ Hub s = 90 mm = 9,0 cm<br>→ Zylinder z = 4<br><br>FORMEL:<br>VH = π × (d/2)² × s × z<br><br>RECHNUNG:<br>VH = 3,14159 × (8,2/2)² × 9,0 × 4<br>VH = 3,14159 × 4,1² × 9,0 × 4<br>VH = 3,14159 × 16,81 × 9,0 × 4<br>VH = 1.900 cm³<br>VH = 1,9 Liter<br><br>ANTWORT: Der Motor hat einen Hubraum von 1,9 Litern.<br><br><br>Frage 3: Was ist das Verdichtungsverhältnis? Nennen Sie typische Werte für Otto- und Dieselmotoren.<br><br>Antwort:<br>DEFINITION:<br>Das Verdichtungsverhältnis ε gibt an, wie stark das Gemisch verdichtet wird!<br><br>FORMEL:<br>ε = (Vc + VH) / Vc<br>(Vc = Kompressionsraum, VH = Hubraum)<br><br>TYPISCHE WERTE:<br>→ Ottomotor: ε = 10:1 bis 13:1<br>→ Dieselmotor: ε = 16:1 bis 24:1<br><br>WARUM UNTERSCHIED?<br>→ Dieselmotor braucht hohe Verdichtung für Selbstzündung (600-900°C!)<br>→ Ottomotor darf nicht zu hoch verdichten (sonst Klopfen = unkontrollierte Selbstzündung!)<br><br>BEISPIEL:<br>ε = 12:1 bedeutet: Gemisch wird auf 1/12 seines ursprünglichen Volumens verdichtet!<br><br><br>Frage 4: Erklären Sie den Unterschied zwischen Kurzhub-, Langhub- und Quadratmotor.<br><br>Antwort:<br>KURZHUBMOTOR:<br>→ Bohrung &gt; Hub (z.B. 90 mm Bohrung, 75 mm Hub)<br>→ Vorteil: Hohe Drehzahl möglich (Sportmotoren!)<br>→ Beispiel: Ferrari-Motoren<br><br>LANGHUBMOTOR:<br>→ Hub &gt; Bohrung (z.B. 75 mm Bohrung, 95 mm Hub)<br>→ Vorteil: Hohes Drehmoment, niedriger Verbrauch<br>→ Beispiel: Diesel-LKW, moderne PKW-Motoren<br><br>QUADRATMOTOR:<br>→ Bohrung = Hub (z.B. 82 mm Bohrung, 82 mm Hub)<br>→ Kompromiss zwischen Kurz- und Langhub<br>→ Ausgeglichene Eigenschaften<br><br>MERKSATZ: "Sport-Motor → Kurzhub (schnell drehen!), Diesel-LKW → Langhub (viel Kraft!)"</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767986522172" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Gemischbildung - Lambda-Wert, Fett vs. Mager, Stöchiometrie</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Den Lambda-Wert (λ) verstehen und berechnen können</div>
+                    <div class="lernziel">Stöchiometrisches Gemisch (λ = 1) erklären können</div>
+                    <div class="lernziel">Fettes Gemisch (λ &lt; 1) und seine Anwendung kennen</div>
+                    <div class="lernziel">Mageres Gemisch (λ &gt; 1) und seine Anwendung kennen</div>
+                    <div class="lernziel">Direkte vs. indirekte Einspritzung unterscheiden können</div>
+                    <div class="lernziel">Die Komponenten des Kraftstoffsystems benennen können</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WAS IST GEMISCHBILDUNG? 💧<br><br>DEFINITION:<br>Gemischbildung ist das MISCHEN von Luft und Kraftstoff im richtigen Verhältnis für eine optimale Verbrennung!<br><br>WARUM WICHTIG?<br>→ Zu viel Kraftstoff = Verschwendung, schlechte Abgaswerte<br>→ Zu wenig Kraftstoff = Motorschaden, Überhitzung<br>→ Perfektes Gemisch = Maximale Leistung bei minimalem Verbrauch!<br><br>WO FINDET GEMISCHBILDUNG STATT?<br><br>**ÄUSSERE GEMISCHBILDUNG** (Indirekte Einspritzung):<br>→ Kraftstoff wird VOR dem Einlassventil ins Saugrohr eingespritzt<br>→ Gemisch wird AUSSERHALB des Brennraums gebildet<br>→ Beispiel: Saugrohreinspritzung (alte Technik)<br><br>**INNERE GEMISCHBILDUNG** (Direkte Einspritzung):<br>→ Kraftstoff wird DIREKT in den Brennraum eingespritzt<br>→ Gemisch wird IM Brennraum gebildet<br>→ Beispiel: Benzindirekteinspritzung (FSI, TSI, moderne Motoren)<br><br><br>2. DAS STÖCHIOMETRISCHE GEMISCH (λ = 1) ⚖️<br><br>DEFINITION:<br>Ein stöchiometrisches Gemisch ist das IDEALE Verhältnis von Luft zu Kraftstoff für eine VOLLSTÄNDIGE Verbrennung!<br><br>DAS MAGISCHE VERHÄLTNIS:<br>**14,7 kg Luft : 1 kg Benzin = λ = 1,0**<br><br>WAS BEDEUTET DAS?<br>→ Für 1 kg Benzin braucht man GENAU 14,7 kg Luft<br>→ ALLE Kraftstoffmoleküle finden einen Sauerstoff-Partner<br>→ KEINE Kraftstoffreste, KEINE Sauerstoffreste<br>→ Perfekte Verbrennung!<br><br>WARUM 14,7:1?<br>→ Benzin (C₈H₁₈) braucht Sauerstoff (O₂) zur Verbrennung<br>→ Luft besteht zu 21% aus Sauerstoff, Rest ist Stickstoff<br>→ Chemische Rechnung ergibt: 14,7 kg Luft pro 1 kg Benzin<br><br>BEI DIESEL:<br>**14,5 kg Luft : 1 kg Diesel = λ = 1,0**<br>→ Diesel hat etwas andere chemische Zusammensetzung (C₁₂H₂₃)<br><br><br>WANN WIRD λ = 1 GEFAHREN?<br>→ Normaler Fahrbetrieb (konstante Geschwindigkeit)<br>→ Wenn Katalysator optimal arbeiten soll<br>→ Beste Abgaswerte!<br><br>VORTEILE VON λ = 1:<br>✅ Optimale Verbrennung<br>✅ Beste Katalysator-Effizienz<br>✅ Niedrigste Emissionen (HC, CO, NOₓ)<br>✅ Guter Kompromiss zwischen Leistung und Verbrauch<br><br><br>3. DER LAMBDA-WERT (λ) - DAS LUFTVERHÄLTNIS 📐<br><br>FORMEL:<br>λ = tatsächliche Luftmasse / theoretisch benötigte Luftmasse<br><br>BEISPIEL:<br>Motor bekommt 17,6 kg Luft pro 1 kg Benzin.<br>Theoretisch benötigt: 14,7 kg Luft<br><br>λ = 17,6 / 14,7 = 1,2<br>→ λ = 1,2 → MAGERES Gemisch!<br><br><br>DIE DREI BEREICHE:<br><br>**λ = 1,0** → STÖCHIOMETRISCH (ideal!)<br>→ Genau 14,7 kg Luft : 1 kg Benzin<br>→ Perfekte Verbrennung<br><br>**λ &lt; 1,0** → FETTES GEMISCH (zu viel Kraftstoff!)<br>→ Weniger als 14,7 kg Luft : 1 kg Benzin<br>→ Beispiel: λ = 0,85 → nur 12,5 kg Luft statt 14,7 kg<br>→ LUFTMANGEL!<br><br>**λ &gt; 1,0** → MAGERES GEMISCH (zu viel Luft!)<br>→ Mehr als 14,7 kg Luft : 1 kg Benzin<br>→ Beispiel: λ = 1,15 → 16,9 kg Luft statt 14,7 kg<br>→ LUFTÜBERSCHUSS!<br><br><br>WICHTIG:<br>Die Lambda-Sonde misst ständig das Gemisch und regelt nach!<br>→ ECU passt Einspritzmenge an<br>→ Ziel: λ = 1,0 halten (für Katalysator!)<br><br><br>4. FETTES GEMISCH (λ &lt; 1) - ZU VIEL KRAFTSTOFF! 🔥<br><br>DEFINITION:<br>Fettes Gemisch = ZU WENIG LUFT, ZU VIEL KRAFTSTOFF!<br><br>TYPISCHE WERTE:<br>→ λ = 0,85 - 0,95<br>→ Beispiel: 12,5 kg Luft : 1 kg Benzin (statt 14,7 kg)<br><br>WANN WIRD FETT GEFAHREN?<br><br>**1. KALTSTART:**<br>→ Motor ist kalt, Kraftstoff verdampft schlecht<br>→ Mehr Kraftstoff nötig, damit genug verbrennt<br>→ λ = 0,8 - 0,9<br><br>**2. VOLLLAST / BESCHLEUNIGUNG:**<br>→ Fahrer will MAXIMALE LEISTUNG<br>→ Mehr Kraftstoff = mehr Energie = mehr PS!<br>→ λ = 0,85 - 0,95<br><br>**3. KÜHLEFFEKT:**<br>→ Überschüssiger Kraftstoff verdampft und kühlt<br>→ Verhindert Überhitzung bei hoher Last<br><br>VORTEILE VON FETTEM GEMISCH:<br>✅ Mehr Leistung (mehr Kraftstoff = mehr Energie!)<br>✅ Bessere Kühlung (Kraftstoff verdampft und kühlt)<br>✅ Sicherer Motorlauf (keine Überhitzung)<br>✅ Weniger Klopfgefahr<br><br>NACHTEILE VON FETTEM GEMISCH:<br>❌ Höherer Verbrauch (Kraftstoff wird verschwendet!)<br>❌ Schlechte Abgaswerte (HC und CO steigen!)<br>❌ Rußbildung möglich (schwarzer Rauch!)<br>❌ Katalysator arbeitet nicht optimal<br><br>ABGASE BEI FETTEM GEMISCH:<br>→ Viel CO (Kohlenmonoxid) - giftig!<br>→ Viel HC (unverbrannte Kohlenwasserstoffe)<br>→ Wenig NOₓ (Stickoxide)<br><br>MERKSATZ:<br>"Fett = Fetter Verbrauch, Fette Leistung, Fiese Abgase!"<br><br><br>5. MAGERES GEMISCH (λ &gt; 1) - ZU VIEL LUFT! 💨<br><br>DEFINITION:<br>Mageres Gemisch = ZU VIEL LUFT, ZU WENIG KRAFTSTOFF!<br><br>TYPISCHE WERTE:<br>→ λ = 1,05 - 1,5<br>→ Beispiel: 22 kg Luft : 1 kg Benzin (statt 14,7 kg)<br><br>WANN WIRD MAGER GEFAHREN?<br><br>**1. TEILLAST:**<br>→ Fahrer fährt konstant, wenig Gas<br>→ Weniger Kraftstoff spart Sprit!<br>→ λ = 1,05 - 1,2<br><br>**2. SCHUBABSCHALTUNG:**<br>→ Fahrer nimmt Gas weg (z.B. vor roter Ampel)<br>→ Motor bekommt KEINEN Kraftstoff mehr!<br>→ λ = ∞ (unendlich, nur Luft!)<br><br>**3. VERBRAUCHSOPTIMIERUNG:**<br>→ Moderne Motoren (Direkteinspritzung) können sehr mager fahren<br>→ Schichtladung: Nur im Bereich der Zündkerze fettes Gemisch, rundherum mager<br>→ λ = 1,3 - 1,5<br><br>VORTEILE VON MAGEREM GEMISCH:<br>✅ Niedriger Verbrauch (weniger Kraftstoff!)<br>✅ Geringere CO₂-Emissionen<br>✅ Wirtschaftlicher Betrieb<br><br>NACHTEILE VON MAGEREM GEMISCH:<br>❌ Weniger Leistung (weniger Kraftstoff = weniger Energie!)<br>❌ Höhere NOₓ-Emissionen (Stickoxide!)<br>❌ Höhere Verbrennungstemperatur<br>❌ Schlechter Motorlauf bei zu mager (Motor "verhungert")<br><br>ABGASE BEI MAGEREM GEMISCH:<br>→ Wenig CO (Kohlenmonoxid)<br>→ Wenig HC (unverbrannte Kohlenwasserstoffe)<br>→ Viel NOₓ (Stickoxide) - wegen hoher Temperatur!<br><br>MERKSATZ:<br>"Mager = Magerer Verbrauch, Magere Leistung, Mehr NOₓ!"<br><br><br>6. VERGLEICH: FETT vs. STÖCHIOMETRISCH vs. MAGER 📊<br><br>| MERKMAL | FETT (λ &lt; 1) | STÖCHIOMETRISCH (λ = 1) | MAGER (λ &gt; 1) |<br>|---------|-------------|------------------------|---------------|<br>| **Luftverhältnis** | Zu wenig Luft | Ideal: 14,7:1 | Zu viel Luft |<br>| **Lambda-Wert** | λ = 0,85-0,95 | λ = 1,0 | λ = 1,05-1,5 |<br>| **Einsatz** | Kaltstart, Volllast | Normalbetrieb | Teillast, Schub |<br>| **Leistung** | HOCH | Mittel | NIEDRIG |<br>| **Verbrauch** | HOCH | Mittel | NIEDRIG |<br>| **CO-Emission** | HOCH | Niedrig | SEHR NIEDRIG |<br>| **HC-Emission** | HOCH | Niedrig | SEHR NIEDRIG |<br>| **NOₓ-Emission** | NIEDRIG | Mittel | HOCH |<br>| **Katalysator** | Schlecht | OPTIMAL | Schlecht |<br><br>WICHTIG:<br>Nur bei λ = 1,0 arbeitet der Drei-Wege-Katalysator optimal!<br>→ Kann dann CO, HC UND NOₓ gleichzeitig abbauen!<br><br><br>7. DIREKTE vs. INDIREKTE EINSPRITZUNG 🔧<br><br>**INDIREKTE EINSPRITZUNG** (Saugrohreinspritzung):<br><br>WO?<br>→ Kraftstoff wird VOR dem Einlassventil ins Saugrohr gespritzt<br><br>WIE?<br>→ Äußere Gemischbildung (außerhalb Brennraum)<br>→ Kraftstoff-Luft-Gemisch wird angesaugt<br><br>DRUCK:<br>→ Niedrig: 3-5 bar<br><br>VORTEILE:<br>✅ Einfacher Aufbau<br>✅ Günstiger<br>✅ Bewährte Technologie<br>✅ Gute Gemisch-Homogenisierung<br><br>NACHTEILE:<br>❌ Höherer Verbrauch<br>❌ Kraftstoffverluste beim Ladungswechsel<br>❌ Begrenzte Verdichtung<br>❌ Wandbenetzung im Saugrohr<br><br>BEISPIELE:<br>→ Ältere Benziner (bis ca. 2005)<br>→ Viele Motorräder<br><br><br>**DIREKTE EINSPRITZUNG** (Benzindirekteinspritzung):<br><br>WO?<br>→ Kraftstoff wird DIREKT in den Brennraum gespritzt<br><br>WIE?<br>→ Innere Gemischbildung (im Brennraum)<br>→ Nur Luft wird angesaugt, Kraftstoff kommt später<br><br>DRUCK:<br>→ HOCH: 50-200 bar (!)<br><br>VORTEILE:<br>✅ Kraftstoffersparnis (bis 15%!)<br>✅ Präzise Dosierung<br>✅ Höhere Verdichtung möglich (Kühleffekt!)<br>✅ Bessere Leistung<br>✅ Schichtladung möglich (mager fahren!)<br>✅ Geringere CO₂-Emissionen<br><br>NACHTEILE:<br>❌ Höhere Kosten<br>❌ Komplexere Technik<br>❌ Höhere NOₓ-Emissionen<br>❌ Partikelbildung möglich<br>❌ Hochdruck-Kraftstoffpumpe nötig<br><br>BEISPIELE:<br>→ FSI (VW/Audi)<br>→ TSI (VW/Audi mit Turbo)<br>→ GDI (Mazda, Mitsubishi)<br>→ D4 (Toyota)<br><br>WARUM WENIGER VERBRAUCH?<br><br>1. **Präzise Dosierung:** Kraftstoff genau zum richtigen Zeitpunkt!<br>2. **Kühleffekt:** Verdampfender Kraftstoff kühlt → höhere Verdichtung ohne Klopfen!<br>3. **Schichtbetrieb:** Nur im Bereich der Zündkerze fettes Gemisch, Rest mager (λ &gt; 1)!<br>4. **Keine Wandbenetzung:** Kein Kraftstoff geht im Saugrohr verloren!<br>5. **Höhere Verdichtung:** Bis zu 12:1 statt 10:1!<br><br><br>8. KOMPONENTEN DES KRAFTSTOFFSYSTEMS ⚙️<br><br>**1. KRAFTSTOFFPUMPE:**<br>→ Aufgabe: Fördert Kraftstoff vom Tank zum Einspritzsystem<br>→ Indirekte Einspritzung: Elektrische Pumpe im Tank (3-5 bar)<br>→ Direkte Einspritzung: Hochdruckpumpe (50-200 bar!)<br><br>**2. KRAFTSTOFFFILTER:**<br>→ Aufgabe: Reinigt Kraftstoff von Schmutz und Wasser<br>→ Wichtig: Schützt Einspritzventile!<br>→ Wartung: Wechsel alle 60.000 km<br><br>**3. EINSPRITZVENTILE (Injektoren):**<br>→ Aufgabe: Zerstäuben und Einspritzen des Kraftstoffs<br>→ Elektromagnetisch gesteuert (ms-Bereich!)<br>→ Präzise Dosierung, feine Zerstäubung<br><br>**4. KRAFTSTOFFDRUCKREGLER:**<br>→ Aufgabe: Hält Kraftstoffdruck konstant<br>→ Überschuss fließt zurück zum Tank<br>→ Sichert gleichbleibende Einspritzmengen<br><br>**5. KRAFTSTOFFRAIL (bei Direkteinspritzung):**<br>→ Hochdruck-Speicher für Kraftstoff<br>→ Verteilt Kraftstoff an alle Injektoren<br>→ Hält konstanten Hochdruck (50-200 bar)<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>LAMBDA-WERT:<br>→ λ = tatsächliche Luft / theoretisch benötigte Luft<br>→ λ = 1,0 → IDEAL (14,7 kg Luft : 1 kg Benzin)<br>→ λ &lt; 1,0 → FETT (zu viel Kraftstoff)<br>→ λ &gt; 1,0 → MAGER (zu viel Luft)<br><br>FETTES GEMISCH:<br>→ Einsatz: Kaltstart, Volllast, Beschleunigung<br>→ Vorteile: Mehr Leistung, bessere Kühlung<br>→ Nachteile: Höherer Verbrauch, schlechte Abgaswerte (HC, CO)<br><br>MAGERES GEMISCH:<br>→ Einsatz: Teillast, Schubabschaltung<br>→ Vorteile: Niedriger Verbrauch<br>→ Nachteile: Weniger Leistung, höhere NOₓ-Emissionen<br><br>EINSPRITZUNG:<br>→ Indirekt (Saugrohr): Einfach, günstig, höherer Verbrauch (3-5 bar)<br>→ Direkt (Brennraum): Komplex, teuer, 15% weniger Verbrauch (50-200 bar!)<br><br>NUR BEI λ = 1,0 ARBEITET KATALYSATOR OPTIMAL!</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: LAMBDA-WERT BERECHNEN
+
+AUFGABE:
+Ein Motor bekommt 22 kg Luft pro 1 kg Benzin.
+Berechne den Lambda-Wert! Ist das Gemisch fett oder mager?
+
+LÖSUNG:
+λ = tatsächliche Luft / theoretisch benötigte Luft
+λ = 22 kg / 14,7 kg
+λ = 1,50
+
+ANTWORT:
+→ λ = 1,50 &gt; 1,0 → MAGERES Gemisch!
+→ 50% mehr Luft als nötig!
+→ Typisch für Teillast / Verbrauchsoptimierung</div>
+                        <div class="beispiel">BEISPIEL 2: KALTSTART
+
+SITUATION:
+Motor wird morgens bei 5°C gestartet.
+Warum läuft er unrund?
+
+URSACHE:
+→ Kalter Motor → Kraftstoff verdampft schlecht
+→ ECU spritzt MEHR Kraftstoff ein (fettes Gemisch!)
+→ λ = 0,8 - 0,9
+
+WAS PASSIERT?
+→ Nicht aller Kraftstoff verbrennt
+→ Schwarzer Rauch aus Auspuff
+→ Motor läuft nach 1-2 Minuten besser (wärmer!)
+→ ECU geht dann auf λ = 1,0
+
+LERNEFFEKT:
+Fettes Gemisch beim Kaltstart ist NORMAL und NOTWENDIG!</div>
+                        <div class="beispiel">BEISPIEL 3: SCHUBABSCHALTUNG
+
+SITUATION:
+Fahrer fährt 100 km/h im 5. Gang.
+Er nimmt Gas weg (z.B. vor Ortsschild).
+
+WAS MACHT DIE ECU?
+→ Motor dreht über 1.500 U/min → KEINE Kraftstoffeinspritzung!
+→ λ = ∞ (unendlich, nur Luft!)
+→ Motor wird von Rädern angetrieben (Motorbremse!)
+
+VORTEIL:
+→ 0 Liter Verbrauch während Schub!
+→ Moderne Autos zeigen "0,0 L/100km" im Bordcomputer
+
+LERNEFFEKT:
+Bei Schubabschaltung wird KEIN Kraftstoff verbraucht!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Experiment<br>→ Ablauf: Dozent zeigt Kerze. Fragt: "Was braucht Feuer?" Antwärter: "Sauerstoff!" Dozent: "RICHTIG! Motor auch! Aber wie viel?" Überleitung: "Heute: Wie viel Luft braucht 1 kg Benzin? 14,7 kg!"<br>→ Ziel: Verständnis wecken, dass Verbrennung Sauerstoff braucht<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: LAMBDA-WERT &amp; STÖCHIOMETRIE (20 Min)<br>→ Formel: λ = tatsächliche Luft / theoretisch benötigte Luft<br>→ 14,7:1 erklären (warum genau 14,7?)<br>→ Rechenbeispiele an Tafel (3-4 Beispiele!)<br>→ Anwärter rechnen selbst (Partnerarbeit)<br><br>PHASE 2: FETT vs. MAGER (20 Min)<br>→ Tabelle an Tafel: Fett vs. Stöchiometrisch vs. Mager<br>→ Wann wird was gefahren? (Kaltstart, Volllast, Teillast)<br>→ Vor- und Nachteile diskutieren<br>→ Video zeigen: "Fettes Gemisch = schwarzer Rauch" (YouTube)<br><br>PHASE 3: DIREKT vs. INDIREKT (15 Min)<br>→ Zeichnung: Saugrohr vs. Brennraum<br>→ Unterschiede erklären (3-5 bar vs. 50-200 bar!)<br>→ Warum spart Direkteinspritzung Sprit? (6 Gründe!)<br><br>PHASE 4: KRAFTSTOFFSYSTEM (10 Min)<br>→ Komponenten zeigen (wenn vorhanden: echter Injektor!)<br>→ Kraftstoffpumpe, Filter, Injektor, Druckregler<br>→ Wartung: Kraftstofffilter alle 60.000 km!<br><br>PHASE 5: PRAXISFALL (5 Min)<br>→ "Motor qualmt schwarz beim Kaltstart - warum?"<br>→ Antwort: Fettes Gemisch! (λ = 0,8)<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Was ist λ = 1?" → 14,7 kg Luft : 1 kg Benzin!<br>→ "Fett oder mager bei Volllast?" → FETT!<br>→ Ausblick: "Nächste Stunde: AGR (Abgasrückführung)!"<br>→ Hausaufgabe: Finde heraus ob dein Auto Direkt- oder Saugrohreinspritzung hat!</div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ Lambda-Wert ist abstrakt - viele Rechenbeispiele!<br>→ 14,7:1 ist KERNWISSEN - immer wieder betonen!<br>→ Fett/Mager-Unterschied mit Tabelle visualisieren!<br>→ Direkteinspritzung wird oft unterschätzt - Vorteile klar machen!<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Verwechseln fett und mager<br>→ Denken λ &lt; 1 ist zu viel Luft (FALSCH - zu wenig!)<br>→ Vergessen dass Katalysator nur bei λ = 1 optimal arbeitet<br>→ Unterschätzen Hochdruck bei Direkteinspritzung (200 bar!)<br><br>TIPPS &amp; TRICKS:<br>→ Eselsbrücke: "Fett = Fetter Sprit-Verbrauch!"<br>→ Eselsbrücke: "Mager = Magerer Sprit-Verbrauch!"<br>→ YouTube-Video zeigen: "Direkteinspritzung vs. Saugrohreinspritzung"<br>→ Lambda-Tabelle ausdrucken (jeder Anwärter bekommt eine!)<br>→ Echten Injektor zeigen (wenn vorhanden!)<br></div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie den Lambda-Wert. Was bedeutet λ = 1,0?<br><br>Antwort:<br>DEFINITION:<br>λ = tatsächliche Luftmasse / theoretisch benötigte Luftmasse<br><br>λ = 1,0 bedeutet STÖCHIOMETRISCHES GEMISCH:<br>→ Ideales Verhältnis: 14,7 kg Luft : 1 kg Benzin<br>→ Vollständige Verbrennung<br>→ Katalysator arbeitet optimal<br>→ Beste Abgaswerte<br><br>Formel: λ = tatsächliche Luft / 14,7<br><br><br>Frage 2: Wann wird ein fettes Gemisch gefahren? Nennen Sie Vor- und Nachteile.<br><br>Antwort:<br>FETTES GEMISCH (λ &lt; 1):<br>→ Zu wenig Luft, zu viel Kraftstoff<br>→ Beispiel: λ = 0,85<br><br>EINSATZBEREICHE:<br>1. Kaltstart (Motor kalt, Kraftstoff verdampft schlecht)<br>2. Volllast / Beschleunigung (mehr Leistung!)<br>3. Kühleffekt (verhindert Überhitzung)<br><br>VORTEILE:<br>✅ Mehr Leistung<br>✅ Bessere Kühlung<br>✅ Weniger Klopfgefahr<br><br>NACHTEILE:<br>❌ Höherer Verbrauch<br>❌ Schlechte Abgaswerte (viel HC, CO)<br>❌ Rußbildung<br>❌ Katalysator arbeitet nicht optimal<br><br><br>Frage 3: Erklären Sie den Unterschied zwischen direkter und indirekter Einspritzung.<br><br>Antwort:<br>INDIREKTE EINSPRITZUNG (Saugrohreinspritzung):<br>→ Kraftstoff wird VOR dem Einlassventil ins Saugrohr gespritzt<br>→ Äußere Gemischbildung (außerhalb Brennraum)<br>→ Niederdruck: 3-5 bar<br>→ Vorteile: Einfach, günstig<br>→ Nachteile: Höherer Verbrauch, Kraftstoffverluste<br><br>DIREKTE EINSPRITZUNG (Benzindirekteinspritzung):<br>→ Kraftstoff wird DIREKT in den Brennraum gespritzt<br>→ Innere Gemischbildung (im Brennraum)<br>→ Hochdruck: 50-200 bar<br>→ Vorteile: 15% weniger Verbrauch, höhere Verdichtung möglich, Schichtladung<br>→ Nachteile: Teuer, komplex, höhere NOₓ-Emissionen<br><br>WICHTIG: Direkteinspritzung spart durch präzise Dosierung, Kühleffekt und höhere Verdichtung!</div>
                     </div>
 
                 </div>
