@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T19:23:46.327Z">
+    <meta name="last-updated" content="2026-01-09T21:11:24.668Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -3732,6 +3732,128 @@ Bei Schubabschaltung wird KEIN Kraftstoff verbraucht!</div>
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie den Lambda-Wert. Was bedeutet λ = 1,0?<br><br>Antwort:<br>DEFINITION:<br>λ = tatsächliche Luftmasse / theoretisch benötigte Luftmasse<br><br>λ = 1,0 bedeutet STÖCHIOMETRISCHES GEMISCH:<br>→ Ideales Verhältnis: 14,7 kg Luft : 1 kg Benzin<br>→ Vollständige Verbrennung<br>→ Katalysator arbeitet optimal<br>→ Beste Abgaswerte<br><br>Formel: λ = tatsächliche Luft / 14,7<br><br><br>Frage 2: Wann wird ein fettes Gemisch gefahren? Nennen Sie Vor- und Nachteile.<br><br>Antwort:<br>FETTES GEMISCH (λ &lt; 1):<br>→ Zu wenig Luft, zu viel Kraftstoff<br>→ Beispiel: λ = 0,85<br><br>EINSATZBEREICHE:<br>1. Kaltstart (Motor kalt, Kraftstoff verdampft schlecht)<br>2. Volllast / Beschleunigung (mehr Leistung!)<br>3. Kühleffekt (verhindert Überhitzung)<br><br>VORTEILE:<br>✅ Mehr Leistung<br>✅ Bessere Kühlung<br>✅ Weniger Klopfgefahr<br><br>NACHTEILE:<br>❌ Höherer Verbrauch<br>❌ Schlechte Abgaswerte (viel HC, CO)<br>❌ Rußbildung<br>❌ Katalysator arbeitet nicht optimal<br><br><br>Frage 3: Erklären Sie den Unterschied zwischen direkter und indirekter Einspritzung.<br><br>Antwort:<br>INDIREKTE EINSPRITZUNG (Saugrohreinspritzung):<br>→ Kraftstoff wird VOR dem Einlassventil ins Saugrohr gespritzt<br>→ Äußere Gemischbildung (außerhalb Brennraum)<br>→ Niederdruck: 3-5 bar<br>→ Vorteile: Einfach, günstig<br>→ Nachteile: Höherer Verbrauch, Kraftstoffverluste<br><br>DIREKTE EINSPRITZUNG (Benzindirekteinspritzung):<br>→ Kraftstoff wird DIREKT in den Brennraum gespritzt<br>→ Innere Gemischbildung (im Brennraum)<br>→ Hochdruck: 50-200 bar<br>→ Vorteile: 15% weniger Verbrauch, höhere Verdichtung möglich, Schichtladung<br>→ Nachteile: Teuer, komplex, höhere NOₓ-Emissionen<br><br>WICHTIG: Direkteinspritzung spart durch präzise Dosierung, Kühleffekt und höhere Verdichtung!</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767993006932" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Abgasrückführung (AGR/EGR) - Funktion, Zweck, Aufbau</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Die Funktion der Abgasrückführung (AGR) verstehen</div>
+                    <div class="lernziel">Den Zweck der AGR erklären können (NOₓ-Reduktion!)</div>
+                    <div class="lernziel">Die Komponenten des AGR-Systems benennen können</div>
+                    <div class="lernziel">Den Unterschied zwischen Otto- und Diesel-AGR kennen</div>
+                    <div class="lernziel">Vor- und Nachteile der AGR nennen können</div>
+                    <div class="lernziel">Typische Probleme und Wartung der AGR verstehen</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WAS IST ABGASRÜCKFÜHRUNG (AGR)? 🔄<br><br>DEFINITION:<br>Bei der Abgasrückführung (AGR) wird ein Teil der Abgase zurück in den Ansaugtrakt geleitet und NOCHMAL verbrannt!<br><br>ENGLISCH:<br>AGR = Abgasrückführung<br>EGR = Exhaust Gas Recirculation<br><br>DAS PRINZIP:<br>1. Motor verbrennt Kraftstoff → Abgase entstehen<br>2. Ein Teil der Abgase wird NICHT rausgeblasen<br>3. Sondern: Zurück in den Ansaugtrakt geleitet!<br>4. Mit Frischluft vermischt<br>5. Nochmal verbrannt!<br><br>WARUM?<br>→ Um NOₓ (Stickoxide) zu REDUZIEREN!<br>→ NOₓ ist GIFTIG und schädlich für Umwelt!<br>→ NOₓ entsteht bei hohen Temperaturen (&gt; 1.500°C)<br>→ AGR senkt Verbrennungstemperatur → weniger NOₓ!<br><br><br>2. WARUM BRAUCHEN WIR AGR? - DAS NOₓ-PROBLEM! ⚠️<br><br>WAS SIND STICKOXIDE (NOₓ)?<br>→ Giftige Abgase aus Stickstoff (N₂) und Sauerstoff (O₂)<br>→ Entstehen bei Verbrennung<br>→ Besonders viel bei HOHEN Temperaturen!<br><br>BEI WELCHER TEMPERATUR ENTSTEHT NOₓ?<br>→ Ab ca. 1.500°C steigt NOₓ stark an!<br>→ Bei 2.500°C entsteht SEHR VIEL NOₓ!<br><br>WARUM IST NOₓ SCHÄDLICH?<br>❌ Giftig für Mensch (Atemwege!)<br>❌ Bildet sauren Regen<br>❌ Verursacht Smog<br>❌ Schädigt Pflanzen und Tiere<br><br>GESETZLICHE GRENZWERTE:<br>→ Euro 6d: max. 80 mg/km NOₓ (Diesel!)<br>→ Euro 6d: max. 60 mg/km NOₓ (Benzin!)<br>→ Ohne AGR: UNMÖGLICH zu erreichen!<br><br>MERKSATZ:<br>"Hohe Temperatur → viel NOₓ → AGR senkt Temperatur → weniger NOₓ!"<br><br><br>3. WIE FUNKTIONIERT AGR? - DER ABLAUF! 🔧<br><br>KOMPONENTEN DES AGR-SYSTEMS:<br><br>**1. AGR-VENTIL:**<br>→ Regelt, WIE VIEL Abgas zurückgeführt wird<br>→ Elektronisch gesteuert (vom Motorsteuergerät)<br>→ Kann stufenlos öffnen/schließen (0-100%)<br><br>**2. AGR-KÜHLER:**<br>→ Kühlt die heißen Abgase ab!<br>→ Von 600-700°C auf 100-200°C<br>→ WICHTIG: Kühlung senkt Temperatur im Brennraum!<br><br>**3. AGR-LEITUNG:**<br>→ Verbindet Abgasseite mit Ansaugseite<br>→ Transportiert Abgase<br><br>**4. MOTORSTEUERGERÄT (ECU):**<br>→ Steuert AGR-Ventil<br>→ Entscheidet: Wie viel AGR? (0-50%)<br>→ Abhängig von: Drehzahl, Last, Temperatur<br><br><br>DER ABLAUF - SCHRITT FÜR SCHRITT:<br><br>SCHRITT 1: ABGASENTNAHME<br>→ Nach dem Auslassventil wird ein Teil der Abgase entnommen<br>→ Restliche Abgase gehen normal zum Katalysator/Auspuff<br><br>SCHRITT 2: KÜHLUNG<br>→ Abgase sind heiß (600-700°C)!<br>→ AGR-Kühler kühlt sie auf 100-200°C ab<br>→ Kühlmittel (Motorkühlwasser) wird verwendet<br><br>SCHRITT 3: RÜCKFÜHRUNG<br>→ AGR-Ventil öffnet (gesteuert von ECU)<br>→ Gekühlte Abgase werden in Ansaugtrakt geleitet<br>→ Mischen sich mit Frischluft<br><br>SCHRITT 4: ERNEUTE VERBRENNUNG<br>→ Gemisch (Frischluft + Abgas) wird angesaugt<br>→ Im Zylinder verdichtet und verbrannt<br>→ Abgase verdünnen das Gemisch → niedrigere Temperatur!<br><br><br>4. WIE VIEL ABGAS WIRD ZURÜCKGEFÜHRT? - DIE AGR-RATE! 📊<br><br>AGR-RATE = Anteil der Abgase am Gesamtgemisch<br><br>FORMEL:<br>AGR-Rate = (Abgasmenge / Gesamtmenge) × 100%<br><br>TYPISCHE WERTE:<br><br>**LEERLAUF / TEILLAST:**<br>→ 10-30% AGR-Rate<br>→ Beispiel: 20% = 1/5 des Gemischs sind Abgase!<br><br>**VOLLLAST / BESCHLEUNIGUNG:**<br>→ 0% AGR-Rate<br>→ AGR-Ventil ist GESCHLOSSEN!<br>→ Warum? Motor braucht maximale Leistung!<br><br>**KALTSTART:**<br>→ 0% AGR-Rate<br>→ Motor ist kalt, braucht optimales Gemisch<br>→ AGR würde Startvorgang verschlechtern<br><br>**OTTOMOTOR:**<br>→ 10-25% AGR-Rate (Teillast)<br><br>**DIESELMOTOR:**<br>→ Bis 50% AGR-Rate! (deutlich mehr als Otto!)<br>→ Warum? Diesel hat Luftüberschuss, verträgt mehr AGR!<br><br><br>5. WARUM SENKT AGR DIE TEMPERATUR? - DAS GEHEIMNIS! 🔥<br><br>ABGASE SIND "INERTE GASE":<br>→ Inert = träge, reaktionsunfähig<br>→ Abgase enthalten kaum noch Sauerstoff (schon verbrannt!)<br>→ CO₂ und H₂O (Wasser) sind NICHT brennbar!<br><br>WAS PASSIERT IM BRENNRAUM?<br><br>**OHNE AGR:**<br>→ 100% Frischluft (21% Sauerstoff!)<br>→ Viel Sauerstoff → heftige Verbrennung<br>→ Hohe Temperatur (bis 2.600°C!)<br>→ VIEL NOₓ entsteht!<br><br>**MIT AGR (20%):**<br>→ 80% Frischluft + 20% Abgas<br>→ Weniger Sauerstoff → mildere Verbrennung<br>→ Niedrigere Temperatur (bis 2.400°C)<br>→ WENIGER NOₓ entsteht!<br><br>TEMPERATUR-SENKUNG:<br>→ AGR senkt Verbrennungstemperatur um ca. 100-200°C!<br>→ Das REICHT, um NOₓ um 50% zu reduzieren!<br><br>WARUM?<br>→ NOₓ steigt exponentiell mit Temperatur!<br>→ Bei 2.600°C: SEHR VIEL NOₓ<br>→ Bei 2.400°C: 50% WENIGER NOₓ<br><br>ZUSÄTZLICHER KÜHLEFFEKT:<br>→ AGR-Kühler kühlt Abgase auf 100-200°C<br>→ Kalte Abgase senken Ansaugtemperatur<br>→ Niedrigere Ansaugtemperatur → niedrigere Verbrennungstemperatur!<br><br><br>6. VORTEILE DER ABGASRÜCKFÜHRUNG ✅<br><br>**1. NOₓ-REDUKTION (HAUPTZWECK!):**<br>✅ Bis zu 50% weniger Stickoxide!<br>✅ Grenzwerte einhalten (Euro 6d!)<br>✅ Bessere Luftqualität<br><br>**2. VERBRAUCHSREDUZIERUNG (NUR OTTO!):**<br>✅ Bis zu 5% weniger Verbrauch!<br>✅ Wie? Drosselklappe kann weiter offen bleiben<br>✅ Geringere Drosselverluste im Teillastbereich<br><br>**3. WENIGER KLOPFNEIGUNG (OTTO!):**<br>✅ Niedrigere Temperaturen<br>✅ Klopfgefahr sinkt<br>✅ Höhere Verdichtung möglich<br><br>**4. GERINGERE CO₂-EMISSIONEN:**<br>✅ Durch Verbrauchssenkung (Otto)<br>✅ Durch effizientere Verbrennung<br><br><br>7. NACHTEILE UND PROBLEME DER AGR ❌<br><br>**1. VERSCHMUTZUNG (GRÖßTES PROBLEM!):**<br>❌ AGR-Ventil und AGR-Kühler verrußen!<br>❌ Besonders bei Diesel (Ruß!)<br>❌ Ventil klemmt → AGR funktioniert nicht mehr<br>❌ Symptome: Leistungsverlust, erhöhter Verbrauch, Motorkontrollleuchte<br><br>**2. LEISTUNGSVERLUST:**<br>❌ Abgase verdrängen Frischluft<br>❌ Weniger Sauerstoff → weniger Leistung<br>❌ Besonders bei Volllast spürbar<br>❌ Deshalb: AGR bei Volllast AUS!<br><br>**3. WARTUNG NÖTIG:**<br>❌ AGR-System muss regelmäßig gereinigt werden<br>❌ Alle 100.000-150.000 km Reinigung empfohlen<br>❌ Kosten: 200-500€<br><br>**4. ERHÖHTE PARTIKELEMISSIONEN (DIESEL!):**<br>❌ Mehr Ruß im Abgas<br>❌ DPF (Dieselpartikelfilter) muss öfter regenerieren<br>❌ Kann DPF verstopfen<br><br>**5. KALTSTART-PROBLEMATIK:**<br>❌ AGR muss bei Kaltstart deaktiviert werden<br>❌ Sonst schlechter Motorlauf<br><br><br>8. UNTERSCHIED OTTO vs. DIESEL - AGR! ⚖️<br><br>| MERKMAL | OTTOMOTOR | DIESELMOTOR |<br>|---------|-----------|-------------|<br>| **AGR-Rate** | 10-25% | Bis 50% |<br>| **Hauptziel** | NOₓ + Verbrauch | Nur NOₓ |<br>| **Verschmutzung** | Gering | Hoch (Ruß!) |<br>| **Kühlung** | Wichtig | Sehr wichtig |<br>| **Verbrauchsvorteil** | JA (bis 5%) | NEIN |<br>| **Wartungsintervall** | Selten | Oft (50.000-100.000 km) |<br><br>WARUM KANN DIESEL MEHR AGR?<br><br>**DIESELMOTOR:**<br>→ Arbeitet mit LUFTÜBERSCHUSS (λ = 1,3 - 1,5)<br>→ Viel Sauerstoff vorhanden!<br>→ Kann bis zu 50% Abgas vertragen<br>→ Genug Sauerstoff bleibt für Verbrennung<br><br>**OTTOMOTOR:**<br>→ Arbeitet bei λ = 1,0 (stöchiometrisch)<br>→ Wenig Sauerstoff-Reserve!<br>→ Nur 10-25% AGR möglich<br>→ Sonst zu wenig Sauerstoff → Leistungsverlust!<br><br><br>9. TYPISCHE PROBLEME UND FEHLER 🔧<br><br>**PROBLEM 1: AGR-VENTIL KLEMMT (VERRUSZUNG!)**<br><br>SYMPTOME:<br>→ Motorkontrollleuchte (MIL) leuchtet<br>→ Leistungsverlust<br>→ Erhöhter Verbrauch<br>→ Motor läuft unrund (Leerlauf)<br>→ Schwarzer Rauch (Diesel)<br><br>URSACHE:<br>→ Ruß und Ablagerungen im Ventil<br>→ Ventil kann nicht mehr richtig schließen/öffnen<br>→ Besonders bei Kurzstrecken (Motor wird nicht warm!)<br><br>DIAGNOSE:<br>→ OBD-Fehlercode: P0401 "AGR-System - zu geringe Durchflussrate"<br>→ OBD-Fehlercode: P0403 "AGR-Ventil - Fehlfunktion"<br><br>LÖSUNG:<br>→ AGR-Ventil ausbauen und reinigen (Spezialreiniger)<br>→ Oder: AGR-Ventil tauschen (150-400€)<br><br><br>**PROBLEM 2: AGR-KÜHLER VERSTOPFT**<br><br>SYMPTOME:<br>→ Überhitzung des Motors<br>→ Kühlmittel-Temperatur steigt<br>→ AGR funktioniert nicht richtig<br>→ Leistungsverlust<br><br>URSACHE:<br>→ Ablagerungen im Kühler<br>→ Kühlmittel-Kreislauf blockiert<br><br>LÖSUNG:<br>→ AGR-Kühler reinigen oder tauschen (300-800€)<br><br><br>**PROBLEM 3: AGR-LEITUNG UNDICHT**<br><br>SYMPTOME:<br>→ Pfeifendes Geräusch<br>→ Leistungsverlust<br>→ MIL leuchtet<br>→ "Falschluft" im Ansaugtrakt<br><br>URSACHE:<br>→ Risse in AGR-Leitung<br>→ Defekte Dichtungen<br><br>LÖSUNG:<br>→ Leitung/Dichtungen tauschen (100-300€)<br><br><br>10. WARTUNG UND PFLEGE DER AGR 🛠️<br><br>WIE OFT REINIGEN?<br><br>**DIESELMOTOR:**<br>→ Alle 50.000-100.000 km<br>→ Bei Kurzstreckenfahrern: öfter! (alle 30.000 km)<br><br>**OTTOMOTOR:**<br>→ Alle 100.000-150.000 km<br>→ Seltener als Diesel (weniger Ruß)<br><br>WIE REINIGEN?<br><br>**METHODE 1: CHEMISCHE REINIGUNG**<br>→ Spezialreiniger ins Kraftstoffsystem<br>→ Löst Ablagerungen beim Fahren<br>→ Kosten: 20-50€ (Additiv)<br><br>**METHODE 2: MECHANISCHE REINIGUNG**<br>→ AGR-Ventil ausbauen<br>→ Mit Bremsenreiniger/Spezialreiniger säubern<br>→ Kosten: 100-200€ (Werkstatt)<br><br>**METHODE 3: AUSTAUSCH**<br>→ AGR-Ventil komplett neu<br>→ Kosten: 150-400€ (Teil + Einbau)<br><br>VORBEUGUNG:<br><br>✅ Regelmäßige Autobahnfahrten (Motor wird heiß → Ablagerungen verbrennen!)<br>✅ Keine Kurzstrecken (Motor wird nie warm → AGR verrußt!)<br>✅ Gutes Motoröl verwenden (weniger Ruß!)<br>✅ Kraftstoffadditiv alle 10.000 km (Reinigung!)<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>DEFINITION:<br>→ AGR = Abgasrückführung<br>→ Teil der Abgase wird zurück in Ansaugtrakt geleitet<br>→ Nochmal verbrannt!<br><br>ZWECK:<br>→ NOₓ-Reduktion (bis 50%!)<br>→ Senkt Verbrennungstemperatur um 100-200°C<br>→ NOₓ entsteht bei &gt; 1.500°C → AGR verhindert das!<br><br>KOMPONENTEN:<br>→ AGR-Ventil (regelt Menge)<br>→ AGR-Kühler (kühlt 600°C → 100°C)<br>→ AGR-Leitung (transportiert)<br>→ ECU (steuert)<br><br>AGR-RATE:<br>→ Otto: 10-25%<br>→ Diesel: bis 50%<br>→ Volllast: 0% (AGR aus!)<br>→ Kaltstart: 0% (AGR aus!)<br><br>VORTEILE:<br>✅ 50% weniger NOₓ<br>✅ 5% weniger Verbrauch (nur Otto!)<br>✅ Weniger Klopfen (Otto)<br><br>NACHTEILE:<br>❌ Verschmutzung (Ruß!)<br>❌ Leistungsverlust<br>❌ Wartung nötig (alle 50.000-100.000 km)<br><br>OTTO vs. DIESEL:<br>→ Diesel: Mehr AGR möglich (Luftüberschuss!)<br>→ Otto: Weniger AGR (λ = 1,0)</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: AGR-VENTIL KLEMMT
+
+SITUATION:
+Ein Diesel-PKW (150.000 km Laufleistung) hat folgende Symptome:
+→ Motorkontrollleuchte leuchtet
+→ Deutlicher Leistungsverlust
+→ Motor läuft unrund im Leerlauf
+→ Schwarzer Rauch beim Beschleunigen
+
+DIAGNOSE:
+→ OBD-Fehlercode auslesen: P0401 "AGR-System - zu geringe Durchflussrate"
+→ Verdacht: AGR-Ventil verrußt und klemmt
+
+URSACHE:
+→ AGR-Ventil ist durch Ruß und Ablagerungen verklebt
+→ Ventil kann nicht mehr richtig öffnen
+→ AGR funktioniert nicht → höhere Temperatur → mehr NOₓ
+→ ECU geht in Notlauf → Leistung reduziert
+
+LÖSUNG:
+1. AGR-Ventil ausbauen
+2. Mit Bremsenreiniger gründlich reinigen
+3. Prüfen ob Ventil leichtgängig ist
+4. Wenn nicht: AGR-Ventil tauschen (300€)
+5. Fehlercode löschen, Probefahrt
+
+VORBEUGUNG:
+→ Regelmäßige Autobahnfahrten (Motor heiß fahren!)
+→ Keine reinen Kurzstrecken
+→ Kraftstoffadditiv verwenden</div>
+                        <div class="beispiel">BEISPIEL 2: WARUM IST AGR BEI VOLLLAST AUS?
+
+FRAGE:
+Warum wird die AGR bei Volllast (z.B. Überholvorgang Autobahn) deaktiviert?
+
+ANTWORT:
+Bei Volllast braucht der Motor MAXIMALE LEISTUNG!
+
+AGR würde:
+→ Frischluft verdrängen (20-30% Abgas statt Frischluft!)
+→ Weniger Sauerstoff → weniger Verbrennung
+→ Weniger Leistung (bis zu 15% weniger PS!)
+
+DESHALB:
+→ ECU schließt AGR-Ventil bei Volllast
+→ 100% Frischluft → maximale Leistung!
+→ NOₓ steigt zwar, aber nur kurzzeitig
+
+MERKSATZ:
+"Volllast = volle Leistung → AGR aus!"
+
+
+BEISPIEL 3: OTTO vs. DIESEL - WARUM MEHR AGR BEI DIESEL?
+
+FRAGE:
+Warum kann ein Dieselmotor bis zu 50% AGR haben, aber ein Ottomotor nur 25%?
+
+ANTWORT:
+**DIESELMOTOR:**
+→ Arbeitet mit LUFTÜBERSCHUSS (λ = 1,5)
+→ 50% mehr Luft als nötig!
+→ Kann problemlos 50% Abgas vertragen
+→ Immer noch genug Sauerstoff für Verbrennung
+
+**OTTOMOTOR:**
+→ Arbeitet bei λ = 1,0 (stöchiometrisch!)
+→ Genau richtig viel Luft
+→ KEINE Sauerstoff-Reserve!
+→ Mehr als 25% AGR → zu wenig Sauerstoff → schlechte Verbrennung
+
+BEISPIEL:
+Diesel braucht für 1 kg Kraftstoff: 14,5 kg Luft
+Diesel bekommt aber: 22 kg Luft (λ = 1,5!)
+→ 7,5 kg Luft "übrig" → kann durch Abgas ersetzt werden!</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Provokante Frage<br>→ Ablauf: Dozent fragt: "Warum verbrennen wir Abgase NOCHMAL?" Antwärter raten. Dozent: "Um NOₓ zu reduzieren! NOₓ entsteht bei hoher Temperatur - AGR senkt Temperatur!"<br>→ Ziel: Problem NOₓ bewusst machen<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: FUNKTION &amp; ABLAUF (15 Min)<br>→ Zeichnung an Tafel: Motor mit AGR-Kreislauf<br>→ 4 Schritte erklären: Entnahme → Kühlung → Rückführung → Verbrennung<br>→ Komponenten benennen (Ventil, Kühler, Leitung)<br><br>PHASE 2: WARUM SENKT AGR TEMPERATUR? (15 Min)<br>→ Erklären: Abgase sind "inert" (kein Sauerstoff mehr!)<br>→ Weniger Sauerstoff → mildere Verbrennung → niedrigere Temperatur<br>→ NOₓ entsteht ab 1.500°C → AGR senkt auf unter 1.500°C!<br>→ Beispiel: 2.600°C → 2.400°C = 50% weniger NOₓ!<br><br>PHASE 3: AGR-RATE &amp; BETRIEBSZUSTÄNDE (15 Min)<br>→ Wann wie viel AGR? Tabelle erstellen:<br>  - Leerlauf/Teillast: 10-30%<br>  - Volllast: 0%<br>  - Kaltstart: 0%<br>→ Warum bei Volllast aus? (Leistung!)<br><br>PHASE 4: OTTO vs. DIESEL (10 Min)<br>→ Vergleichstabelle erstellen<br>→ Warum kann Diesel mehr AGR? (Luftüberschuss!)<br>→ Warum hat Otto Verbrauchsvorteil? (Drosselverluste!)<br><br>PHASE 5: PROBLEME &amp; WARTUNG (15 Min)<br>→ Typische Probleme: Verrußung, Klemmen<br>→ Fehlercodes: P0401, P0403<br>→ Wartung: Alle 50.000-100.000 km reinigen<br>→ Vorbeugung: Autobahnfahrten!<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Warum AGR?" → NOₓ reduzieren!<br>→ "Wie viel AGR bei Diesel?" → Bis 50%!<br>→ Ausblick: "Nächste Stunde: Hydraulisches Bremssystem!"<br>→ Hausaufgabe: Finde heraus ob dein Auto AGR hat (meist ab Euro 3/4)<br></div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ NOₓ-Problem ist KERNTHEMA - gut erklären!<br>→ Temperatur-Senkung ist das Geheimnis - bildlich machen!<br>→ Otto vs. Diesel ist wichtig (Luftüberschuss!)<br>→ Verschmutzung ist PRAXIS-Problem - betonen!<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Denken AGR reduziert CO oder HC (NEIN - nur NOₓ!)<br>→ Verwechseln AGR mit Katalysator<br>→ Vergessen dass AGR bei Volllast AUS ist<br>→ Unterschätzen Wartungsbedarf (besonders Diesel!)<br><br>TIPPS &amp; TRICKS:<br>→ Eselsbrücke: "AGR senkt Temperatur → weniger NOₓ!"<br>→ YouTube-Video zeigen: "AGR-Ventil verstopft - Symptome"<br>→ Echtes AGR-Ventil mitbringen (verrußt vs. neu!)<br>→ Temperaturkurve zeichnen (NOₓ vs. Temperatur)<br></div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie Funktion und Zweck der Abgasrückführung (AGR).<br><br>Antwort:<br>FUNKTION:<br>Bei der AGR wird ein Teil der Abgase (10-50%) zurück in den Ansaugtrakt geleitet und erneut verbrannt.<br><br>ABLAUF:<br>1. Abgasentnahme nach Auslassventil<br>2. Kühlung im AGR-Kühler (600°C → 100°C)<br>3. Rückführung über AGR-Ventil in Ansaugtrakt<br>4. Erneute Verbrennung mit Frischluft<br><br>ZWECK:<br>→ NOₓ-REDUKTION (bis 50%!)<br>→ Abgase senken Verbrennungstemperatur um 100-200°C<br>→ NOₓ entsteht ab 1.500°C → AGR verhindert das!<br><br>ZUSÄTZLICH (nur Otto):<br>→ Verbrauchssenkung bis 5% (geringere Drosselverluste)<br><br><br>Frage 2: Nennen Sie die Komponenten des AGR-Systems und ihre Aufgaben.<br><br>Antwort:<br>1. **AGR-VENTIL:**<br>   → Regelt Abgasmenge (0-50%)<br>   → Elektronisch gesteuert (ECU)<br>   → Öffnet/schließt je nach Betriebszustand<br><br>2. **AGR-KÜHLER:**<br>   → Kühlt Abgase von 600-700°C auf 100-200°C<br>   → Verwendet Motorkühlwasser<br>   → Wichtig für Temperatursenkung im Brennraum<br><br>3. **AGR-LEITUNG:**<br>   → Verbindet Abgas- mit Ansaugseite<br>   → Transportiert gekühlte Abgase<br><br>4. **MOTORSTEUERGERÄT (ECU):**<br>   → Steuert AGR-Ventil<br>   → Bestimmt AGR-Rate (0-50%)<br>   → Abhängig von: Drehzahl, Last, Temperatur<br><br><br>Frage 3: Erklären Sie den Unterschied zwischen AGR bei Otto- und Dieselmotoren.<br><br>Antwort:<br>| MERKMAL | OTTOMOTOR | DIESELMOTOR |<br>|---------|-----------|-------------|<br>| **AGR-Rate** | 10-25% | Bis 50% |<br>| **Hauptziel** | NOₓ + Verbrauch | Nur NOₓ |<br>| **Verschmutzung** | Gering | Hoch (Ruß!) |<br>| **Wartungsintervall** | 100.000-150.000 km | 50.000-100.000 km |<br><br>WARUM KANN DIESEL MEHR AGR?<br>→ Dieselmotor arbeitet mit Luftüberschuss (λ = 1,3-1,5)<br>→ 30-50% mehr Luft als theoretisch nötig!<br>→ Kann bis zu 50% Abgas vertragen<br>→ Genug Sauerstoff bleibt für Verbrennung<br><br>OTTO:<br>→ Arbeitet bei λ = 1,0 (stöchiometrisch)<br>→ Keine Sauerstoff-Reserve!<br>→ Nur 10-25% AGR möglich<br>→ Sonst zu wenig Sauerstoff!</div>
                     </div>
 
                 </div>
