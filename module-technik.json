@@ -1,8 +1,8 @@
 {
   "moduleId": "technik",
   "moduleName": "🔧 Technik & Fahrzeugkunde",
-  "version": "4.1.0",
-  "lastUpdate": "2026-01-09T18:54:13.522183Z",
+  "version": "3.0.0",
+  "lastUpdate": "2026-01-09T19:00:31.960Z",
   "lektionen": [
     {
       "id": "technik_1767353149333",
@@ -493,7 +493,7 @@
       "id": "technik_1767984853522",
       "title": "Motorsteuerung & Fahrbetrieb (elektrisch) - ECU, Sensoren, Aktuatoren",
       "dauer": 90,
-      "pruefungsrelevant": true,
+      "pruefungsrelevant": false,
       "status_justin": false,
       "status_dozent": false,
       "lernziele": [
