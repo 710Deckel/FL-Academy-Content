@@ -6,7 +6,7 @@
     <title>Academy Content - FL Mastery Pro</title>
     <meta name="description" content="Fahrlehrerausbildung Unterrichtsinhalte">
     <meta name="version" content="1.0.0">
-    <meta name="last-updated" content="2026-01-09T19:13:23.961Z">
+    <meta name="last-updated" content="2026-01-09T19:17:52.961Z">
 </head>
 <body>
     <div id="academy-data"><!-- MODUL: TECHNIK -->
@@ -3530,6 +3530,109 @@ Lerneffekt: Bei MIL IMMER Fehler auslesen! Nicht ignorieren!</div>
                     <div class="pruefungsfragen">
                         <h5>Typische Prüfungsfragen</h5>
                         <div class="inhalt">Frage 1: Erklären Sie den Regelkreis der Motorsteuerung. Nennen Sie ein Beispiel.<br><br>Antwort:<br>REGELKREIS: Sensor misst → ECU berechnet → Aktuator handelt → Wirkung erfolgt → Sensor misst wieder! Dieser Kreislauf läuft 50-100 mal pro Sekunde!<br><br>Beispiel Lambda-Regelung:<br>1. Lambda-Sonde misst: "Gemisch zu mager!" (λ &gt; 1, zu viel Luft)<br>2. ECU berechnet: "Muss mehr Kraftstoff einspritzen"<br>3. Einspritzdüse öffnet 0,5 ms länger<br>4. Gemisch wird fetter (mehr Kraftstoff)<br>5. Lambda-Sonde misst wieder: "Jetzt zu fett!" (λ &lt; 1)<br>6. ECU: "Weniger Kraftstoff!" → Zurück zu 1.<br><br>Ziel: Gemisch immer bei λ = 1 halten (optimal für Drei-Wege-Katalysator!)<br><br>---<br><br>Frage 2: Nennen Sie 5 wichtige Sensoren und ihre Funktion.<br><br>Antwort:<br>1. LUFTMASSENMESSER: Misst Luftmenge (kg/h), ECU berechnet Kraftstoffmenge. Bei Defekt: Motor unrund, hoher Verbrauch.<br><br>2. LAMBDA-SONDE: Misst Sauerstoff im Abgas, regelt Gemisch auf λ = 1. Bei Defekt: Hoher Verbrauch, schlechte Abgaswerte.<br><br>3. KURBELWELLENSENSOR: Misst Drehzahl, zählt Zähne am Schwungrad. Bei Defekt: Motor startet NICHT!<br><br>4. MOTORTEMPERATURSENSOR: Misst Kühlmitteltemperatur, NTC-Widerstand. Bei Defekt: Motor läuft kalt nicht rund, Lüfter läuft nicht.<br><br>5. KLOPFSENSOR: Hört Klopfen (5-20 kHz), Piezo-Sensor. Bei Defekt: Motor klopft (MOTORSCHADEN!).<br><br>---<br><br>Frage 3: Was ist OBD und welche Fehlercodes gibt es? Nennen Sie 3 Beispiele.<br><br>Antwort:<br>OBD = On-Board-Diagnose. Seit 2001 Pflicht in allen Fahrzeugen!<br><br>AUFGABEN: Überwacht Sensoren/Aktuatoren, speichert Fehlercodes (P-Codes), schaltet MIL (Motorkontrollleuchte) ein, ermöglicht Diagnose.<br><br>BEISPIEL-FEHLERCODES:<br>→ P0300: Zündaussetzer (mehrere Zylinder)<br>→ P0171: System zu mager (Bank 1)<br>→ P0420: Katalysator Wirkungsgrad unterschritten<br><br>Werkstatt kann: Fehlercodes auslesen, Live-Daten anzeigen, Fehler löschen (nach Reparatur).<br><br>Wichtig: Bei MIL IMMER Fehler auslesen! Nicht ignorieren!</div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lektion" 
+                 data-id="technik_1767986160778" 
+                 data-pruefung="false"
+                 data-dauer="90"
+                 data-status-justin="false"
+                 data-status-dozent="false">
+                
+                <h3>Hubkolbenmotor - Grundlagen (OT, UT, Hubraum, Verdichtung)</h3>
+                
+                <div class="lernziele">
+                    <div class="lernziel">Die Begriffe OT (Oberer Totpunkt) und UT (Unterer Totpunkt) erklären können</div>
+                    <div class="lernziel">Den Kolbenhub und seine Bedeutung verstehen</div>
+                    <div class="lernziel">Hubraum definieren und berechnen können</div>
+                    <div class="lernziel">Das Verdichtungsverhältnis verstehen und seine Bedeutung kennen</div>
+                    <div class="lernziel">Den Unterschied zwischen Bohrung und Hub erklären können</div>
+                    <div class="lernziel">Die Grundkomponenten des Hubkolbenmotors benennen können</div>
+                </div>
+                
+                <div class="anwaerter">
+                    <h4>Inhalt für Anwärter</h4>
+                    <div class="inhalt">1. WAS IST EIN HUBKOLBENMOTOR? ⚙️<br><br>DEFINITION:<br>Ein Hubkolbenmotor ist ein Verbrennungsmotor, bei dem sich Kolben LINEAR (auf und ab) zwischen zwei Umkehrpunkten bewegen!<br><br>Die Kolbenbewegung wird durch die Kurbelwelle in eine DREHBEWEGUNG umgewandelt.<br><br>WARUM "HUBKOLBEN"?<br>→ "Hub" = Weg des Kolbens zwischen den beiden Totpunkten<br>→ "Kolben" = bewegliches Teil im Zylinder<br><br><br>2. DIE ZWEI TOTPUNKTE - OT UND UT 🔄<br><br>OBERER TOTPUNKT (OT):<br>→ Die HÖCHSTE Position des Kolbens im Zylinder<br>→ Kolben kann nicht weiter nach oben<br>→ Kleinster Raum im Zylinder = KOMPRESSIONSRAUM<br>→ Englisch: TDC (Top Dead Center)<br><br>UNTERER TOTPUNKT (UT):<br>→ Die TIEFSTE Position des Kolbens im Zylinder<br>→ Kolben kann nicht weiter nach unten<br>→ Größter Raum im Zylinder<br>→ Englisch: BDC (Bottom Dead Center)<br><br>MERKSATZ:<br>"Zwischen OT und UT bewegt sich der Kolben - das ist der HUB!"<br><br><br>3. DER KOLBENHUB (s) 📏<br><br>DEFINITION:<br>Der Kolbenhub ist der WEG, den der Kolben zwischen OT und UT zurücklegt!<br><br>WERTE:<br>→ Kolbenhub = Abstand OT bis UT (in mm oder cm)<br>→ Beispiel: s = 86 mm (typisch für Mittelklasse-PKW)<br><br>KURBELWELLE:<br>→ 1 Kolbenhub = 1/2 Kurbelwellenumdrehung<br>→ 1 Kolbenhub = 180° Kurbelwinkel<br><br>BEISPIEL:<br>Motor mit Hub s = 90 mm<br>→ Kolben legt zwischen OT und UT 90 mm zurück<br>→ Kurbelwelle dreht sich dabei 180°<br><br><br>4. DER HUBRAUM (VH) - DIE WICHTIGSTE KENNGRÖSSE! 📊<br><br>DEFINITION:<br>Der Hubraum ist der RAUM zwischen OT und UT, den der Kolben "durchläuft"!<br><br>FORMEL:<br>VH = π × (d/2)² × s × z<br><br>WOBEI:<br>→ VH = Hubraum (in cm³ oder Liter)<br>→ d = Zylinderdurchmesser / Bohrung (in cm)<br>→ s = Kolbenhub (in cm)<br>→ z = Anzahl der Zylinder<br>→ π = 3,14159...<br><br>VEREINFACHT:<br>VH = 0,7854 × d² × s × z<br><br>BEISPIEL-RECHNUNG:<br><br>Motor mit:<br>→ Bohrung d = 82 mm = 8,2 cm<br>→ Hub s = 86 mm = 8,6 cm<br>→ 4 Zylinder (z = 4)<br><br>VH = π × (8,2/2)² × 8,6 × 4<br>VH = 3,14159 × 4,1² × 8,6 × 4<br>VH = 3,14159 × 16,81 × 8,6 × 4<br>VH = 1.814 cm³<br>VH ≈ 1,8 Liter<br><br>→ Wir haben einen 1,8-Liter-Motor!<br><br><br>WICHTIG ZU WISSEN:<br>→ Hubraum wird IMMER in cm³ oder Liter angegeben<br>→ 1 Liter = 1.000 cm³<br>→ Typische PKW-Motoren: 1,0 - 6,0 Liter<br>→ LKW-Motoren: 10 - 16 Liter<br><br>HUBRAUM ≠ LEISTUNG!<br>→ Hubraum sagt NICHTS über PS aus!<br>→ 2,0-Liter-Motor kann 150 PS oder 400 PS haben (Turbo, Aufladung!)<br><br><br>5. VERDICHTUNGSVERHÄLTNIS (ε) - EPSILON! 🔥<br><br>DEFINITION:<br>Das Verdichtungsverhältnis gibt an, wie stark das Gemisch verdichtet wird!<br><br>FORMEL:<br>ε = (Vc + VH) / Vc<br><br>WOBEI:<br>→ ε = Verdichtungsverhältnis (epsilon)<br>→ Vc = Kompressionsraum (Raum über dem Kolben bei OT)<br>→ VH = Hubraum (Raum zwischen OT und UT)<br><br>VEREINFACHT:<br>ε = Gesamtvolumen / Kompressionsvolumen<br><br>TYPISCHE WERTE:<br>→ Ottomotor (Benzin): ε = 10:1 bis 13:1<br>→ Dieselmotor: ε = 16:1 bis 24:1<br><br>BEISPIEL:<br>Kompressionsraum Vc = 50 cm³<br>Hubraum VH = 500 cm³<br><br>ε = (50 + 500) / 50<br>ε = 550 / 50<br>ε = 11:1<br><br>→ Das Gemisch wird auf 1/11 seines ursprünglichen Volumens verdichtet!<br><br><br>WARUM WICHTIG?<br><br>HÖHERES VERDICHTUNGSVERHÄLTNIS:<br>✅ Besserer Wirkungsgrad<br>✅ Mehr Leistung<br>✅ Geringerer Verbrauch<br><br>ABER:<br>❌ Höheres Klopfrisiko (Selbstzündung beim Ottomotor!)<br>❌ Benötigt höhere Oktanzahl (Super Plus statt Normal)<br><br>MERKSATZ:<br>"Diesel verdichtet stark (bis 24:1) → Selbstzündung GEWOLLT!<br>Otto verdichtet moderat (bis 13:1) → Selbstzündung VERBOTEN (Klopfen)!"<br><br><br>6. BOHRUNG × HUB - DAS VERHÄLTNIS 📐<br><br>BOHRUNG (d):<br>→ Durchmesser des Zylinders (in mm)<br>→ Wie "breit" ist der Zylinder?<br><br>HUB (s):<br>→ Weg des Kolbens zwischen OT und UT (in mm)<br>→ Wie "lang" ist der Zylinder?<br><br>MOTORTYPEN:<br><br>KURZHUBMOTOR:<br>→ Bohrung &gt; Hub (z.B. 86 mm Bohrung, 75 mm Hub)<br>→ Vorteil: Hohe Drehzahl möglich (Sportmotoren!)<br>→ Nachteil: Höherer Verbrauch<br><br>LANGHUBMOTOR:<br>→ Hub &gt; Bohrung (z.B. 75 mm Bohrung, 90 mm Hub)<br>→ Vorteil: Hohes Drehmoment, niedriger Verbrauch<br>→ Nachteil: Niedrigere maximale Drehzahl<br><br>QUADRATMOTOR:<br>→ Bohrung = Hub (z.B. 82 mm Bohrung, 82 mm Hub)<br>→ Kompromiss zwischen Kurz- und Langhub<br><br>BEISPIELE:<br>→ Sportwagen (Ferrari): Kurzhubmotor (hohe Drehzahl!)<br>→ Diesel-LKW: Langhubmotor (viel Drehmoment!)<br>→ Moderne PKW: Meist Langhubmotoren (Verbrauch!)<br><br><br>7. GRUNDKOMPONENTEN DES HUBKOLBENMOTORS 🔧<br><br>ZYLINDER:<br>→ Rohr, in dem sich der Kolben bewegt<br>→ Besteht aus Gusseisen oder Aluminium mit Laufbuchse<br>→ Innendurchmesser = Bohrung<br><br>KOLBEN:<br>→ Bewegt sich auf und ab zwischen OT und UT<br>→ Material: Aluminium (leicht!)<br>→ Dichtet mit Kolbenringen gegen Zylinderwand ab<br><br>KOLBENRINGE:<br>→ 3 Ringe pro Kolben:<br>  1. Kompressionsring (oben) - dichtet gegen Verbrennungsgase<br>  2. Kompressionsring (mitte) - dichtet zusätzlich<br>  3. Ölabstreifring (unten) - verhindert dass Öl in Brennraum kommt<br><br>PLEUELSTANGE:<br>→ Verbindet Kolben mit Kurbelwelle<br>→ Wandelt Auf-und-Ab-Bewegung in Drehbewegung um<br><br>KURBELWELLE:<br>→ Nimmt die Kraft vom Kolben auf<br>→ Dreht sich und treibt Getriebe an<br>→ 2 Umdrehungen = 1 vollständiger Viertakt-Zyklus (720°)<br><br>NOCKENWELLE:<br>→ Steuert Öffnen und Schließen der Ventile<br>→ Über Zahnriemen oder Steuerkette mit Kurbelwelle verbunden<br>→ Dreht sich halb so schnell wie Kurbelwelle<br><br>VENTILE:<br>→ Einlassventil: Öffnet für Ansaugen (Gemisch rein)<br>→ Auslassventil: Öffnet für Ausstoßen (Abgas raus)<br><br>ZYLINDERKOPF:<br>→ Deckel des Zylinders<br>→ Enthält: Ventile, Nockenwelle, Zündkerzen/Glühkerzen<br>→ Wird mit Zylinderkopfdichtung am Motorblock befestigt<br><br><br>8. WICHTIGE BEGRIFFE IM ÜBERBLICK 📚<br><br>KOMPRESSIONSRAUM (Vc):<br>→ Kleinster Raum über dem Kolben (bei OT)<br>→ Auch "Verdichtungsraum" genannt<br><br>ZYLINDERRAUM:<br>→ Gesamtraum = Kompressionsraum + Hubraum<br><br>BRENNRAUM:<br>→ Raum, in dem Verbrennung stattfindet<br>→ = Kompressionsraum (bei OT)<br><br>ARBEITSRAUM:<br>→ Raum, in dem Kolben arbeitet<br>→ = Hubraum<br><br>VERDICHTUNGSDRUCK:<br>→ Druck am Ende des Verdichtungstakts<br>→ Otto: 10-16 bar<br>→ Diesel: 30-50 bar<br><br>VERDICHTUNGSTEMPERATUR:<br>→ Temperatur am Ende des Verdichtungstakts<br>→ Otto: 350-400°C<br>→ Diesel: 600-900°C (daher Selbstzündung!)<br><br><br>ZUSAMMENFASSUNG &amp; KERNBOTSCHAFTEN ✅<br><br>TOTPUNKTE:<br>→ OT = Oberer Totpunkt (höchste Position)<br>→ UT = Unterer Totpunkt (tiefste Position)<br><br>KOLBENHUB:<br>→ Hub (s) = Weg zwischen OT und UT<br>→ 1 Hub = 180° Kurbelwellendrehung<br><br>HUBRAUM:<br>→ Formel: VH = π × (d/2)² × s × z<br>→ Raum zwischen OT und UT<br>→ Wichtigste Motorkenngröße!<br>→ Hubraum ≠ Leistung!<br><br>VERDICHTUNGSVERHÄLTNIS:<br>→ ε = (Vc + VH) / Vc<br>→ Otto: 10:1 - 13:1<br>→ Diesel: 16:1 - 24:1<br>→ Je höher ε, desto besserer Wirkungsgrad<br><br>BOHRUNG × HUB:<br>→ Kurzhub: Bohrung &gt; Hub → hohe Drehzahl<br>→ Langhub: Hub &gt; Bohrung → hohes Drehmoment<br>→ Quadrat: Bohrung = Hub → Kompromiss<br><br>KOMPONENTEN:<br>→ Zylinder, Kolben, Pleuel, Kurbelwelle, Nockenwelle, Ventile</div>
+                    
+                    <div class="beispiele">
+                        <h5>Praxisbeispiele</h5>
+                        <div class="beispiel">BEISPIEL 1: HUBRAUM-BERECHNUNG
+
+AUFGABE:
+Ein 4-Zylinder-Motor hat folgende Daten:
+→ Bohrung: 78 mm
+→ Hub: 83 mm
+Berechne den Hubraum!
+
+LÖSUNG:
+1. Umrechnen in cm:
+   d = 78 mm = 7,8 cm
+   s = 83 mm = 8,3 cm
+
+2. Formel anwenden:
+   VH = π × (d/2)² × s × z
+   VH = 3,14159 × (7,8/2)² × 8,3 × 4
+   VH = 3,14159 × 3,9² × 8,3 × 4
+   VH = 3,14159 × 15,21 × 8,3 × 4
+   VH = 1.583 cm³
+
+3. Umrechnen in Liter:
+   VH = 1.583 cm³ = 1,583 Liter ≈ 1,6 Liter
+
+ANTWORT: Der Motor hat 1,6 Liter Hubraum!</div>
+                        <div class="beispiel">BEISPIEL 2: VERDICHTUNGSVERHÄLTNIS
+
+AUFGABE:
+Ein Motor hat:
+→ Hubraum pro Zylinder: 500 cm³
+→ Kompressionsraum: 45 cm³
+Berechne das Verdichtungsverhältnis!
+
+LÖSUNG:
+ε = (Vc + VH) / Vc
+ε = (45 + 500) / 45
+ε = 545 / 45
+ε = 12,1
+
+ANTWORT: Das Verdichtungsverhältnis ist 12,1:1 → Typisch für modernen Ottomotor!</div>
+                        <div class="beispiel">BEISPIEL 3: BOHRUNG × HUB
+
+MOTOR A:
+→ Bohrung: 90 mm
+→ Hub: 75 mm
+→ Bohrung &gt; Hub → KURZHUBMOTOR → Hohe Drehzahl möglich (Sportmotor!)
+
+MOTOR B:
+→ Bohrung: 75 mm
+→ Hub: 95 mm
+→ Hub &gt; Bohrung → LANGHUBMOTOR → Hohes Drehmoment (Diesel!)
+
+MOTOR C:
+→ Bohrung: 82 mm
+→ Hub: 82 mm
+→ Bohrung = Hub → QUADRATMOTOR → Kompromiss</div>
+                    </div>
+                </div>
+                
+                <div class="dozent">
+                    <h4>Inhalt für Dozenten</h4>
+                    
+                    <div class="unterrichtsentwurf">
+                        <h5>Unterrichtsentwurf</h5>
+                        <div class="inhalt">UNTERRICHTSENTWURF (90 Min)<br><br>EINSTIEG (10 Min):<br>→ Methode: Provokante Frage<br>→ Ablauf: Dozent fragt: "Was bedeutet 2,0-Liter-Motor?" Antwärter raten. Dozent: "Ist das Tankinhalt? Kühlwasser? NEIN - HUBRAUM!" Überleitung: "Heute lernen wir, was Hubraum wirklich bedeutet!"<br>→ Ziel: Neugier wecken<br><br>HAUPTTEIL (70 Min):<br><br>PHASE 1: OT, UT, HUB (15 Min)<br>→ Dozent zeichnet Zylinder an Tafel mit OT und UT<br>→ Erklärt: "Kolben bewegt sich auf und ab - das ist der Hub!"<br>→ Zeigt mit Modell oder Animation (YouTube: "4-Takt-Motor Animation")<br>→ Anwärter zeichnen selbst einen Zylinder und markieren OT, UT<br><br>PHASE 2: HUBRAUM BERECHNEN (20 Min)<br>→ Dozent zeigt Formel: VH = π × (d/2)² × s × z<br>→ Erklärt jeden Buchstaben einzeln<br>→ RECHENBEISPIEL an Tafel (4-Zylinder mit 82 mm Bohrung, 86 mm Hub)<br>→ Anwärter rechnen eigenes Beispiel (Partnerarbeit)<br>→ Auflösung im Plenum<br><br>PHASE 3: VERDICHTUNGSVERHÄLTNIS (15 Min)<br>→ Dozent erklärt: "Gemisch wird zusammengepresst - wie stark?"<br>→ Formel: ε = (Vc + VH) / Vc<br>→ Unterschied Otto vs. Diesel (10:1 vs. 20:1)<br>→ Warum Diesel höher verdichtet (Selbstzündung!)<br>→ Klopfgefahr beim Otto (YouTube-Video: "Motor klopft")<br><br>PHASE 4: BOHRUNG × HUB (10 Min)<br>→ Kurzhub vs. Langhub erklären<br>→ Beispiele: Ferrari (Kurzhub) vs. LKW-Diesel (Langhub)<br>→ Quadratmotor als Kompromiss<br><br>PHASE 5: KOMPONENTEN (10 Min)<br>→ Dozent zeigt ECHTE TEILE (wenn vorhanden!): Kolben, Pleuel, Kurbelwelle<br>→ Anwärter dürfen anfassen<br>→ Wenn keine Teile: Bilder/Videos zeigen<br><br>SCHLUSS (10 Min):<br>→ Sicherung: "Was ist Hubraum?" → Raum zwischen OT und UT!<br>→ "Was ist ε?" → Verdichtungsverhältnis!<br>→ Ausblick: "Nächste Stunde: Gemischbildung - fett vs. mager!"<br>→ Hausaufgabe: Berechne Hubraum deines eigenen Autos! (Daten googeln)<br></div>
+                    </div>
+
+                    <div class="didaktik">
+                        <h5>Didaktische Hinweise</h5>
+                        <div class="inhalt">WORAUF ACHTEN:<br>→ Hubraum-Formel ist KOMPLEX - langsam erklären!<br>→ Viele Rechenbeispiele durchgehen (Übung macht Meister!)<br>→ Verdichtungsverhältnis ist abstrakt - mit Bildern/Videos arbeiten!<br>→ IMMER echte Motorwerte verwenden (nicht nur Theorie!)<br><br>HÄUFIGE FEHLER DER ANWÄRTER:<br>→ Verwechseln Hub und Hubraum<br>→ Vergessen, Zylinderanzahl (z) in Formel einzusetzen<br>→ Denken, Hubraum = Leistung (NEIN!)<br>→ Verwechseln Otto- und Diesel-Verdichtung<br>→ Rechnen in mm statt cm (Formel braucht cm!)<br><br>TIPPS &amp; TRICKS:<br>→ Formel ausdrucken und laminieren (jeder Anwärter bekommt eine!)<br>→ YouTube-Video zeigen: "Wie funktioniert ein Viertakt-Motor?" (Animations-Video!)<br>→ Echte Motorteile mitbringen (Kolben, Pleuel anfassen lassen!)<br>→ Hubraum-Rechner online: www.kfztech.de/hubraumrechner (zum Überprüfen)<br>→ Eselsbrücke: "π mal Daumen = 3,14" 😄</div>
+                    </div>
+
+                    <div class="pruefungsfragen">
+                        <h5>Typische Prüfungsfragen</h5>
+                        <div class="inhalt">Frage 1: Erklären Sie die Begriffe OT und UT. Was ist der Kolbenhub?<br><br>Antwort:<br>OT (Oberer Totpunkt): Höchste Position des Kolbens im Zylinder. Kleinster Raum = Kompressionsraum.<br><br>UT (Unterer Totpunkt): Tiefste Position des Kolbens im Zylinder. Größter Raum.<br><br>KOLBENHUB (s): Der Weg, den der Kolben zwischen OT und UT zurücklegt. 1 Hub = 180° Kurbelwellendrehung.<br><br>Beispiel: Hub s = 86 mm bedeutet, der Kolben bewegt sich 86 mm zwischen OT und UT.<br><br><br>Frage 2: Berechnen Sie den Hubraum eines 4-Zylinder-Motors mit folgenden Daten: Bohrung 82 mm, Hub 90 mm.<br><br>Antwort:<br>GEGEBEN:<br>→ Bohrung d = 82 mm = 8,2 cm<br>→ Hub s = 90 mm = 9,0 cm<br>→ Zylinder z = 4<br><br>FORMEL:<br>VH = π × (d/2)² × s × z<br><br>RECHNUNG:<br>VH = 3,14159 × (8,2/2)² × 9,0 × 4<br>VH = 3,14159 × 4,1² × 9,0 × 4<br>VH = 3,14159 × 16,81 × 9,0 × 4<br>VH = 1.900 cm³<br>VH = 1,9 Liter<br><br>ANTWORT: Der Motor hat einen Hubraum von 1,9 Litern.<br><br><br>Frage 3: Was ist das Verdichtungsverhältnis? Nennen Sie typische Werte für Otto- und Dieselmotoren.<br><br>Antwort:<br>DEFINITION:<br>Das Verdichtungsverhältnis ε gibt an, wie stark das Gemisch verdichtet wird!<br><br>FORMEL:<br>ε = (Vc + VH) / Vc<br>(Vc = Kompressionsraum, VH = Hubraum)<br><br>TYPISCHE WERTE:<br>→ Ottomotor: ε = 10:1 bis 13:1<br>→ Dieselmotor: ε = 16:1 bis 24:1<br><br>WARUM UNTERSCHIED?<br>→ Dieselmotor braucht hohe Verdichtung für Selbstzündung (600-900°C!)<br>→ Ottomotor darf nicht zu hoch verdichten (sonst Klopfen = unkontrollierte Selbstzündung!)<br><br>BEISPIEL:<br>ε = 12:1 bedeutet: Gemisch wird auf 1/12 seines ursprünglichen Volumens verdichtet!<br><br><br>Frage 4: Erklären Sie den Unterschied zwischen Kurzhub-, Langhub- und Quadratmotor.<br><br>Antwort:<br>KURZHUBMOTOR:<br>→ Bohrung &gt; Hub (z.B. 90 mm Bohrung, 75 mm Hub)<br>→ Vorteil: Hohe Drehzahl möglich (Sportmotoren!)<br>→ Beispiel: Ferrari-Motoren<br><br>LANGHUBMOTOR:<br>→ Hub &gt; Bohrung (z.B. 75 mm Bohrung, 95 mm Hub)<br>→ Vorteil: Hohes Drehmoment, niedriger Verbrauch<br>→ Beispiel: Diesel-LKW, moderne PKW-Motoren<br><br>QUADRATMOTOR:<br>→ Bohrung = Hub (z.B. 82 mm Bohrung, 82 mm Hub)<br>→ Kompromiss zwischen Kurz- und Langhub<br>→ Ausgeglichene Eigenschaften<br><br>MERKSATZ: "Sport-Motor → Kurzhub (schnell drehen!), Diesel-LKW → Langhub (viel Kraft!)"</div>
                     </div>
 
                 </div>
