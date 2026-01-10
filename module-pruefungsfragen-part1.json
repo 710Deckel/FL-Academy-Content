@@ -4,25 +4,7 @@
   "part": 1,
   "totalParts": 2,
   "version": "3.0.0",
-  "lastUpdate": "2026-01-10T18:56:37.744Z",
-  "lektionenCount": 1,
-  "lektionen": [
-    {
-      "id": "pruefungsfragen_0",
-      "titel": "Fahraufgabenkatalog Klasse B - Praktische Prüfung",
-      "dauer": 120,
-      "pruefungsrelevant": true,
-      "status_justin": "",
-      "status_dozent": "",
-      "lernziele": [
-        "INHALT AUS Fahraufgabenkatalog_Klasse_B_Prüfung.html EINFÜGEN"
-      ],
-      "inhalt_anwaerter": "🔄 Bitte Inhalt aus Fahraufgabenkatalog_Klasse_B_Prüfung.html einfügen",
-      "beispiele": [],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
-      "pruefungsfragen": []
-    }
-  ]
+  "lastUpdate": "2026-01-10T19:03:19.446Z",
+  "lektionenCount": 0,
+  "lektionen": []
 }
