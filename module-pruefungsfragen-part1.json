@@ -1,13 +1,19 @@
 {
-  "modul_id": "pruefungsfragen",
+  "moduleId": "pruefungsfragen",
+  "moduleName": "📝 Prüfungsfragen",
+  "part": 1,
+  "totalParts": 2,
+  "version": "3.0.0",
+  "lastUpdate": "2026-01-10T18:56:37.744Z",
+  "lektionenCount": 1,
   "lektionen": [
     {
       "id": "pruefungsfragen_0",
-      "title": "Fahraufgabenkatalog Klasse B - Praktische Prüfung",
+      "titel": "Fahraufgabenkatalog Klasse B - Praktische Prüfung",
       "dauer": 120,
       "pruefungsrelevant": true,
-      "status_justin": false,
-      "status_dozent": false,
+      "status_justin": "",
+      "status_dozent": "",
       "lernziele": [
         "INHALT AUS Fahraufgabenkatalog_Klasse_B_Prüfung.html EINFÜGEN"
       ],
@@ -15,23 +21,8 @@
       "beispiele": [],
       "unterrichtsentwurf": "",
       "didaktik": "",
-      "pruefungsfragen_text": ""
-    },
-    {
-      "id": "pruefungsfragen_1",
-      "title": "Fahraufgabenkatalog Klasse BE - Praktische Prüfung",
-      "dauer": 120,
-      "pruefungsrelevant": true,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "INHALT AUS Fahraufgabenkatalog_Klasse_BE_Pruefung.html EINFÜGEN"
-      ],
-      "inhalt_anwaerter": "🔄 Bitte Inhalt aus Fahraufgabenkatalog_Klasse_BE_Pruefung.html einfügen",
-      "beispiele": [],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": ""
+      "pruefungsfragen_text": "",
+      "pruefungsfragen": []
     }
   ]
 }
