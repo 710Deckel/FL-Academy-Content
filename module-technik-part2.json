@@ -4,8 +4,8 @@
   "part": 2,
   "totalParts": 2,
   "version": "3.0.0",
-  "lastUpdate": "2026-01-11T13:25:00.038Z",
-  "lektionenCount": 19,
+  "lastUpdate": "2026-01-11T20:44:50.064Z",
+  "lektionenCount": 20,
   "lektionen": [
     {
       "id": "technik_1768070796344_0.12557412910715726",
@@ -484,6 +484,31 @@
     },
     {
       "id": "technik_1768137888029",
+      "titel": "Kraftstoffe und Destillation – Diesel, HVO100 und Raffination",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Herkunft und Herstellung von Diesel- und Ottokraftstoffen erklären können",
+        "Den Unterschied zwischen fossilem Diesel und HVO100 beschreiben können",
+        "Das Prinzip der fraktionierten Destillation verstehen und erläutern",
+        "Wichtige Temperaturbereiche der Benzin- und Dieselgewinnung benennen können",
+        "Die Raffination von Rohöl im Destillationsturm nachvollziehen können",
+        "Umwelt- und Praxisaspekte moderner Kraftstoffe beurteilen können"
+      ],
+      "inhalt_anwaerter": "TEIL 1: GRUNDLAGEN VON KRAFTSTOFFEN\nKraftstoffe dienen dazu, chemisch gespeicherte Energie in mechanische Arbeit umzuwandeln. In Fahrzeugen werden überwiegend flüssige Kraftstoffe eingesetzt, da sie eine hohe Energiedichte besitzen und einfach transportiert werden können. Die wichtigsten Kraftstoffe im Straßenverkehr sind Benzin und Diesel, zunehmend ergänzt durch alternative Kraftstoffe wie HVO100.\n\nTEIL 2: DIESEL – HERKUNFT UND EIGENSCHAFTEN\nHerkunft:\nHerkömmlicher Diesel wird aus Erdöl gewonnen. In Raffinerien wird Rohöl durch fraktionierte Destillation in verschiedene Bestandteile aufgetrennt. Diesel entsteht im mittleren Temperaturbereich der Destillation.\n\nEigenschaften:\n\nHohe Energiedichte\n\nGuter Wirkungsgrad im Motor\n\nGeringerer Verbrauch im Vergleich zu Benzinmotoren\n\nNachteile:\n\nHöhere Emissionen von Stickoxiden\n\nAufwendige Abgasnachbehandlung notwendig\n\nFossiler Ursprung belastet Klima und Umwelt\n\nTEIL 3: HVO100 – DER ALTERNATIVE DIESEL\nHVO100 steht für „Hydrotreated Vegetable Oil“. Es handelt sich um einen synthetischen Dieselkraftstoff, der aus 100 % erneuerbaren Rohstoffen hergestellt wird, zum Beispiel aus pflanzlichen Ölen oder Abfallfetten.\n\nBesonderheiten von HVO100:\n\nBis zu 90 % geringere Treibhausgasemissionen im Vergleich zu fossilem Diesel\n\nSaubere Verbrennung: weniger Ruß, weniger Geruch\n\nRuhigerer Motorlauf, weniger „Nageln“\n\nSeit 2024 in Deutschland verfügbar\n\nEtwas teurer als herkömmlicher Diesel\n\nWichtig:\nNicht jedes Fahrzeug darf HVO100 tanken. Eine Herstellerfreigabe ist zwingend zu prüfen.\n\nMerksatz:\nHVO100 ist umweltfreundlicher als Diesel, aber aktuell noch teurer und nicht überall verfügbar.\n\nTEIL 4: DESTILLATION – GRUNDPRINZIP\nRohöl ist ein Stoffgemisch aus vielen verschiedenen Kohlenwasserstoffen. Diese unterscheiden sich in ihrer Kettenlänge und damit in ihrem Siedepunkt. Genau diesen Unterschied nutzt man bei der Destillation.\n\nPrinzip:\n\nRohöl wird erhitzt\n\nBestandteile verdampfen bei unterschiedlichen Temperaturen\n\nDie Dämpfe werden abgekühlt und kondensieren wieder\n\nSo entstehen einzelne Fraktionen wie Benzin, Diesel oder Kerosin\n\nTEIL 5: BENZIN-DESTILLATION SCHRITT FÜR SCHRITT\n\nAusgangsstoff: Rohöl und Erdölreste werden erhitzt\n\nVerdampfung: Benzinanteile verdampfen bei etwa 30 °C bis 180 °C\n\nTemperaturkontrolle: Ein Thermometer zeigt den relevanten Benzinbereich\n\nKondensation: Im Kühler werden die Dämpfe wieder flüssig\n\nWeiterverarbeitung: Rohbenzin wird gereinigt und weiterveredelt\n\nMerksatz:\nBenzin siedet grob zwischen 30 °C und 180 °C.\n\nTEIL 6: RAFFINATION IM DESTILLATIONSTURM\nIn der Raffinerie erfolgt die Destillation nicht im Labor, sondern im großen Destillationsturm. Das Rohöl wird unten erhitzt und steigt als Dampf nach oben. Je nach Temperatur kondensieren die Bestandteile auf unterschiedlichen Höhen.\n\nTypische Fraktionen im Turm:\n\nGase (C1–C4) bei sehr niedrigen Temperaturen\n\nBenzin im mittleren Bereich\n\nKerosin darüber\n\nDiesel und Gasöl darunter\n\nSchmieröle, Schweröl und Bitumen im unteren Bereich\n\nWichtig für Fahrlehrer:\nBenzin und Diesel entstehen im gleichen Prozess, aber in unterschiedlichen Temperaturzonen des Destillationsturms.",
+      "beispiele": [
+        "Beispiel 1: HVO100 an der Tankstelle\nEin Fahrschüler fragt, ob er sein Dieselfahrzeug mit HVO100 betanken darf. Der Fahrlehrer erklärt die Vorteile für Umwelt und Motorlauf, weist aber auf die notwendige Herstellerfreigabe hin.",
+        "Beispiel 2: Verständnisproblem Destillation\nIm Theorieunterricht verwechselt ein Anwärter Benzin- und Dieselherstellung. Durch das Bild eines Destillationsturms wird erklärt, dass beide Kraftstoffe aus Rohöl stammen, aber bei unterschiedlichen Temperaturen gewonnen werden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min)\n\nEinstieg (10 Min):\nMethode: Alltagsbezug\nAblauf: Frage an die Gruppe: „Was tanken Sie – und wissen Sie, woher es kommt?“\nZiel: Interesse wecken und Vorwissen aktivieren\n\nHauptteil (65 Min):\nPhase 1 (20 Min): Kraftstoffarten – Diesel und HVO100\nPhase 2 (20 Min): Destillation und Benzingewinnung\nPhase 3 (25 Min): Raffination und Destillationsturm\n\nSchluss (15 Min):\nSicherung: Wiederholung der Temperaturbereiche\nAusblick: Alternative Kraftstoffe der Zukunft",
+      "didaktik": "Worauf achten?\n\nNicht zu chemisch erklären\n\nViele Visualisierungen nutzen (Destillationsturm)\n\nHäufige Fehler der Anwärter:\n\nAnnahme, dass Diesel und Benzin völlig getrennte Herstellungsprozesse haben\n\nUnterschätzung der Bedeutung der Temperaturbereiche\n\nTipps & Tricks:\n\nMerksätze zu Temperaturzonen nutzen\n\nPraxisbezug über Tankstellen und Fahrzeugfreigaben herstellen",
+      "pruefungsfragen_text": "Frage 1: Zwischen welchen Temperaturen siedet Benzin?\nAntwort: Etwa zwischen 30 °C und 180 °C.\n\nFrage 2: Was ist HVO100?\nAntwort: Ein synthetischer Dieselkraftstoff aus erneuerbaren Rohstoffen.\n\nFrage 3: Warum entstehen Benzin und Diesel im gleichen Raffinationsprozess?\nAntwort: Weil beide aus Rohöl stammen, aber bei unterschiedlichen Temperaturen kondensieren.\n\nFrage 4: Nennen Sie einen Vorteil von HVO100.\nAntwort: Deutlich geringere Treibhausgasemissionen.\n\nFrage 5: Warum ist die Herstellerfreigabe bei HVO100 wichtig?\nAntwort: Nicht alle Motoren sind für diesen Kraftstoff zugelassen.",
+      "pruefungsfragen": []
+    },
+    {
+      "id": "technik_1768164282454",
       "titel": "",
       "dauer": 90,
       "pruefungsrelevant": false,
