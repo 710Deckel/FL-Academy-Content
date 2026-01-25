@@ -4,7 +4,27 @@
   "part": 2,
   "totalParts": 2,
   "version": "3.0.0",
-  "lastUpdate": "2026-01-25T12:28:22.975Z",
-  "lektionenCount": 0,
-  "lektionen": []
+  "lastUpdate": "2026-01-25T15:12:37.764Z",
+  "lektionenCount": 1,
+  "lektionen": [
+    {
+      "id": "pruefungsfragen_1769353927424",
+      "titel": "",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        ""
+      ],
+      "inhalt_anwaerter": "",
+      "beispiele": [
+        ""
+      ],
+      "unterrichtsentwurf": "",
+      "didaktik": "",
+      "pruefungsfragen_text": "",
+      "pruefungsfragen": []
+    }
+  ]
 }
