@@ -4,7 +4,7 @@
   "part": 2,
   "totalParts": 2,
   "version": "3.0.0",
-  "lastUpdate": "2026-01-25T12:28:09.725Z",
+  "lastUpdate": "2026-01-25T15:12:26.415Z",
   "lektionenCount": 4,
   "lektionen": [
     {
@@ -98,7 +98,7 @@
       ],
       "unterrichtsentwurf": "",
       "didaktik": "",
-      "pruefungsfragen_text": "",
+      "pruefungsfragen_text": [],
       "pruefungsfragen": []
     }
   ]
