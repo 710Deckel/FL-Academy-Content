@@ -10,7 +10,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "§3 Abs. 1 und Abs. 2a StVO erklären und anwenden können (PRÜFUNGSRELEVANT!)",
         "Die 7 Faktoren für angepasste Geschwindigkeit benennen und erläutern können",
@@ -33,7 +33,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die 5-Stufen-Hierarchie umweltfreundlicher Mobilität erklären und anwenden können",
         "Eco-Driving-Prinzipien kennen und im Fahrschulalltag umsetzen können (mindestens 15% Spritersparnis)",
@@ -58,7 +58,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufmerksamkeit und Konzentration unterscheiden können",
         "Ursachen von Ablenkung benennen können",
