@@ -13,7 +13,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Alkoholgrenzwerte kennen (0,0 ‰, 0,3 ‰, 0,5 ‰, 1,1 ‰, 1,6 ‰)",
         "Abstandsregeln beherrschen (1,5m, 2m, 5m, 8m, 10m, 15m, 50m, 100m)",
@@ -39,7 +39,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Über 150 typische Prüfungsfragen kennen",
         "Alle 4 Prüfungsbereiche abdecken (Technik, Pädagogik, Verkehrsverhalten, Verschiedenes)",
