@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die verschiedenen Geschwindigkeitsstufen (Schrittgeschwindigkeit, mäßige Geschwindigkeit, Höchstgeschwindigkeit) kennen",
         "Das Prinzip der angepassten Geschwindigkeit verstehen und anwenden können",
@@ -41,7 +41,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den erforderlichen Sicherheitsabstand nach vorne berechnen können (Halber Tacho, 2-Sekunden-Regel)",
         "Den Seitenabstand zu verschiedenen Verkehrsteilnehmern kennen",
@@ -68,7 +68,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Grundregeln des Überholens nach § 5 StVO kennen",
         "Überholverbote (absolute und situative) unterscheiden können",
@@ -96,7 +96,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Unterschied zwischen Überholen und Vorbeifahren erklären können",
         "Die Regeln beim Vorbeifahren an haltenden Fahrzeugen kennen",
@@ -123,7 +123,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Fahrstreifenbenutzung auf mehrspurigen Straßen kennen",
         "Das Rechtsfahrgebot auch auf mehrspurigen Straßen anwenden können",
@@ -150,7 +150,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Unterschied zwischen durchgehenden und abgehenden Fahrstreifen kennen",
         "Das Reißverschlussverfahren verstehen und anwenden können",
@@ -177,7 +177,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Grundregel Rechts vor Links verstehen und anwenden können",
         "Vorfahrtsregelnde Verkehrszeichen kennen und unterscheiden können",
@@ -204,7 +204,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Pflichten beim Abbiegen kennen und anwenden können",
         "Rechtzeitiges Einordnen vor dem Abbiegen verstehen",
@@ -232,7 +232,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Wartepflicht beim Einfahren von Grundstücken auf die Fahrbahn kennen",
         "Die Regeln beim Anfahren am Fahrbahnrand verstehen",
@@ -258,7 +258,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Pflicht zur Bildung einer Rettungsgasse kennen und anwenden können",
         "Den korrekten Ort der Rettungsgasse auf verschiedenen Straßen bestimmen können",
@@ -284,7 +284,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Vertrauensgrundsatz und seine Bedeutung verstehen",
         "Die rechtliche Grundlage des Vertrauensgrundsatzes kennen",
@@ -310,7 +310,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Regelungen zum Überholen nach § 5 StVO kennen und anwenden können",
         "Den Unterschied zwischen Überholen und Vorbeifahren erklären können",
@@ -343,7 +343,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Unterschied zwischen Halten und Parken nach § 12 StVO erklären können",
         "Alle Halte- und Parkverbote nach § 12 StVO kennen und anwenden",
@@ -378,7 +378,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Verhaltensregeln an Bahnübergängen nach § 19 kennen und anwenden",
         "Vorrangregeln bei Schienenfahrzeugen beherrschen",
@@ -415,7 +415,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das Verbot von Kraftfahrzeugrennen nach § 29 kennen",
         "Genehmigungspflicht bei übermäßiger Straßenbenutzung verstehen",
@@ -449,7 +449,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "VO (EG) 561/2006 und FPersV unterscheiden und Geltungsbereiche kennen",
         "Absenkung von 3,5t auf 2,5t zGM ab 1. Juli 2026 verstehen",
@@ -482,7 +482,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
