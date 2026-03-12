@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den kompletten Fahraufgabenkatalog Klasse BE kennen und anwenden können",
         "Alle 13 Fahraufgaben mit Anhänger detailliert beherrschen",
@@ -40,7 +40,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Bewertungssystem der theoretischen Prüfung verstehen (2-5 Punkte)",
         "Prüfungsanforderungen für Ersterwerb und Erweiterung kennen",
@@ -72,7 +72,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Systematische Anhängerkontrolle vor Fahrtantritt durchführen können",
         "Anhänger fachgerecht verbinden und trennen können (Prüfungsrichtlinie!)",
@@ -100,7 +100,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den kompletten Fahraufgabenkatalog Klasse B kennen und anwenden können",
         "Alle 8 Grundfahraufgaben detailliert beherrschen",
@@ -127,7 +127,7 @@
       "dauer": 180,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
