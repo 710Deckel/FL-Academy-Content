@@ -13,7 +13,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 7 Faktoren der Geschwindigkeitsanpassung nach §3 Abs. 1 StVO kennen",
         "Verstehen, dass Richtgeschwindigkeit 130 km/h nur außerorts gilt",
@@ -42,7 +42,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Begriffe Behindern, Belästigen und Vertrauensgrundsatz nach §1 StVO kennen",
         "Den Unterschied zwischen Straße, Fahrbahn und Fahrstreifen nach §2 StVO kennen",
@@ -73,7 +73,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das Rechtsfahrgebot nach §2 Abs. 2 StVO kennen (so weit rechts wie möglich)",
         "Den Vorrang für Schienenfahrzeuge nach §2 Abs. 3 StVO verstehen",
@@ -103,7 +103,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Geschwindigkeiten außerorts, Autobahn und innerorts kennen (100/80/60/50 km/h-System)",
         "Die 7 Voraussetzungen für 100 km/h-Zulassung bei Anhängern kennen (9. Ausnahmeverordnung)",
@@ -134,7 +134,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den 5-Punkte-Plan zum systematischen Entschlüsseln von Verkehrszeichen kennen",
         "Die 3 Kategorien nach §39 StVO kennen (Gefahrzeichen Dreieck, Vorschriftszeichen Rund, Richtzeichen Rechteckig)",
@@ -165,7 +165,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 4 Hauptkategorien von Verkehrszeichen kennen (Gefahrzeichen, Vorschriftzeichen, Richtzeichen, Zusatzzeichen)",
         "Die wichtigsten Verkehrszeichen jeder Kategorie kennen und erklären können",
@@ -195,7 +195,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Zeichen 206 STOP - Halt! Vorfahrt gewähren kennen (unbedingtes Haltgebot)",
         "Die 4 Prüfungsfälle bei unterschiedlichen Halteliniensituationen beherrschen",
@@ -225,7 +225,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den 5-Punkte-Plan zum systematischen Entschlüsseln von Verkehrszeichen kennen",
         "Die Rangfolge der Betrachtung von Verkehrszeichen kennen (Lichtzeichen, Dreieck, Rund, Rechteckig)",
@@ -255,7 +255,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "§40 StVO Gefahrzeichen kennen (mahnen zur erhöhten Aufmerksamkeit & Geschwindigkeitsreduzierung)",
         "Aufstellung kennen: AGO 150m vor Gefahr, IGO kurz davor",
@@ -285,7 +285,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "§41 StVO Vorschriftszeichen kennen (Ge- und Verbote müssen befolgt werden!)",
         "Überlagerungsregel verstehen (speziellere Anordnung gilt)",
@@ -316,7 +316,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Sonderwege kennen: Radweg (Z. 237 benutzungspflichtig), Gehweg (Z. 239), Fußgängerzone (Z. 242.1)",
         "Unterschied benutzungspflichtig (blau) vs. nicht benutzungspflichtig verstehen",
@@ -344,7 +344,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Geschwindigkeitsbeschränkungen kennen (Z. 274) und Tempo-30-Zone (Z. 274.1/274.2)",
         "Zusatzschild bei Nässe verstehen (Wasserfilm sichtbar!)",
@@ -373,7 +373,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Vorfahrtsstraße (Z. 306) kennen - AGO Parkverbot!",
         "Ortstafel (Z. 310/311) verstehen - beendet Geschwindigkeitsbeschränkungen, gelb = 50 km/h",
@@ -402,7 +402,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Land- und forstwirtschaftliche Fahrzeuge (LoF) erkennen und deren Besonderheiten kennen",
         "Hinterradlenkung bei Traktoren verstehen (schwenkt nach INNEN aus!)",
@@ -434,7 +434,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Tastgeschwindigkeit definieren können (langsamer als Schrittgeschwindigkeit, nicht in StVO)",
         "Anwendungsbereiche kennen (unübersichtliche Kreuzung, Parken, Rückwärtsfahren, Grundfahraufgaben)",
@@ -459,7 +459,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "17 Schritte des Überholvorgangs kennen und anwenden",
         "Korrekte Reihenfolge beim Überholen einhalten",
@@ -483,7 +483,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Drei Blicktechniken unterscheiden können (Spiegelblick, Seitenblick, Schulterblick)",
         "Zweck jeder Blicktechnik kennen (rückwärtiger Verkehr, toter Winkel, Absicherung)",
