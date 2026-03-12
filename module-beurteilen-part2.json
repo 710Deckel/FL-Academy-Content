@@ -13,7 +13,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Überqueren von Kreuzungen mit Halt (Stoppschild) nach 5 Kriterien durchführen",
         "Fahrstreifenwechsel korrekt ausführen (Innenspiegel-Außenspiegel-Schulterblick)",
@@ -46,7 +46,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Rechtsabbiegen korrekt durchführen (5 Kriterien beachten)",
         "Schrittgeschwindigkeit bei Fahrzeugen über 3,5t innerorts kennen",
@@ -70,7 +70,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Rechtskurve korrekt fahren (Geschwindigkeit VOR Kurve reduzieren, im Scheitelpunkt beschleunigen)",
         "Sicherheitslinie in Kurven beachten (schwarze Linie am Fahrbahnrand)",
@@ -93,7 +93,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Alle mündlichen Prüfungsangaben kennen (3 Gruppen mit insgesamt über 40 Angaben)",
         "Unterschied theoretische vs. praktische Prüfung verstehen (Theorie in 12 Sprachen, Praxis NUR Deutsch!)",
@@ -118,7 +118,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
