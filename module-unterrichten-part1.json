@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Unterschied zwischen Methodik und Didaktik verstehen",
         "Lehrerzentrierte und schülerzentrierte Methoden unterscheiden können",
@@ -38,7 +38,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Struktur einer Theoriestunde (HEL-Prinzip) erklären und anwenden können",
         "Die drei Phasen einer praktischen Fahrstunde (VOR-SCHULUNG-NACH) strukturiert durchführen können",
@@ -61,7 +61,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Konzept Lernverkehrt verstehen (Definition umdrehen, Beispiele statt Definitionen)",
         "Transfer fördern statt Auswendiglernen (Anwendung statt Reproduktion)",
@@ -90,7 +90,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "3 Lernzielbereiche kennen (kognitiv, affektiv, psychomotorisch)",
         " 3 Wissensarten unterscheiden (deklarativ, prozessual, prozedural)",
