@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Begriff Stress definieren können",
         "Diestress und Eustress unterscheiden können",
@@ -40,7 +40,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Bedeutung von Pädagogik in der Fahrausbildung verstehen",
         "Den Unterschied zwischen Erziehung und Bildung erklären können",
@@ -65,7 +65,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 3 Lernzielbereiche (kognitiv, affektiv, psychomotorisch) unterscheiden können",
         "Richt-, Grob- und Feinziele erklären können",
@@ -90,7 +90,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den grundlegenden Aufbau des Gehirns kennen (vereinfacht)",
         "Die 4 Schritte der Informationsverarbeitung (Erkennen - Vorhersagen - Entscheiden - Handeln) erklären können",
@@ -115,7 +115,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Gedächtnisarten (Kurzzeitgedächtnis, Langzeitgedächtnis) unterscheiden können",
         "Implizites Lernen erklären können",
@@ -141,7 +141,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Begriff Motivation definieren können",
         "Intrinsische und extrinsische Motivation unterscheiden können",
@@ -167,7 +167,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Begriff Einstellung definieren und erklären können",
         "Einstellungen und ihr Einfluss auf das Fahrverhalten verstehen",
