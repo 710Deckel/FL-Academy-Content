@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "ie wichtigsten Paragraphen der StVZO (§16, 17, 19, 21, 22, 23, 29, 30) kennen und anwenden können",
         "Unterschied zwischen aktiver und passiver Sicherheit erklären können",
@@ -41,7 +41,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Höchstzulässige Fahrzeugabmessungen nach §32 StVZO kennen und anwenden können",
         "Unterschied zwischen ABE und Bauartgenehmigung (§22/§22a) erklären können",
@@ -68,7 +68,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Promillegrenzen und THC-Grenzwerte kennen und rechtliche Konsequenzen erklären können",
         "Unterschied zwischen Ordnungswidrigkeit und Straftat verstehen",
@@ -94,7 +94,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die komplette Struktur der Fahrerlaubnis-Verordnung (FeV) kennen",
         "Die 16 Ordnerfragen systematisch beantworten können",
@@ -122,7 +122,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Alle Kategorien von Herkunftsländern (EU/EWR, Abkommen, Drittstaaten) unterscheiden können",
         "Wohnsitzprinzip (§ 7 FeV) verstehen und anwenden",
@@ -154,7 +154,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 3 Kategorien der FeV systematisch unterscheiden (§ 4, § 5, § 6 FeV)",
         "Alle fahrerlaubnisfreien Fahrzeuge (§ 4 FeV) kennen und abgrenzen",
@@ -184,7 +184,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Legislative und Exekutive unterscheiden können",
         "Förmliche Gesetze vs. Verordnungen abgrenzen",
@@ -213,7 +213,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Recht als System verstehen (Definition, Funktion, Struktur)",
         "Rechtsordnung und Normenhierarchie beherrschen",
@@ -245,7 +245,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Rechtsmittel gegen Verwaltungsakte beherrschen (Widerspruch, Klage, Berufung, Revision)",
         "Lawinen-Theorie (Schweizer Berg-Modell) verstehen und erklären können",
@@ -277,7 +277,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Gefährdungshaftung (§ 7 StVG) vs. Verschuldenshaftung verstehen",
         "Halterbegriff definieren können (eigene Rechnung + Verfügungsgewalt)",
@@ -309,7 +309,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Kraftfahrzeug (KFZ) vs. Fahrzeug definieren können (§ 1 StVG)",
         "6 km/h-Grenze verstehen (§ 1 Abs. 2 StVZO - was ist KEIN Fahrzeug?)",
@@ -341,7 +341,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "§ 1 FeV (Grundregel der Zulassung) verstehen",
         "§ 2 FeV (Eingeschränkte Zulassung) kennen - gelbe Armbinden, Vorsorge",
@@ -377,7 +377,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Gesetzliche Systematik verstehen (StVG als Rahmengesetz, Verordnungen als Details)",
         "Hierarchie der Rechtsvorschriften kennen (StVG → StVO, StVZO, FZV, FeV)",
@@ -410,7 +410,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Grundregel des Parkens kennen und anwenden können",
         "Örtliche Halteverbote nach §12 Abs. 1 StVO aufzählen können",
@@ -434,7 +434,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Örtliche Parkverbote nach §12 Abs. 3 StVO kennen und anwenden können",
         "Parkverbote auf besonderen Straßen unterscheiden können",
@@ -461,7 +461,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Bedeutung von ständiger Vorsicht und gegenseitiger Rücksicht im Straßenverkehr verstehen",
         "Den Begriff öffentlicher Straßenverkehr definieren können",
@@ -488,7 +488,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Begriffe Straße, Fahrbahn und Fahrstreifen definieren können",
         "Das Rechtsfahrgebot nach § 2 Absatz 2 verstehen und anwenden können",
@@ -515,7 +515,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die gesetzliche Winterreifenpflicht nach § 2 Absatz 3a StVO kennen",
         "Winterliche Straßenverhältnisse definieren können (Glatteis, Schneeglätte, etc.)",
