@@ -10,7 +10,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die vier wichtigsten Kräfte beim Fahren (Gewichtskraft, Fliehkraft, Trägheit, Seitenführungskraft) erklären können",
         "Dynamische Achslastverlagerung beim Bremsen und Beschleunigen verstehen",
@@ -37,7 +37,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Alle lichttechnischen Einrichtungen nach §49a-54 StVZO kennen und zuordnen können",
         "Farbvorschriften für Licht (weiß, gelb, rot) anwenden können",
@@ -65,7 +65,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Stützlast definieren und ihre Bedeutung für die Fahrstabilität erklären können",
         "Folgen von zu hoher und zu niedriger Stützlast nennen können",
@@ -91,7 +91,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufbau und Funktion des Kraftstoffsystems verstehen",
         "Komponenten der Kraftstoffversorgung (Pumpe, Filter, Injektoren) kennen",
@@ -117,7 +117,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufgabe und Funktion der Zündanlage verstehen",
         "Unterschied Zündkerze (Otto) vs. Glühkerze (Diesel) kennen",
@@ -144,7 +144,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufbau und Funktion des Katalysators verstehen",
         "Unterschied 3-Wege-Katalysator (Otto) vs. Oxidationskatalysator (Diesel) kennen",
@@ -171,7 +171,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Funktionsprinzip des Viertakt-Dieselmotors verstehen",
         "Vier Arbeitstakte des Dieselmotors erklären können",
@@ -198,7 +198,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Funktionsprinzip des Viertakt-Ottomotors verstehen",
         "Vier Arbeitstakte des Ottomotors erklären können",
@@ -225,7 +225,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufgabe und Funktion des Kühlsystems verstehen",
         "Komponenten des Kühlkreislaufs kennen (Wasserpumpe, Thermostat, Kühler, etc.)",
@@ -252,7 +252,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Prinzip der Aufladung verstehen",
         "Funktionsprinzip des Turboladers beherrschen",
@@ -279,7 +279,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufgabe und Funktion des Getriebes verstehen",
         "Übersetzungsverhältnis und Drehmomentenwandlung beherrschen",
@@ -308,7 +308,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Aufgabe und Funktion der Kupplung verstehen",
         "Aufbau der Einscheiben-Trockenkupplung kennen",
@@ -336,7 +336,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Unterschiede zwischen Ottokraftstoff und Dieselkraftstoff verstehen",
         "Oktanzahl und deren Bedeutung kennen",
@@ -362,7 +362,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die fünf Hauptaufgaben des Motoröls kennen",
         "Viskosität und SAE-Klassen verstehen",
@@ -388,7 +388,7 @@
       "dauer": 120,
       "pruefungsrelevant": true,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "INHALT AUS Technik_Ordner_Eldar.html EINFÜGEN"
       ],
@@ -404,7 +404,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Das Funktionsprinzip von Scheibenbremsen und Trommelbremsen verstehen",
         "Die Komponenten des hydraulischen Bremssystems kennen (Hauptbremszylinder, Bremskreise, Bremsflüssigkeit)",
@@ -430,7 +430,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die drei Bewegungsachsen eines Fahrzeugs verstehen (Nicken, Wanken, Gieren)",
         "Ursachen und Folgen jeder Bewegung kennen",
@@ -456,7 +456,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die Funktion des Motorsteuergeräts (ECU) verstehen",
         "Die wichtigsten Sensoren und ihre Aufgaben kennen (Luftmassenmesser, Lambda-Sonde, Kurbelwellensensor)",
@@ -480,7 +480,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die Begriffe OT (Oberer Totpunkt) und UT (Unterer Totpunkt) erklären können",
         "Den Kolbenhub und seine Bedeutung verstehen",
@@ -505,7 +505,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Den Lambda-Wert (λ) verstehen und berechnen können",
         "Stöchiometrisches Gemisch (λ = 1) erklären können",
@@ -530,7 +530,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die Funktion der Abgasrückführung (AGR) verstehen",
         "Den Zweck der AGR erklären können (NOₓ-Reduktion!)",
@@ -554,7 +554,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Das Prinzip der hydraulischen Bremse verstehen",
         "Die Komponenten des Bremssystems benennen können",
@@ -579,7 +579,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Was ist Bremsfading und wie entsteht es?",
         "Die beiden Arten von Fading unterscheiden können (Belag vs. Flüssigkeit)",
@@ -604,7 +604,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die Funktion des ABS verstehen und erklären können",
         "Das Problem blockierender Räder erkennen",
@@ -629,7 +629,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die Funktion des ESP verstehen und erklären können",
         "Untersteuern und Übersteuern unterscheiden können",
@@ -654,7 +654,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die drei Achsen der Fahrzeugbewegung kennen",
         "Nicken (Pitch) verstehen und Ursachen kennen",
@@ -679,7 +679,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die Funktion des Differenzials verstehen",
         "Erklären können, warum ein Differenzial notwendig ist",
