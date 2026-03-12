@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "25 Methoden nach Heilig in 5 Gruppen kennen",
         "4 Feedback-Methoden beherrschen (Bekräftigen, Kritisieren, Korrigieren, Ermahnung)",
@@ -38,7 +38,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "FschAusbO § 3 kennen (sachlich richtig, anschaulich, verständlich, systematisch, selbstverantwortlich)",
         "Didaktische Reduktion verstehen (Vereinfachen ohne Verfälschung)",
@@ -63,7 +63,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "7 Qualitätskriterien für praktischen Unterricht kennen",
         "12 Qualitätskriterien für theoretischen Unterricht kennen",
@@ -88,7 +88,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
