@@ -10,7 +10,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "ie wichtigsten Paragraphen der StVZO (§16, 17, 19, 21, 22, 23, 29, 30) kennen und anwenden können",
         "Unterschied zwischen aktiver und passiver Sicherheit erklären können",
@@ -37,7 +37,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Höchstzulässige Fahrzeugabmessungen nach §32 StVZO kennen und anwenden können",
         "Unterschied zwischen ABE und Bauartgenehmigung (§22/§22a) erklären können",
@@ -63,7 +63,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die komplette Struktur der Fahrerlaubnis-Verordnung (FeV) kennen",
         "Die 16 Ordnerfragen systematisch beantworten können",
@@ -90,7 +90,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Alle Kategorien von Herkunftsländern (EU/EWR, Abkommen, Drittstaaten) unterscheiden können",
         "Wohnsitzprinzip (§ 7 FeV) verstehen und anwenden",
@@ -121,7 +121,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Die 3 Kategorien der FeV systematisch unterscheiden (§ 4, § 5, § 6 FeV)",
         "Alle fahrerlaubnisfreien Fahrzeuge (§ 4 FeV) kennen und abgrenzen",
@@ -150,7 +150,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Legislative und Exekutive unterscheiden können",
         "Förmliche Gesetze vs. Verordnungen abgrenzen",
@@ -178,7 +178,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Recht als System verstehen (Definition, Funktion, Struktur)",
         "Rechtsordnung und Normenhierarchie beherrschen",
@@ -209,7 +209,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Rechtsmittel gegen Verwaltungsakte beherrschen (Widerspruch, Klage, Berufung, Revision)",
         "Lawinen-Theorie (Schweizer Berg-Modell) verstehen und erklären können",
@@ -240,7 +240,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Gefährdungshaftung (§ 7 StVG) vs. Verschuldenshaftung verstehen",
         "Halterbegriff definieren können (eigene Rechnung + Verfügungsgewalt)",
@@ -271,7 +271,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Kraftfahrzeug (KFZ) vs. Fahrzeug definieren können (§ 1 StVG)",
         "6 km/h-Grenze verstehen (§ 1 Abs. 2 StVZO - was ist KEIN Fahrzeug?)",
@@ -302,7 +302,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "§ 1 FeV (Grundregel der Zulassung) verstehen",
         "§ 2 FeV (Eingeschränkte Zulassung) kennen - gelbe Armbinden, Vorsorge",
@@ -337,7 +337,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": false,
-      "status_dozent": false,
+      "status_kursleiter": false,
       "lernziele": [
         "Gesetzliche Systematik verstehen (StVG als Rahmengesetz, Verordnungen als Details)",
         "Hierarchie der Rechtsvorschriften kennen (StVG → StVO, StVZO, FZV, FeV)",
