@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "§3 Abs. 1 und Abs. 2a StVO erklären und anwenden können (PRÜFUNGSRELEVANT!)",
         "Die 7 Faktoren für angepasste Geschwindigkeit benennen und erläutern können",
@@ -37,7 +37,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 5-Stufen-Hierarchie umweltfreundlicher Mobilität erklären und anwenden können",
         "Eco-Driving-Prinzipien kennen und im Fahrschulalltag umsetzen können (mindestens 15% Spritersparnis)",
@@ -63,7 +63,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Aufmerksamkeit und Konzentration unterscheiden können",
         "Ursachen von Ablenkung benennen können",
@@ -88,7 +88,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "§1 Abs. 1 und Abs. 2 StVO auswendig wiedergeben können (PRÜFUNGSRELEVANT!)",
         "Ständige Vorsicht und gegenseitige Rücksicht erklären und im Verkehr umsetzen können",
@@ -112,7 +112,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 4 Grundformeln der Fahrphysik kennen und anwenden können",
         "Reaktionsweg, Bremsweg, Gefahrenbremsweg und Anhalteweg berechnen können",
@@ -141,7 +141,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "§1 StVO Kernsatz kennen und verstehen",
         "Die 3 Grundsätze (Vertrauensgrundsatz, Doppelte Sicherung, Defensivgrundsatz) erklären können",
@@ -170,7 +170,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Bedeutung des Sicherheitsabstands für die Verkehrssicherheit verstehen",
         "Die Faustformel halber Tachoabstand anwenden können",
@@ -208,7 +208,7 @@
       "dauer": 75,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Überholweg-Formel V₁ ÷ (V₁ - V₂) × L anwenden können",
         "Den Überholweg für verschiedene Geschwindigkeiten berechnen können",
@@ -239,7 +239,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die vollständigen Pflichten nach § 23 StVO kennen und anwenden",
         "Das Nutzungsverbot elektronischer Geräte nach § 23 Abs. 1a erklären können",
@@ -272,7 +272,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 4 Kategorien des ruhenden Verkehrs unterscheiden können",
         "Den Unterschied zwischen Halten und Parken präzise erklären können",
@@ -305,7 +305,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den KRITISCHEN Unterschied zwischen Fahrzeugschlange (Singular) und Fahrzeugschlangen (Plural) verstehen",
         "Präzise Definitionen für Fahrzeugschlangen anwenden können (innerorts 2-3, außerorts 5 Fahrzeuge)",
@@ -338,7 +338,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das A-B-C-D Mantra für §21 StVO beherrschen",
         "§21 Abs. 1 Personenanzahl (Regel 1+2 mit Ausnahmen) verstehen",
@@ -381,7 +381,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Grundregel der Gurtpflicht und alle 5 aktuellen Ausnahmen kennen",
         "Rollstuhlrückhaltesysteme und Rollstuhlnutzer-Rückhaltesysteme verstehen",
@@ -424,7 +424,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Geltungsbereich von §8 StVO verstehen (öffentlich vs. privat)",
         "Die Vorfahrtsregeln auf Parkplätzen GENAU anwenden können",
@@ -465,7 +465,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Bedingung bei Vollbremsung oder Ausweichbewegung verstehen",
         "Den Megatrailer-Fall kennen (Dach anheben, dann absenken)",
@@ -507,7 +507,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Zumutbarkeit kennen (rettender Sprung - Mauer, Felswand, Steilhang)",
         "Wissen, dass Fußgänger mit sperrigen Gegenständen NICHT links einordnen",
@@ -543,7 +543,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Unterschied zwischen abgesenktem (2-3cm) und niedrigem (22-23cm) Bordstein kennen",
         "Verstehen, dass abgesenkter Bordstein das Signal Vorrecht endet ist",
@@ -572,7 +572,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Verstehen, dass Zeichen 315 ein Gebotsschild ist (bildliche Darstellung verpflichtend)",
         "Die 3 Parkweisen bei Zeichen 315 kennen (vorwärts, schräg, parallel)",
