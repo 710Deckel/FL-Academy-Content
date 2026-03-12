@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das Prinzip der Verzahnung von Theorie und Praxis erklären und anwenden können",
         "Risikohomöostase und Risikokompensation verstehen und im Unterricht berücksichtigen können",
@@ -38,7 +38,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das Curriculare Gesamtsystem mit seinen 4 Ecken erklären können",
         "Lernzielarten (Richtziel, Grobziel, Feinziel) unterscheiden und formulieren können",
@@ -66,7 +66,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das didaktische Dreieck (Fahrlehrer - Fahrschüler - Inhalt) kennen und erklären können",
         "Die 6 wechselseitigen Beziehungen verstehen und anwenden können",
@@ -95,7 +95,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die oberste Zielebene (§1 FahrschAusbO) kennen: Der sichere, verantwortungsvolle und umweltbewusste Verkehrsteilnehmer",
         "Die 3 Verhaltensbereiche (Kognitiv, Affektiv, Psychomotorisch) unterscheiden und anwenden können",
@@ -126,7 +126,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Didactica Magna von Comenius kennen und 8 Prinzipien für Fahrschule anwenden können",
         "Die 4 Bildungsstufen nach Comenius auf Fahrausbildung übertragen können",
