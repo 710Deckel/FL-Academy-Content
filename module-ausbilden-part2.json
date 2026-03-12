@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Den Unterschied zwischen Fähigkeiten und Fertigkeiten erklären können",
         "Beispiele für Fähigkeiten und Fertigkeiten im Straßenverkehr nennen können",
@@ -40,7 +40,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Abfahrtskontrolle systematisch durchführen können",
         "Sicherheitsrelevante Punkte kennen (Reifen, Beleuchtung, Flüssigkeiten)",
@@ -65,7 +65,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Korrekte Lenkradhaltungen kennen und anwenden (9-3-Uhr, Viertelstellung, Hebeltechnik)",
         "Unterschied zwischen degressivem und progressivem Bremsen verstehen",
@@ -90,7 +90,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
