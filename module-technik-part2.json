@@ -13,7 +13,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Funktion des ESP verstehen und erklären können",
         "Untersteuern und Übersteuern unterscheiden können",
@@ -39,7 +39,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die drei Achsen der Fahrzeugbewegung kennen",
         "Nicken (Pitch) verstehen und Ursachen kennen",
@@ -65,7 +65,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Funktion des Differenzials verstehen",
         "Erklären können, warum ein Differenzial notwendig ist",
@@ -91,7 +91,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Gefälle und Steigungen in Prozent berechnen und verstehen",
         "Moderne Bremssysteme (ABS, ESP, ASR) und ihre Funktionen unterscheiden können",
@@ -123,7 +123,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Auswirkungen von zu niedrigem, optimalem und zu hohem Reifendruck verstehen",
         "ADAC-Empfehlungen zur Reifendruckkontrolle kennen und anwenden können",
@@ -151,7 +151,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Das Wärme-Luft-Diagramm verstehen und Energieverteilung im Motor erklären können",
         "Die vier Hauptverlustarten benennen und ihre Größenordnung kennen",
@@ -178,7 +178,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Zündreihenfolge von 4-, 6-, 8- und 12-Zylinder-Motoren kennen",
         "Merksätze für verschiedene Zündreihenfolgen anwenden können",
@@ -205,7 +205,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Reaktionsweg und Bremsweg berechnen können (Formeln SR und SB)",
         "Den Anhalteweg als Summe aus Reaktionsweg und Bremsweg verstehen",
@@ -233,7 +233,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Sicht- und Funktionsprüfung der Bremsanlage durchführen können",
         "Den Pedal-Test (Motor aus/an) verstehen und anwenden können",
@@ -258,7 +258,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die GSR II Pflichtsysteme seit 07.07.2024 kennen und erklären können",
         "Die 8 Hauptsysteme für PKW/Transporter benennen können (AEB, LKA, ISA, Müdigkeitswarner, Rückfahrassistent, EDR, ESS, TPMS)",
@@ -283,7 +283,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Verstehen, dass Reifenbreite NICHT gleich mehr Grip bedeutet (Kontaktfläche abhängig von Gewicht und Luftdruck)",
         "Reifenkennung lesen und verstehen können (z.B. 255/50 R18 95V)",
@@ -309,7 +309,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Hauptkomponenten des Fahrwerks kennen (Reifen, Felgen, Radaufhängung, Stoßdämpfer, Federung)",
         "Doppelquerlenker-Einzelradaufhängung verstehen",
@@ -336,7 +336,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 5 Bremskraftverteilungssysteme kennen und unterscheiden können",
         "Vor- und Nachteile der einzelnen Systeme benennen können",
@@ -359,7 +359,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die 8 Antriebsarten unterscheiden können (Mikro-/Mild-/Parallel-/Seriell-/Voll-Hybrid, PHEV, BEV, FCEV)",
         "Farbkennungen im Motorraum kennen und Hochvolt-Sicherheit verstehen (Orange = Lebensgefahr!)",
@@ -385,7 +385,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Komponenten einer Anhängerbremse benennen können",
         "Den Unterschied zwischen Auflauf- und Ablaufbremse erklären können",
@@ -410,7 +410,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die Herkunft und Herstellung von Diesel- und Ottokraftstoffen erklären können",
         "Den Unterschied zwischen fossilem Diesel und HVO100 beschreiben können",
@@ -435,7 +435,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die zwei Hauptaufgaben von Getrieben (Drehzahl- und Drehmomentwandlung) erklären können",
         "Die 5 Antriebskonzepte (Front, Heck, Mittel, Transaxle, Unterflur) unterscheiden können",
@@ -466,7 +466,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Die verschiedenen Sicherheitsreifen-Typen unterscheiden können (Runflat, PAX, Self-Supporting)",
         "Ventiltypen kennen und zuordnen können (Schlauch, Einsteck, Einschraub, RDKS)",
@@ -491,7 +491,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Funktionsprinzip des Elektromotors verstehen (Elektromagnetismus, Lorentzkraft)",
         "Die 3 E-Motor-Arten unterscheiden können (DC, Asynchron, PSM)",
@@ -517,7 +517,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Gesetzliche Grundlagen kennen (StVZO, StVO, VDI 2700, EN 12195-2)",
         "Ladungssicherungsmittel unterscheiden (Zurrgurte, Antirutschmatten, Keile, Netze, Ketten)",
@@ -549,7 +549,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Definition Ladung nach StVO verstehen (alles außer Personen!)",
         " § 22 StVO komplett kennen (Absätze 1-5: Sicherung, Maße, Überstand vorne/hinten/seitlich)",
@@ -582,7 +582,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
