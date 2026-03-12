@@ -13,7 +13,7 @@
       "dauer": 180,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         "Alle 143 typischen Prüfungsfragen kennen",
         "Jede Frage selbstständig beantworten können",
@@ -36,7 +36,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_dozent": "",
+      "status_kursleiter": "",
       "lernziele": [
         ""
       ],
