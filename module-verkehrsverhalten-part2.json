@@ -4,16 +4,91 @@
   "part": 2,
   "totalParts": 2,
   "version": "3.0.0",
-  "lastUpdate": "2026-03-17T11:58:12.208282Z",
+  "lastUpdate": "2026-03-17T12:32:17.990Z",
   "lektionenCount": 19,
   "lektionen": [
+    {
+      "id": "verkehrsverhalten_1773749285377",
+      "titel": "Jugendliche Fahrschüler  -  Verkehrsverhalten",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Aspekte von 'Überblick Jugendliche Fahrschüler' verstehen und anwenden können",
+        "Die Aspekte von 'Entwicklungspsychologie' verstehen und anwenden können",
+        "Die Aspekte von 'Objektive und Subjektive Sicherheit' verstehen und anwenden können",
+        "Die Aspekte von 'Bedürfnispyramide nach Maslow' verstehen und anwenden können",
+        "Die Aspekte von 'Empfehlungen für den Fahrunterricht' verstehen und anwenden können"
+      ],
+      "inhalt_anwaerter": "Überblick Jugendliche Fahrschüler\nDer Unterricht mit jugendlichen Fahrschülern erfordert besonderes Verständnis für ihre Entwicklungsphase. Die wichtigsten Themenbereiche umfassen Entwicklungspsychologie, Risikoverhalten, objektive und subjektive Sicherheit sowie die Bedürfnispyramide nach Maslow.\n\nEntwicklungspsychologie\nJugendliche befinden sich in einer Phase intensiver körperlicher, geistiger und sozialer Veränderung. Diese Phase beeinflusst ihr Verhalten im Straßenverkehr erheblich.\n\n• HohesSelbstvertrauenin die eigenen Fähigkeiten (oft überschätzt)\n• Starker Einfluss derPeer-Gruppe(Gleichaltrige)\n• AusgeprägteRisikobereitschaft\n• Noch nicht vollständig ausgebildeteImpulskontrolle\n• Emotionale Instabilität und Stimmungsschwankungen\n• Bedürfnis nachAnerkennung und Bestätigung\n\n• Erhöhte Risikobereitschaft, insbesondere in Gruppen\n• Unterschätzung von Gefahren (subjektive Sicherheit > objektive Realität)\n• Überschreitung zulässiger Höchstgeschwindigkeiten\n• Geringere Bereitschaft, Sicherheitsgurte zu verwenden\n• Ablenkung durch Smartphones und andere Medien\n\nObjektive und Subjektive Sicherheit\nObjektive Sicherheit | Subjektive Sicherheit\nMessbar durch Statistiken (Unfallzahlen) | Persönliche Einschätzung der eigenen Sicherheit\nTatsächliches Risiko vorhanden | Gefühltes, empfundenes Risiko\nKann durch Ausbildung verbessert werden | Kann von der objektiven Sicherheit stark abweichen\nAußenperspektive (Fahrlehrer, Statistik) | Innenperspektive (Fahrschüler selbst)\n\nBedürfnispyramide nach Maslow\nAbraham Maslow ordnete menschliche Bedürfnisse in einer Hierarchie. Erst wenn untere Bedürfnisse befriedigt sind, streben Menschen nach höheren.\n\n• Sicherheitsbedürfnis ansprechen: Verkehrsregeln schützen alle\n• Soziale Einbindung: Gruppenübungen, gemeinsames Lernen\n• Anerkennung geben: Positive Verstärkung bei Fortschritten\n• Selbstverwirklichung fördern: Eigenverantwortliches Fahren anstreben\n\nEmpfehlungen für den Fahrunterricht\n• Klare, einfache Sprache – keine Fachbegriffe ohne Erklärung\n• Positive Verstärkung statt Kritik im Vordergrund\n• Regeln erklären und begründen (warum, nicht nur was)\n• Respektvoller Umgang auf Augenhöhe\n• Situationsbezogene Beispiele aus der Lebenswelt Jugendlicher\n\nProblem | Mögliche Reaktion des Fahrlehrers\nAblenkung durch Smartphone | Sachliche Erklärung der Gefahr, ggf. Fahrstunde abbrechen\nÜberschreitung der Geschwindigkeit | Sofortige Korrektur, Gespräch über Folgen\nNervosität / Prüfungsangst | Beruhigendes Gespräch, realistische Ziele setzen\nMotivationslosigkeit | Fortschritte sichtbar machen, Ziele verdeutlichen\n\nBeurteilungsprobleme\n• Halo-Effekt:Ein Merkmal überstrahlt die gesamte Beurteilung\n• Sympathie-/Antipathiefehler:Persönliche Zuneigung beeinflusst Bewertung\n• Primacy-Effekt:Der erste Eindruck prägt die Gesamtbewertung\n• Fundamentaler Attributionsfehler:Fehler werden der Person, nicht der Situation zugeschrieben",
+      "beispiele": [
+        "Beispiel 1: Überblick: Jugendliche Fahrschüler\nSituation: Ein Fahrlehrer-Anwaerter erklaert im Kurs das Thema 'Überblick: Jugendliche Fahrschüler'.\nDer Unterricht mit jugendlichen Fahrschülern erfordert besonderes Verständnis für ihre Entwicklungsphase. Die wichtigsten Themenbereiche umfassen Entwicklungspsychologie, Risikoverhalten, objektive und subjektive Sicherh\nMerke: Diesen Inhalt immer mit konkreten Fahrsituationen verknuepfen.",
+        "Beispiel 2: Typischer Fehler bei 'Entwicklungspsychologie'\nSituation: Ein Teilnehmer verwechselt Entwicklungspsychologie mit einem aehnlichen Begriff.\nFalsch: Der Begriff wird oberflaechlich oder falsch erklaert.\nRichtig: Jugendliche befinden sich in einer Phase intensiver körperlicher, geistiger und sozialer Veränderung. Diese Phase beeinflusst ihr Verhalten im Straßenverkehr erheblich. Hohes Selbstvertrauen in die ei\nMerke: Auf genaue Begriffsdefinition achten - pruefungsrelevant!",
+        "Beispiel 3: Praxistransfer - 1. Struktur der Entwicklungsphase\nSituation: Anwendung im Fahrunterricht oder der Theorieeinheit.\nObjektive Sicherheit | Subjektive Sicherheit\nMessbar durch Statistiken (Unfallzahlen) | Persönliche Einschätzung der eigenen Sicherheit\nTatsächliches Risiko vorhanden | Gefühltes, empfundenes Risiko\nKann durch Ausbildung verbessert werden | Kann von der objektiven Sicherheit star\nMerke: Theorie und Praxis immer eng verbinden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - VV_01_Jugendliche_Fahrschueler.html\n\nEinstieg (10 Min):\nMethode: Problemorientierter Einstieg\nAblauf: Kursleiter stellt eine reale Situation vor, die 'Überblick: Jugendliche Fahrschüler' beruehrt. Anwaerter diskutieren, was sie bereits wissen und was unklar ist.\nZiel: Vorwissen aktivieren, Relevanz der Einheit verdeutlichen.\n\nErarbeitung (60 Min):\nPhase 1 - Überblick: Jugendliche Fahrschüler (20 Min):\nKursleiter erarbeitet mit den Teilnehmern die Grundlagen. Der Unterricht mit jugendlichen Fahrschülern erfordert besonderes Verständnis für ihre Entwicklungsphase. Die wichtigste\nTeilnehmer erhalten Leitfragen zur Selbsterarbeitung.\n\nPhase 2 - Entwicklungspsychologie (20 Min):\nGruppenarbeit oder gelenktes Unterrichtsgespraech. Jugendliche befinden sich in einer Phase intensiver körperlicher, geistiger und sozialer Veränderung. Diese Phase beeinf\nErgebnisse werden im Plenum vorgestellt und besprochen.\n\nPhase 3 - 1. Struktur der Entwicklungsphase (20 Min):\nFallbeispiele aus dem Fahrschulalltag. Objektive Sicherheit Subjektive Sicherheit Messbar durch Statistiken (Unfallzahlen) Persönliche Einschätzung der eigenen\nAnwaerter wenden das Gelernte auf neue Situationen an.\n\nSicherung (15 Min):\nMethode: Blitzlicht / muendliche Abfrage\nKursleiter stellt 3-4 gezielte Fragen zum Stundeninhalt. Offene Punkte werden gemeinsam geklaert.\n\nAbschluss (5 Min):\nZusammenfassung der Kernaussagen zu 'VV_01_Jugendliche_Fahrschueler.html'. Hinweis auf pruefungsrelevante Inhalte und Ausblick auf die naechste Einheit.",
+      "didaktik": "Worauf achten?\n- Das Thema 'Überblick: Jugendliche Fahrschüler' wirkt oft abstrakt - immer mit konkreten Beispielen aus dem Fahrschulalltag arbeiten.\n- Fachbegriffe sauber einfuehren und im Verlauf der Stunde wiederholen.\n- Alle Teilnehmer aktiv einbeziehen - gezielte Fragen auch an ruhigere Teilnehmer stellen.\n\nSchwierige Stellen:\n- Die Abgrenzung zwischen 'Überblick: Jugendliche Fahrschüler' und 'Entwicklungspsychologie' bereitet haeufig Schwierigkeiten - klare Gegenueberstellung empfehlenswert.\n- Praxistransfer gelingt vielen erst durch mehrere Beispiele - genuegend Zeit einplanen.\n\nMethodenvorschlaege:\n- Kartenabfrage zu Beginn: Was wissen die Teilnehmer bereits?\n- Reale Fallbeispiele aus Fahrschulpraxis nutzen (z.B. Unfallberichte, Paragraphentexte).\n- Partnerarbeit bei der Erarbeitung von '1. Struktur der Entwicklungsphase' einsetzen.\n\nQuerverbindungen:\n- Verbindung zu 'Entwicklungspsychologie' herstellen.\n- Pruefungsrelevanz des Themas deutlich kommunizieren.",
+      "pruefungsfragen_text": "Frage 1: Was versteht man unter 'Überblick: Jugendliche Fahrschüler'? Erklaeren Sie den Begriff und nennen Sie zwei Praxisbeispiele.\nAntwort: Der Unterricht mit jugendlichen Fahrschülern erfordert besonderes Verständnis für ihre Entwicklungsphase. Die wichtigsten Themenbereiche umfassen Entwicklungspsychologie, Risikoverhalten, objektive un Praxisbeispiele aus dem Fahrschulalltag verdeutlichen diesen Begriff und helfen bei der Anwendung.\n\nFrage 2: Beschreiben Sie den Unterschied zwischen 'Überblick: Jugendliche Fahrschüler' und 'Entwicklungspsychologie'. Warum ist diese Abgrenzung fuer Fahrlehrer wichtig?\nAntwort: Waehrend 'Überblick: Jugendliche Fahrschüler' sich auf Der Unterricht mit jugendlichen Fahrschülern erfordert besonderes Verständnis fü bezieht, umfasst 'Entwicklungspsychologie' Jugendliche befinden sich in einer Phase intensiver körperlicher, geistiger und . Fuer Fahrlehrer ist diese Unterscheidung wichtig, um den Unterricht praezise zu planen und klare Lernziele zu formulieren.\n\nFrage 3: Wie wenden Sie '1. Struktur der Entwicklungsphase' konkret im Fahrunterricht an? Geben Sie ein strukturiertes Beispiel.\nAntwort: Im Fahrunterricht wird '1. Struktur der Entwicklungsphase' Objektive Sicherheit Subjektive Sicherheit Messbar durch Statistiken (Unfallzahlen) Persönliche Einschätzung der eigenen. Der Kursleiter plant die Unterrichtseinheit so, dass Theorie und Praxis eng verknuepft sind, gibt strukturiertes Feedback und foerdert nachhaltiges Lernen durch Wiederholung und Transfer.",
+      "pruefungsfragen": []
+    },
+    {
+      "id": "verkehrsverhalten_1773749285409",
+      "titel": "Reaktion & Wahrnehmung  -  Verkehrsverhalten",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Aspekte von 'Reaktionsfähigkeit  Reaktionszeit' verstehen und anwenden können",
+        "Die Aspekte von 'Das menschliche Gehirn' verstehen und anwenden können",
+        "Die Aspekte von 'Automatismen' verstehen und anwenden können",
+        "Kernkonzepte der Lektion kennen und erklären können",
+        "Praktische Anwendungen in realistischen Szenarien verstehen"
+      ],
+      "inhalt_anwaerter": "Reaktionsfähigkeit  Reaktionszeit\nDie Reaktionsfähigkeit ist eine der entscheidenden psychomotorischen Fähigkeiten im Straßenverkehr. Sie beschreibt die Zeitspanne zwischen dem Aufnehmen eines Reizes und dem Beginn der motorischen Antwort.\n\nDas menschliche Gehirn\nDas Gehirn ist das zentrale Steuerorgan für alle Wahrnehmungs-, Denk- und Reaktionsprozesse beim Fahren.\n\nBereich | Funktion\nGroßhirnrinde (Cortex) | Bewusstes Denken, Planung, Entscheidungen\nKleinhirn (Cerebellum) | Koordination, Motorik, Gleichgewicht\nLimbisches System | Emotionen, Motivation, Gedächtnis\nHirnstamm | Grundfunktionen: Atmung, Herzschlag, Wachheit\n\nAutomatismen\nAutomatismen sind hochgeübte Handlungsabläufe, die ohne bewusste Steuerung und mit minimalem Aufwand ausgeführt werden. Sie entstehen durch vielfache Wiederholung (Übung).\n\n• Entlasten das Bewusstsein für komplexere Aufgaben\n• Ermöglichen schnellere Reaktionen\n• Sind weniger fehleranfällig in Routinesituationen\n• Beispiele: Kupplung betätigen, Schulterblick, Blinken\n\nPhase | Merkmal | Beispiel\n1. Kognitive Phase | Bewusstes, langsames Ausführen; viele Fehler | Erster Anfahrversuch\n2. Assoziative Phase | Flüssiger, weniger Fehler, noch nicht automatisch | Nach einigen Fahrstunden\n3. Autonome Phase | Automatisch, kaum Aufmerksamkeit nötig | Erfahrener Fahrer",
+      "beispiele": [
+        "Beispiel 1: Reaktionsfähigkeit & Reaktionszeit\nSituation: Ein Fahrlehrer-Anwaerter erklaert im Kurs das Thema 'Reaktionsfähigkeit & Reaktionszeit'.\nDie Reaktionsfähigkeit ist eine der entscheidenden psychomotorischen Fähigkeiten im Straßenverkehr. Sie beschreibt die Zeitspanne zwischen dem Aufnehmen eines Reizes und dem Beginn der motorischen Antwort. Verlängert dur\nMerke: Diesen Inhalt immer mit konkreten Fahrsituationen verknuepfen.",
+        "Beispiel 2: Typischer Fehler bei 'Reaktionszeit – Definition'\nSituation: Ein Teilnehmer verwechselt Reaktionszeit – Definition mit einem aehnlichen Begriff.\nFalsch: Der Begriff wird oberflaechlich oder falsch erklaert.\nRichtig: Das Gehirn ist das zentrale Steuerorgan für alle Wahrnehmungs-, Denk- und Reaktionsprozesse beim Fahren. Bereich Funktion Großhirnrinde (Cortex) Bewusstes Denken, Planung, Entscheidungen Kleinhirn (Ce\nMerke: Auf genaue Begriffsdefinition achten - pruefungsrelevant!",
+        "Beispiel 3: Praxistransfer - Einflussfaktoren auf die Reaktionszeit\nSituation: Anwendung im Fahrunterricht oder der Theorieeinheit.\nBereich | Funktion\nGroßhirnrinde (Cortex) | Bewusstes Denken, Planung, Entscheidungen\nKleinhirn (Cerebellum) | Koordination, Motorik, Gleichgewicht\nLimbisches System | Emotionen, Motivation, Gedächtnis\nHirnstamm | Grundfunktionen: Atmung, Herzschlag, Wachheit\nMerke: Theorie und Praxis immer eng verbinden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - VV_02_Reaktion_Wahrnehmung.html\n\nEinstieg (10 Min):\nMethode: Problemorientierter Einstieg\nAblauf: Kursleiter stellt eine reale Situation vor, die 'Reaktionsfähigkeit & Reaktionszeit' beruehrt. Anwaerter diskutieren, was sie bereits wissen und was unklar ist.\nZiel: Vorwissen aktivieren, Relevanz der Einheit verdeutlichen.\n\nErarbeitung (60 Min):\nPhase 1 - Reaktionsfähigkeit & Reaktionszeit (20 Min):\nKursleiter erarbeitet mit den Teilnehmern die Grundlagen. Die Reaktionsfähigkeit ist eine der entscheidenden psychomotorischen Fähigkeiten im Straßenverkehr. Sie beschreibt die Z\nTeilnehmer erhalten Leitfragen zur Selbsterarbeitung.\n\nPhase 2 - Reaktionszeit – Definition (20 Min):\nGruppenarbeit oder gelenktes Unterrichtsgespraech. Das Gehirn ist das zentrale Steuerorgan für alle Wahrnehmungs-, Denk- und Reaktionsprozesse beim Fahren. Bereich Funktio\nErgebnisse werden im Plenum vorgestellt und besprochen.\n\nPhase 3 - Einflussfaktoren auf die Reaktionszeit (20 Min):\nFallbeispiele aus dem Fahrschulalltag. 1. Ultrakurzzeitgedächtnis (sensorischer Speicher) Dauer: Millisekunden bis ca. 1 Sek. Kapazität: unbegrenzt Funktion: E\nAnwaerter wenden das Gelernte auf neue Situationen an.\n\nSicherung (15 Min):\nMethode: Blitzlicht / muendliche Abfrage\nKursleiter stellt 3-4 gezielte Fragen zum Stundeninhalt. Offene Punkte werden gemeinsam geklaert.\n\nAbschluss (5 Min):\nZusammenfassung der Kernaussagen zu 'VV_02_Reaktion_Wahrnehmung.html'. Hinweis auf pruefungsrelevante Inhalte und Ausblick auf die naechste Einheit.",
+      "didaktik": "Worauf achten?\n- Das Thema 'Reaktionsfähigkeit & Reaktionszeit' wirkt oft abstrakt - immer mit konkreten Beispielen aus dem Fahrschulalltag arbeiten.\n- Fachbegriffe sauber einfuehren und im Verlauf der Stunde wiederholen.\n- Alle Teilnehmer aktiv einbeziehen - gezielte Fragen auch an ruhigere Teilnehmer stellen.\n\nSchwierige Stellen:\n- Die Abgrenzung zwischen 'Reaktionsfähigkeit & Reaktionszeit' und 'Reaktionszeit – Definition' bereitet haeufig Schwierigkeiten - klare Gegenueberstellung empfehlenswert.\n- Praxistransfer gelingt vielen erst durch mehrere Beispiele - genuegend Zeit einplanen.\n\nMethodenvorschlaege:\n- Kartenabfrage zu Beginn: Was wissen die Teilnehmer bereits?\n- Reale Fallbeispiele aus Fahrschulpraxis nutzen (z.B. Unfallberichte, Paragraphentexte).\n- Partnerarbeit bei der Erarbeitung von 'Einflussfaktoren auf die Reaktionszeit' einsetzen.\n\nQuerverbindungen:\n- Verbindung zu 'Reaktionszeit – Definition' herstellen.\n- Pruefungsrelevanz des Themas deutlich kommunizieren.",
+      "pruefungsfragen_text": "Frage 1: Was versteht man unter 'Reaktionsfähigkeit & Reaktionszeit'? Erklaeren Sie den Begriff und nennen Sie zwei Praxisbeispiele.\nAntwort: Die Reaktionsfähigkeit ist eine der entscheidenden psychomotorischen Fähigkeiten im Straßenverkehr. Sie beschreibt die Zeitspanne zwischen dem Aufnehmen eines Reizes und dem Beginn der motorischen Ant Praxisbeispiele aus dem Fahrschulalltag verdeutlichen diesen Begriff und helfen bei der Anwendung.\n\nFrage 2: Beschreiben Sie den Unterschied zwischen 'Reaktionsfähigkeit & Reaktionszeit' und 'Reaktionszeit – Definition'. Warum ist diese Abgrenzung fuer Fahrlehrer wichtig?\nAntwort: Waehrend 'Reaktionsfähigkeit & Reaktionszeit' sich auf Die Reaktionsfähigkeit ist eine der entscheidenden psychomotorischen Fähigkeiten bezieht, umfasst 'Reaktionszeit – Definition' Das Gehirn ist das zentrale Steuerorgan für alle Wahrnehmungs-, Denk- und Reakti. Fuer Fahrlehrer ist diese Unterscheidung wichtig, um den Unterricht praezise zu planen und klare Lernziele zu formulieren.\n\nFrage 3: Wie wenden Sie 'Einflussfaktoren auf die Reaktionszeit' konkret im Fahrunterricht an? Geben Sie ein strukturiertes Beispiel.\nAntwort: Im Fahrunterricht wird 'Einflussfaktoren auf die Reaktionszeit' 1. Ultrakurzzeitgedächtnis (sensorischer Speicher) Dauer: Millisekunden bis ca. 1 Sek. Kapazität: unbegrenzt Funktion: E. Der Kursleiter plant die Unterrichtseinheit so, dass Theorie und Praxis eng verknuepft sind, gibt strukturiertes Feedback und foerdert nachhaltiges Lernen durch Wiederholung und Transfer.",
+      "pruefungsfragen": []
+    },
+    {
+      "id": "verkehrsverhalten_1773749285448",
+      "titel": "SMART - Ziele & 3 - B - Regel im Verkehrsverhalten",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Aspekte von 'SMART-Ziele in der Fahrausbildung' verstehen und anwenden können",
+        "Die Aspekte von '3Die 3-B-Regel im Verkehrsverhalten' verstehen und anwenden können",
+        "Die Aspekte von '1 StVO  Grundregel des Straßenverkehrs' verstehen und anwenden können",
+        "Die Aspekte von 'Sozial-Differenzierung im Verkehr ( 6 StVO)' verstehen und anwenden können",
+        "Die Aspekte von 'Taktisches Fahren  10 Grundregeln' verstehen und anwenden können"
+      ],
+      "inhalt_anwaerter": "SMART-Ziele in der Fahrausbildung\nSMART ist eine Methode zur Formulierung von Lern- und Ausbildungszielen. Sie hilft dem Fahrlehrer, klare und überprüfbare Ziele für jeden Fahrschüler zu setzen.\n\nSchlechtes Ziel | SMART-Ziel\n„Fahrschüler soll besser bremsen.\" | „Am Ende dieser Fahrstunde kann der Fahrschüler eine Gefahrenbremsung aus 50 km/h innerhalb von 15 m einleiten – ohne zögern.\"\n„Rückwärtsfahren verbessern.\" | „Nach 3 Übungsfahrten kann der Fahrschüler den Anhänger rückwärts um eine 90°-Ecke lenken, ohne abzubrechen.\"\n„Vorfahrtregeln lernen.\" | „Am Ende der Theorieeinheit kann der Fahrschüler alle 5 Prüfungsfragen zur Vorfahrt korrekt beantworten.\"\n\n3Die 3-B-Regel im Verkehrsverhalten\nDie 3-B-Regel beschreibt die drei Grundvoraussetzungen für verantwortungsvolles Verkehrsverhalten:Bereitschaft, Befähigung, Beherrschung(auch: Wille, Vorkehrung, Kontrolle).\n\n1 StVO  Grundregel des Straßenverkehrs\n§ 1 StVO ist die wichtigste Grundregel für alle Verkehrsteilnehmer. Sie gilt immer – auch wenn keine Schilder vorhanden sind.\n\n• Abstand:Deutlicher Sicherheitsabstand zum vorausfahrenden Fahrzeug\n• Erkennbarkeit:Rechtzeitig bremsen, korrekt einordnen, Blinker setzen\n• Grenzen kennen:Eigene Leistungsgrenzen und Fahrzeugphysik respektieren\n• Reserven:Sicherheitsreserven einplanen, nicht bis an die Grenzen fahren\n• Antizipation:Fehler anderer Verkehrsteilnehmer vorhersehen\n• Korrekheit:Eigene Fehler erkennen und korrigieren\n\nSozial-Differenzierung im Verkehr ( 6 StVO)\n§ 6 StVO regelt das Vorbeifahren an Hindernissen und Personen, die Hilfe benötigen. Darüber hinaus verlangt das Grundprinzip der sozialen Differenzierung im Straßenverkehr, bestimmte schwächere Verkehrsteilnehmer besonders zu schützen.\n\nGruppe | Besonderheit | Verhalten des Fahrlehrers / FS\nKinder | Unerwartet handeln, rennen auf die Straße | Schritttempo in der Nähe, hohe Aufmerksamkeit\nÄltere Menschen | Langsamer, eventuell eingeschränkte Wahrnehmung | Geduld, keine Vordrängel-Situationen schaffen\nMenschen mit Behinderung | Rollstuhl, Gehilfen, eingeschränkte Mobilität | Vorrang lassen, breite Durchfahrt ermöglichen\nRadfahrer | Schutzstreifen nicht immer vorhanden, gefährdet | Mindestabstand 1,5 m (innerorts), 2 m (außerorts)\nFußgänger | Insbesondere an Fußgängerüberwegen | Warten lassen ist strafbar – Fahrt unterbrechen!\n\nTaktisches Fahren  10 Grundregeln\nTaktisches Fahren verbindet Regelkenntnisse, Fahrzeugtechnik und Situationswahrnehmung zu einem sicheren Fahrverhalten. Als Gedächtnisstütze dienen die „10 taktischen Regeln\":",
+      "beispiele": [
+        "Beispiel 1: SMART-Ziele in der Fahrausbildung\nSituation: Ein Fahrlehrer-Anwaerter erklaert im Kurs das Thema 'SMART-Ziele in der Fahrausbildung'.\nSMART ist eine Methode zur Formulierung von Lern- und Ausbildungszielen. Sie hilft dem Fahrlehrer, klare und überprüfbare Ziele für jeden Fahrschüler zu setzen. Schlechtes Ziel SMART-Ziel „Fahrschüler soll besser bremsen\nMerke: Diesen Inhalt immer mit konkreten Fahrsituationen verknuepfen.",
+        "Beispiel 2: Typischer Fehler bei 'SMART in der Praxis – Beispiele'\nSituation: Ein Teilnehmer verwechselt SMART in der Praxis – Beispiele mit einem aehnlichen Begriff.\nFalsch: Der Begriff wird oberflaechlich oder falsch erklaert.\nRichtig: Die 3-B-Regel beschreibt die drei Grundvoraussetzungen für verantwortungsvolles Verkehrsverhalten: Bereitschaft, Befähigung, Beherrschung (auch: Wille, Vorkehrung, Kontrolle). Wille / Bereitschaft Mot\nMerke: Auf genaue Begriffsdefinition achten - pruefungsrelevant!",
+        "Beispiel 3: Praxistransfer - 3⃣ Die 3-B-Regel im Verkehrsverhalten\nSituation: Anwendung im Fahrunterricht oder der Theorieeinheit.\nSchlechtes Ziel | SMART-Ziel\n„Fahrschüler soll besser bremsen.\" | „Am Ende dieser Fahrstunde kann der Fahrschüler eine Gefahrenbremsung aus 50 km/h innerhalb von 15 m einleiten – ohne zögern.\"\n„Rückwärtsfahren verbessern.\" | „Nach 3 Übungsfahrten kann der Fahrschüler den Anhänger\nMerke: Theorie und Praxis immer eng verbinden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - VV_03_Verkehrsverhalten_SMART.html\n\nEinstieg (10 Min):\nMethode: Problemorientierter Einstieg\nAblauf: Kursleiter stellt eine reale Situation vor, die 'SMART-Ziele in der Fahrausbildung' beruehrt. Anwaerter diskutieren, was sie bereits wissen und was unklar ist.\nZiel: Vorwissen aktivieren, Relevanz der Einheit verdeutlichen.\n\nErarbeitung (60 Min):\nPhase 1 - SMART-Ziele in der Fahrausbildung (20 Min):\nKursleiter erarbeitet mit den Teilnehmern die Grundlagen. SMART ist eine Methode zur Formulierung von Lern- und Ausbildungszielen. Sie hilft dem Fahrlehrer, klare und überprüfbar\nTeilnehmer erhalten Leitfragen zur Selbsterarbeitung.\n\nPhase 2 - SMART in der Praxis – Beispiele (20 Min):\nGruppenarbeit oder gelenktes Unterrichtsgespraech. Die 3-B-Regel beschreibt die drei Grundvoraussetzungen für verantwortungsvolles Verkehrsverhalten: Bereitschaft, Befähig\nErgebnisse werden im Plenum vorgestellt und besprochen.\n\nPhase 3 - 3⃣ Die 3-B-Regel im Verkehrsverhalten (20 Min):\nFallbeispiele aus dem Fahrschulalltag. § 1 StVO ist die wichtigste Grundregel für alle Verkehrsteilnehmer. Sie gilt immer – auch wenn keine Schilder vorhanden \nAnwaerter wenden das Gelernte auf neue Situationen an.\n\nSicherung (15 Min):\nMethode: Blitzlicht / muendliche Abfrage\nKursleiter stellt 3-4 gezielte Fragen zum Stundeninhalt. Offene Punkte werden gemeinsam geklaert.\n\nAbschluss (5 Min):\nZusammenfassung der Kernaussagen zu 'VV_03_Verkehrsverhalten_SMART.html'. Hinweis auf pruefungsrelevante Inhalte und Ausblick auf die naechste Einheit.",
+      "didaktik": "Worauf achten?\n- Das Thema 'SMART-Ziele in der Fahrausbildung' wirkt oft abstrakt - immer mit konkreten Beispielen aus dem Fahrschulalltag arbeiten.\n- Fachbegriffe sauber einfuehren und im Verlauf der Stunde wiederholen.\n- Alle Teilnehmer aktiv einbeziehen - gezielte Fragen auch an ruhigere Teilnehmer stellen.\n\nSchwierige Stellen:\n- Die Abgrenzung zwischen 'SMART-Ziele in der Fahrausbildung' und 'SMART in der Praxis – Beispiele' bereitet haeufig Schwierigkeiten - klare Gegenueberstellung empfehlenswert.\n- Praxistransfer gelingt vielen erst durch mehrere Beispiele - genuegend Zeit einplanen.\n\nMethodenvorschlaege:\n- Kartenabfrage zu Beginn: Was wissen die Teilnehmer bereits?\n- Reale Fallbeispiele aus Fahrschulpraxis nutzen (z.B. Unfallberichte, Paragraphentexte).\n- Partnerarbeit bei der Erarbeitung von '3⃣ Die 3-B-Regel im Verkehrsverhalten' einsetzen.\n\nQuerverbindungen:\n- Verbindung zu 'SMART in der Praxis – Beispiele' herstellen.\n- Pruefungsrelevanz des Themas deutlich kommunizieren.",
+      "pruefungsfragen_text": "Frage 1: Was versteht man unter 'SMART-Ziele in der Fahrausbildung'? Erklaeren Sie den Begriff und nennen Sie zwei Praxisbeispiele.\nAntwort: SMART ist eine Methode zur Formulierung von Lern- und Ausbildungszielen. Sie hilft dem Fahrlehrer, klare und überprüfbare Ziele für jeden Fahrschüler zu setzen. Schlechtes Ziel SMART-Ziel „Fahrschüler Praxisbeispiele aus dem Fahrschulalltag verdeutlichen diesen Begriff und helfen bei der Anwendung.\n\nFrage 2: Beschreiben Sie den Unterschied zwischen 'SMART-Ziele in der Fahrausbildung' und 'SMART in der Praxis – Beispiele'. Warum ist diese Abgrenzung fuer Fahrlehrer wichtig?\nAntwort: Waehrend 'SMART-Ziele in der Fahrausbildung' sich auf SMART ist eine Methode zur Formulierung von Lern- und Ausbildungszielen. Sie hil bezieht, umfasst 'SMART in der Praxis – Beispiele' Die 3-B-Regel beschreibt die drei Grundvoraussetzungen für verantwortungsvolles . Fuer Fahrlehrer ist diese Unterscheidung wichtig, um den Unterricht praezise zu planen und klare Lernziele zu formulieren.\n\nFrage 3: Wie wenden Sie '3⃣ Die 3-B-Regel im Verkehrsverhalten' konkret im Fahrunterricht an? Geben Sie ein strukturiertes Beispiel.\nAntwort: Im Fahrunterricht wird '3⃣ Die 3-B-Regel im Verkehrsverhalten' § 1 StVO ist die wichtigste Grundregel für alle Verkehrsteilnehmer. Sie gilt immer – auch wenn keine Schilder vorhanden . Der Kursleiter plant die Unterrichtseinheit so, dass Theorie und Praxis eng verknuepft sind, gibt strukturiertes Feedback und foerdert nachhaltiges Lernen durch Wiederholung und Transfer.",
+      "pruefungsfragen": []
+    },
     {
       "id": "verkehrsverhalten_1768934854867",
       "titel": "StVO Grundlagen & Praxisfälle: §1, §2, §7 StVO, Vertrauensgrundsatz, Betriebsgefahr, Münchberger Senke, Ausschlussprinzip",
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Begriffe Behindern, Belästigen und Vertrauensgrundsatz nach §1 StVO kennen",
         "Den Unterschied zwischen Straße, Fahrbahn und Fahrstreifen nach §2 StVO kennen",
@@ -36,7 +111,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Das Rechtsfahrgebot nach §2 Abs. 2 StVO kennen (so weit rechts wie möglich)",
         "Den Vorrang für Schienenfahrzeuge nach §2 Abs. 3 StVO verstehen",
@@ -66,7 +141,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Geschwindigkeiten außerorts, Autobahn und innerorts kennen (100/80/60/50 km/h-System)",
         "Die 7 Voraussetzungen für 100 km/h-Zulassung bei Anhängern kennen (9. Ausnahmeverordnung)",
@@ -97,7 +172,7 @@
       "dauer": 120,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Den 5-Punkte-Plan zum systematischen Entschlüsseln von Verkehrszeichen kennen",
         "Die 3 Kategorien nach §39 StVO kennen (Gefahrzeichen Dreieck, Vorschriftszeichen Rund, Richtzeichen Rechteckig)",
@@ -128,7 +203,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die 4 Hauptkategorien von Verkehrszeichen kennen (Gefahrzeichen, Vorschriftzeichen, Richtzeichen, Zusatzzeichen)",
         "Die wichtigsten Verkehrszeichen jeder Kategorie kennen und erklären können",
@@ -158,7 +233,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Zeichen 206 STOP - Halt! Vorfahrt gewähren kennen (unbedingtes Haltgebot)",
         "Die 4 Prüfungsfälle bei unterschiedlichen Halteliniensituationen beherrschen",
@@ -188,7 +263,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Den 5-Punkte-Plan zum systematischen Entschlüsseln von Verkehrszeichen kennen",
         "Die Rangfolge der Betrachtung von Verkehrszeichen kennen (Lichtzeichen, Dreieck, Rund, Rechteckig)",
@@ -218,7 +293,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "§40 StVO Gefahrzeichen kennen (mahnen zur erhöhten Aufmerksamkeit & Geschwindigkeitsreduzierung)",
         "Aufstellung kennen: AGO 150m vor Gefahr, IGO kurz davor",
@@ -248,7 +323,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "§41 StVO Vorschriftszeichen kennen (Ge- und Verbote müssen befolgt werden!)",
         "Überlagerungsregel verstehen (speziellere Anordnung gilt)",
@@ -279,7 +354,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Sonderwege kennen: Radweg (Z. 237 benutzungspflichtig), Gehweg (Z. 239), Fußgängerzone (Z. 242.1)",
         "Unterschied benutzungspflichtig (blau) vs. nicht benutzungspflichtig verstehen",
@@ -307,7 +382,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Geschwindigkeitsbeschränkungen kennen (Z. 274) und Tempo-30-Zone (Z. 274.1/274.2)",
         "Zusatzschild bei Nässe verstehen (Wasserfilm sichtbar!)",
@@ -336,7 +411,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Vorfahrtsstraße (Z. 306) kennen - AGO Parkverbot!",
         "Ortstafel (Z. 310/311) verstehen - beendet Geschwindigkeitsbeschränkungen, gelb = 50 km/h",
@@ -365,7 +440,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Land- und forstwirtschaftliche Fahrzeuge (LoF) erkennen und deren Besonderheiten kennen",
         "Hinterradlenkung bei Traktoren verstehen (schwenkt nach INNEN aus!)",
@@ -397,7 +472,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Tastgeschwindigkeit definieren können (langsamer als Schrittgeschwindigkeit, nicht in StVO)",
         "Anwendungsbereiche kennen (unübersichtliche Kreuzung, Parken, Rückwärtsfahren, Grundfahraufgaben)",
@@ -422,7 +497,7 @@
       "dauer": 30,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "17 Schritte des Überholvorgangs kennen und anwenden",
         "Korrekte Reihenfolge beim Überholen einhalten",
@@ -446,7 +521,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Drei Blicktechniken unterscheiden können (Spiegelblick, Seitenblick, Schulterblick)",
         "Zweck jeder Blicktechnik kennen (rückwärtiger Verkehr, toter Winkel, Absicherung)",
@@ -463,81 +538,6 @@
       "unterrichtsentwurf": "UNTERRICHTSENTWURF (45 Min) - BLICKTECHNIK IM STRASSENVERKEHR\n\nEINSTIEG (5 Min):\nMethode: Video + Diskussion\nAblauf: Kursleiter zeigt Video: PKW wechselt Spur, Motorrad im toten Winkel, Unfall! Frage: Was wurde vergessen? Anwärter: Schulterblick! Überleitung: Heute lernen wir alle Blicktechniken und die 8-Sekunden-Regel!\nZiel: Gefahr verdeutlichen, Motivation schaffen\n\nHAUPTTEIL (35 Min):\n\nPhase 1: Drei Blicktechniken (10 Min)\nKursleiter erklärt: Spiegelblick (rückwärtig), Seitenblick (toter Winkel kurz), Schulterblick (toter Winkel vollständig). Unterschiede zeigen. Partnerarbeit: Anwärter erstellen Tabelle mit Vor-/Nachteilen jeder Technik. Besprechung.\n\nPhase 2: Korrekte Reihenfolge (10 Min)\nKursleiter erklärt: 5 Schritte bei Spurwechsel (Innenspiegel, Außenspiegel, Blinker, Schulterblick, Lenkbewegung). Merksatz: \"Erst den Kopf drehen, dann das Lenkrad!\" Gruppenarbeit: 3 Gruppen simulieren Spurwechsel (trocken), Gruppe kontrolliert gegenseitig. Besprechung.\n\nPhase 3: 8-Sekunden-Regel (10 Min)\nKursleiter erklärt: Warum alle 8 Sekunden? Berechnung zeigen (120 km/h = 270m in 8 Sek). Video zeigen: Fahrzeug nähert sich von hinten (Innenspiegel-Kontrolle!). Diskussion: Wie oft kontrolliert ihr in der Praxis?\n\nPhase 4: Toter Winkel (5 Min)\nKursleiter erklärt: Was ist toter Winkel? Größe bei PKW/LKW. Demonstration: Anwärter stellt sich neben Fahrzeug (Kursleiter im Fahrzeug sieht ihn nicht!). Eindrücklich!\n\nSCHLUSS (5 Min):\nSicherung: Quiz - Kursleiter stellt 3 Fragen (Reihenfolge Spurwechsel? Warum 8-Sekunden-Regel? Was ist toter Winkel?).\nAusblick: Nächste Woche: Praktische Übung Schulterblick auf Übungsplatz!\nHausaufgabe: Beobachte beim Autofahren: Wie oft schaue ich in Innenspiegel? Nutze ich Schulterblick?\n\n",
       "didaktik": "Worauf achten?\n- 8-Sekunden-Regel ist NICHT gesetzlich (aber sehr sinnvoll!)\n- Unterschied Seitenblick vs. Schulterblick klar machen (Autobahn vs. Innerorts)\n- Reihenfolge bei Spurwechsel ist essenziell (oft vergessen!)\n- Toter Winkel praktisch zeigen (Demonstration!)\n\nHäufige Fehler der Anwärter:\n- Vergessen Schulterblick vor Spurwechsel (häufigster Fehler!)\n- Denken, Spiegel reichen aus (FALSCH - toter Winkel!)\n- Schulterblick nach Lenkbewegung (zu spät!)\n- Innenspiegel wird vergessen (8-Sekunden-Regel nicht beachtet)\n\nTipps & Tricks:\n- Video zeigen: Unfall durch fehlenden Schulterblick (sehr eindrücklich!)\n- Demonstration: Anwärter in toten Winkel stellen (Kursleiter sieht ihn nicht!)\n- Merksatz bilden: \"Erst den Kopf drehen, dann das Lenkrad!\"\n- 8-Sekunden-Regel mit Berechnung veranschaulichen (270m!)\n\nPrüfungsrelevanz:\n- Schulterblick vor Spurwechsel wird IMMER geprüft!\n- Fehlender Schulterblick = Fehler in Prüfung!\n- Reihenfolge (Innenspiegel, Außenspiegel, Blinker, Schulterblick, Lenkbewegung) kommt oft!\n- Toter Winkel ist Prüfungsfrage!",
       "pruefungsfragen_text": "Frage 1: Erklären Sie die drei Blicktechniken und deren Zweck.\nAntwort: 1. SPIEGELBLICK: Zweck: Beobachtung des rückwärtigen Verkehrs. Regelmäßige Kontrolle über Innen- und Außenspiegel zur Erfassung der Verkehrssituation hinter dem Fahrzeug. Verschafft ersten Überblick über nachfolgenden Verkehr. 2. SEITENBLICK: Zweck: Kontrolle des toten Winkels. Kurzer Blick zur Seite OHNE vollständige Kopfdrehung, um den Bereich zu erfassen der nicht im Spiegel sichtbar ist. Bei hohen Geschwindigkeiten (Autobahn). 3. SCHULTERBLICK: Zweck: Absicherung des toten Winkels. Blick über die Schulter zurück zur Kontrolle des Bereichs unmittelbar neben dem Fahrzeug der von Spiegeln nicht erfasst wird. Essentiell vor Spurwechsel, Abbiegen und Überholen.\n\nFrage 2: Nennen Sie die korrekte Reihenfolge bei einem Spurwechsel.\nAntwort: KORREKTE REIHENFOLGE (5 SCHRITTE): 1. INNENSPIEGEL kontrollieren (rückwärtiger Verkehr beobachten), 2. AUẞENSPIEGEL (links/rechts) kontrollieren (Zielspur beobachten), 3. BLINKER setzen (Absicht anzeigen), 4. SCHULTERBLICK (links/rechts) durchführen (toter Winkel kontrollieren), 5. LENKBEWEGUNG ausführen (Spurwechsel durchführen). WICHTIG: Der Schulterblick erfolgt UNMITTELBAR vor dem Fahrmanöver zur finalen Absicherung! MERKSATZ: Erst den Kopf drehen dann das Lenkrad!\n\nFrage 3: Erklären Sie die 8-Sekunden-Spiegelregel und deren Vorteile.\nAntwort: DEFINITION: Alle 8 Sekunden in den Innenspiegel schauen! MERKSATZ: Alle 8 Sekunden in den Innenspiegel schauen - so bleibst du immer im Bilde über den rückwärtigen Verkehr! VORTEILE: 1. Kontinuierliche Überwachung des Verkehrs hinter dem Fahrzeug, 2. Rechtzeitiges Erkennen von herannahenden Fahrzeugen, 3. Bessere Vorbereitung auf mögliche Überholmanöver anderer, 4. Erhöhte Verkehrssicherheit durch vollständige Rundumsicht, 5. Vermeidung von Überraschungen beim Spurwechsel oder Abbiegen. PRAXISBEISPIEL: Bei 120 km/h fährt man ca. 270m in 8 Sekunden! Alle 270m Blick in Innenspiegel = kontinuierliche Überwachung!",
-      "pruefungsfragen": []
-    },
-    {
-      "id": "verkehrsverhalten_1711000000000",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "Überblick: Jugendliche Fahrschüler",
-        "Entwicklungspsychologie",
-        "1. Struktur der Entwicklungsphase",
-        "2. Merkmale jugendlicher Fahrschüler",
-        "3. Risikoverhalten",
-        "️Objektive und Subjektive Sicherheit"
-      ],
-      "inhalt_anwaerter": "### Überblick: Jugendliche Fahrschüler\nDer Unterricht mit jugendlichen Fahrschülern erfordert besonderes Verständnis für ihre Entwicklungsphase. Die wichtigsten Themenbereiche umfassen Entwicklungspsychologie, Risikoverhalten, objektive und subjektive Sicherheit sowie die Bedürfnispyramide nach Maslow.\n\n---\n\n### Entwicklungspsychologie\nJugendliche befinden sich in einer Phase intensiver körperlicher, geistiger und sozialer Veränderung. Diese Phase beeinflusst ihr Verhalten im Straßenverkehr erheblich.\nHohesSelbstvertrauenin die eigenen Fähigkeiten (oft überschätzt)\nStarker Einfluss derPeer-Gruppe(Gleichaltrige)\nAusgeprägteRisikobereitschaft\nNoch nicht vollständig ausgebildeteImpulskontrolle\nEmotionale Instabilität und Stimmungsschwankungen\nBedürfnis nachAnerkennung und Bestätigung\nErhöhte Risikobereitschaft, insbesondere in Gruppen\nUnterschätzung von Gefahren (subjektive Sicherheit > objektive Realität)\nÜberschreitung zulässiger Höchstgeschwindigkeiten\nGeringere Bereitschaft, Sicherheitsgurte zu verwenden\nAblenkung durch Smartphones und andere Medien\n\n---\n\n### ️Objektive und Subjektive Sicherheit\nObjektive Sicherheit\nSubjektive Sicherheit\nMessbar durch Statistiken (Unfallzahlen)\nPersönliche Einschätzung der eigenen Sicherheit\nTatsächliches Risiko vorhanden\nGefühltes, empfundenes Risiko\nKann durch Ausbildung verbessert werden\nKann von der objektiven Sicherheit stark abweichen\nAußenperspektive (Fahrlehrer, Statistik)\nInnenperspektive (Fahrschüler selbst)\n\n---\n\n### Bedürfnispyramide nach Maslow\nAbraham Maslow ordnete menschliche Bedürfnisse in einer Hierarchie. Erst wenn untere Bedürfnisse befriedigt sind, streben Menschen nach höheren.\nSicherheitsbedürfnis ansprechen: Verkehrsregeln schützen alle\nSoziale Einbindung: Gruppenübungen, gemeinsames Lernen\nAnerkennung geben: Positive Verstärkung bei Fortschritten\nSelbstverwirklichung fördern: Eigenverantwortliches Fahren anstreben\n\n---\n\n### Empfehlungen für den Fahrunterricht\nKlare, einfache Sprache – keine Fachbegriffe ohne Erklärung\nPositive Verstärkung statt Kritik im Vordergrund\nRegeln erklären und begründen (warum, nicht nur was)\nRespektvoller Umgang auf Augenhöhe\nSituationsbezogene Beispiele aus der Lebenswelt Jugendlicher\nProblem\nMögliche Reaktion des Fahrlehrers\nAblenkung durch Smartphone\nSachliche Erklärung der Gefahr, ggf. Fahrstunde abbrechen\nÜberschreitung der Geschwindigkeit\nSofortige Korrektur, Gespräch über Folgen\nNervosität / Prüfungsangst\nBeruhigendes Gespräch, realistische Ziele setzen\nMotivationslosigkeit\nFortschritte sichtbar machen, Ziele verdeutlichen\n\n---\n\n### Beurteilungsprobleme\nHalo-Effekt:Ein Merkmal überstrahlt die gesamte Beurteilung\nSympathie-/Antipathiefehler:Persönliche Zuneigung beeinflusst Bewertung\nPrimacy-Effekt:Der erste Eindruck prägt die Gesamtbewertung\nFundamentaler Attributionsfehler:Fehler werden der Person, nicht der Situation zugeschrieben",
-      "beispiele": [
-        "Objektive Sicherheit | Subjektive Sicherheit\nMessbar durch Statistiken (Unfallzahlen) | Persönliche Einschätzung der eigenen Sicherheit\nTatsächliches Risiko vorhanden | Gefühltes, empfundenes Risiko\nKann durch Ausbildung verbessert werden | Kann von der objektiven Sicherheit stark abweichen\nAußenperspektive (Fahrlehrer, Statistik) | Innenperspektive (Fahrschüler selbst)",
-        "Problem | Mögliche Reaktion des Fahrlehrers\nAblenkung durch Smartphone | Sachliche Erklärung der Gefahr, ggf. Fahrstunde abbrechen\nÜberschreitung der Geschwindigkeit | Sofortige Korrektur, Gespräch über Folgen\nNervosität / Prüfungsangst | Beruhigendes Gespräch, realistische Ziele setzen\nMotivationslosigkeit | Fortschritte sichtbar machen, Ziele verdeutlichen"
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
-      "pruefungsfragen": []
-    },
-    {
-      "id": "verkehrsverhalten_1711000001000",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "Reaktionsfähigkeit & Reaktionszeit",
-        "Reaktionszeit – Definition",
-        "Einflussfaktoren auf die Reaktionszeit",
-        "Reaktionsablauf (Phasen)",
-        "Das menschliche Gehirn",
-        "Wichtige Hirnbereiche für das Fahren"
-      ],
-      "inhalt_anwaerter": "### Reaktionsfähigkeit & Reaktionszeit\nDie Reaktionsfähigkeit ist eine der entscheidenden psychomotorischen Fähigkeiten im Straßenverkehr. Sie beschreibt die Zeitspanne zwischen dem Aufnehmen eines Reizes und dem Beginn der motorischen Antwort.\nVerlängert durch\nMüdigkeit / Erschöpfung\nAlkohol & Drogen\nMedikamente\nAblenkung\nAlter (nach 60)\nStress, Emotion\nVerkürzt durch\nErwartungshaltung\nTraining & Übung\nGute körperliche Fitness\nKonzentration\nBekannte Situationen\nPrüfungsrelevant\nBei 100 km/h: ca. 28 m Reaktionsweg in 1 Sek.\nGefahrenbremsung endet erst nach Bremsweg\nAnhalteweg = Reaktionsweg + Bremsweg\nReizdarbietung:Reiz tritt auf (z. B. Ampel rot)\nReizaufnahme:Sinnesorgan nimmt Reiz wahr\nReizverarbeitung:Gehirn verarbeitet die Information\nReaktionsbeginn:Muskelbefehl wird ausgeführt\n\n---\n\n### Das menschliche Gehirn\nDas Gehirn ist das zentrale Steuerorgan für alle Wahrnehmungs-, Denk- und Reaktionsprozesse beim Fahren.\nBereich\nFunktion\nGroßhirnrinde (Cortex)\nBewusstes Denken, Planung, Entscheidungen\nKleinhirn (Cerebellum)\nKoordination, Motorik, Gleichgewicht\nLimbisches System\nEmotionen, Motivation, Gedächtnis\nHirnstamm\nGrundfunktionen: Atmung, Herzschlag, Wachheit\n\n---\n\n### Die 3 Gedächtnisbereiche\n1. Ultrakurzzeitgedächtnis (sensorischer Speicher)\nDauer: Millisekunden bis ca. 1 Sek.\nKapazität: unbegrenzt\nFunktion: Erste Reizaufnahme über Sinne\nBeispiel: Kurzer Blick in den Spiegel\n2. Kurzzeitgedächtnis (Arbeitsgedächtnis)\nDauer: Sekunden bis ca. 20 Min.\nKapazität: 7 ± 2 Einheiten\nFunktion: Aktuelle Verarbeitung von Informationen\nBeispiel: Aktuelles Verkehrsgeschehen im Blick\n3. Langzeitgedächtnis\nDauer: Lebenslang\nKapazität: Praktisch unbegrenzt\nFunktion: Gespeichertes Wissen & Können\nBeispiel: Automatisiertes Schalten, Vorfahrtsregeln\n\n---\n\n### Automatismen\nAutomatismen sind hochgeübte Handlungsabläufe, die ohne bewusste Steuerung und mit minimalem Aufwand ausgeführt werden. Sie entstehen durch vielfache Wiederholung (Übung).\nEntlasten das Bewusstsein für komplexere Aufgaben\nErmöglichen schnellere Reaktionen\nSind weniger fehleranfällig in Routinesituationen\nBeispiele: Kupplung betätigen, Schulterblick, Blinken\nPhase\nMerkmal\nBeispiel\n1. Kognitive Phase\nBewusstes, langsames Ausführen; viele Fehler\nErster Anfahrversuch\n2. Assoziative Phase\nFlüssiger, weniger Fehler, noch nicht automatisch\nNach einigen Fahrstunden\n3. Autonome Phase\nAutomatisch, kaum Aufmerksamkeit nötig\nErfahrener Fahrer\n\n---\n\n### Formeln – Reaktions- und Bremsweg",
-      "beispiele": [
-        "Bereich | Funktion\nGroßhirnrinde (Cortex) | Bewusstes Denken, Planung, Entscheidungen\nKleinhirn (Cerebellum) | Koordination, Motorik, Gleichgewicht\nLimbisches System | Emotionen, Motivation, Gedächtnis\nHirnstamm | Grundfunktionen: Atmung, Herzschlag, Wachheit",
-        "Phase | Merkmal | Beispiel\n1. Kognitive Phase | Bewusstes, langsames Ausführen; viele Fehler | Erster Anfahrversuch\n2. Assoziative Phase | Flüssiger, weniger Fehler, noch nicht automatisch | Nach einigen Fahrstunden\n3. Autonome Phase | Automatisch, kaum Aufmerksamkeit nötig | Erfahrener Fahrer"
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
-      "pruefungsfragen": []
-    },
-    {
-      "id": "verkehrsverhalten_1711000002000",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "SMART-Ziele in der Fahrausbildung",
-        "SMART in der Praxis – Beispiele",
-        "3️⃣Die 3-B-Regel im Verkehrsverhalten",
-        "§1 StVO – Grundregel des Straßenverkehrs",
-        "Praktische Bedeutung für die Fahrausbildung",
-        "Sozial-Differenzierung im Verkehr (§ 6 StVO)"
-      ],
-      "inhalt_anwaerter": "### SMART-Ziele in der Fahrausbildung\nSMART ist eine Methode zur Formulierung von Lern- und Ausbildungszielen. Sie hilft dem Fahrlehrer, klare und überprüfbare Ziele für jeden Fahrschüler zu setzen.\nSchlechtes Ziel\nSMART-Ziel\n„Fahrschüler soll besser bremsen.\"\n„Am Ende dieser Fahrstunde kann der Fahrschüler eine Gefahrenbremsung aus 50 km/h innerhalb von 15 m einleiten – ohne zögern.\"\n„Rückwärtsfahren verbessern.\"\n„Nach 3 Übungsfahrten kann der Fahrschüler den Anhänger rückwärts um eine 90°-Ecke lenken, ohne abzubrechen.\"\n„Vorfahrtregeln lernen.\"\n„Am Ende der Theorieeinheit kann der Fahrschüler alle 5 Prüfungsfragen zur Vorfahrt korrekt beantworten.\"\n\n---\n\n### 3️⃣Die 3-B-Regel im Verkehrsverhalten\nDie 3-B-Regel beschreibt die drei Grundvoraussetzungen für verantwortungsvolles Verkehrsverhalten:Bereitschaft, Befähigung, Beherrschung(auch: Wille, Vorkehrung, Kontrolle).\nWille / Bereitschaft\nMotivation, sicher zu fahren\nVerantwortungsbewusstsein\nRücksicht auf andere\nEinstellungen zu Risiko und Sicherheit\nAkzeptanz von Regeln\nVorkehrung / Befähigung\nFahrfertigkeiten (technisches Können)\nRegelkenntnisse (StVO)\nWahrnehmungsfähigkeit\nFahrzeugkenntnisse\nKenntnis der eigenen Grenzen\nKontrolle / Beherrschung\nSelbstkontrolle (Emotionen steuern)\nSituationsangepasstes Verhalten\nAntizipation von Fehlern anderer\nReserven halten\nKorrektur eigener Fehler\n\n---\n\n### §1 StVO – Grundregel des Straßenverkehrs\n§ 1 StVO ist die wichtigste Grundregel für alle Verkehrsteilnehmer. Sie gilt immer – auch wenn keine Schilder vorhanden sind.\nAbstand:Deutlicher Sicherheitsabstand zum vorausfahrenden Fahrzeug\nErkennbarkeit:Rechtzeitig bremsen, korrekt einordnen, Blinker setzen\nGrenzen kennen:Eigene Leistungsgrenzen und Fahrzeugphysik respektieren\nReserven:Sicherheitsreserven einplanen, nicht bis an die Grenzen fahren\nAntizipation:Fehler anderer Verkehrsteilnehmer vorhersehen\nKorrekheit:Eigene Fehler erkennen und korrigieren\n\n---\n\n### Sozial-Differenzierung im Verkehr (§ 6 StVO)\n§ 6 StVO regelt das Vorbeifahren an Hindernissen und Personen, die Hilfe benötigen. Darüber hinaus verlangt das Grundprinzip der sozialen Differenzierung im Straßenverkehr, bestimmte schwächere Verkehrsteilnehmer besonders zu schützen.\nGruppe\nBesonderheit\nVerhalten des Fahrlehrers / FS\nKinder\nUnerwartet handeln, rennen auf die Straße\nSchritttempo in der Nähe, hohe Aufmerksamkeit\nÄltere Menschen\nLangsamer, eventuell eingeschränkte Wahrnehmung\nGeduld, keine Vordrängel-Situationen schaffen\nMenschen mit Behinderung\nRollstuhl, Gehilfen, eingeschränkte Mobilität\nVorrang lassen, breite Durchfahrt ermöglichen\nRadfahrer\nSchutzstreifen nicht immer vorhanden, gefährdet\nMindestabstand 1,5 m (innerorts), 2 m (außerorts)\nFußgänger\nInsbesondere an Fußgängerüberwegen\nWarten lassen ist strafbar – Fahrt unterbrechen!\n\n---\n\n### ️Taktisches Fahren – 10 Grundregeln\nTaktisches Fahren verbindet Regelkenntnisse, Fahrzeugtechnik und Situationswahrnehmung zu einem sicheren Fahrverhalten. Als Gedächtnisstütze dienen die „10 taktischen Regeln\":\nSicherheitsabstand stets einhalten – auch bei langsamem Verkehr\nFahrabsichten klar signalisieren: Blinken, Einordnen, Bremsen\nRechtzeitig sichtbar machen – Beleuchtung, Position, Verhalten\nEigene Grenzen und Fahrzeuggrenzen realistisch einschätzen\nNie bis ans Limit fahren – Handlungsspielraum bewahren\nFehler anderer vorhersehen und eigene Reaktion vorbereiten\nEigene Fehler erkennen und schnell korrigieren\nBlick weit voraus – frühzeitig erkennen, was kommt\nKeine Aggression, keine Hast – ruhig und besonnen bleiben\nKonsequenzen des eigenen Handelns immer mitdenken",
-      "beispiele": [
-        "Schlechtes Ziel | SMART-Ziel\n„Fahrschüler soll besser bremsen.\" | „Am Ende dieser Fahrstunde kann der Fahrschüler eine Gefahrenbremsung aus 50 km/h innerhalb von 15 m einleiten – ohne zögern.\"\n„Rückwärtsfahren verbessern.\" | „Nach 3 Übungsfahrten kann der Fahrschüler den Anhänger rückwärts um eine 90°-Ecke lenken, ohne abzubrechen.\"\n„Vorfahrtregeln lernen.\" | „Am Ende der Theorieeinheit kann der Fahrschüler alle 5 Prüfungsfragen zur Vorfahrt korrekt beantworten.\"",
-        "Gruppe | Besonderheit | Verhalten des Fahrlehrers / FS\nKinder | Unerwartet handeln, rennen auf die Straße | Schritttempo in der Nähe, hohe Aufmerksamkeit\nÄltere Menschen | Langsamer, eventuell eingeschränkte Wahrnehmung | Geduld, keine Vordrängel-Situationen schaffen\nMenschen mit Behinderung | Rollstuhl, Gehilfen, eingeschränkte Mobilität | Vorrang lassen, breite Durchfahrt ermöglichen\nRadfahrer | Schutzstreifen nicht immer vorhanden, gefährdet | Mindestabstand 1,5 m (innerorts), 2 m (außerorts)\nFußgänger | Insbesondere an Fußgängerüberwegen | Warten lassen ist strafbar – Fahrt unterbrechen!"
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
       "pruefungsfragen": []
     }
   ]
