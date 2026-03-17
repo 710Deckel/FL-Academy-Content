@@ -4,16 +4,91 @@
   "part": 2,
   "totalParts": 2,
   "version": "3.0.0",
-  "lastUpdate": "2026-03-17T11:58:12.208282Z",
-  "lektionenCount": 24,
+  "lastUpdate": "2026-03-17T12:32:25.255Z",
+  "lektionenCount": 23,
   "lektionen": [
+    {
+      "id": "technik_1773749276600",
+      "titel": "Fahrphysik  -  Grundlagen Reibung & Kräfte",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Aspekte von 'Reibung  Grundlagen' verstehen und anwenden können",
+        "Die Aspekte von 'Kräfte am fahrenden Fahrzeug' verstehen und anwenden können",
+        "Die Aspekte von 'Kurvenfahrt' verstehen und anwenden können",
+        "Die Aspekte von 'Aquaplaning' verstehen und anwenden können",
+        "Die Aspekte von 'Schwerpunkt  Fahrstabilität' verstehen und anwenden können"
+      ],
+      "inhalt_anwaerter": "Reibung  Grundlagen\nReibung ist die Kraft, die einer Bewegung oder einem Bewegungsversuch zwischen zwei Körpern entgegenwirkt. Für das Fahren ist vor allem die Reibung zwischen Reifen und Fahrbahn entscheidend.\n\nUntergrund | Reibungskoeffizient μ (ca.)\nTrockener Asphalt | 0,7 – 0,9\nNasser Asphalt | 0,4 – 0,6\nSchnee | 0,2 – 0,4\nGlatteis | 0,05 – 0,15\n\nKräfte am fahrenden Fahrzeug\nKraft | Richtung | Wirkung\nSchwerkraft / Gewichtskraft | Senkrecht nach unten | Drückt Fahrzeug auf Fahrbahn\nNormalkraft | Senkrecht nach oben | Gegenkraft zur Schwerkraft\nAntriebskraft | In Fahrtrichtung | Beschleunigt das Fahrzeug\nBremskraft | Gegen Fahrtrichtung | Verzögert das Fahrzeug\nLuftwiderstand | Gegen Fahrtrichtung | Nimmt quadratisch mit Geschwindigkeit zu\nRollwiderstand | Gegen Fahrtrichtung | Durch Verformung der Reifen entstehend\nSeitenführungskraft | Quer zur Fahrtrichtung | Hält Fahrzeug in der Kurve auf Kurs\nFliehkraft (Zentrifugalkraft) | Nach außen (aus Kurve heraus) | Wirkt gegen Seitenführungskraft\n\nKurvenfahrt\nBei der Kurvenfahrt wirken Fliehkraft und Seitenführungskraft gegeneinander. Überschreitet die Fliehkraft die Seitenführungskraft, bricht das Fahrzeug aus.\n\nAquaplaning\nAquaplaning entsteht, wenn sich zwischen Reifen und nasser Fahrbahn ein Wasserfilm bildet, der den Kontakt zur Fahrbahn vollständig unterbricht.\n\n• Geschwindigkeit (kritisch ab ca. 80–100 km/h auf nasser Fahrbahn)\n• Reifenprofiltiefe (Mindest-Profiltiefe: 1,6 mm – empfohlen: 3–4 mm)\n• Wassertiefe auf der Fahrbahn\n• Reifenbreite und -druck\n\n• Nicht lenken, nicht bremsen, nicht Gas geben\n• Lenkrad locker halten\n• Motor bremsen lassen (Fuß vom Gas)\n• Warten bis Fahrzeug wieder Kontakt zur Fahrbahn hat\n\nSchwerpunkt  Fahrstabilität\nDer Fahrzeugschwerpunkt beeinflusst maßgeblich das Fahrverhalten, insbesondere bei Kurvenfahrten und beim Bremsen.\n\n• Hoher Schwerpunkt(z. B. SUV, beladener Lkw) → größere Kippgefahr in Kurven\n• Niedriger Schwerpunkt(z. B. Sportwagen) → stabiler in Kurven\n• Beladungverändert Schwerpunkt – besonders bei Anhängern beachten",
+      "beispiele": [
+        "Beispiel 1: Reibung – Grundlagen\nSituation: Ein Fahrlehrer-Anwaerter erklaert im Kurs das Thema 'Reibung – Grundlagen'.\nReibung ist die Kraft, die einer Bewegung oder einem Bewegungsversuch zwischen zwei Körpern entgegenwirkt. Für das Fahren ist vor allem die Reibung zwischen Reifen und Fahrbahn entscheidend. Haftreibung (statische Reibun\nMerke: Diesen Inhalt immer mit konkreten Fahrsituationen verknuepfen.",
+        "Beispiel 2: Typischer Fehler bei 'Reibungskoeffizient μ (Mü)'\nSituation: Ein Teilnehmer verwechselt Reibungskoeffizient μ (Mü) mit einem aehnlichen Begriff.\nFalsch: Der Begriff wird oberflaechlich oder falsch erklaert.\nRichtig: Kraft Richtung Wirkung Schwerkraft / Gewichtskraft Senkrecht nach unten Drückt Fahrzeug auf Fahrbahn Normalkraft Senkrecht nach oben Gegenkraft zur Schwerkraft Antriebskraft In Fahrtrichtung Beschleun\nMerke: Auf genaue Begriffsdefinition achten - pruefungsrelevant!",
+        "Beispiel 3: Praxistransfer - Kräfte am fahrenden Fahrzeug\nSituation: Anwendung im Fahrunterricht oder der Theorieeinheit.\nUntergrund | Reibungskoeffizient μ (ca.)\nTrockener Asphalt | 0,7 – 0,9\nNasser Asphalt | 0,4 – 0,6\nSchnee | 0,2 – 0,4\nGlatteis | 0,05 – 0,15\nMerke: Theorie und Praxis immer eng verbinden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - TE_01_Fahrphysik_Grundlagen.html\n\nEinstieg (10 Min):\nMethode: Problemorientierter Einstieg\nAblauf: Kursleiter stellt eine reale Situation vor, die 'Reibung – Grundlagen' beruehrt. Anwaerter diskutieren, was sie bereits wissen und was unklar ist.\nZiel: Vorwissen aktivieren, Relevanz der Einheit verdeutlichen.\n\nErarbeitung (60 Min):\nPhase 1 - Reibung – Grundlagen (20 Min):\nKursleiter erarbeitet mit den Teilnehmern die Grundlagen. Reibung ist die Kraft, die einer Bewegung oder einem Bewegungsversuch zwischen zwei Körpern entgegenwirkt. Für das Fahre\nTeilnehmer erhalten Leitfragen zur Selbsterarbeitung.\n\nPhase 2 - Reibungskoeffizient μ (Mü) (20 Min):\nGruppenarbeit oder gelenktes Unterrichtsgespraech. Kraft Richtung Wirkung Schwerkraft / Gewichtskraft Senkrecht nach unten Drückt Fahrzeug auf Fahrbahn Normalkraft Senkrec\nErgebnisse werden im Plenum vorgestellt und besprochen.\n\nPhase 3 - Kräfte am fahrenden Fahrzeug (20 Min):\nFallbeispiele aus dem Fahrschulalltag. Bei der Kurvenfahrt wirken Fliehkraft und Seitenführungskraft gegeneinander. Überschreitet die Fliehkraft die Seitenführ\nAnwaerter wenden das Gelernte auf neue Situationen an.\n\nSicherung (15 Min):\nMethode: Blitzlicht / muendliche Abfrage\nKursleiter stellt 3-4 gezielte Fragen zum Stundeninhalt. Offene Punkte werden gemeinsam geklaert.\n\nAbschluss (5 Min):\nZusammenfassung der Kernaussagen zu 'TE_01_Fahrphysik_Grundlagen.html'. Hinweis auf pruefungsrelevante Inhalte und Ausblick auf die naechste Einheit.",
+      "didaktik": "Worauf achten?\n- Das Thema 'Reibung – Grundlagen' wirkt oft abstrakt - immer mit konkreten Beispielen aus dem Fahrschulalltag arbeiten.\n- Fachbegriffe sauber einfuehren und im Verlauf der Stunde wiederholen.\n- Alle Teilnehmer aktiv einbeziehen - gezielte Fragen auch an ruhigere Teilnehmer stellen.\n\nSchwierige Stellen:\n- Die Abgrenzung zwischen 'Reibung – Grundlagen' und 'Reibungskoeffizient μ (Mü)' bereitet haeufig Schwierigkeiten - klare Gegenueberstellung empfehlenswert.\n- Praxistransfer gelingt vielen erst durch mehrere Beispiele - genuegend Zeit einplanen.\n\nMethodenvorschlaege:\n- Kartenabfrage zu Beginn: Was wissen die Teilnehmer bereits?\n- Reale Fallbeispiele aus Fahrschulpraxis nutzen (z.B. Unfallberichte, Paragraphentexte).\n- Partnerarbeit bei der Erarbeitung von 'Kräfte am fahrenden Fahrzeug' einsetzen.\n\nQuerverbindungen:\n- Verbindung zu 'Reibungskoeffizient μ (Mü)' herstellen.\n- Pruefungsrelevanz des Themas deutlich kommunizieren.",
+      "pruefungsfragen_text": "Frage 1: Was versteht man unter 'Reibung – Grundlagen'? Erklaeren Sie den Begriff und nennen Sie zwei Praxisbeispiele.\nAntwort: Reibung ist die Kraft, die einer Bewegung oder einem Bewegungsversuch zwischen zwei Körpern entgegenwirkt. Für das Fahren ist vor allem die Reibung zwischen Reifen und Fahrbahn entscheidend. Haftreibu Praxisbeispiele aus dem Fahrschulalltag verdeutlichen diesen Begriff und helfen bei der Anwendung.\n\nFrage 2: Beschreiben Sie den Unterschied zwischen 'Reibung – Grundlagen' und 'Reibungskoeffizient μ (Mü)'. Warum ist diese Abgrenzung fuer Fahrlehrer wichtig?\nAntwort: Waehrend 'Reibung – Grundlagen' sich auf Reibung ist die Kraft, die einer Bewegung oder einem Bewegungsversuch zwischen z bezieht, umfasst 'Reibungskoeffizient μ (Mü)' Kraft Richtung Wirkung Schwerkraft / Gewichtskraft Senkrecht nach unten Drückt F. Fuer Fahrlehrer ist diese Unterscheidung wichtig, um den Unterricht praezise zu planen und klare Lernziele zu formulieren.\n\nFrage 3: Wie wenden Sie 'Kräfte am fahrenden Fahrzeug' konkret im Fahrunterricht an? Geben Sie ein strukturiertes Beispiel.\nAntwort: Im Fahrunterricht wird 'Kräfte am fahrenden Fahrzeug' Bei der Kurvenfahrt wirken Fliehkraft und Seitenführungskraft gegeneinander. Überschreitet die Fliehkraft die Seitenführ. Der Kursleiter plant die Unterrichtseinheit so, dass Theorie und Praxis eng verknuepft sind, gibt strukturiertes Feedback und foerdert nachhaltiges Lernen durch Wiederholung und Transfer.",
+      "pruefungsfragen": []
+    },
+    {
+      "id": "technik_1773749276631",
+      "titel": "Beschleunigung & Bremsen  -  Fahrphysik",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Aspekte von 'Grundgrößen der Kinematik' verstehen und anwenden können",
+        "Die Aspekte von 'Beschleunigung' verstehen und anwenden können",
+        "Die Aspekte von 'Bremsweg  Anhalteweg' verstehen und anwenden können",
+        "Die Aspekte von 'Resultierende Kräfte' verstehen und anwenden können",
+        "Die Aspekte von 'Besonderheiten bei Anhänger (BE)' verstehen und anwenden können"
+      ],
+      "inhalt_anwaerter": "Grundgrößen der Kinematik\nGröße | Symbol | Einheit | Bedeutung\nWeg / Strecke | s | m (Meter) | Zurückgelegte Distanz\nZeit | t | s (Sekunden) | Zeitdauer\nGeschwindigkeit | v | m/s oder km/h | Weg pro Zeit\nBeschleunigung | a | m/s² | Geschwindigkeitsänderung pro Zeit\nKraft | F | N (Newton) | Masse × Beschleunigung\nMasse | m | kg (Kilogramm) | Trägheit des Körpers\n\nBeschleunigung\nBeschleunigung ist die Änderung der Geschwindigkeit pro Zeiteinheit. Sie kann positiv (Beschleunigung) oder negativ (Verzögerung/Bremsung) sein.\n\nFahrzeug / Situation | Beschleunigung (ca.)\nPkw Normal-Beschleunigung | 2 – 4 m/s²\nPkw Vollbremsung (trocken) | 7 – 10 m/s² (Verzögerung)\nLkw Vollbremsung | 5 – 6 m/s² (Verzögerung)\nErdbeschleunigung g | 9,81 m/s²\n\nBremsweg  Anhalteweg\nGeschwindigkeit | Reaktionsweg (1s) | Bremsweg (Normal) | Anhalteweg\n50 km/h | 15 m | 25 m | 40 m\n80 km/h | 24 m | 64 m | 88 m\n100 km/h | 30 m | 100 m | 130 m\n130 km/h | 39 m | 169 m | 208 m\n\nResultierende Kräfte\nWenn mehrere Kräfte auf ein Fahrzeug wirken (z. B. beim Bremsen in einer Kurve), muss die resultierende Kraft berechnet werden.\n\nBesonderheiten bei Anhänger (BE)\n• Längerer Bremsweg durch höheres Gesamtgewicht\n• Schlingern des Anhängers möglich bei falscher Beladung oder zu hoher Geschwindigkeit\n• Korrekte Stützlast: 4 % des Zugfahrzeuggewichts (empfohlen)\n• Bei Schlingern: Gas wegnehmen – NICHT bremsen!",
+      "beispiele": [
+        "Beispiel 1: Grundgrößen der Kinematik\nSituation: Ein Fahrlehrer-Anwaerter erklaert im Kurs das Thema 'Grundgrößen der Kinematik'.\nGröße Symbol Einheit Bedeutung Weg / Strecke s m (Meter) Zurückgelegte Distanz Zeit t s (Sekunden) Zeitdauer Geschwindigkeit v m/s oder km/h Weg pro Zeit Beschleunigung a m/s² Geschwindigkeitsänderung pro Zeit Kraft F N\nMerke: Diesen Inhalt immer mit konkreten Fahrsituationen verknuepfen.",
+        "Beispiel 2: Typischer Fehler bei 'Umrechnung: km/h ↔ m/s'\nSituation: Ein Teilnehmer verwechselt Umrechnung: km/h ↔ m/s mit einem aehnlichen Begriff.\nFalsch: Der Begriff wird oberflaechlich oder falsch erklaert.\nRichtig: Beschleunigung ist die Änderung der Geschwindigkeit pro Zeiteinheit. Sie kann positiv (Beschleunigung) oder negativ (Verzögerung/Bremsung) sein. Fahrzeug / Situation Beschleunigung (ca.) Pkw Normal-Be\nMerke: Auf genaue Begriffsdefinition achten - pruefungsrelevant!",
+        "Beispiel 3: Praxistransfer - Beschleunigung\nSituation: Anwendung im Fahrunterricht oder der Theorieeinheit.\nGröße | Symbol | Einheit | Bedeutung\nWeg / Strecke | s | m (Meter) | Zurückgelegte Distanz\nZeit | t | s (Sekunden) | Zeitdauer\nGeschwindigkeit | v | m/s oder km/h | Weg pro Zeit\nBeschleunigung | a | m/s² | Geschwindigkeitsänderung pro Zeit\nKraft | F | N (Newton) | Masse × Beschle\nMerke: Theorie und Praxis immer eng verbinden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - TE_02_Beschleunigung_Bremsen.html\n\nEinstieg (10 Min):\nMethode: Problemorientierter Einstieg\nAblauf: Kursleiter stellt eine reale Situation vor, die 'Grundgrößen der Kinematik' beruehrt. Anwaerter diskutieren, was sie bereits wissen und was unklar ist.\nZiel: Vorwissen aktivieren, Relevanz der Einheit verdeutlichen.\n\nErarbeitung (60 Min):\nPhase 1 - Grundgrößen der Kinematik (20 Min):\nKursleiter erarbeitet mit den Teilnehmern die Grundlagen. Größe Symbol Einheit Bedeutung Weg / Strecke s m (Meter) Zurückgelegte Distanz Zeit t s (Sekunden) Zeitdauer Geschwindig\nTeilnehmer erhalten Leitfragen zur Selbsterarbeitung.\n\nPhase 2 - Umrechnung: km/h ↔ m/s (20 Min):\nGruppenarbeit oder gelenktes Unterrichtsgespraech. Beschleunigung ist die Änderung der Geschwindigkeit pro Zeiteinheit. Sie kann positiv (Beschleunigung) oder negativ (Ver\nErgebnisse werden im Plenum vorgestellt und besprochen.\n\nPhase 3 - Beschleunigung (20 Min):\nFallbeispiele aus dem Fahrschulalltag. Geschwindigkeit Reaktionsweg (1s) Bremsweg (Normal) Anhalteweg 50 km/h 15 m 25 m 40 m 80 km/h 24 m 64 m 88 m 100 km/h 30\nAnwaerter wenden das Gelernte auf neue Situationen an.\n\nSicherung (15 Min):\nMethode: Blitzlicht / muendliche Abfrage\nKursleiter stellt 3-4 gezielte Fragen zum Stundeninhalt. Offene Punkte werden gemeinsam geklaert.\n\nAbschluss (5 Min):\nZusammenfassung der Kernaussagen zu 'TE_02_Beschleunigung_Bremsen.html'. Hinweis auf pruefungsrelevante Inhalte und Ausblick auf die naechste Einheit.",
+      "didaktik": "Worauf achten?\n- Das Thema 'Grundgrößen der Kinematik' wirkt oft abstrakt - immer mit konkreten Beispielen aus dem Fahrschulalltag arbeiten.\n- Fachbegriffe sauber einfuehren und im Verlauf der Stunde wiederholen.\n- Alle Teilnehmer aktiv einbeziehen - gezielte Fragen auch an ruhigere Teilnehmer stellen.\n\nSchwierige Stellen:\n- Die Abgrenzung zwischen 'Grundgrößen der Kinematik' und 'Umrechnung: km/h ↔ m/s' bereitet haeufig Schwierigkeiten - klare Gegenueberstellung empfehlenswert.\n- Praxistransfer gelingt vielen erst durch mehrere Beispiele - genuegend Zeit einplanen.\n\nMethodenvorschlaege:\n- Kartenabfrage zu Beginn: Was wissen die Teilnehmer bereits?\n- Reale Fallbeispiele aus Fahrschulpraxis nutzen (z.B. Unfallberichte, Paragraphentexte).\n- Partnerarbeit bei der Erarbeitung von 'Beschleunigung' einsetzen.\n\nQuerverbindungen:\n- Verbindung zu 'Umrechnung: km/h ↔ m/s' herstellen.\n- Pruefungsrelevanz des Themas deutlich kommunizieren.",
+      "pruefungsfragen_text": "Frage 1: Was versteht man unter 'Grundgrößen der Kinematik'? Erklaeren Sie den Begriff und nennen Sie zwei Praxisbeispiele.\nAntwort: Größe Symbol Einheit Bedeutung Weg / Strecke s m (Meter) Zurückgelegte Distanz Zeit t s (Sekunden) Zeitdauer Geschwindigkeit v m/s oder km/h Weg pro Zeit Beschleunigung a m/s² Geschwindigkeitsänderung Praxisbeispiele aus dem Fahrschulalltag verdeutlichen diesen Begriff und helfen bei der Anwendung.\n\nFrage 2: Beschreiben Sie den Unterschied zwischen 'Grundgrößen der Kinematik' und 'Umrechnung: km/h ↔ m/s'. Warum ist diese Abgrenzung fuer Fahrlehrer wichtig?\nAntwort: Waehrend 'Grundgrößen der Kinematik' sich auf Größe Symbol Einheit Bedeutung Weg / Strecke s m (Meter) Zurückgelegte Distanz Z bezieht, umfasst 'Umrechnung: km/h ↔ m/s' Beschleunigung ist die Änderung der Geschwindigkeit pro Zeiteinheit. Sie kann po. Fuer Fahrlehrer ist diese Unterscheidung wichtig, um den Unterricht praezise zu planen und klare Lernziele zu formulieren.\n\nFrage 3: Wie wenden Sie 'Beschleunigung' konkret im Fahrunterricht an? Geben Sie ein strukturiertes Beispiel.\nAntwort: Im Fahrunterricht wird 'Beschleunigung' Geschwindigkeit Reaktionsweg (1s) Bremsweg (Normal) Anhalteweg 50 km/h 15 m 25 m 40 m 80 km/h 24 m 64 m 88 m 100 km/h 30. Der Kursleiter plant die Unterrichtseinheit so, dass Theorie und Praxis eng verknuepft sind, gibt strukturiertes Feedback und foerdert nachhaltiges Lernen durch Wiederholung und Transfer.",
+      "pruefungsfragen": []
+    },
+    {
+      "id": "technik_1773749276676",
+      "titel": "Fahrzeugtechnik  -  Motor, Antrieb & Umwelt",
+      "dauer": 90,
+      "pruefungsrelevant": false,
+      "status_justin": "",
+      "status_dozent": "",
+      "lernziele": [
+        "Die Aspekte von 'Motortypen im Überblick' verstehen und anwenden können",
+        "Die Aspekte von 'Getriebe  Kraftübertragung' verstehen und anwenden können",
+        "Die Aspekte von 'Bremsanlagen' verstehen und anwenden können",
+        "Die Aspekte von 'Umwelt, Emissionen  Kraftstoffverbrauch' verstehen und anwenden können",
+        "Die Aspekte von 'Elektrische Fahrzeuge  Technik' verstehen und anwenden können"
+      ],
+      "inhalt_anwaerter": "Motortypen im Überblick\nMotortyp | Kraftstoff | Merkmale\nOttomotor (Benziner) | Benzin, Bioethanol | Fremdzündung, höhere Drehzahl, gutes Ansprechverhalten\nDieselmotor | Diesel, Biodiesel | Selbstzündung, hohe Effizienz, mehr Drehmoment bei niedriger Drehzahl\nElektromotor | Elektrischer Strom | Volles Drehmoment ab 0 U/min, keine Abgase, hohe Effizienz\nHybridmotor | Kombination Verbrenner + Elektro | Rekuperation, Effizienzsteigerung, verschiedene Hybridvarianten\nWasserstoff-Brennstoffzelle | Wasserstoff (H₂) | Erzeugt Strom aus H₂ und O₂, nur Wasser als Abgas\n\nGetriebe  Kraftübertragung\nDas Getriebe überträgt die Motorkraft auf die Räder und passt die Übersetzung (Drehzahl/Drehmoment) an die Fahrsituation an.\n\n• Trennt den Motor mechanisch vom Getriebe (beim Gangwechsel)\n• Schleifpunkt: Der Punkt, ab dem die Kupplung beginnt, Kraft zu übertragen\n• Zu schnelles Einrücken → ruckartige Fahrt / Abwürgen\n• Zu langes Schleifen → Kupplungsüberhitzung und Verschleiß\n• Kupplungsschleifen bei Anfahrt am Berg → Motor unterstützt, keine Rollbewegung rückwärts\n\nGetriebetyp | Merkmale | Besonderheiten\nSchaltgetriebe (manuell) | Kupplung + Gangwahl durch Fahrer | Maximale Kontrolle, günstiger, effizienter bei richtiger Bedienung\nAutomatikgetriebe | Gangwechsel automatisch durch Hydraulik | Komfortabler, kein Kupplungspedal, früher weniger effizient\nDSG / Doppelkupplung | Zwei Kupplungen, schnelle Gangwechsel | Kombination aus Schalt- und Automatikkomfort\nCVT (stufenlos) | Stufenlose Übersetzung | Kein spürbarer Gangwechsel, gleichmäßige Beschleunigung\n\nBremsanlagen\n• Scheibenbremse:Bremssattel drückt Bremsbeläge gegen Bremsscheibe; gute Wärmeabfuhr, kurzer Bremsweg\n• Trommelbremse:Bremsbacken werden gegen die Trommelinnenwand gedrückt; weniger effektiv bei Hitze, günstig\n• Hydraulische Übertragung:Bremsdruck wird durch Bremsflüssigkeit vom Pedal auf die Bremsen übertragen\n\n• Verhindert das Blockieren der Räder beim Bremsen\n• Erhält die Lenkfähigkeit auch bei Vollbremsung\n• Pulst die Bremskraft schnell an und ab (10–15 Hz)\n• Seit 2004 in allen Neufahrzeugen gesetzlich vorgeschrieben (EU)\n\nSystem | Funktion\nESP (Elektronisches Stabilitätsprogramm) | Verhindert Schleudern durch gezieltes Abbremsen einzelner Räder; Pflicht in Neufahrzeugen seit 2014\nASR / TCS (Antriebsschlupfregelung) | Verhindert Durchdrehen der Antriebsräder beim Anfahren\nAuflaufbremse (Anhänger) | Pflicht ab 750 kg zGG; Anhänger bremst automatisch wenn er aufläuft\nFeststellbremse / Handbremse | Sichert Fahrzeug im Stand; wirkt auf Hinterräder oder über Scheibenbremse\n\nUmwelt, Emissionen  Kraftstoffverbrauch\n• Euro 6 (aktuell) – strenge Grenzwerte für NOₓ und Feinstaub\n• Ältere Fahrzeuge (Euro 4/5) können mit Fahrverboten in Umweltzonen belegt werden\n• Umweltplakette: Grün (Euro 3+), Gelb (Euro 2), Rot (Euro 1)\n\n• Vorausschauendes Fahren und frühzeitiges Bremsen (Motor-bremsen)\n• Frühes Hochschalten (niedrige Drehzahl = weniger Verbrauch)\n• Motor bei langen Wartezeiten (über 30 s) abschalten\n• Reifendruck regelmäßig prüfen (zu wenig Druck = mehr Rollwiderstand)\n• Klimaanlage bewusst einsetzen (+0,5–1,5 l/100 km Mehrverbrauch)\n• Überflüssiges Gewicht im Fahrzeug reduzieren\n• Gleichmäßige Geschwindigkeit halten (keine Beschleunigungs-/Bremsphasen)\n\nSchadstoff | Quelle | Wirkung\nCO₂ (Kohlendioxid) | Verbrennung von Kraftstoffen | Treibhauseffekt, Klimawandel\nNOₓ (Stickoxide) | Diesel bei hoher Temperatur | Smog, Atemwegserkrankungen\nFeinstaub (PM2,5 / PM10) | Diesel, Reifenabrieb, Bremsen | Lungenkrankheiten, Herz-Kreislauf\nCO (Kohlenmonoxid) | Unvollständige Verbrennung | Giftig, verhindert Sauerstofftransport im Blut\nHC (Kohlenwasserstoffe) | Unverbrannte Kraftstoffreste | Reizend, krebserregend\n\nElektrische Fahrzeuge  Technik\nBeim Bremsen oder Gaswegnehmen arbeitet der Elektromotor als Generator und speist Energie zurück in die Batterie. Dies verlängert die Reichweite und schont die mechanischen Bremsen.\n\n• Elektromotor:Wandelt elektrische Energie in mechanische um; kann auch...",
+      "beispiele": [
+        "Beispiel 1: Motortypen im Überblick\nSituation: Ein Fahrlehrer-Anwaerter erklaert im Kurs das Thema 'Motortypen im Überblick'.\nMotortyp Kraftstoff Merkmale Ottomotor (Benziner) Benzin, Bioethanol Fremdzündung, höhere Drehzahl, gutes Ansprechverhalten Dieselmotor Diesel, Biodiesel Selbstzündung, hohe Effizienz, mehr Drehmoment bei niedriger Drehz\nMerke: Diesen Inhalt immer mit konkreten Fahrsituationen verknuepfen.",
+        "Beispiel 2: Typischer Fehler bei '4-Takt-Prinzip (Ottomotor)'\nSituation: Ein Teilnehmer verwechselt 4-Takt-Prinzip (Ottomotor) mit einem aehnlichen Begriff.\nFalsch: Der Begriff wird oberflaechlich oder falsch erklaert.\nRichtig: Das Getriebe überträgt die Motorkraft auf die Räder und passt die Übersetzung (Drehzahl/Drehmoment) an die Fahrsituation an. Getriebetyp Merkmale Besonderheiten Schaltgetriebe (manuell) Kupplung + Gan\nMerke: Auf genaue Begriffsdefinition achten - pruefungsrelevant!",
+        "Beispiel 3: Praxistransfer - Getriebe & Kraftübertragung\nSituation: Anwendung im Fahrunterricht oder der Theorieeinheit.\nMotortyp | Kraftstoff | Merkmale\nOttomotor (Benziner) | Benzin, Bioethanol | Fremdzündung, höhere Drehzahl, gutes Ansprechverhalten\nDieselmotor | Diesel, Biodiesel | Selbstzündung, hohe Effizienz, mehr Drehmoment bei niedriger Drehzahl\nElektromotor | Elektrischer Strom | Volles D\nMerke: Theorie und Praxis immer eng verbinden."
+      ],
+      "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - TE_03_Fahrzeugtechnik.html\n\nEinstieg (10 Min):\nMethode: Problemorientierter Einstieg\nAblauf: Kursleiter stellt eine reale Situation vor, die 'Motortypen im Überblick' beruehrt. Anwaerter diskutieren, was sie bereits wissen und was unklar ist.\nZiel: Vorwissen aktivieren, Relevanz der Einheit verdeutlichen.\n\nErarbeitung (60 Min):\nPhase 1 - Motortypen im Überblick (20 Min):\nKursleiter erarbeitet mit den Teilnehmern die Grundlagen. Motortyp Kraftstoff Merkmale Ottomotor (Benziner) Benzin, Bioethanol Fremdzündung, höhere Drehzahl, gutes Ansprechverhal\nTeilnehmer erhalten Leitfragen zur Selbsterarbeitung.\n\nPhase 2 - 4-Takt-Prinzip (Ottomotor) (20 Min):\nGruppenarbeit oder gelenktes Unterrichtsgespraech. Das Getriebe überträgt die Motorkraft auf die Räder und passt die Übersetzung (Drehzahl/Drehmoment) an die Fahrsituation\nErgebnisse werden im Plenum vorgestellt und besprochen.\n\nPhase 3 - Getriebe & Kraftübertragung (20 Min):\nFallbeispiele aus dem Fahrschulalltag. Scheibenbremse: Bremssattel drückt Bremsbeläge gegen Bremsscheibe; gute Wärmeabfuhr, kurzer Bremsweg Trommelbremse: Brem\nAnwaerter wenden das Gelernte auf neue Situationen an.\n\nSicherung (15 Min):\nMethode: Blitzlicht / muendliche Abfrage\nKursleiter stellt 3-4 gezielte Fragen zum Stundeninhalt. Offene Punkte werden gemeinsam geklaert.\n\nAbschluss (5 Min):\nZusammenfassung der Kernaussagen zu 'TE_03_Fahrzeugtechnik.html'. Hinweis auf pruefungsrelevante Inhalte und Ausblick auf die naechste Einheit.",
+      "didaktik": "Worauf achten?\n- Das Thema 'Motortypen im Überblick' wirkt oft abstrakt - immer mit konkreten Beispielen aus dem Fahrschulalltag arbeiten.\n- Fachbegriffe sauber einfuehren und im Verlauf der Stunde wiederholen.\n- Alle Teilnehmer aktiv einbeziehen - gezielte Fragen auch an ruhigere Teilnehmer stellen.\n\nSchwierige Stellen:\n- Die Abgrenzung zwischen 'Motortypen im Überblick' und '4-Takt-Prinzip (Ottomotor)' bereitet haeufig Schwierigkeiten - klare Gegenueberstellung empfehlenswert.\n- Praxistransfer gelingt vielen erst durch mehrere Beispiele - genuegend Zeit einplanen.\n\nMethodenvorschlaege:\n- Kartenabfrage zu Beginn: Was wissen die Teilnehmer bereits?\n- Reale Fallbeispiele aus Fahrschulpraxis nutzen (z.B. Unfallberichte, Paragraphentexte).\n- Partnerarbeit bei der Erarbeitung von 'Getriebe & Kraftübertragung' einsetzen.\n\nQuerverbindungen:\n- Verbindung zu '4-Takt-Prinzip (Ottomotor)' herstellen.\n- Pruefungsrelevanz des Themas deutlich kommunizieren.",
+      "pruefungsfragen_text": "Frage 1: Was versteht man unter 'Motortypen im Überblick'? Erklaeren Sie den Begriff und nennen Sie zwei Praxisbeispiele.\nAntwort: Motortyp Kraftstoff Merkmale Ottomotor (Benziner) Benzin, Bioethanol Fremdzündung, höhere Drehzahl, gutes Ansprechverhalten Dieselmotor Diesel, Biodiesel Selbstzündung, hohe Effizienz, mehr Drehmoment Praxisbeispiele aus dem Fahrschulalltag verdeutlichen diesen Begriff und helfen bei der Anwendung.\n\nFrage 2: Beschreiben Sie den Unterschied zwischen 'Motortypen im Überblick' und '4-Takt-Prinzip (Ottomotor)'. Warum ist diese Abgrenzung fuer Fahrlehrer wichtig?\nAntwort: Waehrend 'Motortypen im Überblick' sich auf Motortyp Kraftstoff Merkmale Ottomotor (Benziner) Benzin, Bioethanol Fremdzündun bezieht, umfasst '4-Takt-Prinzip (Ottomotor)' Das Getriebe überträgt die Motorkraft auf die Räder und passt die Übersetzung (D. Fuer Fahrlehrer ist diese Unterscheidung wichtig, um den Unterricht praezise zu planen und klare Lernziele zu formulieren.\n\nFrage 3: Wie wenden Sie 'Getriebe & Kraftübertragung' konkret im Fahrunterricht an? Geben Sie ein strukturiertes Beispiel.\nAntwort: Im Fahrunterricht wird 'Getriebe & Kraftübertragung' Scheibenbremse: Bremssattel drückt Bremsbeläge gegen Bremsscheibe; gute Wärmeabfuhr, kurzer Bremsweg Trommelbremse: Brem. Der Kursleiter plant die Unterrichtseinheit so, dass Theorie und Praxis eng verknuepft sind, gibt strukturiertes Feedback und foerdert nachhaltiges Lernen durch Wiederholung und Transfer.",
+      "pruefungsfragen": []
+    },
     {
       "id": "technik_1768070796344_0.31280751575742416",
       "titel": "Fahrzeugdynamik - Die 3 Achsen der Fahrzeugbewegung (Nicken, Wanken, Gieren)",
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die drei Achsen der Fahrzeugbewegung kennen",
         "Nicken (Pitch) verstehen und Ursachen kennen",
@@ -35,7 +110,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Funktion des Differenzials verstehen",
         "Erklären können, warum ein Differenzial notwendig ist",
@@ -61,7 +136,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Gefälle und Steigungen in Prozent berechnen und verstehen",
         "Moderne Bremssysteme (ABS, ESP, ASR) und ihre Funktionen unterscheiden können",
@@ -93,7 +168,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Auswirkungen von zu niedrigem, optimalem und zu hohem Reifendruck verstehen",
         "ADAC-Empfehlungen zur Reifendruckkontrolle kennen und anwenden können",
@@ -121,7 +196,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Das Wärme-Luft-Diagramm verstehen und Energieverteilung im Motor erklären können",
         "Die vier Hauptverlustarten benennen und ihre Größenordnung kennen",
@@ -148,7 +223,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Zündreihenfolge von 4-, 6-, 8- und 12-Zylinder-Motoren kennen",
         "Merksätze für verschiedene Zündreihenfolgen anwenden können",
@@ -175,7 +250,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Reaktionsweg und Bremsweg berechnen können (Formeln SR und SB)",
         "Den Anhalteweg als Summe aus Reaktionsweg und Bremsweg verstehen",
@@ -203,7 +278,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Sicht- und Funktionsprüfung der Bremsanlage durchführen können",
         "Den Pedal-Test (Motor aus/an) verstehen und anwenden können",
@@ -228,7 +303,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die GSR II Pflichtsysteme seit 07.07.2024 kennen und erklären können",
         "Die 8 Hauptsysteme für PKW/Transporter benennen können (AEB, LKA, ISA, Müdigkeitswarner, Rückfahrassistent, EDR, ESS, TPMS)",
@@ -253,7 +328,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Verstehen, dass Reifenbreite NICHT gleich mehr Grip bedeutet (Kontaktfläche abhängig von Gewicht und Luftdruck)",
         "Reifenkennung lesen und verstehen können (z.B. 255/50 R18 95V)",
@@ -279,7 +354,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Hauptkomponenten des Fahrwerks kennen (Reifen, Felgen, Radaufhängung, Stoßdämpfer, Federung)",
         "Doppelquerlenker-Einzelradaufhängung verstehen",
@@ -306,7 +381,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die 5 Bremskraftverteilungssysteme kennen und unterscheiden können",
         "Vor- und Nachteile der einzelnen Systeme benennen können",
@@ -329,7 +404,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die 8 Antriebsarten unterscheiden können (Mikro-/Mild-/Parallel-/Seriell-/Voll-Hybrid, PHEV, BEV, FCEV)",
         "Farbkennungen im Motorraum kennen und Hochvolt-Sicherheit verstehen (Orange = Lebensgefahr!)",
@@ -355,7 +430,7 @@
       "dauer": 45,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Komponenten einer Anhängerbremse benennen können",
         "Den Unterschied zwischen Auflauf- und Ablaufbremse erklären können",
@@ -380,7 +455,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die Herkunft und Herstellung von Diesel- und Ottokraftstoffen erklären können",
         "Den Unterschied zwischen fossilem Diesel und HVO100 beschreiben können",
@@ -405,7 +480,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die zwei Hauptaufgaben von Getrieben (Drehzahl- und Drehmomentwandlung) erklären können",
         "Die 5 Antriebskonzepte (Front, Heck, Mittel, Transaxle, Unterflur) unterscheiden können",
@@ -436,7 +511,7 @@
       "dauer": 60,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Die verschiedenen Sicherheitsreifen-Typen unterscheiden können (Runflat, PAX, Self-Supporting)",
         "Ventiltypen kennen und zuordnen können (Schlauch, Einsteck, Einschraub, RDKS)",
@@ -461,7 +536,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Funktionsprinzip des Elektromotors verstehen (Elektromagnetismus, Lorentzkraft)",
         "Die 3 E-Motor-Arten unterscheiden können (DC, Asynchron, PSM)",
@@ -487,7 +562,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Gesetzliche Grundlagen kennen (StVZO, StVO, VDI 2700, EN 12195-2)",
         "Ladungssicherungsmittel unterscheiden (Zurrgurte, Antirutschmatten, Keile, Netze, Ketten)",
@@ -519,7 +594,7 @@
       "dauer": 90,
       "pruefungsrelevant": false,
       "status_justin": "",
-      "status_kursleiter": "",
+      "status_dozent": "",
       "lernziele": [
         "Definition Ladung nach StVO verstehen (alles außer Personen!)",
         " § 22 StVO komplett kennen (Absätze 1-5: Sicherung, Maße, Überstand vorne/hinten/seitlich)",
@@ -544,102 +619,6 @@
       "unterrichtsentwurf": "UNTERRICHTSENTWURF (90 Min) - LADUNGSSICHERUNG PKW & ANHÄNGER\n\nEINSTIEG (10 Min):\nMethode: Praxisbeispiel + Diskussion\nAblauf: Kursleiter zeigt Video: Ungesicherte Ladung bei Vollbremsung (Wasserflasche fliegt durch Windschutzscheibe). Frage: \"Was hätte man anders machen können?\" Anwärter diskutieren. Überleitung: \"Heute lernen wir § 22 StVO und wie Ladung RICHTIG gesichert wird!\"\nZiel: Motivation schaffen, Gefahren verdeutlichen\n\nHAUPTTEIL (70 Min):\n\nPhase 1: § 22 StVO komplett (20 Min)\nKursleiter geht durch alle 5 Absätze: Sicherung, Maße, Überstand vorne/hinten/seitlich. Wichtig: \"Anerkannte Regeln der Technik = VDI 2700!\" Partnerarbeit: Anwärter erstellen Merkblatt zu § 22 Abs. 4 (Überstand hinten, Kennzeichnung). Besprechung.\n\nPhase 2: Verantwortungssystem + Bußgeld (15 Min)\nKursleiter erklärt: Fahrer, Verlader, Halter - alle verantwortlich! Bußgeldkatalog zeigen (mit Gefährdung 60 €/75 € + 1 Punkt). Beispielrechnung: Überladung > 20% = 95 €/235 € + 1 Punkt. Quiz: \"Wer haftet in Situation X?\"\n\nPhase 3: Physik (15 Min)\nKursleiter erklärt: Fg = m × g, Vollbremsung = 20-50-faches Gewicht! Beispiel: 1 kg Flasche bei 50 km/h = 200 N (20 kg). Video zeigen: Crash-Test mit ungesicherter Ladung. Diskussion: \"Warum ist Haftreibung wichtiger als Gleitreibung?\" (Sobald es rutscht, zu spät!)\n\nPhase 4: Form- & Kraftschluss (10 Min)\nKursleiter erklärt: Formschluss (blockieren), Kraftschluss (Reibung), Kombination (beste Lösung!). Beispiele zeigen. Gruppenarbeit: 3 Gruppen, jede Gruppe 1 Methode - Merkblatt mit Vor-/Nachteilen erstellen. Präsentation.\n\nPhase 5: Antirutschmatten & Zurrgurte (10 Min)\nKursleiter erklärt: Etikett-Farben (PES blau = beste Wahl!), Zurrgurt-Kennzeichnungen (LC, SHF, STF). Echten Gurt zeigen und Etikett lesen lassen. Partnerarbeit: Anwärter erstellen Checkliste \"Gurt-Prüfung\".\n\nSCHLUSS (10 Min):\nSicherung: Quiz - Kursleiter stellt 5 Fragen (z.B. \"Überstand hinten 1,2m - Kennzeichnung?\", \"Wer ist verantwortlich?\", \"PES = welche Farbe?\"). Anwärter antworten im Plenum.\nAusblick: \"Nächste Woche: Praktische Übungen mit Anhänger beladen!\"\nHausaufgabe: Lerne § 22 StVO Absätze 1-5 auswendig!",
       "didaktik": "Worauf achten?\n- § 22 StVO ist SEHR prüfungsrelevant (alle 5 Absätze!)\n- Verantwortungssystem (Fahrer, Verlader, Halter) oft missverstanden\n- Physik (Fg = m × g) muss verstanden werden (nicht nur auswendig!)\n- Form- + Kraftschluss KOMBINIEREN ist die Kernbotschaft!\n\nHäufige Fehler der Anwärter:\n- Denken, nur Fahrer ist verantwortlich (FALSCH - alle drei!)\n- Verwechseln Überstand vorne (max. 50cm ab 2,50m Höhe) und hinten (max. 1,50m)\n- Unterschätzen Kraftwirkung bei Vollbremsung (1 kg = 20 kg bei 50 km/h!)\n- Vergessen Kennzeichnung bei > 1m Überstand hinten\n\nTipps & Tricks:\n- § 22 StVO als Handout verteilen (komplett!)\n- Echten Zurrgurt mitbringen (Etikett lesen lassen!)\n- Video zeigen: Crash-Test mit ungesicherter Ladung (sehr eindrücklich!)\n- Merksätze bilden! (\"Erst blocken - dann spannen!\")\n\nPrüfungsrelevanz:\n- § 22 StVO Absätze 1-5 sehr prüfungsrelevant!\n- Verantwortungssystem kommt oft in Prüfung!\n- Kraftwirkung bei Vollbremsung (Fg = m × g) ist Klassiker!\n- Form- + Kraftschluss Kombination wird oft gefragt!\n",
       "pruefungsfragen_text": "Frage 1: Was gilt gemäß § 22 StVO als \"Ladung\" im Sinne der Straßenverkehrsordnung?\nAntwort: Ladung ist alles, was zusätzlich zur eigenen Person in ein Fahrzeug geladen wird. DETAILS: Größe egal (Wasserflasche bis Möbelstück), Ort egal (Kofferraum, Innenraum, Dach, Dachbox, Anhänger), Art egal (Gegenstände, Werkzeug, Tiere im Kofferraum, Fracht). WICHTIG: Personen zählen NICHT zur Ladung! MERKSATZ: \"Am Fahrzeug, im Fahrzeug, am Anhänger, im Anhänger - überall muss gesichert werden!\"\n\nFrage 2: Erklären Sie § 22 Abs. 1 StVO und nennen Sie die \"anerkannten Regeln der Technik\".\nAntwort: § 22 ABS. 1 StVO: \"Die Ladung einschließlich Geräte zur Ladungssicherung sowie Ladeeinrichtungen sind so zu verstauen und zu sichern, dass sie selbst bei Vollbremsung oder plötzlicher Ausweichbewegung nicht verrutschen, umfallen, hin- und herrollen, herabfallen oder vermeidbaren Lärm erzeugen können. Dabei sind die anerkannten Regeln der Technik zu beachten.\" ANERKANNTE REGELN DER TECHNIK: VDI 2700 (\"Ladungssicherung auf Straßenfahrzeugen\"), DIN- und EN-Normen (z.B. DIN EN 12642), weitere VDI-Richtlinien. MERKSATZ: \"Ladung muss stehen - auch wenn's kracht! VDI 2700 ist Pflicht!\"\n\nFrage 3: Nennen Sie die drei Verantwortlichen bei der Ladungssicherung und deren Aufgaben.\nAntwort: 1. FAHRER (§ 22, § 23 StVO): Kontrolle der Ladungssicherung vor Fahrtantritt, sichere Verstauung, Überprüfung während der Fahrt, Nachsicherung bei Bedarf, Fahrweise an Ladung anpassen. 2. VERLADER (§ 22 StVO): Korrekte Sicherung nach VDI 2700, eigenverantwortliche Entscheidungen bei Beladung, beauftragte Person des Verladens. 3. HALTER/UNTERNEHMER (§ 30, § 31 StVZO, § 130 OWiG): Schulung von Fahrer & Verladepersonal, Bereitstellung geeigneter Sicherungsmittel, Fahrzeug verkehrssicher halten, regelmäßige Prüfung der Sicherungsmittel. WICHTIG: ALLE DREI haften! OLG Koblenz: \"Fahrzeugführer hat Ladungssicherung auf Basis VDI 2700 durchzuführen!\" MERKSATZ: \"Verlader, Fahrer, Halter - alle sitzen im selben Boot!\"\n\nFrage 4: Wie hoch ist das Bußgeld für nicht gesicherte Ladung mit Gefährdung bei PKW? Gibt es Punkte?\nAntwort: PKW (BIS 7,5t zGG): Ladung nicht gesichert MIT GEFÄHRDUNG: 60 € (Fahrer), 75 € (Halter), 1 PUNKT. MIT UNFALL: 75 € (Fahrer), 100 € (Halter), 1 PUNKT. OHNE GEFÄHRDUNG: 35 € (Fahrer), 35 € (Halter), KEIN Punkt. ÜBERLADUNG > 20%: 95 € (Fahrer), 235 € (Halter), 1 PUNKT. LKW (ÜBER 7,5t): Mit Gefährdung 75 €/140 € + 1 Punkt, mit Unfall 120 €/195 € + 1 Punkt. WEITERE KONSEQUENZEN: Weiterfahrt-Untersagung, strafrechtlich § 222/§ 229 StGB bei Personenschaden, zivilrechtlich § 823 BGB Schadensersatz. MERKSATZ: \"Überladen kostet mehr als Nachdenken!\"\n\nFrage 5: Erklären Sie den Unterschied zwischen Formschluss und Kraftschluss. Welche Kombination ist optimal?\nAntwort: FORMSCHLUSS: Ladung wird durch Kanten, Wände, Stirnwände, andere Gegenstände oder Zwischenwände blockiert → Kein Bewegungsspielraum! Vorteil: Sehr sicher, keine zusätzliche Kraft nötig. Nachteil: Nur in bestimmte Richtungen wirksam. Beispiele: Paletten aneinander, Stirnwandabstützung. KRAFTSCHLUSS: Ladung wird durch Reibung fixiert (Zurrgurte, Antirutschmatten). Sicherungskraft durch Erhöhung der Normalkraft → mehr Anpressdruck → mehr Reibung! Vorteil: Flexibel einsetzbar. Nachteil: Abhängig von Reibwert µ. Formel: FSicherung = m × g × Reibbeiwert. OPTIMAL: KOMBINATION FORM- + KRAFTSCHLUSS! Wirtschaftlich, schnell, maximal sicher, entspricht VDI 2700. MERKSATZ: \"Erst blocken - dann spannen! Kombination = beste Sicherung!\"\n\nFrage 6: Berechnen Sie die Kraftwirkung einer 1 kg schweren Wasserflasche bei Vollbremsung mit 50 km/h.\nAntwort: MASSE: 1 kg. BEI VOLLBREMSUNG (50 km/h): Ca. 20-faches Gewicht. BERECHNUNG: 1 kg × 20 = 20 kg Gewichtskraft = 200 N (Newton). BEI 100 km/h: Kraft steigt auf 40-50-faches Gewicht → 1 kg Flasche = 400-500 N (40-50 kg)! FORMEL ALLGEMEIN: Fg = m × g (Gewichtskraft = Masse × Erdbeschleunigung), wobei g ≈ 10 m/s². Bei Vollbremsung: Multiplikator 20-50 je nach Geschwindigkeit! KONSEQUENZ: Flasche wird zum Geschoss, kann Personen schwer verletzen, kann durch Windschutzscheibe fliegen! LÖSUNG: Ladung IMMER sichern, im Kofferraum transportieren, mit Spanngurt/Netz sichern! MERKSATZ: \"Bei einem Unfall wird aus jeder Flasche ein Geschoss!\"",
-      "pruefungsfragen": []
-    },
-    {
-      "id": "technik_1769299573942",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": "",
-      "status_kursleiter": "",
-      "lernziele": [
-        ""
-      ],
-      "inhalt_anwaerter": "",
-      "beispiele": [
-        ""
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": [],
-      "pruefungsfragen": []
-    },
-    {
-      "id": "technik_1711000009000",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "Reibung – Grundlagen",
-        "Reibungskoeffizient μ (Mü)",
-        "️Kräfte am fahrenden Fahrzeug",
-        "Übersicht der wichtigsten Kräfte",
-        "Kurvenfahrt",
-        "Übersteuern und Untersteuern"
-      ],
-      "inhalt_anwaerter": "### Reibung – Grundlagen\nReibung ist die Kraft, die einer Bewegung oder einem Bewegungsversuch zwischen zwei Körpern entgegenwirkt. Für das Fahren ist vor allem die Reibung zwischen Reifen und Fahrbahn entscheidend.\nHaftreibung (statische Reibung)\nTritt auf, solange kein Gleiten stattfindet\nErmöglicht: Beschleunigen, Bremsen, Kurvenfahrt\nGrößer als Gleitreibung\nReifen rollt ohne Schlupf\nGleitreibung (kinetische Reibung)\nTritt beim Gleiten auf (Reifen blockiert)\nKleiner als Haftreibung\nFahrzeug verliert Lenkfähigkeit\nEntsteht z. B. beim ABS-losen Blockieren\nUntergrund\nReibungskoeffizient μ (ca.)\nTrockener Asphalt\n0,7 – 0,9\nNasser Asphalt\n0,4 – 0,6\nSchnee\n0,2 – 0,4\nGlatteis\n0,05 – 0,15\n\n---\n\n### ️Kräfte am fahrenden Fahrzeug\nKraft\nRichtung\nWirkung\nSchwerkraft / Gewichtskraft\nSenkrecht nach unten\nDrückt Fahrzeug auf Fahrbahn\nNormalkraft\nSenkrecht nach oben\nGegenkraft zur Schwerkraft\nAntriebskraft\nIn Fahrtrichtung\nBeschleunigt das Fahrzeug\nBremskraft\nGegen Fahrtrichtung\nVerzögert das Fahrzeug\nLuftwiderstand\nGegen Fahrtrichtung\nNimmt quadratisch mit Geschwindigkeit zu\nRollwiderstand\nGegen Fahrtrichtung\nDurch Verformung der Reifen entstehend\nSeitenführungskraft\nQuer zur Fahrtrichtung\nHält Fahrzeug in der Kurve auf Kurs\nFliehkraft (Zentrifugalkraft)\nNach außen (aus Kurve heraus)\nWirkt gegen Seitenführungskraft\n\n---\n\n### Kurvenfahrt\nBei der Kurvenfahrt wirken Fliehkraft und Seitenführungskraft gegeneinander. Überschreitet die Fliehkraft die Seitenführungskraft, bricht das Fahrzeug aus.\nÜbersteuern\nHeck bricht aus\nHäufig bei Hinterradantrieb\nGegensteuern erforderlich\nGefährlich bei hoher Geschwindigkeit\nUntersteuern\nVorderräder verlieren Haftung\nHäufig bei Vorderradantrieb\nFahrzeug schiebt geradeaus\nAbhilfe: Gas wegnehmen, leicht bremsen\n\n---\n\n### Aquaplaning\nAquaplaning entsteht, wenn sich zwischen Reifen und nasser Fahrbahn ein Wasserfilm bildet, der den Kontakt zur Fahrbahn vollständig unterbricht.\nGeschwindigkeit (kritisch ab ca. 80–100 km/h auf nasser Fahrbahn)\nReifenprofiltiefe (Mindest-Profiltiefe: 1,6 mm – empfohlen: 3–4 mm)\nWassertiefe auf der Fahrbahn\nReifenbreite und -druck\nNicht lenken, nicht bremsen, nicht Gas geben\nLenkrad locker halten\nMotor bremsen lassen (Fuß vom Gas)\nWarten bis Fahrzeug wieder Kontakt zur Fahrbahn hat\n\n---\n\n### ️Schwerpunkt & Fahrstabilität\nDer Fahrzeugschwerpunkt beeinflusst maßgeblich das Fahrverhalten, insbesondere bei Kurvenfahrten und beim Bremsen.\nHoher Schwerpunkt(z. B. SUV, beladener Lkw) → größere Kippgefahr in Kurven\nNiedriger Schwerpunkt(z. B. Sportwagen) → stabiler in Kurven\nBeladungverändert Schwerpunkt – besonders bei Anhängern beachten",
-      "beispiele": [
-        "Untergrund | Reibungskoeffizient μ (ca.)\nTrockener Asphalt | 0,7 – 0,9\nNasser Asphalt | 0,4 – 0,6\nSchnee | 0,2 – 0,4\nGlatteis | 0,05 – 0,15",
-        "Kraft | Richtung | Wirkung\nSchwerkraft / Gewichtskraft | Senkrecht nach unten | Drückt Fahrzeug auf Fahrbahn\nNormalkraft | Senkrecht nach oben | Gegenkraft zur Schwerkraft\nAntriebskraft | In Fahrtrichtung | Beschleunigt das Fahrzeug\nBremskraft | Gegen Fahrtrichtung | Verzögert das Fahrzeug\nLuftwiderstand | Gegen Fahrtrichtung | Nimmt quadratisch mit Geschwindigkeit zu\nRollwiderstand | Gegen Fahrtrichtung | Durch Verformung der Reifen entstehend\nSeitenführungskraft | Quer zur Fahrtrichtung | Hält Fahrzeug in der Kurve auf Kurs\nFliehkraft (Zentrifugalkraft) | Nach außen (aus Kurve heraus) | Wirk"
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
-      "pruefungsfragen": []
-    },
-    {
-      "id": "technik_1711000010000",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "Grundgrößen der Kinematik",
-        "Umrechnung: km/h ↔ m/s",
-        "Beschleunigung",
-        "Typische Beschleunigungswerte im Verkehr",
-        "Bremsweg & Anhalteweg",
-        "Reaktionsweg"
-      ],
-      "inhalt_anwaerter": "### Grundgrößen der Kinematik\nGröße\nSymbol\nEinheit\nBedeutung\nWeg / Strecke\nm (Meter)\nZurückgelegte Distanz\nZeit\ns (Sekunden)\nZeitdauer\nGeschwindigkeit\nm/s oder km/h\nWeg pro Zeit\nBeschleunigung\nm/s²\nGeschwindigkeitsänderung pro Zeit\nKraft\nN (Newton)\nMasse × Beschleunigung\nMasse\nkg (Kilogramm)\nTrägheit des Körpers\n\n---\n\n### Beschleunigung\nBeschleunigung ist die Änderung der Geschwindigkeit pro Zeiteinheit. Sie kann positiv (Beschleunigung) oder negativ (Verzögerung/Bremsung) sein.\nFahrzeug / Situation\nBeschleunigung (ca.)\nPkw Normal-Beschleunigung\n2 – 4 m/s²\nPkw Vollbremsung (trocken)\n7 – 10 m/s² (Verzögerung)\nLkw Vollbremsung\n5 – 6 m/s² (Verzögerung)\nErdbeschleunigung g\n9,81 m/s²\n\n---\n\n### Bremsweg & Anhalteweg\nGeschwindigkeit\nReaktionsweg (1s)\nBremsweg (Normal)\nAnhalteweg\n50 km/h\n15 m\n25 m\n40 m\n80 km/h\n24 m\n64 m\n88 m\n100 km/h\n30 m\n100 m\n130 m\n130 km/h\n39 m\n169 m\n208 m\n\n---\n\n### Resultierende Kräfte\nWenn mehrere Kräfte auf ein Fahrzeug wirken (z. B. beim Bremsen in einer Kurve), muss die resultierende Kraft berechnet werden.\n\n---\n\n### Besonderheiten bei Anhänger (BE)\nLängerer Bremsweg durch höheres Gesamtgewicht\nSchlingern des Anhängers möglich bei falscher Beladung oder zu hoher Geschwindigkeit\nKorrekte Stützlast: 4 % des Zugfahrzeuggewichts (empfohlen)\nBei Schlingern: Gas wegnehmen – NICHT bremsen!",
-      "beispiele": [
-        "Größe | Symbol | Einheit | Bedeutung\nWeg / Strecke | s | m (Meter) | Zurückgelegte Distanz\nZeit | t | s (Sekunden) | Zeitdauer\nGeschwindigkeit | v | m/s oder km/h | Weg pro Zeit\nBeschleunigung | a | m/s² | Geschwindigkeitsänderung pro Zeit\nKraft | F | N (Newton) | Masse × Beschleunigung\nMasse | m | kg (Kilogramm) | Trägheit des Körpers",
-        "Fahrzeug / Situation | Beschleunigung (ca.)\nPkw Normal-Beschleunigung | 2 – 4 m/s²\nPkw Vollbremsung (trocken) | 7 – 10 m/s² (Verzögerung)\nLkw Vollbremsung | 5 – 6 m/s² (Verzögerung)\nErdbeschleunigung g | 9,81 m/s²",
-        "Geschwindigkeit | Reaktionsweg (1s) | Bremsweg (Normal) | Anhalteweg\n50 km/h | 15 m | 25 m | 40 m\n80 km/h | 24 m | 64 m | 88 m\n100 km/h | 30 m | 100 m | 130 m\n130 km/h | 39 m | 169 m | 208 m"
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
-      "pruefungsfragen": []
-    },
-    {
-      "id": "technik_1711000011000",
-      "titel": "",
-      "dauer": 90,
-      "pruefungsrelevant": false,
-      "status_justin": false,
-      "status_dozent": false,
-      "lernziele": [
-        "️Motortypen im Überblick",
-        "4-Takt-Prinzip (Ottomotor)",
-        "Getriebe & Kraftübertragung",
-        "Getriebearten",
-        "Kupplung – Funktion und richtige Bedienung",
-        "Bremsanlagen"
-      ],
-      "inhalt_anwaerter": "### ️Motortypen im Überblick\nMotortyp\nKraftstoff\nMerkmale\nOttomotor (Benziner)\nBenzin, Bioethanol\nFremdzündung, höhere Drehzahl, gutes Ansprechverhalten\nDieselmotor\nDiesel, Biodiesel\nSelbstzündung, hohe Effizienz, mehr Drehmoment bei niedriger Drehzahl\nElektromotor\nElektrischer Strom\nVolles Drehmoment ab 0 U/min, keine Abgase, hohe Effizienz\nHybridmotor\nKombination Verbrenner + Elektro\nRekuperation, Effizienzsteigerung, verschiedene Hybridvarianten\nWasserstoff-Brennstoffzelle\nWasserstoff (H₂)\nErzeugt Strom aus H₂ und O₂, nur Wasser als Abgas\nTakt 1: Ansaugen\nKolben bewegt sich nach unten\nEinlassventil öffnet\nKraftstoff-Luft-Gemisch strömt ein\nTakt 2: Verdichten\nBeide Ventile geschlossen\nKolben bewegt sich nach oben\nGemisch wird komprimiert\nTakt 3: Arbeiten (Verbrennung)\nZündkerze zündet das Gemisch\nExplosionsartige Verbrennung\nKolben wird nach unten gedrückt (Arbeitshub)\nTakt 4: Ausstoßen\nAuslassventil öffnet\nKolben bewegt sich nach oben\nVerbrennungsgase werden ausgestoßen\n\n---\n\n### Getriebe & Kraftübertragung\nDas Getriebe überträgt die Motorkraft auf die Räder und passt die Übersetzung (Drehzahl/Drehmoment) an die Fahrsituation an.\nGetriebetyp\nMerkmale\nBesonderheiten\nSchaltgetriebe (manuell)\nKupplung + Gangwahl durch Fahrer\nMaximale Kontrolle, günstiger, effizienter bei richtiger Bedienung\nAutomatikgetriebe\nGangwechsel automatisch durch Hydraulik\nKomfortabler, kein Kupplungspedal, früher weniger effizient\nDSG / Doppelkupplung\nZwei Kupplungen, schnelle Gangwechsel\nKombination aus Schalt- und Automatikkomfort\nCVT (stufenlos)\nStufenlose Übersetzung\nKein spürbarer Gangwechsel, gleichmäßige Beschleunigung\nTrennt den Motor mechanisch vom Getriebe (beim Gangwechsel)\nSchleifpunkt: Der Punkt, ab dem die Kupplung beginnt, Kraft zu übertragen\nZu schnelles Einrücken → ruckartige Fahrt / Abwürgen\nZu langes Schleifen → Kupplungsüberhitzung und Verschleiß\nKupplungsschleifen bei Anfahrt am Berg → Motor unterstützt, keine Rollbewegung rückwärts\n\n---\n\n### Bremsanlagen\nScheibenbremse:Bremssattel drückt Bremsbeläge gegen Bremsscheibe; gute Wärmeabfuhr, kurzer Bremsweg\nTrommelbremse:Bremsbacken werden gegen die Trommelinnenwand gedrückt; weniger effektiv bei Hitze, günstig\nHydraulische Übertragung:Bremsdruck wird durch Bremsflüssigkeit vom Pedal auf die Bremsen übertragen\nVerhindert das Blockieren der Räder beim Bremsen\nErhält die Lenkfähigkeit auch bei Vollbremsung\nPulst die Bremskraft schnell an und ab (10–15 Hz)\nSeit 2004 in allen Neufahrzeugen gesetzlich vorgeschrieben (EU)\nSystem\nFunktion\nESP (Elektronisches Stabilitätsprogramm)\nVerhindert Schleudern durch gezieltes Abbremsen einzelner Räder; Pflicht in Neufahrzeugen seit 2014\nASR / TCS (Antriebsschlupfregelung)\nVerhindert Durchdrehen der Antriebsräder beim Anfahren\nAuflaufbremse (Anhänger)\nPflicht ab 750 kg zGG; Anhänger bremst automatisch wenn er aufläuft\nFeststellbremse / Handbremse\nSichert Fahrzeug im Stand; wirkt auf Hinterräder oder über Scheibenbremse\n\n---\n\n### Umwelt, Emissionen & Kraftstoffverbrauch\nSchadstoff\nQuelle\nWirkung\nCO₂ (Kohlendioxid)\nVerbrennung von Kraftstoffen\nTreibhauseffekt, Klimawandel\nNOₓ (Stickoxide)\nDiesel bei hoher Temperatur\nSmog, Atemwegserkrankungen\nFeinstaub (PM2,5 / PM10)\nDiesel, Reifenabrieb, Bremsen\nLungenkrankheiten, Herz-Kreislauf\nCO (Kohlenmonoxid)\nUnvollständige Verbrennung\nGiftig, verhindert Sauerstofftransport im Blut\nHC (Kohlenwasserstoffe)\nUnverbrannte Kraftstoffreste\nReizend, krebserregend\nEuro 6 (aktuell) – strenge Grenzwerte für NOₓ und Feinstaub\nÄltere Fahrzeuge (Euro 4/5) können mit Fahrverboten in Umweltzonen belegt werden\nUmweltplakette: Grün (Euro 3+), Gelb (Euro 2), Rot (Euro 1)\nVorausschauendes Fahren und frühzeitiges Bremsen (Motor-bremsen)\nFrühes Hochschalten (niedrige Drehzahl = weniger Verbrauch)\nMotor bei langen Wartezeiten (über 30 s) abschalten\nReifendruck regelmäßig prüfen (zu wenig Druck = mehr Rollwiderstand)\nKlimaanlage bewusst einsetzen (+0,5–1,5 l/100 km Mehrverbrauch)\nÜberflüssiges Gewicht im Fahrzeug reduzieren\nGleichmäßige Geschwindigkeit halten (keine Beschleunigungs-/Bremsphasen)\n\n---\n\n### Elektrische Fahrzeuge – Technik\nElektromotor:Wandelt elektrische Energie in mechanische um; kann auch als Generator wirken (Rekuperation)\nHochvoltbatterie (Akku):Speichert die elektrische Energie; Lithium-Ionen-Technologie\nInverter/Wechselrichter:Wandelt Gleichstrom (DC) der Batterie in Wechselstrom (AC) für den Motor um\nLadegerät (OBC):Lädt die Batterie aus dem Stromnetz (AC)\nThermomanagement:Hält Batterie im optimalen Temperaturbereich\nBeim Bremsen oder Gaswegnehmen arbeitet der Elektromotor als Generator und speist Energie zurück in die Batterie. Dies verlängert die Reichweite und schont die mechanischen Bremsen.\nLadeart\nAnschluss\nLeistung\nLadedauer (ca.)\nAC-Laden (Wechselstrom)\nTyp 2 (Schuko)\n3,7 – 22 kW\n4–8 Stunden\nDC-Schnellladen\nCCS / CHAdeMO\n50 – 350 kW\n20–60 Minuten\nWallbox (Heimladen)\nTyp 2\n11 – 22 kW\n3–5 Stunden",
-      "beispiele": [
-        "Motortyp | Kraftstoff | Merkmale\nOttomotor (Benziner) | Benzin, Bioethanol | Fremdzündung, höhere Drehzahl, gutes Ansprechverhalten\nDieselmotor | Diesel, Biodiesel | Selbstzündung, hohe Effizienz, mehr Drehmoment bei niedriger Drehzahl\nElektromotor | Elektrischer Strom | Volles Drehmoment ab 0 U/min, keine Abgase, hohe Effizienz\nHybridmotor | Kombination Verbrenner + Elektro | Rekuperation, Effizienzsteigerung, verschiedene Hybridvarianten\nWasserstoff-Brennstoffzelle | Wasserstoff (H₂) | Erzeugt Strom aus H₂ und O₂, nur Wasser als Abgas",
-        "Getriebetyp | Merkmale | Besonderheiten\nSchaltgetriebe (manuell) | Kupplung + Gangwahl durch Fahrer | Maximale Kontrolle, günstiger, effizienter bei richtiger Bedienung\nAutomatikgetriebe | Gangwechsel automatisch durch Hydraulik | Komfortabler, kein Kupplungspedal, früher weniger effizient\nDSG / Doppelkupplung | Zwei Kupplungen, schnelle Gangwechsel | Kombination aus Schalt- und Automatikkomfort\nCVT (stufenlos) | Stufenlose Übersetzung | Kein spürbarer Gangwechsel, gleichmäßige Beschleunigung",
-        "System | Funktion\nESP (Elektronisches Stabilitätsprogramm) | Verhindert Schleudern durch gezieltes Abbremsen einzelner Räder; Pflicht in Neufahrzeugen seit 2014\nASR / TCS (Antriebsschlupfregelung) | Verhindert Durchdrehen der Antriebsräder beim Anfahren\nAuflaufbremse (Anhänger) | Pflicht ab 750 kg zGG; Anhänger bremst automatisch wenn er aufläuft\nFeststellbremse / Handbremse | Sichert Fahrzeug im Stand; wirkt auf Hinterräder oder über Scheibenbremse"
-      ],
-      "unterrichtsentwurf": "",
-      "didaktik": "",
-      "pruefungsfragen_text": "",
       "pruefungsfragen": []
     }
   ]
